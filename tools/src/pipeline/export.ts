@@ -17,9 +17,17 @@ export interface ExportStats {
  *   - {buchstabe}.txt (pro Buchstabe)
  *   - ae.txt, oe.txt, ue.txt (für Umlaute)
  */
+export type ExportVariant =
+    | "original"
+    | "lowercase"
+    | "uppercase"
+    | "no-umlauts"
+    | "no-umlauts-lowercase"
+    | "capitalized";
+
 export async function exportWordlist(
     words: string[],
-    variant: "original" | "lowercase",
+    variant: ExportVariant,
 ): Promise<ExportStats> {
     const dir = join(ROOT, variant);
     console.log(`[export] Schreibe ${variant}-Variante nach ${dir} ...`);

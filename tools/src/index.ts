@@ -3,7 +3,13 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { exportWordlist } from "./pipeline/export.js";
 import { mergeWordlists } from "./pipeline/merge.js";
-import { normalizeToLowercase } from "./pipeline/normalize.js";
+import {
+    normalizeCapitalized,
+    normalizeNoUmlauts,
+    normalizeNoUmlautsLowercase,
+    normalizeToLowercase,
+    normalizeToUppercase,
+} from "./pipeline/normalize.js";
 import { fetchDwds } from "./sources/dwds.js";
 import { fetchHunspell } from "./sources/hunspell.js";
 import { extractFromTexts } from "./sources/text-extraktor.js";
@@ -136,13 +142,23 @@ program
             console.log(`\n  +${newWords} neue Wörter gefunden.`);
         }
 
-        // Lowercase-Variante
+        // Varianten erstellen
         const lowercased = normalizeToLowercase(merged);
+        const uppercased = normalizeToUppercase(merged);
+        const noUmlauts = normalizeNoUmlauts(merged);
+        const noUmlautsLower = normalizeNoUmlautsLowercase(merged);
+        const capitalized = normalizeCapitalized(merged);
 
         // Exportieren
         console.log("");
-        const statsOriginal = await exportWordlist(merged, "original");
-        const statsLowercase = await exportWordlist(lowercased, "lowercase");
+        const allStats = [
+            await exportWordlist(merged, "original"),
+            await exportWordlist(lowercased, "lowercase"),
+            await exportWordlist(uppercased, "uppercase"),
+            await exportWordlist(noUmlauts, "no-umlauts"),
+            await exportWordlist(noUmlautsLower, "no-umlauts-lowercase"),
+            await exportWordlist(capitalized, "capitalized"),
+        ];
 
         console.log("\n========================================");
         console.log(
@@ -151,12 +167,12 @@ program
                 : "  Wortschatz — Aktualisierung abgeschlossen",
         );
         console.log("========================================");
-        console.log(
-            `  Original:  ${statsOriginal.totalWords} Wörter in ${statsOriginal.files} Dateien`,
-        );
-        console.log(
-            `  Lowercase: ${statsLowercase.totalWords} Wörter in ${statsLowercase.files} Dateien`,
-        );
+        for (const stats of allStats) {
+            const label = stats.variant.padEnd(22);
+            console.log(
+                `  ${label} ${stats.totalWords} Wörter in ${stats.files} Dateien`,
+            );
+        }
         if (!rebuild && existing.length > 0) {
             console.log(`  Neu hinzugefügt: +${newWords} Wörter`);
         }

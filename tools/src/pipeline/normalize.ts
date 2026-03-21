@@ -3,21 +3,81 @@
  * Dedupliziert nach der Umwandlung und sortiert neu.
  */
 export function normalizeToLowercase(words: string[]): string[] {
-    console.log("[normalize] Erstelle Lowercase-Variante ...");
+    return deduplicateAndSort("[normalize:lowercase]", words, (w) =>
+        w.toLowerCase(),
+    );
+}
+
+/**
+ * Erstellt eine Uppercase-Variante der Wortliste.
+ */
+export function normalizeToUppercase(words: string[]): string[] {
+    return deduplicateAndSort("[normalize:uppercase]", words, (w) =>
+        w.toUpperCase(),
+    );
+}
+
+/**
+ * Erstellt eine Variante ohne Umlaute (ä→ae, ö→oe, ü→ue, ß→ss).
+ * Originalschreibung (Groß-/Kleinschreibung) bleibt erhalten.
+ */
+export function normalizeNoUmlauts(words: string[]): string[] {
+    return deduplicateAndSort("[normalize:no-umlauts]", words, replaceUmlauts);
+}
+
+/**
+ * Erstellt eine Variante ohne Umlaute + lowercase.
+ */
+export function normalizeNoUmlautsLowercase(words: string[]): string[] {
+    return deduplicateAndSort("[normalize:no-umlauts-lowercase]", words, (w) =>
+        replaceUmlauts(w).toLowerCase(),
+    );
+}
+
+/**
+ * Erstellt eine Variante mit erstem Buchstaben groß, Rest klein.
+ */
+export function normalizeCapitalized(words: string[]): string[] {
+    return deduplicateAndSort(
+        "[normalize:capitalized]",
+        words,
+        (w) => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase(),
+    );
+}
+
+// --- Hilfsfunktionen ---
+
+function replaceUmlauts(word: string): string {
+    return word
+        .replace(/Ä/g, "Ae")
+        .replace(/ä/g, "ae")
+        .replace(/Ö/g, "Oe")
+        .replace(/ö/g, "oe")
+        .replace(/Ü/g, "Ue")
+        .replace(/ü/g, "ue")
+        .replace(/ß/g, "ss");
+}
+
+function deduplicateAndSort(
+    label: string,
+    words: string[],
+    transform: (word: string) => string,
+): string[] {
+    console.log(`${label} Erstelle Variante ...`);
 
     const seen = new Set<string>();
-    const lowercased: string[] = [];
+    const result: string[] = [];
 
     for (const word of words) {
-        const lower = word.toLowerCase();
-        if (!seen.has(lower)) {
-            seen.add(lower);
-            lowercased.push(lower);
+        const transformed = transform(word);
+        if (!seen.has(transformed)) {
+            seen.add(transformed);
+            result.push(transformed);
         }
     }
 
-    lowercased.sort((a, b) => a.localeCompare(b, "de"));
+    result.sort((a, b) => a.localeCompare(b, "de"));
 
-    console.log(`[normalize] ${lowercased.length} unique Lowercase-Wörter.`);
-    return lowercased;
+    console.log(`${label} ${result.length} unique Wörter.`);
+    return result;
 }
