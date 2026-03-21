@@ -106,7 +106,3 @@ Ohne `--rebuild` werden nur Wörter hinzugefügt, die noch nicht in der bestehen
 | [Hunspell de_DE](https://github.com/wooorm/dictionaries/tree/main/dictionaries/de) | Deutsches Hunspell-Wörterbuch |
 | [Wiktionary](https://de.wiktionary.org/) | Deutschsprachiges Wiktionary (Kategorie: Deutsch) |
 | [DWDS](https://www.dwds.de/) | Digitales Wörterbuch der deutschen Sprache |
-
-## Lizenz
-
-MIT — siehe [LICENSE](LICENSE)
