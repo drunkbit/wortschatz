@@ -52,6 +52,7 @@ Sachbuchautor
 sachdienlich
 sache
 Sache
+Sachen
 Sacher
 sachgemaess
 sachgerecht
@@ -957,6 +958,7 @@ schaufel
 Schaufel
 schaufeln
 Schaufelstern
+Schaufelus
 schauinsland
 Schauinsland
 schaukel
@@ -1094,6 +1096,7 @@ Scherz
 scherzartikel
 Scherzartikel
 scherzen
+Scherzen
 scherzhaft
 scherzhaftigkeit
 Scherzhaftigkeit
@@ -1346,6 +1349,7 @@ schlafittchen
 Schlafittchen
 schlaflos
 schlafraubend
+Schlafrock
 schlaftrunken
 schlafwandeln
 schlafwandlerisch
@@ -1436,6 +1440,7 @@ schlecken
 Schlecken
 schlegel
 Schlegel
+Schlehdornbeeren
 schleichen
 schleichweg
 Schleichweg
@@ -1739,6 +1744,7 @@ Schmieresteher
 schmierfink
 Schmierfink
 schmierig
+schmiert
 schmilzt
 schminken
 schmirgel
@@ -1791,6 +1797,7 @@ schmutzen
 schmutzfink
 Schmutzfink
 schmutzig
+schmutzigen
 schmutzigkeit
 Schmutzigkeit
 schnabel
@@ -1902,6 +1909,7 @@ schnellbleiche
 Schnellbleiche
 schnellen
 schnellentschlossen
+schneller
 schnellfuessig
 schnellhefter
 Schnellhefter
@@ -1994,6 +2002,7 @@ schnupfen
 Schnupfen
 schnupftabak
 Schnupftabak
+Schnupftabaksdose
 schnupftuch
 Schnupftuch
 schnupftuecher
@@ -2036,6 +2045,7 @@ Schoene
 Schoeneberg
 Schoenefeld
 schoenen
+schoener
 schoenfaerben
 schoengeistig
 schoengerechnet
@@ -2048,6 +2058,7 @@ Schoenheitswettbewerb
 schoenredner
 Schoenredner
 schoenste
+Schoenste
 schoensten
 schoepfeimer
 Schoepfeimer
@@ -2070,6 +2081,7 @@ schokoladeflecken
 Schokoladeflecken
 schokoladen
 Schokoladen
+Scholar
 scholastiker
 Scholastiker
 scholastisch
@@ -2100,6 +2112,7 @@ schornsteinfeger
 Schornsteinfeger
 schoss
 Schoss
+Schosse
 schosshuendchen
 Schosshuendchen
 schosshund
@@ -2162,6 +2175,7 @@ Schreckens
 schreckerregend
 schreckhaft
 schrecklich
+schreckliche
 schrecknis
 Schrecknis
 schreddern
@@ -2217,6 +2231,7 @@ schreitwerkshub
 Schreitwerkshub
 schreitzylinder
 Schreitzylinder
+schrie
 schrieb
 schrien
 schrift
@@ -2601,6 +2616,7 @@ Schwatz
 schwatzbase
 Schwatzbase
 schwatzen
+Schwatzen
 schwatzhaft
 schwatztante
 Schwatztante
@@ -2827,6 +2843,7 @@ schwirren
 schwitz
 Schwitz
 schwitzen
+schwoere
 schwoeren
 schwoll
 schwor
@@ -2849,6 +2866,7 @@ schwundregelung
 Schwundregelung
 schwung
 Schwung
+Schwunge
 schwunghaft
 schwunglos
 schwungvoll
@@ -3068,10 +3086,12 @@ sein
 Sein
 seine
 Seine
+seinem
 seinen
 seiner
 seinerseits
 seinerzeit
+seines
 seinesgleichen
 seinetwegen
 seinetwillen
@@ -3846,6 +3866,7 @@ Sing
 singapur
 Singapur
 singen
+Singen
 single
 Single
 singsang
@@ -4280,6 +4301,9 @@ Solaris
 solarium
 Solarium
 solch
+solche
+solchen
+solcher
 solcherart
 solcherlei
 solchermassen
@@ -4970,6 +4994,7 @@ Spind
 spindel
 Spindel
 spindelduerr
+Spindeln
 spinett
 Spinett
 spinne
@@ -4986,6 +5011,7 @@ spinnrad
 Spinnrad
 spinnraedern
 Spinnraedern
+Spinnrocken
 spinnwebe
 Spinnwebe
 spion
@@ -5038,6 +5064,7 @@ spitzfindig
 spitzhacke
 Spitzhacke
 spitzig
+Spitznamen
 spitzwinklig
 spleen
 Spleen
@@ -5145,6 +5172,7 @@ sprech
 Sprech
 sprechchor
 Sprechchor
+spreche
 sprechen
 Sprechen
 sprecher
@@ -5174,6 +5202,7 @@ spring
 Spring
 springen
 Springen
+springend
 springer
 Springer
 springquell
@@ -5505,6 +5534,7 @@ standbadbesuch
 Standbadbesuch
 stande
 Stande
+standen
 standes
 Standes
 standesamtlich
@@ -5776,6 +5806,7 @@ steckkompatibel
 steckling
 Steckling
 steckt
+steckte
 steckverbinderprobleme
 Steckverbinderprobleme
 Stefan
@@ -5882,6 +5913,7 @@ Steller
 stellig
 stelligkeit
 Stelligkeit
+stellte
 stellungnahme
 Stellungnahme
 stellungs
@@ -6995,6 +7027,7 @@ suchende
 Suchende
 sucher
 Sucher
+suchst
 sucht
 Sucht
 suchterzeugend
@@ -7114,6 +7147,7 @@ Sueppchen
 suess
 Suess
 suesse
+Suesse
 suessen
 suessigkeit
 Suessigkeit

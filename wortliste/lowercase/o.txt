@@ -83,6 +83,7 @@ obst
 obster
 obstruktion
 obstruktionskurs
+obstschnaps
 obszön
 obszönität
 obwalten
@@ -166,6 +167,7 @@ ohren
 ohrenbetäubend
 ohrfeigen
 ohrläppchen
+ohrringen
 ohrwurm
 okay
 okkult

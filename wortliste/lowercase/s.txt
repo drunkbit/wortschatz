@@ -32,6 +32,7 @@ sachbezogen
 sachbuchautor
 sachdienlich
 sache
+sachen
 sacher
 sachgemäß
 sachgerecht
@@ -572,6 +573,7 @@ schaufel
 schäufelchen
 schaufeln
 schaufelstern
+schaufelus
 schauinsland
 schaukel
 schaukeln
@@ -805,6 +807,7 @@ schlaflos
 schlafraubend
 schläfrig
 schläfrigkeit
+schlafrock
 schläft
 schlaftrunken
 schlafwandeln
@@ -870,6 +873,7 @@ schlechtreden
 schlechtwetterperiode
 schlecken
 schlegel
+schlehdornbeeren
 schleichen
 schleichweg
 schleichwerbung
@@ -1064,6 +1068,7 @@ schmiererei
 schmieresteher
 schmierfink
 schmierig
+schmiert
 schmilzt
 schminken
 schmirgel
@@ -1098,6 +1103,7 @@ schmutz
 schmutzen
 schmutzfink
 schmutzig
+schmutzigen
 schmutzigkeit
 schnabel
 schnäbel
@@ -1165,6 +1171,7 @@ schnell
 schnellbleiche
 schnellen
 schnellentschlossen
+schneller
 schnellfüßig
 schnellhefter
 schnelligkeit
@@ -1219,6 +1226,7 @@ schnulze
 schnulzig
 schnupfen
 schnupftabak
+schnupftabaksdose
 schnupftuch
 schnupftücher
 schnuppe
@@ -1247,6 +1255,7 @@ schöffengericht
 schokolade
 schokoladeflecken
 schokoladen
+scholar
 scholastiker
 scholastisch
 scholl
@@ -1261,6 +1270,7 @@ schönefeld
 schonen
 schönen
 schoner
+schöner
 schönfärben
 schöngeistig
 schöngerechnet
@@ -1288,6 +1298,7 @@ schornstein
 schornsteinfeger
 schoss
 schoß
+schoße
 schoßhund
 schoßhündchen
 schoßkind
@@ -1325,6 +1336,7 @@ schreckens
 schreckerregend
 schreckhaft
 schrecklich
+schreckliche
 schrecknis
 schreddern
 schrei
@@ -1357,6 +1369,7 @@ schreitwerk
 schreitwerksdruck
 schreitwerkshub
 schreitzylinder
+schrie
 schrieb
 schrien
 schrift
@@ -1745,6 +1758,7 @@ schwitz
 schwitzen
 schwoll
 schwor
+schwöre
 schwören
 schwuchtel
 schwul
@@ -1756,6 +1770,7 @@ schwund
 schwundausgleich
 schwundregelung
 schwung
+schwunge
 schwunghaft
 schwunglos
 schwungvoll
@@ -1910,10 +1925,12 @@ seim
 seimig
 sein
 seine
+seinem
 seinen
 seiner
 seinerseits
 seinerzeit
+seines
 seinesgleichen
 seinetwegen
 seinetwillen
@@ -2668,6 +2685,9 @@ solarien
 solaris
 solarium
 solch
+solche
+solchen
+solcher
 solcherart
 solcherlei
 solchermaßen
@@ -3100,6 +3120,7 @@ spinat
 spind
 spindel
 spindeldürr
+spindeln
 spinett
 spinne
 spinnen
@@ -3108,6 +3129,7 @@ spinnerei
 spinnmaschine
 spinnrad
 spinnrädern
+spinnrocken
 spinnwebe
 spion
 spionage
@@ -3139,6 +3161,7 @@ spitzenpolitiker
 spitzfindig
 spitzhacke
 spitzig
+spitznamen
 spitzwinklig
 spleen
 spleenig
@@ -3213,6 +3236,7 @@ spray
 sprayen
 sprech
 sprechchor
+spreche
 sprechen
 sprecher
 spree
@@ -3230,6 +3254,7 @@ sprichwörtlich
 sprießen
 spring
 springen
+springend
 springer
 springquell
 sprint
@@ -3413,6 +3438,7 @@ standarte
 standbadbesuch
 stande
 stände
+standen
 ständeorganisation
 ständer
 ständerat
@@ -3598,6 +3624,7 @@ steckertyp
 steckkompatibel
 steckling
 steckt
+steckte
 steckverbinderprobleme
 stefan
 stefanie
@@ -3667,6 +3694,7 @@ stellenweise
 steller
 stellig
 stelligkeit
+stellte
 stellungnahme
 stellungs
 stellungslos
@@ -4343,6 +4371,7 @@ suche
 suchen
 suchende
 sucher
+suchst
 sucht
 süchte
 suchterzeugend

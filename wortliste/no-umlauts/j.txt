@@ -161,6 +161,7 @@ jederlei
 jedermann
 jederzeit
 jederzeitig
+jedes
 jedoch
 jedwede
 jeep
@@ -177,8 +178,10 @@ Jemen
 jena
 Jena
 jene
+jenem
 Jens
 jenseits
+Jenseits
 jenseitsverheissung
 Jenseitsverheissung
 jeremiade
@@ -389,6 +392,7 @@ jungamerikaner
 Jungamerikaner
 junge
 Junge
+Jungen
 jungenbeine
 Jungenbeine
 jungenhaft

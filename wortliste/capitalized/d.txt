@@ -188,6 +188,7 @@ Daseins
 Dasitzen
 Dasjenige
 Dass
+Daß
 Dasselbe
 Dasselbige
 Dasssatz
@@ -550,6 +551,7 @@ Denkmal
 Denkmäler
 Denkmalgeschützt
 Denkmalsschutz
+Denkt
 Denkwürdig
 Denn
 Dennis
@@ -852,6 +854,7 @@ Diesellok
 Diesem
 Diesen
 Dieser
+Dieses
 Diesig
 Diesjährig
 Diesmal
@@ -889,6 +892,7 @@ Digital
 Digitalisieren
 Digitalisierungsbericht
 Dihk
+Dikanjka
 Diktafon
 Diktaphon
 Diktat
@@ -1570,6 +1574,7 @@ Dunkelmänner
 Dunkeln
 Dunkelrot
 Dünkirchen
+Dunklen
 Dünkt
 Dünn
 Dünnflüssig
@@ -1806,6 +1811,7 @@ Durchreißen
 Durchreiten
 Durchringen
 Durchrutschen
+Durchs
 Durchsacken
 Durchsagen
 Durchsägen

@@ -24,6 +24,7 @@ gaengig
 gaenschen
 gaense
 gaenserich
+gaenseschmalz
 gaenze
 gaenzlich
 gaeren
@@ -41,6 +42,7 @@ gaertnerlehrling
 gaerungsprozess
 gaesschen
 gaeste
+gaesten
 gaeule
 gaffen
 gag
@@ -86,6 +88,8 @@ ganove
 gans
 ganz
 ganzaufnahme
+ganze
+ganzen
 ganzgewebe
 ganzheit
 ganzheitlich
@@ -413,6 +417,7 @@ gedroehn
 gedroht
 gedrosselt
 gedruckt
+gedruckten
 gedrueckt
 gedrungen
 geduckt
@@ -479,6 +484,7 @@ gefallenenfriedhoefe
 gefallsucht
 gefallsuechtig
 gefaltet
+gefaltetes
 gefalzt
 gefangen
 gefangene
@@ -684,6 +690,7 @@ gegruebelt
 gegruendet
 gegruesst
 geguckt
+geh
 gehabe
 gehabt
 gehackt
@@ -868,6 +875,7 @@ gekaspert
 gekaudert
 gekauert
 gekauft
+gekaufte
 gekaut
 gekehrt
 gekeife
@@ -1095,6 +1103,7 @@ gemahlen
 gemahnen
 gemailt
 gemalt
+gemalte
 gemanagt
 gemangelt
 gemarkung
@@ -1212,6 +1221,7 @@ generalissimus
 generalitaet
 generaloberst
 generalresident
+generals
 generalsmarsch
 generalsrang
 generalsstab
@@ -1683,6 +1693,7 @@ gescheucht
 gescheuert
 gescheut
 geschichte
+geschichten
 geschichtenbaum
 geschichtenerzaehler
 geschichtensammler
@@ -2271,6 +2282,7 @@ getypt
 geuebt
 geulkt
 geurteilt
+gevatter
 gevierteilt
 gevoegelt
 gew
@@ -2422,6 +2434,7 @@ gewitzelt
 gewitzt
 gewoehnen
 gewoehnlich
+gewoehnliche
 gewoehnlicherweise
 gewoehnlichkeit
 gewoehnungsbeduerftig
@@ -2692,6 +2705,7 @@ gleiter
 gleitkommazahl
 gletscher
 glich
+glichen
 glied
 glieder
 gliederfuessler
@@ -2990,6 +3004,7 @@ grauenvoll
 graugruen
 grauhaarig
 graupe
+graupen
 graus
 grausam
 grausamkeit
@@ -3018,6 +3033,7 @@ greenwich
 gregor
 greif
 greifen
+greifend
 greifer
 greis
 greise
@@ -3056,6 +3072,8 @@ griffbereit
 griffel
 grifffest
 griffig
+grigorjewitsch
+grigorjewitschs
 grill
 grillen
 grillengezirp
@@ -3105,6 +3123,7 @@ grossbaeuerlich
 grossbritannien
 grossbuergerlich
 grosse
+grossen
 grossenteils
 grossflaechig
 grossformatig
@@ -3117,6 +3136,7 @@ grossist
 grossistenverband
 grossjaehrig
 grosskalibrig
+grossmaechtigen
 grossmannssucht
 grossmuetig
 grossporig
@@ -3192,6 +3212,7 @@ gruppendynamisch
 gruppenidentifikation
 gruppieren
 grusel
+gruselige
 gruseln
 gruslig
 gruss

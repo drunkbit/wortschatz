@@ -27249,6 +27249,7 @@ ahnungslosester
 ahnungslosestes
 ahnungslosigkeit
 ahnungsvoll
+ahnungsvolles
 ahoi
 ahorn
 ahornbaeume
@@ -45701,6 +45702,7 @@ arbeitens
 arbeiter
 arbeiterfreundlich
 arbeiterschaft
+arbeiteten
 arbeitgeber
 arbeitgeberfreundlich
 arbeitnehmer
@@ -45841,6 +45843,7 @@ arroganz
 arrondieren
 arrondissement
 arsch
+arschin
 arsen
 arsenal
 art
@@ -46599,6 +46602,7 @@ aufsehens
 aufseher
 aufseiten
 aufsetzen
+aufsetzte
 aufsicht
 aufsichts
 aufsichtsratsitze
@@ -46823,6 +46827,7 @@ aufzutanken
 aufzutauchen
 aufzutauen
 aufzuteilen
+aufzutischen
 aufzutragen
 aufzutreiben
 aufzutrennen

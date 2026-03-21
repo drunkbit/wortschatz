@@ -66,9 +66,12 @@ Gans
 Gänschen
 Gänse
 Gänserich
+Gänseschmalz
 Ganz
 Ganzaufnahme
+Ganze
 Gänze
+Ganzen
 Ganzgewebe
 Ganzheit
 Ganzheitlich
@@ -143,6 +146,7 @@ Gassenjargon
 Gassi
 Gast
 Gäste
+Gästen
 Gastfreundlich
 Gastgebend
 Gastieren
@@ -414,6 +418,7 @@ Gedroht
 Gedrosselt
 Gedruckt
 Gedrückt
+Gedruckten
 Gedrungen
 Geduckt
 Geduftet
@@ -476,6 +481,7 @@ Gefallsüchtig
 Gefällt
 Gefälscht
 Gefaltet
+Gefaltetes
 Gefalzt
 Gefangen
 Gefangene
@@ -684,6 +690,7 @@ Gegrübelt
 Gegründet
 Gegrüßt
 Geguckt
+Geh
 Gehabe
 Gehabt
 Gehackt
@@ -868,6 +875,7 @@ Gekaspert
 Gekaudert
 Gekauert
 Gekauft
+Gekaufte
 Gekaut
 Gekehrt
 Gekeife
@@ -1091,6 +1099,7 @@ Gemäht
 Gemailt
 Gemälde
 Gemalt
+Gemalte
 Gemanagt
 Gemangelt
 Gemarkung
@@ -1212,6 +1221,7 @@ Generalissimus
 Generalität
 Generaloberst
 Generalresident
+Generals
 Generalsmarsch
 Generalsrang
 Generalsstab
@@ -1683,6 +1693,7 @@ Gescheucht
 Gescheuert
 Gescheut
 Geschichte
+Geschichten
 Geschichtenbaum
 Geschichtenerzähler
 Geschichtensammler
@@ -2271,6 +2282,7 @@ Getypt
 Geübt
 Geulkt
 Geurteilt
+Gevatter
 Gevierteilt
 Gevögelt
 Gew
@@ -2426,6 +2438,7 @@ Gewohnheit
 Gewohnheits
 Gewohnheitsmäßig
 Gewöhnlich
+Gewöhnliche
 Gewöhnlicherweise
 Gewöhnlichkeit
 Gewohnt
@@ -2692,6 +2705,7 @@ Gleiter
 Gleitkommazahl
 Gletscher
 Glich
+Glichen
 Glied
 Glieder
 Gliederfüßler
@@ -2990,6 +3004,7 @@ Graugrün
 Grauhaarig
 Gräulich
 Graupe
+Graupen
 Graus
 Grausam
 Grausamkeit
@@ -3018,6 +3033,7 @@ Greenwich
 Gregor
 Greif
 Greifen
+Greifend
 Greifer
 Greis
 Greise
@@ -3056,6 +3072,8 @@ Griffbereit
 Griffel
 Grifffest
 Griffig
+Grigorjewitsch
+Grigorjewitschs
 Grill
 Grillen
 Grillengezirp
@@ -3097,6 +3115,7 @@ Großbritannien
 Großbürgerlich
 Große
 Größe
+Großen
 Größen
 Größenordnungsmäßig
 Großenteils
@@ -3114,6 +3133,7 @@ Grossist
 Grossistenverband
 Großjährig
 Großkalibrig
+Großmächtigen
 Großmannssucht
 Großmütig
 Großporig
@@ -3191,6 +3211,7 @@ Gruppendynamisch
 Gruppenidentifikation
 Gruppieren
 Grusel
+Gruselige
 Gruseln
 Gruslig
 Gruß

@@ -109,11 +109,14 @@ gänse
 Gänse
 gänserich
 Gänserich
+Gänseschmalz
 ganz
 ganzaufnahme
 Ganzaufnahme
+ganze
 gänze
 Gänze
+ganzen
 ganzgewebe
 Ganzgewebe
 ganzheit
@@ -242,6 +245,7 @@ gast
 Gast
 gäste
 Gäste
+Gästen
 gastfreundlich
 gastgebend
 gastieren
@@ -605,6 +609,7 @@ gedroht
 gedrosselt
 gedruckt
 gedrückt
+gedruckten
 gedrungen
 geduckt
 geduftet
@@ -688,6 +693,7 @@ gefallsüchtig
 gefällt
 gefälscht
 gefaltet
+gefaltetes
 gefalzt
 gefangen
 gefangene
@@ -936,6 +942,7 @@ gegrübelt
 gegründet
 gegrüßt
 geguckt
+Geh
 gehabe
 Gehabe
 gehabt
@@ -1186,6 +1193,7 @@ gekaspert
 gekaudert
 gekauert
 gekauft
+gekaufte
 gekaut
 gekehrt
 gekeife
@@ -1467,6 +1475,7 @@ gemailt
 gemälde
 Gemälde
 gemalt
+gemalte
 gemanagt
 gemangelt
 gemarkung
@@ -1635,6 +1644,7 @@ generaloberst
 Generaloberst
 generalresident
 Generalresident
+Generals
 generalsmarsch
 Generalsmarsch
 generalsrang
@@ -2256,6 +2266,7 @@ gescheuert
 gescheut
 geschichte
 Geschichte
+Geschichten
 geschichtenbaum
 Geschichtenbaum
 geschichtenerzähler
@@ -2979,6 +2990,7 @@ getypt
 geübt
 geulkt
 geurteilt
+Gevatter
 gevierteilt
 gevögelt
 GEW
@@ -3182,6 +3194,7 @@ gewohnheits
 Gewohnheits
 gewohnheitsmäßig
 gewöhnlich
+gewöhnliche
 gewöhnlicherweise
 gewöhnlichkeit
 Gewöhnlichkeit
@@ -3545,6 +3558,7 @@ Gleitkommazahl
 gletscher
 Gletscher
 glich
+glichen
 glied
 Glied
 glieder
@@ -4021,6 +4035,7 @@ grauhaarig
 gräulich
 graupe
 Graupe
+Graupen
 Graus
 grausam
 grausamkeit
@@ -4063,6 +4078,7 @@ Gregor
 greif
 Greif
 greifen
+greifend
 greifer
 Greifer
 greis
@@ -4122,6 +4138,8 @@ griffel
 Griffel
 grifffest
 griffig
+Grigorjewitsch
+Grigorjewitschs
 grill
 Grill
 grillen
@@ -4184,6 +4202,7 @@ großbürgerlich
 große
 größe
 Größe
+großen
 größen
 Größen
 größenordnungsmäßig
@@ -4205,6 +4224,7 @@ grossistenverband
 Grossistenverband
 großjährig
 großkalibrig
+großmächtigen
 großmannssucht
 Großmannssucht
 großmütig
@@ -4314,6 +4334,7 @@ gruppieren
 Gruppieren
 grusel
 Grusel
+gruselige
 gruseln
 gruslig
 gruß

@@ -17,6 +17,7 @@ machete
 machiavelli
 macho
 macht
+machten
 machthabende
 machthaberisch
 machtlos
@@ -237,7 +238,9 @@ managen
 manager
 manc
 manch
+manchen
 manchenorts
+mancher
 mancherlei
 mancherorts
 manchester
@@ -745,8 +748,10 @@ meilenstein
 meilenweit
 meiler
 mein
+meine
 meineid
 meinen
+meiner
 meinerseits
 meinesgleichen
 meinesteils
@@ -775,6 +780,7 @@ meistens
 meistenteils
 meister
 meisterhaft
+meisterinnen
 meisterlich
 meistern
 meisterschaft
@@ -808,6 +814,7 @@ melodisch
 melodram
 melodramatisch
 melone
+melonen
 melonensuppe
 membran
 membranabdeckung
@@ -1038,6 +1045,7 @@ milan
 milbe
 milch
 milchig
+milchsuppe
 mild
 mildern
 milderungsgruende
@@ -1176,6 +1184,7 @@ minutenschnell
 minutioes
 mips
 mir
+mirgorod
 miriam
 misanthrop
 misanthropisch
@@ -2004,6 +2013,7 @@ murks
 murksbehebung
 murmel
 murmeln
+murmelte
 murren
 mus
 muschel

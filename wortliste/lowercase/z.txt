@@ -144,6 +144,7 @@ zeitabhängig
 zeitanteilig
 zeitaufwändig
 zeitaufwendig
+zeiten
 zeitgeist
 zeitgemäß
 zeitgenössisch
@@ -311,6 +312,7 @@ zerreißprobe
 zerren
 zerrieb
 zerrieben
+zerriebenen
 zerrinnen
 zerriss
 zerrissen

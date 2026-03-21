@@ -137,6 +137,7 @@ Kälte
 Kältebeständig
 Kälteempfindlich
 Kälteerzeugend
+Kalten
 Kälter
 Kältest
 Kaltfeucht
@@ -285,6 +286,7 @@ Kanzlei
 Kanzler
 Kanzlernachfolge
 Kanzlerpartei
+Kanzlist
 Kap
 Kapaun
 Kapazität
@@ -444,6 +446,7 @@ Karthago
 Karthum
 Kartieren
 Kartoffel
+Kartoffelbreis
 Kartoffelschälen
 Kartograf
 Kartografie
@@ -665,6 +668,7 @@ Keimling
 Keimtötend
 Kein
 Keine
+Keinem
 Keinen
 Keinerlei
 Keinesfalls
@@ -704,6 +708,7 @@ Kenner
 Kennerblick
 Kennerhaft
 Kennermiene
+Kennt
 Kenntlich
 Kenntlichkeit
 Kenntnis
@@ -1089,6 +1094,7 @@ Klimatisierung
 Klimatologe
 Klimmzug
 Klimpern
+Klimpert
 Klingbeil
 Klinge
 Klingel
@@ -1121,6 +1127,7 @@ Klonen
 Klönen
 Klopapier
 Klopfen
+Klopfte
 Kloppe
 Klops
 Klosett
@@ -2137,6 +2144,7 @@ Krampfhaft
 Kran
 Kräne
 Kranich
+Kraniche
 Krank
 Kranken
 Kränken
@@ -2519,6 +2527,7 @@ Künstlich
 Künstlicher
 Kunstlos
 Kunstvoll
+Kunstvollen
 Kunterbunt
 Kunz
 Kupfer
@@ -2620,6 +2629,7 @@ Küstengebunden
 Küstenschelf
 Küstenwachtboot
 Küster
+Küstern
 Kutsche
 Kutscher
 Kutte

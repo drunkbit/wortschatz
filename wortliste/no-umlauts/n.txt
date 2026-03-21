@@ -930,6 +930,7 @@ nehmen
 Nehmen
 nehmer
 Nehmer
+nehmt
 Nehru
 neid
 Neid
@@ -941,6 +942,7 @@ neidlos
 neidvoll
 neigen
 Neigen
+neigte
 neigungs
 Neigungs
 nein
@@ -1053,6 +1055,7 @@ neu
 Neu
 neuartig
 neudeutsch
+neue
 neueinkleiden
 Neueinkleiden
 neuem
@@ -1064,6 +1067,7 @@ neuerung
 Neuerung
 neuerungsplaene
 Neuerungsplaene
+neues
 neuestens
 neufundland
 Neufundland
@@ -1426,7 +1430,9 @@ Niedrigwasser
 niedrigzinsen
 Niedrigzinsen
 niemals
+Niemals
 niemand
+Niemand
 niemandem
 niere
 Niere
@@ -1538,6 +1544,7 @@ Nobelpreistraeger
 noblesse
 Noblesse
 noch
+Noch
 nochmal
 nochmalig
 nochmals
@@ -1556,6 +1563,7 @@ noete
 Noete
 noethersch
 noetig
+Noetige
 noetigen
 Noetigen
 noetigenfalls

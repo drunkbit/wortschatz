@@ -871,6 +871,7 @@ Ungreifbar
 Ungültigkeit
 Ungültigkeitserklärung
 Ungunst
+Ungut
 Unheil
 Unheilbarkeit
 Unheilsprophetie
@@ -1033,6 +1034,7 @@ Unser
 Unsere
 Unsereiner
 Unsereins
+Unserem
 Unsererseits
 Unseresgleichen
 Unserm

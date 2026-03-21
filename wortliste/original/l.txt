@@ -28,6 +28,7 @@ Lache
 lächeln
 Lächeln
 lachen
+Lachen
 lachens
 Lachens
 lacher
@@ -53,6 +54,7 @@ lackieren
 Lackieren
 lackierer
 Lackierer
+lackierte
 lackierungskosten
 Lackierungskosten
 lackschwarz
@@ -167,6 +169,7 @@ Laizismus
 laizistisch
 lakai
 Lakai
+Lakaien
 laken
 Laken
 lakonie
@@ -240,6 +243,7 @@ landesweit
 landete
 landeten
 landgebunden
+Landgericht
 landläufig
 landläufigkeit
 Landläufigkeit
@@ -263,6 +267,7 @@ landsmännin
 Landsmännin
 landsmannschaft
 Landsmannschaft
+Landstraße
 landstreicherei
 Landstreicherei
 Landtag
@@ -379,6 +384,7 @@ lärm
 Lärm
 lärmen
 lärmig
+lärmt
 lärmvoll
 Lars
 larve
@@ -509,6 +515,7 @@ Lauscher
 lauschig
 läuse
 Läuse
+Lausejunge
 lausen
 lausig
 lausitz
@@ -706,6 +713,7 @@ legitimität
 Legitimität
 legitimitätskrise
 Legitimitätskrise
+legt
 leguan
 Leguan
 lehm
@@ -808,6 +816,7 @@ leicht
 Leicht
 leichtathletisch
 leichte
+leichter
 leichtfertig
 leichtfüßig
 leichtfüßigkeit
@@ -951,6 +960,7 @@ lenken
 Lenken
 lenker
 Lenker
+lenkte
 Lennon
 Lenny
 Lenovo
@@ -1056,6 +1066,7 @@ leuchten
 leuchtend
 leuchter
 Leuchter
+leuchtet
 leugnen
 Leugnen
 leugner
@@ -1068,6 +1079,7 @@ leumund
 Leumund
 leute
 Leute
+Leuten
 leutnant
 Leutnant
 leutselig
@@ -1165,6 +1177,7 @@ liebenswert
 liebenswürdig
 liebenswürdigkeit
 Liebenswürdigkeit
+lieber
 liebes
 Liebes
 liebesbezeigung
@@ -1203,12 +1216,14 @@ Liebreiz
 liebreizend
 liebschaft
 Liebschaft
+Liebstöckelblättern
 liechtenstein
 Liechtenstein
 liechtensteiner
 Liechtensteiner
 lied
 Lied
+Lieder
 liederabend
 Liederabend
 liederlich

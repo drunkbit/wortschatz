@@ -164,6 +164,7 @@ kaltblueter
 kaltbluetig
 kaltbluetigkeit
 kaltbruechig
+kalten
 kaltfeucht
 kaltgeblieben
 kaltgehaemmert
@@ -299,6 +300,7 @@ kanzlei
 kanzler
 kanzlernachfolge
 kanzlerpartei
+kanzlist
 kap
 kapaun
 kapazitaet
@@ -453,6 +455,7 @@ karthago
 karthum
 kartieren
 kartoffel
+kartoffelbreis
 kartoffelschaelen
 kartograf
 kartografie
@@ -665,6 +668,7 @@ keimling
 keimtoetend
 kein
 keine
+keinem
 keinen
 keinerlei
 keinesfalls
@@ -704,6 +708,7 @@ kenner
 kennerblick
 kennerhaft
 kennermiene
+kennt
 kenntlich
 kenntlichkeit
 kenntnis
@@ -1089,6 +1094,7 @@ klimatisierung
 klimatologe
 klimmzug
 klimpern
+klimpert
 klingbeil
 klinge
 klingel
@@ -1124,6 +1130,7 @@ kloetze
 klonen
 klopapier
 klopfen
+klopfte
 kloppe
 klops
 klosett
@@ -2146,6 +2153,7 @@ krampfen
 krampfhaft
 kran
 kranich
+kraniche
 krank
 kranken
 krankenhaustagegeld
@@ -2465,6 +2473,7 @@ kuestengebunden
 kuestenschelf
 kuestenwachtboot
 kuester
+kuestern
 kufe
 kugel
 kugelfoermig
@@ -2537,6 +2546,7 @@ kunsthandwerklich
 kunstinteressiert
 kunstlos
 kunstvoll
+kunstvollen
 kunterbunt
 kunz
 kupfer

@@ -252,6 +252,7 @@ dasitzen
 dasjenige
 dass
 Dass
+daß
 dasselbe
 dasselbige
 dasssatz
@@ -796,7 +797,9 @@ Denkmäler
 denkmalgeschützt
 denkmalsschutz
 Denkmalsschutz
+denkt
 denkwürdig
+denn
 Denn
 Dennis
 dennoch
@@ -1259,6 +1262,7 @@ Diesellok
 diesem
 diesen
 dieser
+dieses
 diesig
 diesjährig
 diesmal
@@ -1318,6 +1322,7 @@ Digitalisieren
 digitalisierungsbericht
 Digitalisierungsbericht
 DIHK
+Dikanjka
 diktafon
 Diktafon
 diktaphon
@@ -2270,6 +2275,7 @@ Dschungel
 DSL
 DTP
 du
+Du
 dual
 dualismus
 Dualismus
@@ -2380,6 +2386,7 @@ Dunkeln
 dunkelrot
 dünkirchen
 Dünkirchen
+dunklen
 dünkt
 dünn
 Dünn
@@ -2672,6 +2679,7 @@ durchreißen
 durchreiten
 durchringen
 durchrutschen
+durchs
 durchsacken
 durchsagen
 durchsägen

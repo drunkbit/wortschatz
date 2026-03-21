@@ -246,6 +246,7 @@ verbraucherrechtlich
 verbrauchs
 verbrauchsbedingt
 verbrauchsunabhängig
+verbraucht
 verbrechen
 verbrechens
 verbrecher
@@ -449,6 +450,7 @@ verflogen
 verflossen
 verfluchen
 verflucht
+verfluchte
 verflüchtigen
 verflüssigen
 verfochten
@@ -773,6 +775,7 @@ verleimen
 verleiten
 verleitend
 verlernen
+verlernt
 verlesen
 verletzbar
 verletzen
@@ -973,6 +976,7 @@ verregnen
 verreisen
 verrenken
 verrichten
+verrichtet
 verriegeln
 verringern
 verriss
@@ -1002,6 +1006,8 @@ versalien
 versalzen
 versalzt
 versammeln
+versammelt
+versammelten
 versammlungs
 versand
 versandbereit
@@ -1235,6 +1241,7 @@ versteckidee
 versteckspiel
 versteckt
 verstehen
+versteht
 versteifen
 versteigerer
 versteigern
@@ -1469,6 +1476,7 @@ verzehr
 verzehren
 verzeichnen
 verzeichnis
+verzeihe
 verzeihen
 verzeihlich
 verzerren
@@ -1855,6 +1863,7 @@ voodoo
 vopo
 vor
 vorab
+vorabend
 vorahnen
 voran
 voranbringen
@@ -2208,6 +2217,7 @@ vormundschaftsgericht
 vorn
 vornahm
 vornehm
+vornehmer
 vornehmheit
 vorneweg
 vornherein
@@ -2338,6 +2348,10 @@ vorwegnimmt
 vorwegzunehmen
 vorweisen
 vorwerfen
+vorwerk
+vorwerke
+vorwerken
+vorwerksbewohner
 vorwiegend
 vorwirft
 vorwurfsvoll

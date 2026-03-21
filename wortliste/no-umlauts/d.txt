@@ -796,7 +796,9 @@ Denkmal
 denkmalgeschuetzt
 denkmalsschutz
 Denkmalsschutz
+denkt
 denkwuerdig
+denn
 Denn
 Dennis
 dennoch
@@ -1259,6 +1261,7 @@ Diesellok
 diesem
 diesen
 dieser
+dieses
 diesig
 diesjaehrig
 diesmal
@@ -1318,6 +1321,7 @@ Digitalisieren
 digitalisierungsbericht
 Digitalisierungsbericht
 DIHK
+Dikanjka
 diktafon
 Diktafon
 diktaphon
@@ -2270,6 +2274,7 @@ Dschungel
 DSL
 DTP
 du
+Du
 dual
 dualismus
 Dualismus
@@ -2416,6 +2421,7 @@ Dunkelmaenner
 dunkeln
 Dunkeln
 dunkelrot
+dunklen
 dunst
 Dunst
 dunstig
@@ -2702,6 +2708,7 @@ durchreissen
 durchreiten
 durchringen
 durchrutschen
+durchs
 durchsacken
 durchsaegen
 durchsagen

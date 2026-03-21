@@ -93,6 +93,7 @@ palaeontologe
 Palaeontologe
 palaeste
 Palaeste
+Palaesten
 palaestina
 Palaestina
 palaestinafrage
@@ -156,6 +157,7 @@ panikartig
 panikmache
 Panikmache
 panisch
+Panjko
 pankow
 Pankow
 panne
@@ -510,6 +512,7 @@ pascal
 Pascal
 pascha
 Pascha
+pascholl
 pass
 Pass
 passabel
@@ -571,6 +574,7 @@ pastellzart
 pastenfoermig
 pastete
 Pastete
+Pasteten
 pasteurisieren
 Pasteurisieren
 pastor
@@ -1137,6 +1141,7 @@ pflegerisch
 pfleglich
 pflegling
 Pflegling
+pflegte
 pflicht
 Pflicht
 pflichtbewusst
@@ -1764,6 +1769,7 @@ platz
 Platz
 platzanweiser
 Platzanweiser
+Platze
 platzen
 platzieren
 Platzieren
@@ -2038,6 +2044,7 @@ Polospieler
 polster
 Polster
 polstern
+Poltawa
 polterabend
 Polterabend
 poltergeister

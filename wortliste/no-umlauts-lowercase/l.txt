@@ -26,6 +26,7 @@ lackierarbeit
 lackierauftrag
 lackieren
 lackierer
+lackierte
 lackierungskosten
 lackschwarz
 lacoste
@@ -72,6 +73,7 @@ laerche
 laerm
 laermen
 laermig
+laermt
 laermvoll
 laessig
 laessigkeit
@@ -134,6 +136,7 @@ laientum
 laizismus
 laizistisch
 lakai
+lakaien
 laken
 lakonie
 lakonisch
@@ -177,6 +180,7 @@ landesweit
 landete
 landeten
 landgebunden
+landgericht
 landlaeufig
 landlaeufigkeit
 landrover
@@ -188,6 +192,7 @@ landsleute
 landsmaennin
 landsmann
 landsmannschaft
+landstrasse
 landstreicherei
 landtag
 landtags
@@ -323,6 +328,7 @@ lausch
 lauschen
 lauscher
 lauschig
+lausejunge
 lausen
 lausig
 lausitz
@@ -451,6 +457,7 @@ legitimerweise
 legitimieren
 legitimitaet
 legitimitaetskrise
+legt
 leguan
 lehm
 lehmann
@@ -509,6 +516,7 @@ leichnam
 leicht
 leichtathletisch
 leichte
+leichter
 leichtfertig
 leichtfuessig
 leichtfuessigkeit
@@ -599,6 +607,7 @@ leninorden
 lenk
 lenken
 lenker
+lenkte
 lennon
 lenny
 lenovo
@@ -671,12 +680,14 @@ leuchte
 leuchten
 leuchtend
 leuchter
+leuchtet
 leugnen
 leugner
 leukaemie
 leukoplast
 leumund
 leute
+leuten
 leutnant
 leutselig
 level
@@ -740,6 +751,7 @@ liebende
 liebenswert
 liebenswuerdig
 liebenswuerdigkeit
+lieber
 liebes
 liebesbezeigung
 liebeshaendeln
@@ -765,9 +777,11 @@ lieblosigkeit
 liebreiz
 liebreizend
 liebschaft
+liebstoeckelblaettern
 liechtenstein
 liechtensteiner
 lied
+lieder
 liederabend
 liederlich
 liedermacher

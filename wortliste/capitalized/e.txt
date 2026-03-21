@@ -156,6 +156,7 @@ Ehrsamkeit
 Ehrsüchtig
 Ehrungsliste
 Ehrwürdig
+Ehrwürdige
 Ei
 Eiabstoßung
 Eibe
@@ -213,6 +214,7 @@ Eigensinnig
 Eigenständig
 Eigenständigkeit
 Eigenste
+Eigentlich
 Eigentum
 Eigentümer
 Eigentümerschaft
@@ -327,6 +329,7 @@ Einerseits
 Eines
 Einesteils
 Einfach
+Einfache
 Einfachheit
 Einfädeln
 Einfahren
@@ -673,6 +676,7 @@ Einhüllen
 Einhundert
 Einhundertfünfzig
 Einig
+Einige
 Einigen
 Einigermaßen
 Einigkeit
@@ -1526,6 +1530,7 @@ Engstirnigkeit
 Engumrissen
 Engverbunden
 Enkel
+Enkeln
 Enklave
 Enorm
 Enquete
@@ -2027,6 +2032,7 @@ Erbschaftsteuer
 Erbschleicher
 Erbse
 Erbsensuppe
+Erbsfarbenen
 Erd
 Erdacht
 Erdähnlich
@@ -2182,6 +2188,7 @@ Erhaschen
 Erheben
 Erheblich
 Erheblichkeit
+Erhebt
 Erhebungs
 Erheischen
 Erheitern
@@ -2207,6 +2214,7 @@ Ericsson
 Erigiert
 Erika
 Erinnern
+Erinnert
 Erinnerungen
 Erinnerungs
 Eritrea
@@ -2265,6 +2273,7 @@ Erlaucht
 Erläutern
 Erläuterungsbedürftig
 Erle
+Erlebe
 Erleben
 Erlebnis
 Erlebnisreich
@@ -2585,6 +2594,7 @@ Erz
 Erzählen
 Erzähler
 Erzählerisch
+Erzählt
 Erzähltechnik
 Erzbischöflich
 Erzdumm
@@ -2703,6 +2713,7 @@ Eu
 Euch
 Eudämonie
 Euer
+Eueren
 Eugenik
 Eugeniker
 Eugenisch
@@ -2728,6 +2739,8 @@ Eur
 Eurasien
 Eurasisch
 Euratom
+Eurem
+Euren
 Euresgleichen
 Eurigen
 Euro

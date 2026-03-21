@@ -72,8 +72,10 @@ ignorieren
 ihk
 ihm
 ihn
+ihnen
 ihr
 ihre
+ihren
 ihrer
 ihrerseits
 ihresgleichen
@@ -856,6 +858,7 @@ irdisch
 ire
 irgend
 irgendein
+irgendeines
 irgendeinmal
 irgendetwas
 irgendjemand

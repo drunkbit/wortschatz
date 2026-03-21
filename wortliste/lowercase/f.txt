@@ -114,6 +114,7 @@ fallout
 falls
 fallschirmähnlich
 fallsüchtig
+fällt
 fallweise
 falsch
 fälschen
@@ -348,8 +349,10 @@ feierlich
 feierlichkeit
 feiern
 feiertag
+feiertages
 feiertags
 feig
+feige
 feigen
 feigheit
 feigling
@@ -366,6 +369,7 @@ feindlichkeit
 feindschaft
 feindselig
 feineinstellen
+feinem
 feinfühlig
 feinfühligkeit
 feingespitzt
@@ -385,6 +389,7 @@ feinsinnig
 feinstverteilt
 feinverteilt
 feld
+feldarbeiten
 feldfrei
 feldüberlegen
 feldwebel
@@ -692,12 +697,14 @@ finder
 finderlohn
 finderlöhne
 findest
+findet
 findig
 findigkeit
 findling
 findungs
 finesse
 fing
+fingen
 finger
 fingerdick
 fingerig
@@ -777,6 +784,7 @@ flachheit
 flachhüglig
 flächig
 flachs
+flachskämmen
 flackern
 flackerschein
 flacon
@@ -1079,6 +1087,7 @@ folkloristisch
 folsäure
 folter
 foltern
+foma
 fond
 fondsanteile
 fondsdaten
@@ -1346,6 +1355,8 @@ fraglos
 fragment
 fragmentarisch
 fragmentieren
+fragt
+fragte
 fragwürdig
 fragwürdigkeit
 fraktal
@@ -1736,6 +1747,7 @@ führer
 führerlos
 fuhrgeld
 fuhrpark
+führte
 führungs
 führungslos
 fuhrunternehmen
@@ -1916,6 +1928,7 @@ fußballerkrankheit
 fußballnationalelf
 füßchen
 fußen
+füßen
 fußgängerampel
 fußgängerübergang
 fußgängerunterführung

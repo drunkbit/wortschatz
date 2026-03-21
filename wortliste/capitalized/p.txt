@@ -52,6 +52,7 @@ Paläoanthropologie
 Paläontologe
 Palast
 Paläste
+Palästen
 Palästina
 Palästinafrage
 Palästinakonferenz
@@ -88,6 +89,7 @@ Panik
 Panikartig
 Panikmache
 Panisch
+Panjko
 Pankow
 Panne
 Pannen
@@ -295,6 +297,7 @@ Parzelle
 Parzellieren
 Pascal
 Pascha
+Pascholl
 Pass
 Passabel
 Passage
@@ -332,6 +335,7 @@ Pastellfarbe
 Pastellzart
 Pastenförmig
 Pastete
+Pasteten
 Pasteurisieren
 Pastor
 Pastoral
@@ -668,6 +672,7 @@ Pfleger
 Pflegerisch
 Pfleglich
 Pflegling
+Pflegte
 Pflicht
 Pflichtbewusst
 Pflichteifrig
@@ -1044,6 +1049,7 @@ Plattitüde
 Platz
 Platzanweiser
 Plätzchen
+Platze
 Plätze
 Platzen
 Platzieren
@@ -1203,6 +1209,7 @@ Polopferd
 Polospieler
 Polster
 Polstern
+Poltawa
 Polterabend
 Poltergeister
 Poltern

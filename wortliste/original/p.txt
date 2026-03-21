@@ -92,6 +92,7 @@ palast
 Palast
 paläste
 Paläste
+Palästen
 palästina
 Palästina
 palästinafrage
@@ -151,6 +152,7 @@ panikartig
 panikmache
 Panikmache
 panisch
+Panjko
 pankow
 Pankow
 panne
@@ -510,6 +512,7 @@ pascal
 Pascal
 pascha
 Pascha
+pascholl
 pass
 Pass
 passabel
@@ -571,6 +574,7 @@ pastellzart
 pastenförmig
 pastete
 Pastete
+Pasteten
 pasteurisieren
 Pasteurisieren
 pastor
@@ -1137,6 +1141,7 @@ pflegerisch
 pfleglich
 pflegling
 Pflegling
+pflegte
 pflicht
 Pflicht
 pflichtbewusst
@@ -1762,6 +1767,7 @@ platzanweiser
 Platzanweiser
 plätzchen
 Plätzchen
+Platze
 plätze
 Plätze
 platzen
@@ -2036,6 +2042,7 @@ Polospieler
 polster
 Polster
 polstern
+Poltawa
 polterabend
 Polterabend
 poltergeister

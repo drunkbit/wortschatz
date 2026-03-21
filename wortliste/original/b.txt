@@ -107,6 +107,7 @@ bakteriologe
 Bakteriologe
 bakterium
 Bakterium
+Balalaika
 balance
 Balance
 balanceakt
@@ -144,6 +145,7 @@ Ballade
 ballaststoffreich
 ballen
 Ballen
+Bällen
 ballerina
 Ballerina
 ballerinen
@@ -465,6 +467,7 @@ Baum
 baumartig
 bäumchen
 Bäumchen
+Baume
 baumeln
 baumstark
 baumstumpf
@@ -472,6 +475,7 @@ Baumstumpf
 bäumt
 bäumte
 baumwollen
+baumwollenes
 baupolitisch
 baurechtlich
 baureif
@@ -669,6 +673,7 @@ Bedrucken
 bedrücken
 Bedrücken
 bedruckt
+bedrucktes
 bedürfen
 bedürfnis
 Bedürfnis
@@ -867,6 +872,7 @@ beging
 beginn
 Beginn
 beginnen
+beginnt
 beglaubigen
 Beglaubigen
 beglaubigungs
@@ -1129,10 +1135,12 @@ beimisst
 bein
 Bein
 beinah
+beinahe
 beiname
 Beiname
 beinamen
 Beinamen
+Beine
 beinhalten
 beinhaltet
 beinhart
@@ -1889,6 +1897,7 @@ beschlussfähig
 beschlussunfähig
 beschmieren
 beschmutzen
+beschmutzt
 beschneiden
 Beschneiden
 beschnitten
@@ -2045,6 +2054,7 @@ besprochen
 besprühen
 bespucken
 besser
+besseren
 bessern
 Bessern
 besserungs
@@ -2117,6 +2127,7 @@ Bestellen
 besteller
 Besteller
 bestempfohlen
+besten
 bestenfalls
 bestenliste
 Bestenliste
@@ -2132,6 +2143,7 @@ bestgelegen
 bestialisch
 besticht
 besticken
+bestickt
 bestie
 Bestie
 bestiegen
@@ -2195,6 +2207,7 @@ besucher
 Besucher
 besuchs
 Besuchs
+besucht
 besudeln
 besungen
 beta
@@ -2665,6 +2678,9 @@ biene
 Biene
 bienen
 Bienen
+Bienenzüchter
+Bienenzüchterhütte
+Bienenzüchters
 bier
 Bier
 biest
@@ -2860,6 +2876,7 @@ Birne
 birnen
 Birnen
 birnenförmig
+Birnenkwaß
 bis
 bisamratte
 Bisamratte
@@ -3035,6 +3052,7 @@ blaugrau
 blaugrün
 blauhelmsoldat
 Blauhelmsoldat
+blaukariertes
 bläulich
 blaumetallic
 blech
@@ -3046,6 +3064,7 @@ Blei
 bleibe
 Bleibe
 bleiben
+bleibt
 bleich
 Bleich
 bleichen
@@ -3066,6 +3085,7 @@ Blick
 blicken
 blickfangend
 blicklos
+blickt
 blieb
 blies
 blind
@@ -3644,6 +3664,7 @@ braun
 Braun
 bräune
 Bräune
+braunen
 bräunen
 Bräunen
 bräunlich
@@ -3952,6 +3973,7 @@ buchbinderhandwerk
 Buchbinderhandwerk
 buchbindermeister
 Buchbindermeister
+Buche
 buchecker
 Buchecker
 buchen
@@ -3962,6 +3984,7 @@ bücherei
 Bücherei
 büchermachen
 Büchermachen
+Büchern
 Buchform
 buchgesegnete
 buchhalterisch
@@ -4235,6 +4258,7 @@ bürokratismus
 Bürokratismus
 bursche
 Bursche
+Burschen
 burschenhaft
 burschenschaft
 Burschenschaft

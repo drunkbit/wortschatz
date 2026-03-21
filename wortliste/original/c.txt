@@ -392,6 +392,7 @@ christen
 Christen
 christenheit
 Christenheit
+Christensprache
 christentum
 Christentum
 christi

@@ -105,6 +105,7 @@ wagehals
 Wagehals
 wagehälse
 Wagehälse
+Wägelchen
 wagemut
 Wagemut
 wagemutig
@@ -424,6 +425,7 @@ Wappenspruch
 wappensprüche
 Wappensprüche
 wappnen
+war
 warb
 ward
 ware
@@ -855,6 +857,7 @@ weiblichkeit
 Weiblichkeit
 weibsbild
 Weibsbild
+Weibus
 weich
 Weich
 weichen
@@ -969,6 +972,7 @@ weißbuch
 Weißbuch
 weißensee
 Weißensee
+weißes
 weißgelb
 weißgerber
 Weißgerber
@@ -1236,6 +1240,7 @@ Werdegang
 werden
 werder
 Werder
+werdet
 werfen
 werfer
 Werfer
@@ -2043,6 +2048,7 @@ Wladiwostok
 WLAN
 WM
 wo
+Wo
 woanders
 wobei
 woche
@@ -2051,6 +2057,7 @@ wochen
 Wochen
 Wochenende
 wochenlang
+Wochentage
 wochentags
 wöchentlich
 wochenweise
@@ -2073,6 +2080,7 @@ wogegen
 woher
 woherum
 wohin
+Wohin
 wohinauf
 wohinaus
 wohinein
@@ -2196,6 +2204,7 @@ wollens
 Wollens
 wollig
 Wolllust
+wollt
 wollust
 Wollust
 wollüste
@@ -2236,6 +2245,8 @@ wortärmste
 wortbrüchig
 wörtchen
 Wörtchen
+Worte
+Worten
 WortEntdeckungsreise
 wörter
 Wörter
@@ -2318,6 +2329,7 @@ wunder
 Wunder
 wunderbar
 wunderbarerweise
+Wunderbares
 wunderfrohe
 wundergenommen
 wunderhübsch
@@ -2325,6 +2337,7 @@ wunderhübscheste
 wunderlich
 wunderlichkeit
 Wunderlichkeit
+Wundermären
 wundern
 wundernehmen
 wundersam
@@ -2367,6 +2380,7 @@ wurde
 würde
 Würde
 wurden
+würden
 würdenträger
 Würdenträger
 würdevoll
@@ -2432,6 +2446,7 @@ wusch
 wuseln
 wusste
 wüsste
+wüßtet
 wust
 Wust
 wüst

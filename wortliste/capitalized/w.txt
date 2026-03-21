@@ -62,6 +62,7 @@ Wägbar
 Wägbarkeit
 Wagehals
 Wagehälse
+Wägelchen
 Wagemut
 Wagemutig
 Wagen
@@ -262,6 +263,7 @@ Wappenschild
 Wappenspruch
 Wappensprüche
 Wappnen
+War
 Warb
 Ward
 Ware
@@ -594,6 +596,7 @@ Weiber
 Weiblich
 Weiblichkeit
 Weibsbild
+Weibus
 Weich
 Weichen
 Weichensteller
@@ -664,6 +667,7 @@ Weissagen
 Weissager
 Weißbuch
 Weißensee
+Weißes
 Weißgelb
 Weißgerber
 Weißgewaschen
@@ -891,6 +895,7 @@ Werde
 Werdegang
 Werden
 Werder
+Werdet
 Werfen
 Werfer
 Werft
@@ -1462,6 +1467,7 @@ Woche
 Wochen
 Wochenende
 Wochenlang
+Wochentage
 Wochentags
 Wöchentlich
 Wochenweise
@@ -1572,6 +1578,7 @@ Wollen
 Wollens
 Wollig
 Wolllust
+Wollt
 Wollust
 Wollüste
 Wollüstig
@@ -1600,6 +1607,8 @@ Wortärmer
 Wortärmste
 Wortbrüchig
 Wörtchen
+Worte
+Worten
 Wortentdeckungsreise
 Wörter
 Wörtern
@@ -1657,12 +1666,14 @@ Wunde
 Wunder
 Wunderbar
 Wunderbarerweise
+Wunderbares
 Wunderfrohe
 Wundergenommen
 Wunderhübsch
 Wunderhübscheste
 Wunderlich
 Wunderlichkeit
+Wundermären
 Wundern
 Wundernehmen
 Wundersam
@@ -1694,6 +1705,7 @@ Wuppertaler
 Wurde
 Würde
 Wurden
+Würden
 Würdenträger
 Würdevoll
 Würdig
@@ -1737,6 +1749,7 @@ Wusch
 Wuseln
 Wusste
 Wüsste
+Wüßtet
 Wust
 Wüst
 Wüste

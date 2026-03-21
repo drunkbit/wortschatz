@@ -29,6 +29,7 @@ macho
 Macho
 macht
 Macht
+machten
 machthabende
 Machthabende
 machthaberisch
@@ -414,12 +415,15 @@ manager
 Manager
 manc
 manch
+manchen
 manchenorts
+mancher
 mancherlei
 mancherorts
 manchester
 Manchester
 manchmal
+Manchmal
 mandant
 Mandant
 mandantenkreis
@@ -1221,10 +1225,13 @@ meilenweit
 meiler
 Meiler
 mein
+Mein
+meine
 meineid
 Meineid
 meinen
 Meinen
+meiner
 meinerseits
 meinesgleichen
 meinesteils
@@ -1264,6 +1271,7 @@ meistenteils
 meister
 Meister
 meisterhaft
+Meisterinnen
 meisterlich
 meistern
 meisterschaft
@@ -1314,6 +1322,7 @@ Melodram
 melodramatisch
 melone
 Melone
+Melonen
 melonensuppe
 Melonensuppe
 membran
@@ -1687,6 +1696,7 @@ Milbe
 milch
 Milch
 milchig
+Milchsuppe
 mild
 mildern
 Mildern
@@ -1909,6 +1919,7 @@ minutenschnell
 minutioes
 Mips
 mir
+Mirgorod
 Miriam
 misanthrop
 Misanthrop
@@ -3134,6 +3145,7 @@ Murksbehebung
 murmel
 Murmel
 murmeln
+murmelte
 murren
 mus
 Mus

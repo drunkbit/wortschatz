@@ -1,6 +1,7 @@
 t
 tabak
 tabakpfeifen
+tabaks
 tabaksbeutel
 tabaksdose
 tabaksqualm
@@ -209,6 +210,7 @@ tastverhältnis
 tat
 tatar
 täte
+täten
 tatendrang
 tatendurstig
 tatenlos
@@ -559,6 +561,7 @@ teufel
 teufelei
 teufels
 teuflisch
+teures
 teutoburger
 teutone
 teutonisch
@@ -753,6 +756,7 @@ titan
 titanic
 titanisch
 titel
+titelblatt
 titeln
 titelseite
 titelzeile
@@ -845,6 +849,7 @@ tonnengewölbe
 tonnenweise
 tonpfeife
 tonsur
+tönt
 tontaubenschießen
 tool
 top
@@ -1034,6 +1039,7 @@ trance
 tranche
 tranchier
 tranchieren
+träne
 tränen
 tränennass
 tränenüberströmt

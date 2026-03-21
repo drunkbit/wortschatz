@@ -633,6 +633,7 @@ Negligee
 Negro
 Nehmen
 Nehmer
+Nehmt
 Nehru
 Neid
 Neiden
@@ -641,6 +642,7 @@ Neidisch
 Neidlos
 Neidvoll
 Neigen
+Neigte
 Neigungs
 Nein
 Neinsager
@@ -712,6 +714,7 @@ Netzwerkfähig
 Neu
 Neuartig
 Neudeutsch
+Neue
 Neueinkleiden
 Neuem
 Neuen
@@ -720,6 +723,7 @@ Neuer
 Neuerdings
 Neuerung
 Neuerungspläne
+Neues
 Neuestens
 Neufundland
 Neugebildet
@@ -1195,6 +1199,7 @@ Notgelandet
 Notgeschlachtet
 Notieren
 Nötig
+Nötige
 Nötigen
 Nötigenfalls
 Notiz

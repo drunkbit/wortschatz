@@ -89,6 +89,7 @@ faelligkeit
 Faelligkeit
 faelligkeits
 Faelligkeits
+faellt
 faelschen
 Faelschen
 faelscher
@@ -500,6 +501,7 @@ federfuehrend
 federgewichtig
 federleicht
 federn
+Federn
 fedora
 Fedora
 fee
@@ -551,9 +553,11 @@ feierlichkeit
 Feierlichkeit
 feiern
 Feiertag
+Feiertages
 feiertags
 Feiertags
 feig
+Feige
 feigen
 Feigen
 feigheit
@@ -578,6 +582,7 @@ feindschaft
 Feindschaft
 feindselig
 feineinstellen
+feinem
 feinfuehlig
 feinfuehligkeit
 Feinfuehligkeit
@@ -603,6 +608,7 @@ feinstverteilt
 feinverteilt
 feld
 Feld
+Feldarbeiten
 feldfrei
 feldueberlegen
 feldwebel
@@ -659,6 +665,7 @@ fernbedienbar
 fernbleiben
 fernblieb
 ferne
+Ferne
 ferneingestellt
 fernen
 fernerhin
@@ -1046,6 +1053,7 @@ Finderloehne
 finderlohn
 Finderlohn
 findest
+findet
 findig
 findigkeit
 Findigkeit
@@ -1056,6 +1064,7 @@ Findungs
 finesse
 Finesse
 fing
+fingen
 finger
 Finger
 fingerdick
@@ -1172,6 +1181,7 @@ Flachheit
 flachhueglig
 flachs
 Flachs
+Flachskaemmen
 flackern
 flackerschein
 Flackerschein
@@ -1725,6 +1735,7 @@ Folsaeure
 folter
 Folter
 foltern
+Foma
 fond
 Fond
 fondsanteile
@@ -2087,6 +2098,8 @@ Fragment
 fragmentarisch
 fragmentieren
 Fragmentieren
+fragt
+fragte
 fragwuerdig
 fragwuerdigkeit
 Fragwuerdigkeit
@@ -2636,6 +2649,7 @@ Fuehren
 fuehrer
 Fuehrer
 fuehrerlos
+fuehrte
 fuehrungs
 Fuehrungs
 fuehrungslos
@@ -2767,6 +2781,7 @@ fuerze
 Fuerze
 fuesschen
 Fuesschen
+Fuessen
 fuettern
 Fuettern
 fug

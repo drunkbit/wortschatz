@@ -3,6 +3,7 @@ tabak
 Tabak
 tabakpfeifen
 Tabakpfeifen
+Tabaks
 tabaksbeutel
 Tabaksbeutel
 tabaksdose
@@ -350,6 +351,7 @@ Tat
 tatar
 Tatar
 täte
+täten
 tatendrang
 Tatendrang
 tatendurstig
@@ -949,6 +951,7 @@ Teufelei
 teufels
 Teufels
 teuflisch
+teures
 teutoburger
 Teutoburger
 teutone
@@ -1266,6 +1269,7 @@ Titanic
 titanisch
 titel
 Titel
+Titelblatt
 titeln
 titelseite
 Titelseite
@@ -1287,6 +1291,7 @@ toasten
 toaster
 Toaster
 toben
+Toben
 Tobias
 tobsucht
 Tobsucht
@@ -1414,6 +1419,7 @@ tonpfeife
 Tonpfeife
 tonsur
 Tonsur
+tönt
 tontaubenschießen
 Tontaubenschießen
 tool
@@ -1725,6 +1731,7 @@ Tranche
 tranchier
 Tranchier
 tranchieren
+Träne
 tränen
 Tränen
 tränennass

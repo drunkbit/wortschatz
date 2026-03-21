@@ -1174,6 +1174,7 @@ ungültigkeitserklärung
 Ungültigkeitserklärung
 ungunst
 Ungunst
+ungut
 unheil
 Unheil
 unheilbarkeit
@@ -1428,6 +1429,7 @@ unser
 unsere
 unsereiner
 unsereins
+unserem
 unsererseits
 unseresgleichen
 unserm
@@ -2101,6 +2103,7 @@ urzustand
 Urzustand
 urzustände
 Urzustände
+us
 US
 USA
 USB

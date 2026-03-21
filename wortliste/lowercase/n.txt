@@ -633,6 +633,7 @@ negligee
 negro
 nehmen
 nehmer
+nehmt
 nehru
 neid
 neiden
@@ -641,6 +642,7 @@ neidisch
 neidlos
 neidvoll
 neigen
+neigte
 neigungs
 nein
 neinsager
@@ -712,6 +714,7 @@ netzwerkfähig
 neu
 neuartig
 neudeutsch
+neue
 neueinkleiden
 neuem
 neuen
@@ -720,6 +723,7 @@ neuer
 neuerdings
 neuerung
 neuerungspläne
+neues
 neuestens
 neufundland
 neugebildet
@@ -1195,6 +1199,7 @@ notgelandet
 notgeschlachtet
 notieren
 nötig
+nötige
 nötigen
 nötigenfalls
 notiz

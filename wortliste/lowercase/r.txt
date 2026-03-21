@@ -366,6 +366,7 @@ rechteckig
 rechtens
 rechtfertigen
 rechtfertigung
+rechtgläubigen
 rechtgläubigkeit
 rechthaber
 rechthaberei
@@ -692,6 +693,7 @@ reinschnuppern
 reinschreiben
 reinschrift
 reinstallieren
+reinste
 reinvestieren
 reinwaschen
 reinweg
@@ -1190,6 +1192,7 @@ röcke
 rockefeller
 rocker
 rockerbande
+rockes
 rockig
 rodelbahn
 rodeln
@@ -1252,6 +1255,7 @@ rosenheimer
 rosette
 rosig
 rosine
+rosinen
 rosmarin
 rösser
 rosshäute
@@ -1273,6 +1277,8 @@ rotchinesen
 rote
 röte
 röteln
+rotem
+roten
 röter
 roth
 rothaarig
@@ -1368,6 +1374,7 @@ rücktrittserklärung
 rücktrittsrede
 rückverfolgen
 rückwärtig
+rückwärtige
 rückwärts
 rückwärtsgewandt
 rückwärtslaufen

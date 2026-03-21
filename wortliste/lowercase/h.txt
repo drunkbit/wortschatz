@@ -1,6 +1,7 @@
 h
 haag
 haar
+haare
 haaresbreite
 haargenau
 haarig
@@ -33,6 +34,7 @@ habsburgisch
 habseligkeit
 habsucht
 habsüchtig
+habt
 hachse
 hack
 hacken
@@ -264,6 +266,7 @@ hängenbleiben
 hänger
 hängig
 hängt
+hängte
 haniel
 hanne
 hannelore
@@ -310,6 +313,7 @@ hardwarespezifisch
 harem
 haremsdame
 harfe
+harke
 harken
 harlekin
 harlem
@@ -367,6 +371,7 @@ hat
 hätscheln
 hatte
 hätte
+hatten
 häubchen
 haube
 haubitze
@@ -403,6 +408,7 @@ hauptgefreiten
 hauptleidtragende
 häuptling
 hauptprozessor
+hauptsache
 hauptsacheverfahren
 hauptsächlich
 hauptschuldige
@@ -421,8 +427,10 @@ hause
 hauseigen
 hausen
 häuser
+hausfrau
 hausfraulich
 hausgemacht
+hausgewebter
 haushalten
 haushälter
 haushälterisch
@@ -528,6 +536,7 @@ heidentum
 heidepastor
 heidi
 heidnisch
+heidnischen
 heike
 heikel
 heiko
@@ -630,6 +639,7 @@ heißblütig
 heißen
 heißhungrig
 heißlaufen
+heißt
 heiter
 heiterhell
 heiterkeit
@@ -699,6 +709,7 @@ helvetisch
 helvetismen
 helvetismus
 hemd
+hemde
 hemdenstoff
 hemdsärmel
 hemdsärmelig
@@ -836,6 +847,7 @@ herausbekommen
 herausbewegen
 herausbilden
 herausbrachte
+herausbringe
 herausbringen
 herausdestillieren
 herausdrehen
@@ -1167,6 +1179,7 @@ herrisch
 herrjemine
 herrlich
 herrlichkeit
+herrn
 herrschaft
 herrschaftlich
 herrschafts
@@ -1273,6 +1286,7 @@ herumwedeln
 herumwirbeln
 herumwirtschaften
 herumwuchern
+herumwühlt
 herumzeigen
 herumziehen
 herumzubewegen
@@ -1280,6 +1294,7 @@ herumzufliegen
 herumzuführen
 herumzugehen
 herumzuknutschen
+herumzukramen
 herumzulaufen
 herumzureden
 herumzureißen
@@ -1327,6 +1342,7 @@ herunterschob
 heruntersetzen
 herunterspielen
 heruntersprechen
+herunterstoßen
 herunterwirtschaften
 herunterzubringen
 herunterzufahren
@@ -1356,6 +1372,7 @@ hervorging
 hervorheben
 hervorhob
 hervorholen
+hervorholte
 hervorkroch
 hervorlodern
 hervorlugen
@@ -1902,6 +1919,7 @@ hinterhersieht
 hinterherwinken
 hinterherzuhetzen
 hinterherzulaufen
+hinterhofe
 hinterlassen
 hinterlassenschaft
 hinterlässt
@@ -1930,6 +1948,7 @@ hinüberlenken
 hinüberretten
 hinüberströmen
 hinüberwaten
+hinüberzufahren
 hinüberzuretten
 hinunter
 hinunterfallen
@@ -2322,12 +2341,14 @@ hohenzoller
 höhepunkt
 hoher
 höher
+höheren
 höherentwicklung
 höherfrequent
 höhergestimmt
 höherverzinst
 höherwertig
 hohl
+hohle
 höhle
 höhlen
 höhlt
@@ -2363,6 +2384,7 @@ holperig
 holpern
 holstein
 holsteinisch
+holt
 holte
 holunder
 holunderbaum
@@ -2451,6 +2473,7 @@ horrend
 horror
 horst
 hort
+hört
 horten
 hortensie
 hortungskäufe
@@ -2613,6 +2636,7 @@ hütchen
 hüte
 hüten
 hüter
+hütet
 hutstumpen
 hütte
 hütten

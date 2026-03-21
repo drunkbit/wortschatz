@@ -53,6 +53,7 @@ palaearktis
 palaeoanthropologie
 palaeontologe
 palaeste
+palaesten
 palaestina
 palaestinafrage
 palaestinakonferenz
@@ -91,6 +92,7 @@ panik
 panikartig
 panikmache
 panisch
+panjko
 pankow
 panne
 pannen
@@ -295,6 +297,7 @@ parzelle
 parzellieren
 pascal
 pascha
+pascholl
 pass
 passabel
 passage
@@ -332,6 +335,7 @@ pastellfarbe
 pastellzart
 pastenfoermig
 pastete
+pasteten
 pasteurisieren
 pastor
 pastoral
@@ -668,6 +672,7 @@ pfleger
 pflegerisch
 pfleglich
 pflegling
+pflegte
 pflicht
 pflichtbewusst
 pflichteifrig
@@ -1045,6 +1050,7 @@ plattgewalzt
 plattituede
 platz
 platzanweiser
+platze
 platzen
 platzieren
 platzierungs
@@ -1204,6 +1210,7 @@ polopferd
 polospieler
 polster
 polstern
+poltawa
 polterabend
 poltergeister
 poltern

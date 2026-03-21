@@ -60,6 +60,7 @@ bakteriell
 bakterien
 bakteriologe
 bakterium
+balalaika
 balance
 balanceakt
 balancieren
@@ -82,6 +83,7 @@ ball
 ballade
 ballaststoffreich
 ballen
+bällen
 ballerina
 ballerinen
 ballern
@@ -272,12 +274,14 @@ baulich
 baum
 baumartig
 bäumchen
+baume
 baumeln
 baumstark
 baumstumpf
 bäumt
 bäumte
 baumwollen
+baumwollenes
 baupolitisch
 baurechtlich
 baureif
@@ -409,6 +413,7 @@ bedrohungs
 bedrucken
 bedrücken
 bedruckt
+bedrucktes
 bedürfen
 bedürfnis
 bedürfnisgerecht
@@ -537,6 +542,7 @@ begießen
 beging
 beginn
 beginnen
+beginnt
 beglaubigen
 beglaubigungs
 begleichen
@@ -720,8 +726,10 @@ beimischen
 beimisst
 bein
 beinah
+beinahe
 beiname
 beinamen
+beine
 beinhalten
 beinhaltet
 beinhart
@@ -1240,6 +1248,7 @@ beschlussfähig
 beschlussunfähig
 beschmieren
 beschmutzen
+beschmutzt
 beschneiden
 beschnitten
 beschönigen
@@ -1344,6 +1353,7 @@ besprochen
 besprühen
 bespucken
 besser
+besseren
 bessern
 besserungs
 besserverdiener
@@ -1391,6 +1401,7 @@ bestell
 bestellen
 besteller
 bestempfohlen
+besten
 bestenfalls
 bestenliste
 bestens
@@ -1403,6 +1414,7 @@ bestgelegen
 bestialisch
 besticht
 besticken
+bestickt
 bestie
 bestiegen
 bestiehlt
@@ -1444,6 +1456,7 @@ besuch
 besuchen
 besucher
 besuchs
+besucht
 besudeln
 besungen
 beta
@@ -1748,6 +1761,9 @@ bielefeld
 bielefelder
 biene
 bienen
+bienenzüchter
+bienenzüchterhütte
+bienenzüchters
 bier
 biest
 bieten
@@ -1871,6 +1887,7 @@ birnbaum
 birne
 birnen
 birnenförmig
+birnenkwaß
 bis
 bisamratte
 bischof
@@ -1981,6 +1998,7 @@ blaugemacht
 blaugrau
 blaugrün
 blauhelmsoldat
+blaukariertes
 bläulich
 blaumetallic
 blech
@@ -1989,6 +2007,7 @@ blechern
 blei
 bleibe
 bleiben
+bleibt
 bleich
 bleichen
 bleiern
@@ -2004,6 +2023,7 @@ blick
 blicken
 blickfangend
 blicklos
+blickt
 blieb
 blies
 blind
@@ -2363,6 +2383,7 @@ brauerbund
 brauerei
 braun
 bräune
+braunen
 bräunen
 bräunlich
 braunschwarz
@@ -2553,11 +2574,13 @@ bübisch
 buch
 buchbinderhandwerk
 buchbindermeister
+buche
 buchecker
 buchen
 bücher
 bücherei
 büchermachen
+büchern
 buchform
 buchgesegnete
 buchhalterisch
@@ -2731,6 +2754,7 @@ bürokratie
 bürokratisch
 bürokratismus
 bursche
+burschen
 burschenhaft
 burschenschaft
 burschenschaftler

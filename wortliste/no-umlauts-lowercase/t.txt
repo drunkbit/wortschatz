@@ -1,6 +1,7 @@
 t
 tabak
 tabakpfeifen
+tabaks
 tabaksbeutel
 tabaksdose
 tabaksqualm
@@ -43,6 +44,7 @@ taenzerisch
 taeppisch
 taesschen
 taete
+taeten
 taeter
 taeterschaft
 taetersuche
@@ -559,6 +561,7 @@ teufel
 teufelei
 teufels
 teuflisch
+teures
 teutoburger
 teutone
 teutonisch
@@ -753,6 +756,7 @@ titan
 titanic
 titanisch
 titel
+titelblatt
 titeln
 titelseite
 titelzeile
@@ -793,6 +797,7 @@ toelpelhaft
 toene
 toenen
 toenern
+toent
 toepfe
 toepfer
 toepferei
@@ -994,6 +999,7 @@ traegheit
 traegheitsgesetz
 traegt
 traellern
+traene
 traenen
 traenennass
 traenenueberstroemt

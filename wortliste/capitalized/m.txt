@@ -24,6 +24,7 @@ Machiavelli
 Macho
 Macht
 Mächte
+Machten
 Machthabende
 Machthaberisch
 Mächtig
@@ -208,7 +209,9 @@ Managen
 Manager
 Manc
 Manch
+Manchen
 Manchenorts
+Mancher
 Mancherlei
 Mancherorts
 Manchester
@@ -745,8 +748,10 @@ Meilenstein
 Meilenweit
 Meiler
 Mein
+Meine
 Meineid
 Meinen
+Meiner
 Meinerseits
 Meinesgleichen
 Meinesteils
@@ -775,6 +780,7 @@ Meistens
 Meistenteils
 Meister
 Meisterhaft
+Meisterinnen
 Meisterlich
 Meistern
 Meisterschaft
@@ -808,6 +814,7 @@ Melodisch
 Melodram
 Melodramatisch
 Melone
+Melonen
 Melonensuppe
 Membran
 Membranabdeckung
@@ -1038,6 +1045,7 @@ Milan
 Milbe
 Milch
 Milchig
+Milchsuppe
 Mild
 Mildern
 Milderungsgrund
@@ -1176,6 +1184,7 @@ Minutiös
 Minütlich
 Mips
 Mir
+Mirgorod
 Miriam
 Misanthrop
 Misanthropisch
@@ -1990,6 +1999,7 @@ Murks
 Murksbehebung
 Murmel
 Murmeln
+Murmelte
 Murren
 Mürrisch
 Mus
@@ -2022,6 +2032,7 @@ Müsli
 Muslim
 Muslimisch
 Muss
+Muß
 Muße
 Musselin
 Musselinkleid

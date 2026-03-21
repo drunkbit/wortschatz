@@ -27,6 +27,7 @@ baeckerei
 baeckt
 baeder
 baelde
+baellen
 baende
 baendel
 baender
@@ -82,6 +83,7 @@ bakteriell
 bakterien
 bakteriologe
 bakterium
+balalaika
 balance
 balanceakt
 balancieren
@@ -275,10 +277,12 @@ baugleich
 baulich
 baum
 baumartig
+baume
 baumeln
 baumstark
 baumstumpf
 baumwollen
+baumwollenes
 baupolitisch
 baurechtlich
 baureif
@@ -408,6 +412,7 @@ bedrohlich
 bedrohungs
 bedrucken
 bedruckt
+bedrucktes
 bedruecken
 beduerfen
 beduerfnis
@@ -537,6 +542,7 @@ begiessen
 beging
 beginn
 beginnen
+beginnt
 beglaubigen
 beglaubigungs
 begleichen
@@ -720,8 +726,10 @@ beimischen
 beimisst
 bein
 beinah
+beinahe
 beiname
 beinamen
+beine
 beinhalten
 beinhaltet
 beinhart
@@ -1240,6 +1248,7 @@ beschlussfaehig
 beschlussunfaehig
 beschmieren
 beschmutzen
+beschmutzt
 beschneiden
 beschnitten
 beschoenigen
@@ -1344,6 +1353,7 @@ besprochen
 bespruehen
 bespucken
 besser
+besseren
 bessern
 besserungs
 besserverdiener
@@ -1391,6 +1401,7 @@ bestell
 bestellen
 besteller
 bestempfohlen
+besten
 bestenfalls
 bestenliste
 bestens
@@ -1403,6 +1414,7 @@ bestgelegen
 bestialisch
 besticht
 besticken
+bestickt
 bestie
 bestiegen
 bestiehlt
@@ -1444,6 +1456,7 @@ besuch
 besuchen
 besucher
 besuchs
+besucht
 besudeln
 besungen
 beta
@@ -1748,6 +1761,9 @@ bielefeld
 bielefelder
 biene
 bienen
+bienenzuechter
+bienenzuechterhuette
+bienenzuechters
 bier
 biest
 bieten
@@ -1871,6 +1887,7 @@ birnbaum
 birne
 birnen
 birnenfoermig
+birnenkwass
 bis
 bisamratte
 bischoefe
@@ -1982,6 +1999,7 @@ blaugemacht
 blaugrau
 blaugruen
 blauhelmsoldat
+blaukariertes
 blaumetallic
 blech
 blechen
@@ -1989,6 +2007,7 @@ blechern
 blei
 bleibe
 bleiben
+bleibt
 bleich
 bleichen
 bleiern
@@ -2004,6 +2023,7 @@ blick
 blicken
 blickfangend
 blicklos
+blickt
 blieb
 blies
 blind
@@ -2367,6 +2387,7 @@ brauer
 brauerbund
 brauerei
 braun
+braunen
 braunschwarz
 braunschweig
 braunschweiger
@@ -2552,6 +2573,7 @@ buben
 buch
 buchbinderhandwerk
 buchbindermeister
+buche
 buchecker
 buchen
 buchform
@@ -2592,6 +2614,7 @@ buebisch
 buecher
 buecherei
 buechermachen
+buechern
 buechlein
 buechner
 buechse
@@ -2743,6 +2766,7 @@ burlesk
 burma
 burmesisch
 bursche
+burschen
 burschenhaft
 burschenschaft
 burschenschaftler

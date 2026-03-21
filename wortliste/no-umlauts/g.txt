@@ -39,6 +39,7 @@ gaense
 Gaense
 gaenserich
 Gaenserich
+Gaenseschmalz
 gaenze
 Gaenze
 gaenzlich
@@ -71,6 +72,7 @@ gaesschen
 Gaesschen
 gaeste
 Gaeste
+Gaesten
 gaeule
 Gaeule
 gaffen
@@ -146,6 +148,8 @@ Gans
 ganz
 ganzaufnahme
 Ganzaufnahme
+ganze
+ganzen
 ganzgewebe
 Ganzgewebe
 ganzheit
@@ -604,6 +608,7 @@ Gedroehn
 gedroht
 gedrosselt
 gedruckt
+gedruckten
 gedrueckt
 gedrungen
 geduckt
@@ -693,6 +698,7 @@ gefallsucht
 Gefallsucht
 gefallsuechtig
 gefaltet
+gefaltetes
 gefalzt
 gefangen
 gefangene
@@ -936,6 +942,7 @@ gegruebelt
 gegruendet
 gegruesst
 geguckt
+Geh
 gehabe
 Gehabe
 gehabt
@@ -1186,6 +1193,7 @@ gekaspert
 gekaudert
 gekauert
 gekauft
+gekaufte
 gekaut
 gekehrt
 gekeife
@@ -1472,6 +1480,7 @@ gemahlen
 gemahnen
 gemailt
 gemalt
+gemalte
 gemanagt
 gemangelt
 gemarkung
@@ -1635,6 +1644,7 @@ generaloberst
 Generaloberst
 generalresident
 Generalresident
+Generals
 generalsmarsch
 Generalsmarsch
 generalsrang
@@ -2256,6 +2266,7 @@ gescheuert
 gescheut
 geschichte
 Geschichte
+Geschichten
 geschichtenbaum
 Geschichtenbaum
 geschichtenerzaehler
@@ -2979,6 +2990,7 @@ getypt
 geuebt
 geulkt
 geurteilt
+Gevatter
 gevierteilt
 gevoegelt
 GEW
@@ -3176,6 +3188,7 @@ gewitzt
 gewoehnen
 Gewoehnen
 gewoehnlich
+gewoehnliche
 gewoehnlicherweise
 gewoehnlichkeit
 Gewoehnlichkeit
@@ -3545,6 +3558,7 @@ Gleitkommazahl
 gletscher
 Gletscher
 glich
+glichen
 glied
 Glied
 glieder
@@ -4021,6 +4035,7 @@ graugruen
 grauhaarig
 graupe
 Graupe
+Graupen
 Graus
 grausam
 grausamkeit
@@ -4063,6 +4078,7 @@ Gregor
 greif
 Greif
 greifen
+greifend
 greifer
 Greifer
 greis
@@ -4122,6 +4138,8 @@ griffel
 Griffel
 grifffest
 griffig
+Grigorjewitsch
+Grigorjewitschs
 grill
 Grill
 grillen
@@ -4193,6 +4211,7 @@ grossbritannien
 Grossbritannien
 grossbuergerlich
 grosse
+grossen
 grossenteils
 grossflaechig
 grossformatig
@@ -4208,6 +4227,7 @@ grossistenverband
 Grossistenverband
 grossjaehrig
 grosskalibrig
+grossmaechtigen
 grossmannssucht
 Grossmannssucht
 grossmuetig
@@ -4315,6 +4335,7 @@ gruppieren
 Gruppieren
 grusel
 Grusel
+gruselige
 gruseln
 gruslig
 gruss

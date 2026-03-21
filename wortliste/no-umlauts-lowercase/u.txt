@@ -1292,6 +1292,7 @@ ungreifbar
 ungueltigkeit
 ungueltigkeitserklaerung
 ungunst
+ungut
 unheil
 unheilbarkeit
 unheilsprophetie
@@ -1454,6 +1455,7 @@ unser
 unsere
 unsereiner
 unsereins
+unserem
 unsererseits
 unseresgleichen
 unserm

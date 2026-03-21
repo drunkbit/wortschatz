@@ -107,6 +107,7 @@ jederlei
 jedermann
 jederzeit
 jederzeitig
+jedes
 jedoch
 jedwede
 jeep
@@ -120,6 +121,7 @@ jemanden
 jemen
 jena
 jene
+jenem
 jens
 jenseits
 jenseitsverheissung
@@ -249,6 +251,7 @@ jumper
 jung
 jungamerikaner
 junge
+jungen
 jungenbeine
 jungenhaft
 jungens

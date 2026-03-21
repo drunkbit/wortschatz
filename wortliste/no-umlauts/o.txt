@@ -137,6 +137,7 @@ obstruktion
 Obstruktion
 obstruktionskurs
 Obstruktionskurs
+Obstschnaps
 obszoen
 obszoenitaet
 Obszoenitaet
@@ -161,6 +162,7 @@ Odem
 odenwald
 Odenwald
 oder
+Oder
 odessa
 Odessa
 odium
@@ -309,6 +311,7 @@ ohm
 Ohm
 ohmsch
 ohne
+Ohne
 ohnedies
 ohneeinander
 ohnegleichen
@@ -325,6 +328,7 @@ ohrenbetaeubend
 ohrfeigen
 ohrlaeppchen
 Ohrlaeppchen
+Ohrringen
 Ohrwurm
 okay
 okkult
