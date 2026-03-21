@@ -1,6 +1,8 @@
 import { Command } from "commander";
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { execFile } from "node:child_process";
+import { mkdir, readFile, stat, writeFile } from "node:fs/promises";
 import { join } from "node:path";
+import { promisify } from "node:util";
 import { exportWordlist } from "./pipeline/export.js";
 import { mergeWordlists } from "./pipeline/merge.js";
 import {
@@ -178,6 +180,212 @@ program
         }
         console.log("========================================\n");
     });
+
+// --- stats: Statistiken anzeigen ---
+program
+    .command("stats")
+    .description("Statistiken über Quellen, Überlappung und Wachstum anzeigen")
+    .action(async () => {
+        const sourceNames = [
+            "hunspell",
+            "wiktionary",
+            "dwds",
+            "custom",
+        ] as const;
+        const sources = new Map<string, Set<string>>();
+
+        // Quellen laden
+        console.log("\n  Lade gecachte Quellen ...\n");
+        for (const name of sourceNames) {
+            const data = await loadCacheFile(`${name}.json`);
+            if (data) {
+                sources.set(name, new Set(data));
+            }
+        }
+
+        // Bestehende Wortliste laden
+        const existing = await loadExistingWordlist();
+
+        // ── 1. Wortanzahl pro Quelle ──
+        console.log("========================================");
+        console.log("  Wortschatz — Statistiken");
+        console.log("========================================\n");
+
+        console.log("── Wörter pro Quelle ──\n");
+        for (const name of sourceNames) {
+            const set = sources.get(name);
+            const count = set ? set.size : 0;
+            const label = name.padEnd(14);
+            console.log(
+                `  ${label} ${count.toLocaleString("de-DE").padStart(10)} Wörter`,
+            );
+        }
+        console.log(`  ${"".padEnd(14)} ${"".padStart(10, "─")}`);
+        console.log(
+            `  ${"Wortliste".padEnd(14)} ${existing.length.toLocaleString("de-DE").padStart(10)} Wörter (nach Merge)\n`,
+        );
+
+        // ── 2. Überlappung zwischen Quellen ──
+        const activeNames = sourceNames.filter((n) => sources.has(n));
+
+        if (activeNames.length >= 2) {
+            console.log("── Überlappung zwischen Quellen ──\n");
+
+            for (let i = 0; i < activeNames.length; i++) {
+                for (let j = i + 1; j < activeNames.length; j++) {
+                    const nameA = activeNames[i];
+                    const nameB = activeNames[j];
+                    const setA = sources.get(nameA)!;
+                    const setB = sources.get(nameB)!;
+
+                    let overlap = 0;
+                    const smaller = setA.size <= setB.size ? setA : setB;
+                    const larger = setA.size <= setB.size ? setB : setA;
+                    for (const word of smaller) {
+                        if (larger.has(word)) overlap++;
+                    }
+
+                    const pairLabel = `${nameA} ∩ ${nameB}`;
+                    console.log(
+                        `  ${pairLabel.padEnd(28)} ${overlap.toLocaleString("de-DE").padStart(10)} gemeinsame Wörter`,
+                    );
+                }
+            }
+            console.log("");
+
+            // Exklusiv pro Quelle
+            console.log("── Exklusive Wörter (nur in dieser Quelle) ──\n");
+
+            for (const name of activeNames) {
+                const set = sources.get(name)!;
+                let exclusive = 0;
+                for (const word of set) {
+                    const inOther = activeNames.some(
+                        (other) =>
+                            other !== name && sources.get(other)!.has(word),
+                    );
+                    if (!inOther) exclusive++;
+                }
+                const pct =
+                    set.size > 0
+                        ? ((exclusive / set.size) * 100).toFixed(1)
+                        : "0.0";
+                console.log(
+                    `  ${name.padEnd(14)} ${exclusive.toLocaleString("de-DE").padStart(10)} exklusiv (${pct}%)`,
+                );
+            }
+            console.log("");
+        }
+
+        // ── 3. Wachstum über Zeit (Git-Historie) ──
+        console.log("── Wachstum über Zeit ──\n");
+
+        const history = await getWordlistHistory();
+        if (history.length === 0) {
+            console.log("  Keine Git-Historie verfügbar.\n");
+        } else {
+            for (const entry of history) {
+                const delta =
+                    entry.delta !== null
+                        ? (entry.delta >= 0 ? "+" : "") +
+                          entry.delta.toLocaleString("de-DE")
+                        : "";
+                console.log(
+                    `  ${entry.date}   ${entry.count.toLocaleString("de-DE").padStart(10)} Wörter  ${delta}`,
+                );
+            }
+            console.log("");
+        }
+
+        // ── 4. Cache-Alter ──
+        console.log("── Cache-Alter ──\n");
+        for (const name of sourceNames) {
+            const age = await getCacheAge(`${name}.json`);
+            const label = name.padEnd(14);
+            console.log(`  ${label} ${age}`);
+        }
+
+        console.log("\n========================================\n");
+    });
+
+interface HistoryEntry {
+    date: string;
+    count: number;
+    delta: number | null;
+}
+
+const execFileAsync = promisify(execFile);
+
+async function getWordlistHistory(): Promise<HistoryEntry[]> {
+    const repoRoot = new URL("../../", import.meta.url).pathname;
+    const relPath = "wortliste/original/_alle.txt";
+
+    try {
+        // Get commits that touched the wordlist file
+        const { stdout } = await execFileAsync(
+            "git",
+            ["log", "--pretty=format:%H %as", "--follow", "--", relPath],
+            { cwd: repoRoot, maxBuffer: 1024 * 1024 },
+        );
+
+        if (!stdout.trim()) return [];
+
+        const commits = stdout
+            .trim()
+            .split("\n")
+            .map((line) => {
+                const [hash, date] = line.split(" ");
+                return { hash, date };
+            });
+
+        // Limit to last 20 commits for performance
+        const limited = commits.slice(0, 20);
+
+        const entries: HistoryEntry[] = [];
+
+        for (const { hash, date } of limited) {
+            try {
+                const { stdout: content } = await execFileAsync(
+                    "git",
+                    ["show", `${hash}:${relPath}`],
+                    { cwd: repoRoot, maxBuffer: 50 * 1024 * 1024 },
+                );
+                const count = content
+                    .split("\n")
+                    .filter((l) => l.length > 0).length;
+                entries.push({ date, count, delta: null });
+            } catch {
+                // File didn't exist in this commit
+            }
+        }
+
+        // Calculate deltas (newest first → delta = current - next)
+        for (let i = 0; i < entries.length - 1; i++) {
+            entries[i].delta = entries[i].count - entries[i + 1].count;
+        }
+
+        // Reverse to show oldest → newest
+        return entries.reverse();
+    } catch {
+        return [];
+    }
+}
+
+async function getCacheAge(filename: string): Promise<string> {
+    try {
+        const path = join(CACHE_DIR, filename);
+        const info = await stat(path);
+        const ageMs = Date.now() - info.mtimeMs;
+        const hours = Math.floor(ageMs / (1000 * 60 * 60));
+        const days = Math.floor(hours / 24);
+
+        if (days > 0) return `vor ${days} Tag${days === 1 ? "" : "en"}`;
+        if (hours > 0) return `vor ${hours} Stunde${hours === 1 ? "" : "n"}`;
+        return "gerade eben";
+    } catch {
+        return "nicht vorhanden";
+    }
+}
 
 // --- Hilfsfunktionen ---
 
