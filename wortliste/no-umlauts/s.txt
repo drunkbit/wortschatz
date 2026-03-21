@@ -202,6 +202,7 @@ sagengestalt
 Sagengestalt
 sagenhaft
 sagenumwoben
+sagte
 sah
 sahara
 Sahara
@@ -260,6 +261,7 @@ saldomitteilung
 Saldomitteilung
 saldovortrag
 Saldovortrag
+salis
 salisbury
 Salisbury
 salm
@@ -405,6 +407,7 @@ Sanitaets
 sank
 sanktion
 Sanktion
+Sanktionen
 sanktionieren
 Sanktionieren
 sanktionsausschuss
@@ -468,6 +471,7 @@ satellit
 Satellit
 satelliten
 Satelliten
+Satellitenbildern
 satellitengestuetzt
 satin
 Satin
@@ -718,6 +722,7 @@ schaeumwerkzeug
 Schaeumwerkzeug
 schaf
 Schaf
+Schafe
 schaffen
 Schaffen
 schaffens
@@ -970,6 +975,9 @@ Schaum
 Schaumburg
 schaumig
 schaurig
+Schauspieler
+Schauspielerin
+Schauspielleitung
 schaut
 scheck
 Scheck
@@ -1208,17 +1216,22 @@ Schiffbruch
 schiffbruechig
 schiffbruecke
 Schiffbruecke
+Schiffe
 schiffen
+Schiffen
 schiffer
 Schiffer
 schifffahrt
 Schifffahrt
 schifffahrts
 Schifffahrts
+Schifffahrtsgesetz
 schiffs
 Schiffs
+Schiffsbewegungen
 schiffschaukel
 Schiffschaukel
+Schiffsverkehr
 schiffwerft
 Schiffwerft
 schiit
@@ -1370,6 +1383,7 @@ schlagfertigkeit
 Schlagfertigkeit
 schlagfest
 schlagkraeftig
+Schlagkraft
 schlagstark
 schlagwettergefaehrdet
 schlagwettergeschuetzt
@@ -1534,6 +1548,7 @@ schliesslich
 schliff
 Schliff
 schlimm
+Schlimm
 schlimmstenfalls
 schlingen
 schlingern
@@ -2141,6 +2156,7 @@ Schraemmaschine
 schraenke
 Schraenke
 schraenken
+schraenkt
 schraffieren
 Schraffieren
 schraffur
@@ -2255,6 +2271,7 @@ schrimp
 Schrimp
 schritt
 Schritt
+Schritte
 schritthalten
 schrittweise
 Schroeder
@@ -2785,6 +2802,7 @@ schwierig
 schwierigen
 schwierigkeit
 Schwierigkeit
+Schwierigkeiten
 schwierigkeits
 Schwierigkeits
 schwillt
@@ -2878,6 +2896,7 @@ Schwurgericht
 sciencefiction
 Sciencefiction
 Scientology
+Scott
 scratchpad
 Scratchpad
 screenshot
@@ -2964,6 +2983,7 @@ see
 See
 seefahrend
 seefest
+Seehoehe
 seehundjaeger
 Seehundjaeger
 seehundsfell
@@ -3018,6 +3038,7 @@ segnen
 Segnen
 seh
 Seh
+sehe
 sehen
 Sehen
 sehenswert
@@ -3057,6 +3078,7 @@ seidenraupenzucht
 Seidenraupenzucht
 seidenweich
 seidig
+seien
 seiend
 seife
 Seife
@@ -3071,6 +3093,7 @@ Seiko
 seil
 Seil
 seilen
+Seiler
 seilhuepfen
 Seilhuepfen
 seilpotis
@@ -3103,6 +3126,7 @@ seismograph
 Seismograph
 seismologisch
 seit
+Seit
 seitdem
 seite
 Seite
@@ -3245,6 +3269,7 @@ Seligsprechung
 sellerie
 Sellerie
 selten
+Selten
 seltene
 seltenheit
 Seltenheit
@@ -3488,6 +3513,7 @@ setup
 Setup
 setzdruck
 Setzdruck
+setze
 setzen
 Setzen
 setzer
@@ -3504,6 +3530,7 @@ setzmaschine
 Setzmaschine
 setzreis
 Setzreis
+setzte
 setzwaage
 Setzwaage
 seuche
@@ -3539,6 +3566,7 @@ sexual
 Sexual
 sexualisieren
 Sexualisieren
+sexualisierte
 sexualitaet
 Sexualitaet
 sexuell
@@ -3599,6 +3627,7 @@ sichel
 Sichel
 sichelfoermig
 sicher
+sichere
 sichergehen
 sichergestellt
 sicherheit
@@ -3617,6 +3646,7 @@ sichern
 Sichern
 sicherstellen
 Sicherstellen
+Sicherung
 sicherungs
 Sicherungs
 sicherungsuebereignet
@@ -4197,10 +4227,12 @@ Snob
 so
 So
 sobald
+Social
 socke
 Socke
 sockel
 Sockel
+Sockenbaeren
 sockenhalter
 Sockenhalter
 socket
@@ -4218,6 +4250,7 @@ Sodom
 sodomie
 Sodomie
 soeben
+Soeckoebaern
 soehne
 Soehne
 soehnen
@@ -4271,6 +4304,8 @@ Sog
 sogar
 Sogar
 sogenannt
+sogenannte
+sogenannten
 sogleich
 sogwirkung
 Sogwirkung
@@ -4418,6 +4453,7 @@ sonderlombarde
 Sonderlombarde
 sondern
 sonderpaedagogisch
+Sondersitzung
 sonderwaffenstillstand
 Sonderwaffenstillstand
 sonderziehungsrechte
@@ -4448,6 +4484,7 @@ sonnenerhitzt
 sonnengebraeunt
 sonnenklar
 sonnenueberglaenzt
+Sonnenuntergang
 sonnenverbrannt
 sonnig
 sonntaeglich
@@ -4721,6 +4758,7 @@ spant
 Spant
 spar
 Spar
+Sparbedarf
 SPARC
 sparen
 Sparen
@@ -4731,6 +4769,7 @@ Spareribs
 spargel
 Spargel
 Sparkasse
+Sparpaket
 Sparplan
 sparre
 Sparre
@@ -4905,6 +4944,7 @@ Spezialitaet
 spezialstaehle
 Spezialstaehle
 speziell
+spezieller
 spezifika
 Spezifika
 spezifikation
@@ -4918,11 +4958,13 @@ Spezifikationstechnik
 spezifikum
 Spezifikum
 spezifisch
+spezifischer
 spezifizieren
 Spezifizieren
 spezifiziert
 sphaere
 Sphaere
+Sphaeren
 sphaerisch
 sphinx
 Sphinx
@@ -5215,6 +5257,8 @@ Sprinter
 sprit
 Sprit
 Spritpreisbremse
+Spritpreise
+Spritpreisen
 spritsparen
 Spritsparen
 spritz
@@ -5320,6 +5364,7 @@ staaten
 Staaten
 staatenlos
 staatlich
+staatliche
 staatlichen
 staatlichkeit
 Staatlichkeit
@@ -5340,6 +5385,7 @@ Staatshoheit
 staatsklug
 staatskritisch
 staatsmaennisch
+Staatsmedien
 staatspolitisch
 staatsrechtlich
 staatsverbuergt
@@ -5362,6 +5408,7 @@ stabilisator
 Stabilisator
 stabilisieren
 Stabilisieren
+Stabilisierung
 stabilisierungs
 Stabilisierungs
 stabilitaet
@@ -5450,6 +5497,7 @@ staerken
 Staerken
 staerker
 staerkste
+staerksten
 Staerkung
 staerkungsmittel
 Staerkungsmittel
@@ -5549,6 +5597,7 @@ standhalten
 standhielt
 standort
 Standort
+Standpunkt
 standrechtlich
 standzuhalten
 stanford
@@ -5659,6 +5708,7 @@ stattfand
 stattfinden
 stattgeben
 stattgefunden
+stattgefundener
 stattgegeben
 statthaft
 statthalter
@@ -5827,6 +5877,7 @@ steh
 Steh
 stehaufmaennchen
 Stehaufmaennchen
+stehe
 stehen
 Stehen
 stehenbleiben
@@ -5852,6 +5903,7 @@ steig
 Steig
 steigen
 Steigen
+steigenden
 steiger
 Steiger
 steigern
@@ -5914,6 +5966,7 @@ stellig
 stelligkeit
 Stelligkeit
 stellte
+stellten
 stellungnahme
 Stellungnahme
 stellungs
@@ -6533,6 +6586,7 @@ strahlungs
 Strahlungs
 strahlungsarm
 strahlungslos
+Strahlungswerte
 strahlwassergeschuetzt
 stralsund
 Stralsund
@@ -6833,6 +6887,7 @@ Stuempfe
 stuendchen
 Stuendchen
 stuende
+stuenden
 stuendlein
 Stuendlein
 stuendlich

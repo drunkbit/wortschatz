@@ -24,6 +24,7 @@ fächer
 fächerförmig
 fächern
 fächerübergreifend
+fachfrau
 fachgemäß
 fachgerecht
 fachkundig
@@ -46,6 +47,7 @@ fadenscheinig
 fadenscheinigkeit
 fähig
 fähigkeit
+fähigkeiten
 fahl
 fähnchen
 fahnden
@@ -104,6 +106,7 @@ falklandinsel
 falklandkrieg
 fall
 falle
+fälle
 fallen
 fällen
 fallensteller
@@ -117,6 +120,7 @@ fallsüchtig
 fällt
 fallweise
 falsch
+falschbeschuldigungen
 fälschen
 falscher
 fälscher
@@ -423,6 +427,7 @@ fermi
 fern
 fernab
 fernabgelegen
+fernandes
 fernando
 fernbedienbar
 fernbleiben
@@ -533,6 +538,8 @@ festschrieb
 festsetzen
 festsitzen
 festspannen
+festspielintendanten
+festspielspitze
 feststand
 feststecken
 feststehen
@@ -685,6 +692,7 @@ finanzieren
 finanzierungs
 finanzkräftig
 finanzminister
+finanzministerium
 finanzökonomisch
 finanzpolitisch
 finanzstark
@@ -749,6 +757,7 @@ fiskaljahr
 fiskalpakt
 fiskalpolitik
 fiskalpolitisch
+fiskalrats
 fiskalunion
 fiskus
 fistel
@@ -909,6 +918,7 @@ fliegengewichtler
 fliegenklatsche
 fliegens
 flieger
+fliegerbomben
 fliegerei
 fliegerisch
 fliehen
@@ -1002,6 +1012,7 @@ flüchtig
 flüchtigkeit
 flüchtigkeitsfehler
 flüchtling
+flüchtlinge
 flüchtlings
 flüchtlingsfrei
 flüchtlingstrecks
@@ -1035,6 +1046,7 @@ fluss
 flussabwärts
 flussaufwärts
 flüssig
+flüssiggases
 flüssigkeit
 flüssigkeits
 flüssigkeitsgefüllt
@@ -1120,6 +1132,8 @@ fördererzylinderweg
 förderlich
 fordern
 fördern
+forderte
+forderung
 förderungen
 forderungs
 förderungs
@@ -1416,7 +1430,9 @@ frau
 frauen
 frauenfeindlich
 frauenhaft
+frauenhass
 frauenlos
+frauenverachtung
 fräulein
 fraulich
 fraunhofer
@@ -1574,6 +1590,7 @@ freudlos
 freudvoll
 freuen
 freund
+freunden
 freundeskreis
 freundesmund
 freundlich
@@ -1640,6 +1657,7 @@ frittieren
 fritz
 frivol
 froh
+frohe
 frohest
 frohgemut
 fröhlich
@@ -1694,6 +1712,7 @@ frühest
 frühestens
 frühestmöglich
 frühjahrsoffensive
+frühjahrsprognose
 frühjahrsputz
 frühjahrssitzung
 frühjahrssprüche
@@ -1743,6 +1762,7 @@ fühlungsnahme
 fuhr
 fuhre
 führen
+führende
 führer
 führerlos
 fuhrgeld
@@ -1926,6 +1946,7 @@ fußballer
 fußballerisch
 fußballerkrankheit
 fußballnationalelf
+fußballrowdy
 füßchen
 fußen
 füßen

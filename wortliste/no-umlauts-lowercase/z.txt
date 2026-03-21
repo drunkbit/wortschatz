@@ -12,6 +12,7 @@ zaehl
 zaehlebig
 zaehlen
 zaehler
+zaehlt
 zaehmen
 zaehne
 zaehneklappern
@@ -133,6 +134,7 @@ zeichnungsberechtigt
 zeige
 zeigen
 zeiger
+zeigt
 zeigte
 zeile
 zeilen
@@ -172,6 +174,7 @@ zeitschriftenhandel
 zeitschriftenverlag
 zeitsparend
 zeitunabhaengig
+zeitung
 zeitungs
 zeitversetzt
 zeitvertreib
@@ -219,6 +222,7 @@ zentren
 zentrieren
 zentrifugal
 zentrifuge
+zentrifugen
 zentrigramm
 zentripetal
 zentrisch
@@ -439,6 +443,7 @@ ziehtoechter
 ziehvater
 ziel
 zielbewusst
+ziele
 zielen
 zielfuehrend
 zielgenau
@@ -729,6 +734,7 @@ zugang
 zugange
 zugangs
 zugangserschwerungsgesetz
+zuge
 zugebaut
 zugeben
 zugebilligt
@@ -1154,6 +1160,7 @@ zurueckhaeltst
 zurueckhaengen
 zurueckhalten
 zurueckhaltend
+zurueckhaltung
 zurueckhielt
 zurueckholen
 zurueckkaufen
@@ -1227,6 +1234,7 @@ zurueckzubringen
 zurueckzudraengen
 zurueckzuerhalten
 zurueckzuerstatten
+zurueckzufahren
 zurueckzufliessen
 zurueckzufordern
 zurueckzufuehren
@@ -1258,6 +1266,8 @@ zurverfuegungstellen
 zurzeit
 zusaetze
 zusaetzlich
+zusaetzliche
+zusaetzlichen
 zusaetzliches
 zusage
 zusagen
@@ -1542,6 +1552,7 @@ zuspruch
 zusprueche
 zustaende
 zustaendig
+zustaendigen
 zustaendigkeit
 zustaendigkeitsbereich
 zustaendlich
@@ -1564,6 +1575,7 @@ zustellungsbevollmaechtigt
 zusteuern
 zustieg
 zustimmen
+zustimmung
 zustoesst
 zustopfen
 zustossen

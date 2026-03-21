@@ -2,6 +2,7 @@ g
 gab
 gäb
 gabe
+gäbe
 gabel
 gabeln
 gabenliste
@@ -139,6 +140,7 @@ gasartig
 gasbetrieben
 gasförmig
 gasfrei
+gashandels
 gasometer
 gässchen
 gasse
@@ -238,6 +240,7 @@ gebauchpinselt
 gebäude
 gebauscht
 gebaut
+gebe
 gebebt
 gebefreudig
 gebeichtet
@@ -480,6 +483,7 @@ gefallsucht
 gefallsüchtig
 gefällt
 gefälscht
+gefälschten
 gefaltet
 gefaltetes
 gefalzt
@@ -634,6 +638,7 @@ gegenrechnen
 gegensätzlich
 gegensätzlichkeit
 gegenseitig
+gegenseitigen
 gegenseitigkeit
 gegenständlich
 gegenständlichkeit
@@ -642,6 +647,7 @@ gegenstandslos
 gegensteuern
 gegenteil
 gegenteilig
+gegenteiligen
 gegenüber
 gegenübergestanden
 gegenübergestellt
@@ -707,6 +713,7 @@ gehalts
 gehaltvoll
 gehampel
 gehandelt
+gehandelten
 gehandhabt
 gehandikapt
 gehangen
@@ -726,6 +733,7 @@ gehäuft
 gehäuse
 gehaust
 gehbehindert
+gehe
 gehebelt
 geheftet
 gehege
@@ -735,6 +743,7 @@ geheilt
 geheim
 geheimdienstler
 geheimdienstlich
+geheimdienststandorte
 geheimgehalten
 geheimnis
 geheimniskrämerei
@@ -982,9 +991,11 @@ gelahmt
 gelähmt
 gelände
 geländer
+geländes
 gelandet
 gelänge
 gelangen
+gelangt
 gelangweilt
 gelärmt
 gelass
@@ -1005,6 +1016,7 @@ geläut
 geläutert
 geläutet
 gelb
+gelbe
 gelbgrün
 gelbschnabel
 gelbschnäbel
@@ -1023,6 +1035,7 @@ geleckt
 gelee
 geleert
 gelegen
+gelegene
 gelegenheit
 gelegenheiten
 gelegenheits
@@ -1075,6 +1088,7 @@ gelöst
 gelötet
 gelotst
 gelsenkirchen
+gelte
 gelten
 geltendmachen
 geltungs
@@ -1131,6 +1145,7 @@ gemeinnutz
 gemeinnützig
 gemeinnützigkeit
 gemeinsam
+gemeinsamen
 gemeinsamkeit
 gemeinschaft
 gemeinschaftlich
@@ -1194,6 +1209,7 @@ genähert
 genährt
 genäht
 genannt
+genannte
 genau
 genauestens
 genauigkeit
@@ -1213,6 +1229,7 @@ geneigt
 genera
 general
 generalbevollmächtigte
+generaldirektor
 generäle
 generalgouvernement
 generalisieren
@@ -1480,6 +1497,7 @@ gerda
 gerechnet
 gerecht
 gerechtfertigt
+gerechtfertigte
 gerechtigkeit
 gerechtigkeits
 gereckt
@@ -1948,6 +1966,7 @@ gesetzwidrig
 gesetzwidrigkeit
 geseufzt
 gesichert
+gesicherte
 gesicht
 gesichtet
 gesichts
@@ -2011,7 +2030,9 @@ gespräch
 gesprächig
 gesprächigkeit
 gesprächs
+gesprächsbasis
 gesprächsbereit
+gesprächskultur
 gespreizt
 gesprengt
 gesprenkelt
@@ -2405,6 +2426,7 @@ gewinner
 gewinnerzielungsgründen
 gewinnerzielungsmotiv
 gewinnerzielungstrieb
+gewinnmargen
 gewinnmitnahme
 gewinnmitnehmend
 gewinnträchtig
@@ -2567,6 +2589,7 @@ gigawatt
 gigolo
 gilde
 gildenplatz
+gilt
 giltst
 gina
 ging
@@ -2935,6 +2958,7 @@ grammophonplatte
 granat
 grandios
 granit
+grano
 grantig
 granulär
 granularität
@@ -3128,6 +3152,7 @@ großgeschrieben
 großgezogen
 großherzig
 großherzigkeit
+grossi
 großindustriell
 grossist
 grossistenverband
@@ -3149,6 +3174,7 @@ größte
 großtechnisch
 großteils
 größtenteils
+größter
 größtmöglich
 großtuerisch
 großväterlich
@@ -3281,6 +3307,7 @@ guten
 gutenberg
 güter
 gütersloh
+gutes
 gutfundiert
 gutgegangen
 gutgeheißen

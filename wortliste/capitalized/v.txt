@@ -112,6 +112,7 @@ Verabscheuen
 Verabscheuend
 Verabscheuenswert
 Verabschieden
+Verabschiedeten
 Verachten
 Verächter
 Verächtlich
@@ -133,6 +134,7 @@ Veränderungs
 Verängstigen
 Verängstigt
 Verankern
+Verankert
 Veranlagen
 Veranlassen
 Veranschaulichen
@@ -144,6 +146,7 @@ Verantworten
 Verantwortlich
 Verantwortliche
 Verantwortlichkeit
+Verantwortung
 Verantwortungs
 Verantwortungsbewusst
 Verantwortungslos
@@ -185,6 +188,7 @@ Verbauen
 Verbauern
 Verbesserbarkeit
 Verbessern
+Verbessert
 Verbesserung
 Verbesserungsmaßnahme
 Verbesserungsmöglichkeit
@@ -270,6 +274,7 @@ Verbund
 Verbunden
 Verbünden
 Verbundenheit
+Verbündeten
 Verbürgen
 Verbüßen
 Verchromt
@@ -380,6 +385,7 @@ Vereinfachen
 Vereinfachungsgründe
 Vereinheitlichen
 Vereinigen
+Vereinigten
 Vereinigungstyp
 Vereinnahmen
 Vereins
@@ -432,6 +438,7 @@ Verfault
 Verfechter
 Verfehlen
 Verfeinden
+Verfeindeten
 Verfeinern
 Verfemen
 Verfertigen
@@ -589,6 +596,7 @@ Verhältniswort
 Verhältniswörter
 Verhandelbarkeit
 Verhandeln
+Verhandlungen
 Verhandlungs
 Verhandlungssicher
 Verhangen
@@ -841,6 +849,7 @@ Vermeidung
 Vermeinen
 Vermeintlich
 Vermelden
+Vermeldete
 Vermengen
 Vermenschlichen
 Vermerk
@@ -894,9 +903,11 @@ Vernetzbarkeit
 Vernetzen
 Vernichten
 Vernichter
+Vernichtung
 Vernichtungs
 Vernickeln
 Verniedlichen
+Verniedlicht
 Vernieten
 Vernissage
 Vernommen
@@ -913,6 +924,7 @@ Vernunftwidrig
 Veröden
 Veröffentlichen
 Veröffentlicht
+Veröffentlichten
 Veröffentlichungs
 Verona
 Veroneser
@@ -1231,6 +1243,8 @@ Verständnisschwierigkeit
 Verständnisvoll
 Verstärken
 Verstärker
+Verstärkte
+Verstärkten
 Verstärkungs
 Verstauben
 Verstauchen
@@ -1300,6 +1314,7 @@ Verteidigungs
 Verteidigungspolitisch
 Verteilen
 Verteiler
+Verteilt
 Verteilungs
 Verteuern
 Verteufeln
@@ -1330,6 +1345,7 @@ Vertrauenerweckend
 Vertrauens
 Vertrauensbildend
 Vertrauensselig
+Vertrauensverhältnis
 Vertrauensvoll
 Vertrauenswürdig
 Vertrauert
@@ -1346,6 +1362,7 @@ Vertretungsberechtigt
 Vertrieb
 Vertrieben
 Vertriebs
+Vertritt
 Vertrocknen
 Vertrödeln
 Vertrösten
@@ -1539,6 +1556,7 @@ Video
 Videoclip
 Videocontroller
 Videorecorder
+Videos
 Videotape
 Videothek
 Viecher
@@ -1924,6 +1942,7 @@ Vorausschauen
 Vorausschicken
 Voraussehen
 Voraussetzen
+Voraussetzungen
 Voraussetzungslos
 Voraussicht
 Voraussichtlich
@@ -2319,6 +2338,7 @@ Vortriebs
 Vortrug
 Vorüber
 Vorübergehen
+Vorübergehend
 Vorüberziehen
 Vorurteilsfrei
 Vorurteilslos
@@ -2354,6 +2374,7 @@ Vorwerken
 Vorwerksbewohner
 Vorwiegend
 Vorwirft
+Vorwürfe
 Vorwurfsvoll
 Vorzeichenrichtig
 Vorzeigen

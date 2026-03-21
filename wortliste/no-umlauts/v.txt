@@ -191,6 +191,7 @@ verabscheuend
 verabscheuenswert
 verabschieden
 Verabschieden
+verabschiedeten
 verachten
 Verachten
 veraechter
@@ -241,6 +242,7 @@ veranden
 Veranden
 verankern
 Verankern
+verankert
 veranlagen
 Veranlagen
 veranlassen
@@ -262,6 +264,7 @@ verantwortliche
 Verantwortliche
 verantwortlichkeit
 Verantwortlichkeit
+Verantwortung
 verantwortungs
 Verantwortungs
 verantwortungsbewusst
@@ -313,6 +316,7 @@ verbesserbarkeit
 Verbesserbarkeit
 verbessern
 Verbessern
+verbessert
 Verbesserung
 verbesserungsmassnahme
 Verbesserungsmassnahme
@@ -428,6 +432,7 @@ verbruehen
 verbuchen
 Verbuchen
 verbuenden
+Verbuendeten
 verbuergen
 verbuessen
 verbum
@@ -606,6 +611,7 @@ vereinheitlichen
 Vereinheitlichen
 vereinigen
 Vereinigen
+Vereinigten
 vereinigungstyp
 Vereinigungstyp
 vereinnahmen
@@ -688,6 +694,7 @@ verfehlen
 Verfehlen
 verfeinden
 Verfeinden
+verfeindeten
 verfeinern
 Verfeinern
 verfemen
@@ -943,6 +950,7 @@ verhandelbarkeit
 Verhandelbarkeit
 verhandeln
 Verhandeln
+Verhandlungen
 verhandlungs
 Verhandlungs
 verhandlungssicher
@@ -1313,6 +1321,7 @@ Vermeidung
 vermeinen
 vermeintlich
 vermelden
+vermeldete
 vermengen
 Vermengen
 vermenschlichen
@@ -1403,10 +1412,12 @@ vernichten
 Vernichten
 vernichter
 Vernichter
+Vernichtung
 vernichtungs
 Vernichtungs
 vernickeln
 verniedlichen
+verniedlicht
 vernieten
 Vernieten
 vernissage
@@ -1430,6 +1441,7 @@ Veroeden
 veroeffentlichen
 Veroeffentlichen
 veroeffentlicht
+veroeffentlichten
 veroeffentlichungs
 Veroeffentlichungs
 verona
@@ -1895,6 +1907,9 @@ verstaerken
 Verstaerken
 verstaerker
 Verstaerker
+verstaerkte
+Verstaerkte
+verstaerkten
 verstaerkungs
 Verstaerkungs
 verstand
@@ -2012,6 +2027,7 @@ verteilen
 Verteilen
 verteiler
 Verteiler
+Verteilt
 verteilungs
 Verteilungs
 verteuern
@@ -2055,6 +2071,7 @@ vertrauens
 Vertrauens
 vertrauensbildend
 vertrauensselig
+Vertrauensverhaeltnis
 vertrauensvoll
 vertrauenswuerdig
 vertrauert
@@ -2079,6 +2096,7 @@ Vertrieb
 vertrieben
 vertriebs
 Vertriebs
+vertritt
 vertrocknen
 vertroedeln
 vertroesten
@@ -2388,6 +2406,7 @@ videocontroller
 Videocontroller
 videorecorder
 Videorecorder
+Videos
 videotape
 Videotape
 videothek
@@ -2920,6 +2939,7 @@ vorausschicken
 voraussehen
 voraussetzen
 Voraussetzen
+Voraussetzungen
 voraussetzungslos
 voraussicht
 Voraussicht
@@ -3390,6 +3410,7 @@ Vortriebs
 vortrug
 vorueber
 voruebergehen
+voruebergehend
 vorueberziehen
 vorurteilsfrei
 vorurteilslos
@@ -3431,6 +3452,7 @@ Vorwerken
 Vorwerksbewohner
 vorwiegend
 vorwirft
+Vorwuerfe
 vorwurfsvoll
 vorzeichenrichtig
 vorzeigen

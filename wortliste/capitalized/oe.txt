@@ -28,6 +28,7 @@
 Ölen
 Ölig
 Ölportrait
+Öls
 Ölverbrauchend
 Ölverschmiert
 Örtlich
@@ -37,6 +38,7 @@
 Österreich
 Österreicher
 Österreichisch
+Österreichischen
 Östlich
 Östrogen
 Östrogenspiegel

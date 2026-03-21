@@ -32,6 +32,7 @@ habgier
 Habgier
 habgierig
 habhaft
+habibi
 habicht
 Habicht
 habilitand
@@ -163,6 +164,7 @@ halbherzig
 halbhohe
 halbieren
 Halbieren
+Halbierung
 halbintellektueller
 Halbintellektueller
 halbjährig
@@ -571,6 +573,7 @@ hätscheln
 hatte
 hätte
 hatten
+hätten
 häubchen
 Häubchen
 haube
@@ -629,6 +632,7 @@ hauptleidtragende
 Hauptleidtragende
 häuptling
 Häuptling
+Hauptprofiteur
 hauptprozessor
 Hauptprozessor
 Hauptsache
@@ -639,10 +643,12 @@ hauptschuldige
 Hauptschuldige
 hauptschuldiger
 Hauptschuldiger
+Hauptstadt
 hauptwachtmeister
 Hauptwachtmeister
 hauptwettbewerb
 Hauptwettbewerb
+Hauptziel
 hauruck
 Hauruck
 hauruckverfahren
@@ -661,6 +667,7 @@ hauseigen
 hausen
 häuser
 Häuser
+Hauses
 Hausfrau
 hausfraulich
 hausgemacht
@@ -1502,6 +1509,7 @@ hereingezogen
 hereinholen
 hereinkam
 hereinkommen
+hereinkommt
 hereinlassen
 hereinlässt
 hereinlegen
@@ -1617,6 +1625,7 @@ herrschaftlich
 herrschafts
 Herrschafts
 herrschen
+herrschende
 herrscher
 Herrscher
 herrschsucht
@@ -1635,6 +1644,7 @@ hersteller
 Hersteller
 herstellerspezifisch
 herstellerunabhängig
+Herstellung
 herstellungs
 Herstellungs
 Herta
@@ -1978,6 +1988,7 @@ heuschrecken
 Heuschrecken
 Heuss
 heute
+Heute
 heutig
 heutzutage
 Hewlett
@@ -2113,6 +2124,7 @@ hinarbeiten
 hinauf
 hinaufarbeiten
 hinauffahren
+hinauffährt
 hinauffuhr
 hinaufführen
 hinaufgearbeitet
@@ -2392,6 +2404,7 @@ hinhören
 hinken
 hinkommen
 hinkriegen
+hinkt
 hinlänglich
 hinlänglichkeit
 Hinlänglichkeit
@@ -2443,6 +2456,7 @@ Hinterbliebenenrente
 hintereinander
 hintereinanderausführung
 Hintereinanderausführung
+hintereinandergeschaltet
 hinterfragen
 Hinterfragen
 hintergangen
@@ -2451,6 +2465,8 @@ Hintergehen
 hinterging
 hintergründig
 hinterhältig
+Hinterhäuser
+Hinterhäusers
 hinterher
 hinterherfahren
 hinterhergelaufen
@@ -2819,6 +2835,7 @@ hochkommen
 hochkomplex
 hochkontagiös
 hochkonzentriert
+Hochkulturfestival
 hochladen
 hochlegen
 hochleistungsfähig
@@ -3155,6 +3172,7 @@ Hormon
 hormonähnlich
 hormonbedingt
 hormonell
+Hormus
 horn
 Horn
 hornberger
@@ -3362,6 +3380,7 @@ Hundertstels
 hundertstelsekunde
 Hundertstelsekunde
 hunderttausend
+Hunderttausende
 hunderttausendfach
 hundertzehn
 hundertzwanzig

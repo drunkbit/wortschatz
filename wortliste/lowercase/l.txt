@@ -134,12 +134,14 @@ landen
 länder
 ländereien
 ländermäßig
+ländern
 länderspezifisch
 länderübergreifend
 landes
 landesbedingt
 landescup
 landeseigen
+landeshauptfrau
 landesparlament
 landesplanerisch
 landespolitisch
@@ -195,6 +197,7 @@ langgehen
 langhaarig
 langhalsig
 langjährig
+langjähriger
 langkettig
 langlaufen
 langläuferrendite
@@ -307,6 +310,7 @@ lauern
 lauerstellung
 lauf
 laufen
+laufend
 laufende
 laufens
 läufer
@@ -570,6 +574,7 @@ leise
 leiste
 leisten
 leister
+leistet
 leistungs
 leistungsbezogen
 leistungsfähig
@@ -799,6 +804,7 @@ lieferfähig
 lieferfertig
 lieferfristforderung
 liefern
+lieferungen
 lieferungsbedingung
 lieferungsschein
 liege
@@ -925,6 +931,7 @@ liter
 literarisch
 literat
 literatur
+literaturhaus
 literaturwissenschaftlich
 literweise
 litfaßsäule
@@ -979,6 +986,7 @@ lockerheit
 lockerlassen
 lockermachen
 lockern
+lockert
 lockerungsarbeit
 lockerungstraining
 lockerzumachen
@@ -1026,6 +1034,7 @@ loire
 lok
 lokal
 lokalbedingt
+lokaler
 lokalisation
 lokalisierbarkeit
 lokalisieren
@@ -1178,6 +1187,7 @@ ludwigsburg
 ludwigsfelde
 ludwigshafen
 luft
+luftangriff
 lüftchen
 luftdicht
 lüften

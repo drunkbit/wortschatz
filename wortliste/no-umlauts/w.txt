@@ -280,6 +280,7 @@ waldarm
 waldbedeckt
 Waldeinsamkeit
 waldig
+Walding
 waldorflehrer
 Waldorflehrer
 waldorfpaedagogik
@@ -557,6 +558,7 @@ Wasserstandsanzeiger
 wasserstandsmeldung
 Wasserstandsmeldung
 wasserstoffhaltig
+Wasserstrasse
 wassersuechtig
 waten
 Waterloo
@@ -656,6 +658,7 @@ wegelagerin
 Wegelagerin
 wegemessung
 Wegemessung
+wegen
 wegerecht
 Wegerecht
 wegerich
@@ -970,6 +973,7 @@ weissager
 Weissager
 weissbuch
 Weissbuch
+Weissen
 weissensee
 Weissensee
 weisses
@@ -980,6 +984,7 @@ weissgewaschen
 weissgrau
 weisshaarig
 weisshaeutig
+Weissmann
 weissrussisch
 weissrussland
 Weissrussland
@@ -1021,6 +1026,7 @@ weiterempfahl
 weiterempfehlen
 weiterempfiehlt
 weiterempfohlen
+weiteren
 weiterentwickeln
 weitererzaehlen
 weiterfaehrt
@@ -1039,6 +1045,7 @@ weitergefuehrt
 weitergegangen
 weitergegeben
 weitergehen
+weitergehenden
 weitergekommen
 weitergelaufen
 weitergelebt
@@ -1180,6 +1187,7 @@ weltklug
 weltlaeufig
 weltlich
 weltmaennisch
+Weltmaerkte
 weltmeisterelf
 Weltmeisterelf
 weltoffen
@@ -1191,6 +1199,7 @@ weltumsegler
 Weltumsegler
 weltumspannend
 weltweit
+weltweiten
 Weltwirtschaft
 weltwirtschaftlich
 wem
@@ -1213,6 +1222,7 @@ wenig
 wenigkeit
 Wenigkeit
 wenigst
+wenigsten
 wenigstens
 wenn
 Wenn
@@ -1450,6 +1460,7 @@ wichtiggemacht
 wichtigkeit
 Wichtigkeit
 wichtigmachen
+wichtigsten
 wichtigtuer
 Wichtigtuer
 wichtigtuerei
@@ -1746,6 +1757,7 @@ wieso
 wievielerlei
 wievielt
 wieweit
+WIFO
 wiki
 Wiki
 wikinger
@@ -1838,6 +1850,7 @@ winden
 Winden
 windeseile
 Windeseile
+Windfall
 windgeschuetzt
 windig
 windmuehlenfluegel
@@ -1955,11 +1968,13 @@ Wirtschafter
 wirtschaftler
 Wirtschaftler
 wirtschaftlich
+wirtschaftliche
 wirtschaftlichkeit
 Wirtschaftlichkeit
 wirtschafts
 Wirtschafts
 Wirtschaftsfoerderung
+Wirtschaftsforschungsinstituts
 wirtschaftsgeografie
 Wirtschaftsgeografie
 wirtschaftsgeographie
@@ -2153,6 +2168,7 @@ wohltuend
 wohltun
 wohlueberlegt
 wohlverdient
+Wohlverhaltensklausel
 wohlverstanden
 wohlweislich
 wohlwollend
@@ -2290,6 +2306,7 @@ wrang
 Wrangler
 wrestling
 Wrestling
+Wright
 wringen
 wucher
 Wucher

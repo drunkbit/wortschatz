@@ -163,6 +163,7 @@ Waldbedeckt
 Waldeinsamkeit
 Wälder
 Waldig
+Walding
 Waldorflehrer
 Waldorfpädagogik
 Waldorfschule
@@ -349,6 +350,7 @@ Wasserspülung
 Wasserstandsanzeiger
 Wasserstandsmeldung
 Wasserstoffhaltig
+Wasserstraße
 Wassersüchtig
 Waten
 Waterloo
@@ -416,6 +418,7 @@ Wegebau
 Wegelagerer
 Wegelagerin
 Wegemessung
+Wegen
 Wegerecht
 Wegerich
 Wegfahren
@@ -666,6 +669,7 @@ Weiß
 Weissagen
 Weissager
 Weißbuch
+Weißen
 Weißensee
 Weißes
 Weißgelb
@@ -674,6 +678,7 @@ Weißgewaschen
 Weißgrau
 Weißhaarig
 Weißhäutig
+Weißmann
 Weißrussisch
 Weißrussland
 Weißschimmelkäse
@@ -708,6 +713,7 @@ Weiterempfahl
 Weiterempfehlen
 Weiterempfiehlt
 Weiterempfohlen
+Weiteren
 Weiterentwickeln
 Weitererzählen
 Weiterfahren
@@ -726,6 +732,7 @@ Weitergeführt
 Weitergegangen
 Weitergegeben
 Weitergehen
+Weitergehenden
 Weitergekommen
 Weitergelaufen
 Weitergelebt
@@ -852,6 +859,7 @@ Weltklug
 Weltläufig
 Weltlich
 Weltmännisch
+Weltmärkte
 Weltmeisterelf
 Weltoffen
 Weltpolitisch
@@ -861,6 +869,7 @@ Weltumkrempelnd
 Weltumsegler
 Weltumspannend
 Weltweit
+Weltweiten
 Weltwirtschaft
 Weltwirtschaftlich
 Wem
@@ -876,6 +885,7 @@ Wendigkeit
 Wenig
 Wenigkeit
 Wenigst
+Wenigsten
 Wenigstens
 Wenn
 Wenngleich
@@ -1035,6 +1045,7 @@ Wichtig
 Wichtiggemacht
 Wichtigkeit
 Wichtigmachen
+Wichtigsten
 Wichtigtuer
 Wichtigtuerei
 Wicke
@@ -1265,6 +1276,7 @@ Wieso
 Wievielerlei
 Wievielt
 Wieweit
+Wifo
 Wiki
 Wikinger
 Wikingerschiff
@@ -1326,6 +1338,7 @@ Windel
 Windelweich
 Winden
 Windeseile
+Windfall
 Windgeschützt
 Windig
 Windmühlenflügel
@@ -1404,9 +1417,11 @@ Wirtschaften
 Wirtschafter
 Wirtschaftler
 Wirtschaftlich
+Wirtschaftliche
 Wirtschaftlichkeit
 Wirtschafts
 Wirtschaftsförderung
+Wirtschaftsforschungsinstituts
 Wirtschaftsgeografie
 Wirtschaftsgeographie
 Wirtschaftspolitisch
@@ -1539,6 +1554,7 @@ Wohltuend
 Wohltun
 Wohlüberlegt
 Wohlverdient
+Wohlverhaltensklausel
 Wohlverstanden
 Wohlweislich
 Wohlwollend
@@ -1641,6 +1657,7 @@ Wrackgüter
 Wrang
 Wrangler
 Wrestling
+Wright
 Wringen
 Wucher
 Wucherer

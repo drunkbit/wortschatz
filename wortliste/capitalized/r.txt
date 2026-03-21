@@ -63,6 +63,7 @@ Radikalkette
 Radikalkur
 Radio
 Radioaktiv
+Radioaktivität
 Radiodurchsage
 Radiografie
 Radiogramm
@@ -100,6 +101,7 @@ Rainer
 Räkeln
 Rakete
 Raketen
+Raketenprogramm
 Ralf
 Rallye
 Rallyefahrer
@@ -307,14 +309,17 @@ Reagan
 Reagenzglas
 Reagenzgläser
 Reagieren
+Reagierte
 Reaktion
 Reaktionär
+Reaktionen
 Reaktions
 Reaktionsfähig
 Reaktionsfreudig
 Reaktiv
 Reaktivieren
 Reaktor
+Reaktorbrennstoff
 Real
 Realisation
 Realisierbar
@@ -351,6 +356,7 @@ Rechenintensiv
 Rechenschaftsbericht
 Recherche
 Recherchieren
+Recherchiert
 Rechnen
 Rechner
 Rechnergesteuert
@@ -556,6 +562,7 @@ Regierungsbildung
 Regierungsfähig
 Regierungsfreundlich
 Regierungsparteien
+Regierungsplänen
 Regierungstreu
 Regime
 Regimegegner
@@ -563,6 +570,8 @@ Regimekritisch
 Regiment
 Region
 Regional
+Regionale
+Regionalen
 Regionalisieren
 Regionalität
 Regionen
@@ -623,6 +632,7 @@ Reibungs
 Reibungsfrei
 Reibungslos
 Reich
+Reiche
 Reichen
 Reichern
 Reichhaltig
@@ -662,6 +672,7 @@ Reimplementierung
 Rein
 Reineke
 Reinertrag
+Reines
 Reinfall
 Reinfallen
 Reinfällt
@@ -770,6 +781,7 @@ Relational
 Relativ
 Relativierbarkeit
 Relativieren
+Relativierer
 Relativismus
 Relativität
 Relativitätstheorie
@@ -988,6 +1000,7 @@ Revolution
 Revolutionär
 Revolutionieren
 Revolutions
+Revolutionsgarde
 Revolver
 Revue
 Rexrodt
@@ -1208,6 +1221,8 @@ Roh
 Rohheit
 Rohkakaomarkt
 Rohling
+Rohölpreis
+Rohölpreisen
 Rohr
 Röhre
 Röhren
@@ -1302,6 +1317,7 @@ Rotznase
 Roulade
 Roulette
 Route
+Routen
 Routenplaner
 Router
 Routine
@@ -1419,6 +1435,7 @@ Ruhm
 Ruhmbedeckt
 Rühmen
 Rühmenswert
+Ruhmesblatt
 Rühmlich
 Ruhmlos
 Ruhmreich
@@ -1466,6 +1483,7 @@ Runde
 Runden
 Rundenrekord
 Rundenzeit
+Rundfunk
 Rundherum
 Rundlich
 Rundum
@@ -1493,6 +1511,7 @@ Russeneinbruch
 Rußgeschwärzt
 Rußig
 Russisch
+Russisches
 Russischsprachig
 Russland
 Russlandfeldzug

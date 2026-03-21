@@ -75,6 +75,7 @@ tagblatt
 Tagblatt
 tagblätter
 Tagblätter
+Tage
 tageblatt
 Tageblatt
 tagebuch
@@ -326,6 +327,7 @@ task
 Task
 taskfunktion
 Taskfunktion
+Tasnim
 tässchen
 Tässchen
 tasse
@@ -383,6 +385,7 @@ Tätowieren
 tatsachen
 Tatsachen
 tatsächlich
+Tatsächlich
 tätscheln
 tattoo
 Tattoo
@@ -540,6 +543,7 @@ technologiebasiert
 technologiefrei
 technologieinduziert
 technologisch
+technologischen
 technophilie
 Technophilie
 techtelmechtel
@@ -572,6 +576,7 @@ tegernsee
 Tegernsee
 teheran
 Teheran
+teibm
 teich
 Teich
 teig
@@ -619,9 +624,11 @@ teilnimmt
 teilprivatisiert
 teilsprachenbeziehung
 Teilsprachenbeziehung
+teilstaatlichen
 teilstationär
 teilstreb
 Teilstreb
+teilte
 teilungs
 Teilungs
 teilweise
@@ -769,6 +776,7 @@ Tempo
 Tempomat
 temporal
 temporär
+temporäre
 tempus
 Tempus
 tendenz
@@ -1814,6 +1822,7 @@ transportfähig
 transportierbarkeit
 Transportierbarkeit
 transportieren
+transportiert
 transputer
 Transputer
 Transrapid
@@ -1948,6 +1957,9 @@ treibersoftware
 Treibersoftware
 treibertransistoren
 Treibertransistoren
+Treibstoff
+Treibstoffe
+Treibstoffindustrie
 treideln
 treidelpfad
 Treidelpfad
@@ -2313,6 +2325,7 @@ Truppführer
 truppweise
 trustcenter
 Trustcenter
+Truth
 truthahn
 Truthahn
 truthähne
@@ -2512,6 +2525,7 @@ tusch
 Tusch
 tuscheln
 tuschen
+tut
 tüte
 Tüte
 tuten
@@ -2554,6 +2568,7 @@ typinformation
 Typinformation
 typinkonsistent
 typisch
+typische
 typischerweise
 typisieren
 Typisieren

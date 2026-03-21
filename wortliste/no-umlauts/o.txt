@@ -34,6 +34,7 @@ Oberammergau
 oberbayerisch
 oberbayern
 Oberbayern
+obere
 oberflaechlich
 oberflaechlichkeit
 Oberflaechlichkeit
@@ -45,12 +46,15 @@ oberhalb
 oberhausen
 Oberhausen
 oberirdisch
+oberirdischen
 oberkommandierende
 Oberkommandierende
 obermedizinalrat
 Obermedizinalrat
 oberoesterreich
 Oberoesterreich
+oberoesterreichischen
+Oberoesterreichischen
 oberrhein
 Oberrhein
 oberrheintal
@@ -214,6 +218,7 @@ oelen
 oelig
 oelportrait
 Oelportrait
+Oels
 oelverbrauchend
 oelverschmiert
 OEM
@@ -228,6 +233,7 @@ Oesterreich
 oesterreicher
 Oesterreicher
 oesterreichisch
+oesterreichischen
 oestlich
 oestrogen
 Oestrogen
@@ -416,6 +422,7 @@ omnipotenzfunktionen
 Omnipotenzfunktionen
 omnipotenzgefuehl
 Omnipotenzgefuehl
+OMV
 onanie
 Onanie
 onanieren
@@ -495,6 +502,7 @@ oppositionell
 oppositionellen
 oppositions
 Oppositions
+Oppositionsparteien
 opteron
 Opteron
 OPTi
@@ -568,6 +576,7 @@ orchester
 Orchester
 orchestrieren
 Orchestrieren
+orchestrierten
 orchidee
 Orchidee
 orden
@@ -719,6 +728,7 @@ ortskundig
 ortsnah
 ortsueblich
 ortsungebunden
+Ortszeit
 ortungs
 Ortungs
 Orwell

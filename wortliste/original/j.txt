@@ -119,6 +119,7 @@ Japan
 japaner
 Japaner
 japanisch
+japanischen
 jargon
 Jargon
 Jaruzelski
@@ -337,6 +338,7 @@ judikativ
 jüdin
 Jüdin
 jüdisch
+jüdischen
 judizieren
 judo
 Judo
@@ -416,6 +418,7 @@ Jünglingsalter
 jungspund
 Jungspund
 jüngst
+jüngsten
 jungverheiratet
 juni
 Juni

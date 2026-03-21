@@ -709,6 +709,7 @@ karo
 Karo
 karokoenig
 Karokoenig
+Karoline
 karolinger
 Karolinger
 karomuster
@@ -808,6 +809,7 @@ kasino
 Kasino
 kaskade
 Kaskade
+Kaskaden
 kaskadenbombenwuerfen
 Kaskadenbombenwuerfen
 kaskadenbombenwurf
@@ -1808,6 +1810,7 @@ klimatisierung
 Klimatisierung
 klimatologe
 Klimatologe
+Klimavergiftung
 klimmzug
 Klimmzug
 klimpern
@@ -2191,6 +2194,7 @@ koerperlichkeit
 Koerperlichkeit
 koerperschaftssteuer
 Koerperschaftssteuer
+Koerperverletzung
 koestlich
 koestlichkeit
 Koestlichkeit
@@ -2493,6 +2497,7 @@ Kommastelle
 kommata
 Kommata
 kommen
+kommende
 kommenden
 kommentar
 Kommentar
@@ -2872,6 +2877,7 @@ konjunktur
 Konjunktur
 konjunkturdaempfend
 konjunkturell
+konjunkturellen
 konjunkturgerecht
 konkatenation
 Konkatenation
@@ -2932,6 +2938,7 @@ konsequent
 konsequenterweise
 konsequenz
 Konsequenz
+Konsequenzen
 konservatismus
 Konservatismus
 konservativ
@@ -3049,6 +3056,7 @@ Kontagiositaet
 kontakt
 Kontakt
 kontaktarm
+Kontaktaufnahme
 kontaktfreudig
 kontaktieren
 Kontaktieren
@@ -3141,6 +3149,7 @@ kontrollierbar
 kontrollierbarkeit
 Kontrollierbarkeit
 kontrollieren
+kontrolliert
 kontrovers
 kontur
 Kontur
@@ -3259,6 +3268,7 @@ koordinator
 Koordinator
 koordinieren
 Koordinieren
+Koordinierung
 koordinierungs
 Koordinierungs
 kopenhagen
@@ -3387,6 +3397,7 @@ Korridor
 korrigierbarkeit
 Korrigierbarkeit
 korrigieren
+korrigiert
 korrodieren
 korrosion
 Korrosion
@@ -3472,6 +3483,7 @@ kostensenkungspotenzial
 Kostensenkungspotenzial
 kostensparend
 kostet
+kostete
 kostgaenger
 Kostgaenger
 kostprobe
@@ -3774,6 +3786,7 @@ kriegerverein
 Kriegerverein
 kriegerwitwe
 Kriegerwitwe
+Krieges
 kriegs
 Kriegs
 kriegsbereit
@@ -3788,6 +3801,7 @@ kriegsfuehrend
 kriegsgerichtlich
 kriegsgeschaedigt
 kriegsluestern
+Kriegsparteien
 kriegstagebuch
 Kriegstagebuch
 kriegstagebuecher
@@ -3801,6 +3815,8 @@ Kriegsvorlagen
 kriegswichtig
 kriegswillig
 kriegszerstoert
+Kriegsziel
+Kriegsziele
 krim
 Krim
 krimi
@@ -3917,6 +3933,7 @@ kron
 Kron
 krone
 Krone
+Kronen
 kronendach
 Kronendach
 kronengewoelbe
@@ -4052,6 +4069,8 @@ Kuender
 kuendigen
 Kuendigen
 kuendigt
+kuendigte
+kuendigten
 kuendigungs
 Kuendigungs
 kuenftig
@@ -4078,6 +4097,7 @@ Kuerzen
 kuerzer
 kuerzest
 kuerzlich
+Kuerzlich
 kuerzt
 kuerzungs
 Kuerzungs
@@ -4229,6 +4249,8 @@ Kur
 kurativ
 kuratorium
 Kuratorium
+Kuratoriums
+Kuratoriumssitzung
 kurbel
 Kurbel
 kurbeln
@@ -4256,6 +4278,7 @@ Kuriosum
 kurs
 Kurs
 kursieren
+kursierten
 kursiv
 kursivdruck
 Kursivdruck
@@ -4344,6 +4367,7 @@ kybernetiker
 Kybernetiker
 kybernetisch
 Kyjiw
+Kyodo
 kyphose
 Kyphose
 kyrillisch

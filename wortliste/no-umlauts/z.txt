@@ -20,6 +20,7 @@ zaehlen
 Zaehlen
 zaehler
 Zaehler
+zaehlt
 zaehmen
 Zaehmen
 zaehne
@@ -204,6 +205,7 @@ Zeige
 zeigen
 zeiger
 Zeiger
+zeigt
 zeigte
 zeile
 Zeile
@@ -255,6 +257,7 @@ zeitschriftenverlag
 Zeitschriftenverlag
 zeitsparend
 zeitunabhaengig
+Zeitung
 zeitungs
 Zeitungs
 zeitversetzt
@@ -331,6 +334,7 @@ zentrifugal
 Zentrifugal
 zentrifuge
 Zentrifuge
+Zentrifugen
 zentrigramm
 Zentrigramm
 zentripetal
@@ -639,6 +643,7 @@ Ziehvater
 ziel
 Ziel
 zielbewusst
+Ziele
 zielen
 zielfuehrend
 zielgenau
@@ -1084,6 +1089,7 @@ zugangs
 Zugangs
 zugangserschwerungsgesetz
 Zugangserschwerungsgesetz
+Zuge
 zugebaut
 zugeben
 zugebilligt
@@ -1233,6 +1239,7 @@ zugig
 zuging
 zugkraeftig
 zugleich
+Zugleich
 zugreifen
 zugriff
 Zugriff
@@ -1566,6 +1573,7 @@ zurueckhaengen
 zurueckhalten
 Zurueckhalten
 zurueckhaltend
+Zurueckhaltung
 zurueckhielt
 zurueckholen
 zurueckkaufen
@@ -1645,6 +1653,7 @@ zurueckzubringen
 zurueckzudraengen
 zurueckzuerhalten
 zurueckzuerstatten
+zurueckzufahren
 zurueckzufliessen
 zurueckzufordern
 zurueckzufuehren
@@ -1680,6 +1689,8 @@ zurzeit
 zusaetze
 Zusaetze
 zusaetzlich
+zusaetzliche
+zusaetzlichen
 Zusaetzliches
 zusage
 Zusage
@@ -1990,6 +2001,7 @@ Zusprueche
 zustaende
 Zustaende
 zustaendig
+zustaendigen
 zustaendigkeit
 Zustaendigkeit
 zustaendigkeitsbereich
@@ -2024,6 +2036,7 @@ zusteuern
 zustieg
 zustimmen
 Zustimmen
+Zustimmung
 zustoesst
 zustopfen
 zustossen
@@ -2082,6 +2095,7 @@ zuversichtsindikator
 Zuversichtsindikator
 zuvoerderst
 zuvor
+Zuvor
 zuvorderst
 zuvorgekommen
 zuvorkommen

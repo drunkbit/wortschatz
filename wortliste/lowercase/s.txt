@@ -79,6 +79,7 @@ sagengestalt
 sagenhaft
 sagenumwoben
 sägezahnförmig
+sagte
 sah
 sahara
 sähe
@@ -120,6 +121,7 @@ saldo
 saldomitteilung
 saldovortrag
 säle
+salis
 salisbury
 salm
 salmiakgeist
@@ -213,6 +215,7 @@ sanitäter
 sanitäts
 sank
 sanktion
+sanktionen
 sanktionieren
 sanktionsausschuss
 sanktionsmöglichkeit
@@ -252,6 +255,7 @@ satan
 satanisch
 satellit
 satelliten
+satellitenbildern
 satellitengestützt
 satin
 satinhose
@@ -399,6 +403,7 @@ schadstoffbelastet
 schaf
 schäfchen
 schäfchenwolken
+schafe
 schäfer
 schäferhund
 schäferhündin
@@ -584,6 +589,9 @@ schäumen
 schaumig
 schäumwerkzeug
 schaurig
+schauspieler
+schauspielerin
+schauspielleitung
 schaut
 scheck
 scheckig
@@ -725,12 +733,16 @@ schiffbau
 schiffbruch
 schiffbrüchig
 schiffbrücke
+schiffe
 schiffen
 schiffer
 schifffahrt
 schifffahrts
+schifffahrtsgesetz
 schiffs
+schiffsbewegungen
 schiffschaukel
+schiffsverkehr
 schiffwerft
 schiit
 schiitisch
@@ -824,6 +836,7 @@ schlagfertig
 schlagfertige
 schlagfertigkeit
 schlagfest
+schlagkraft
 schlagkräftig
 schlagstark
 schlägt
@@ -1323,6 +1336,7 @@ schranken
 schränken
 schrankenfrei
 schrankenlos
+schränkt
 schraub
 schraube
 schrauben
@@ -1385,6 +1399,7 @@ schrill
 schrillen
 schrimp
 schritt
+schritte
 schritthalten
 schrittweise
 schröder
@@ -1721,6 +1736,7 @@ schwielig
 schwierig
 schwierigen
 schwierigkeit
+schwierigkeiten
 schwierigkeits
 schwillt
 schwimm
@@ -1780,6 +1796,7 @@ schwüre
 schwurgericht
 sciencefiction
 scientology
+scott
 scratchpad
 screenshot
 script
@@ -1848,6 +1865,7 @@ sedimentstäube
 see
 seefahrend
 seefest
+seehöhe
 seehundjäger
 seehundsfell
 seeklar
@@ -1883,6 +1901,7 @@ segment
 segmentierung
 segnen
 seh
+sehe
 sehen
 sehenswert
 sehenswürdig
@@ -1908,6 +1927,7 @@ seidenartig
 seidenraupenzucht
 seidenweich
 seidig
+seien
 seiend
 seife
 seifen
@@ -1917,6 +1937,7 @@ seifig
 seiko
 seil
 seilen
+seiler
 seilhüpfen
 seilpotis
 seilschaft
@@ -2187,6 +2208,7 @@ set
 setting
 setup
 setzdruck
+setze
 setzen
 setzer
 setzerei
@@ -2195,6 +2217,7 @@ setzkästen
 setzling
 setzmaschine
 setzreis
+setzte
 setzwaage
 seuche
 seuchen
@@ -2214,6 +2237,7 @@ sexte
 sextett
 sexual
 sexualisieren
+sexualisierte
 sexualität
 sexuell
 sexus
@@ -2251,6 +2275,7 @@ sich
 sichel
 sichelförmig
 sicher
+sichere
 sichergehen
 sichergestellt
 sicherheit
@@ -2265,6 +2290,7 @@ sicherheitstechnisch
 sicherlich
 sichern
 sicherstellen
+sicherung
 sicherungs
 sicherungsübereignet
 sicherzugehen
@@ -2630,10 +2656,13 @@ snackbar
 snob
 so
 sobald
+social
 socke
 sockel
+sockenbären
 sockenhalter
 socket
+söcköbärn
 soda
 sodann
 sodass
@@ -2666,6 +2695,8 @@ softwaretechnologisch
 sog
 sogar
 sogenannt
+sogenannte
+sogenannten
 sogleich
 sogwirkung
 sohle
@@ -2761,6 +2792,7 @@ sonderling
 sonderlombarde
 sondern
 sonderpädagogisch
+sondersitzung
 sonderwaffenstillstand
 sonderziehungsrechte
 sondieren
@@ -2779,6 +2811,7 @@ sonnenerhitzt
 sonnengebräunt
 sonnenklar
 sonnenüberglänzt
+sonnenuntergang
 sonnenverbrannt
 sonnig
 sonntag
@@ -2943,6 +2976,7 @@ spannungsversorgt
 spanplatte
 spant
 spar
+sparbedarf
 sparc
 sparen
 sparer
@@ -2951,6 +2985,7 @@ spargel
 sparkasse
 spärlich
 spärlichkeit
+sparpaket
 sparplan
 sparre
 sparsam
@@ -3066,6 +3101,7 @@ spezialistentum
 spezialität
 spezialstähle
 speziell
+spezieller
 spezifika
 spezifikation
 spezifikationspapier
@@ -3073,9 +3109,11 @@ spezifikationssprache
 spezifikationstechnik
 spezifikum
 spezifisch
+spezifischer
 spezifizieren
 spezifiziert
 sphäre
+sphären
 sphärisch
 sphinx
 spickaal
@@ -3262,6 +3300,8 @@ sprinten
 sprinter
 sprit
 spritpreisbremse
+spritpreise
+spritpreisen
 spritsparen
 spritz
 spritze
@@ -3327,6 +3367,7 @@ staat
 staaten
 staatenlos
 staatlich
+staatliche
 staatlichen
 staatlichkeit
 staats
@@ -3342,6 +3383,7 @@ staatshoheit
 staatsklug
 staatskritisch
 staatsmännisch
+staatsmedien
 staatspolitisch
 staatsrechtlich
 staatsverbürgt
@@ -3357,6 +3399,7 @@ stabhochsprungtrainer
 stabil
 stabilisator
 stabilisieren
+stabilisierung
 stabilisierungs
 stabilität
 stabilitätsgeschichte
@@ -3455,6 +3498,7 @@ standhältst
 standhielt
 ständig
 standort
+standpunkt
 standrechtlich
 standzuhalten
 stanford
@@ -3487,6 +3531,7 @@ stärken
 stärker
 starkregen
 stärkste
+stärksten
 starkstrom
 starkstromkabel
 starkstromleitung
@@ -3539,6 +3584,7 @@ stattfänden
 stattfinden
 stattgeben
 stattgefunden
+stattgefundener
 stattgegeben
 statthaft
 statthalter
@@ -3638,6 +3684,7 @@ steganographisch
 stegreif
 steh
 stehaufmännchen
+stehe
 stehen
 stehenbleiben
 stehenblieb
@@ -3656,6 +3703,7 @@ steifheit
 steifigkeit
 steig
 steigen
+steigenden
 steiger
 steigern
 steigerungsfähig
@@ -3695,6 +3743,7 @@ steller
 stellig
 stelligkeit
 stellte
+stellten
 stellungnahme
 stellungs
 stellungslos
@@ -4066,6 +4115,7 @@ strahlturbine
 strahlungs
 strahlungsarm
 strahlungslos
+strahlungswerte
 strahlwassergeschützt
 strähne
 stralsund
@@ -4278,6 +4328,7 @@ stündchen
 stunde
 stünde
 stunden
+stünden
 stundenkilometer
 stundenlang
 stundenweise

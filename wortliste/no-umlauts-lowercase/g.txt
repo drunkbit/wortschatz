@@ -12,6 +12,7 @@ gabun
 gackern
 gaddafi
 gaeb
+gaebe
 gaehnen
 gaehnens
 gaelte
@@ -143,6 +144,7 @@ gasartig
 gasbetrieben
 gasfoermig
 gasfrei
+gashandels
 gasometer
 gasse
 gassenjargon
@@ -238,6 +240,7 @@ gebastelt
 gebauchpinselt
 gebauscht
 gebaut
+gebe
 gebebt
 gebefreudig
 gebeichtet
@@ -465,6 +468,7 @@ gefaelligkeitsgutachten
 gefaelligkeitskredit
 gefaellt
 gefaelscht
+gefaelschten
 gefaengnis
 gefaerbt
 gefaess
@@ -634,6 +638,7 @@ gegenrechnen
 gegensaetzlich
 gegensaetzlichkeit
 gegenseitig
+gegenseitigen
 gegenseitigkeit
 gegenstaendlich
 gegenstaendlichkeit
@@ -642,6 +647,7 @@ gegenstandslos
 gegensteuern
 gegenteil
 gegenteilig
+gegenteiligen
 gegenueber
 gegenuebergestanden
 gegenuebergestellt
@@ -715,6 +721,7 @@ gehalts
 gehaltvoll
 gehampel
 gehandelt
+gehandelten
 gehandhabt
 gehandikapt
 gehangen
@@ -726,6 +733,7 @@ gehaucht
 gehauen
 gehaust
 gehbehindert
+gehe
 gehebelt
 geheftet
 gehege
@@ -735,6 +743,7 @@ geheilt
 geheim
 geheimdienstler
 geheimdienstlich
+geheimdienststandorte
 geheimgehalten
 geheimnis
 geheimniskraemerei
@@ -979,6 +988,7 @@ gelaechter
 gelaehmt
 gelaende
 gelaender
+gelaendes
 gelaenge
 gelaermt
 gelaestert
@@ -992,6 +1002,7 @@ gelagert
 gelahmt
 gelandet
 gelangen
+gelangt
 gelangweilt
 gelass
 gelassen
@@ -1005,6 +1016,7 @@ gelaunt
 gelauscht
 gelaust
 gelb
+gelbe
 gelbgruen
 gelbschnabel
 gelbschnaebel
@@ -1023,6 +1035,7 @@ geleckt
 gelee
 geleert
 gelegen
+gelegene
 gelegenheit
 gelegenheiten
 gelegenheits
@@ -1075,6 +1088,7 @@ gelohnt
 gelost
 gelotst
 gelsenkirchen
+gelte
 gelten
 geltendmachen
 geltungs
@@ -1131,6 +1145,7 @@ gemeinnuetzig
 gemeinnuetzigkeit
 gemeinnutz
 gemeinsam
+gemeinsamen
 gemeinsamkeit
 gemeinschaft
 gemeinschaftlich
@@ -1194,6 +1209,7 @@ genaeht
 genagelt
 genagt
 genannt
+genannte
 genau
 genauestens
 genauigkeit
@@ -1214,6 +1230,7 @@ genera
 generaele
 general
 generalbevollmaechtigte
+generaldirektor
 generalgouvernement
 generalisieren
 generalisierung
@@ -1480,6 +1497,7 @@ gerda
 gerechnet
 gerecht
 gerechtfertigt
+gerechtfertigte
 gerechtigkeit
 gerechtigkeits
 gereckt
@@ -1948,6 +1966,7 @@ gesetzwidrig
 gesetzwidrigkeit
 geseufzt
 gesichert
+gesicherte
 gesicht
 gesichtet
 gesichts
@@ -2011,7 +2030,9 @@ gespraech
 gespraechig
 gespraechigkeit
 gespraechs
+gespraechsbasis
 gespraechsbereit
+gespraechskultur
 gespreizt
 gesprengt
 gesprenkelt
@@ -2405,6 +2426,7 @@ gewinner
 gewinnerzielungsgruenden
 gewinnerzielungsmotiv
 gewinnerzielungstrieb
+gewinnmargen
 gewinnmitnahme
 gewinnmitnehmend
 gewinntraechtig
@@ -2567,6 +2589,7 @@ gigawatt
 gigolo
 gilde
 gildenplatz
+gilt
 giltst
 gina
 ging
@@ -2944,6 +2967,7 @@ grammophonplatte
 granat
 grandios
 granit
+grano
 grantig
 granulaer
 granularitaet
@@ -3107,6 +3131,7 @@ groesser
 groessere
 groesste
 groesstenteils
+groesster
 groesstmoeglich
 grog
 groll
@@ -3131,6 +3156,7 @@ grossgeschrieben
 grossgezogen
 grossherzig
 grossherzigkeit
+grossi
 grossindustriell
 grossist
 grossistenverband
@@ -3283,6 +3309,7 @@ gutduenken
 gute
 guten
 gutenberg
+gutes
 gutfundiert
 gutgegangen
 gutgeheissen

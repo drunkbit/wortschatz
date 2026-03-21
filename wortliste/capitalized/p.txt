@@ -287,6 +287,7 @@ Partizipial
 Partizipien
 Partizipieren
 Partner
+Partnern
 Partnerschaft
 Partnerschaftlich
 Partnerschaftsabkommen
@@ -314,6 +315,7 @@ Passend
 Passgerecht
 Passier
 Passieren
+Passiert
 Passion
 Passioniert
 Passionsspiele
@@ -970,6 +972,7 @@ Plakatkrieg
 Plakatmaler
 Plakatsäule
 Plakette
+Plakolm
 Plan
 Planck
 Plancksche
@@ -1277,10 +1280,12 @@ Populistisch
 Pore
 Poren
 Porno
+Pornobildern
 Pornografie
 Pornografisch
 Pornographie
 Pornographisch
+Pornos
 Porös
 Porsche
 Port
@@ -1502,6 +1507,7 @@ Präsent
 Präsentabel
 Präsentation
 Präsentieren
+Präsentierte
 Präsentierteller
 Präsenz
 Präservativ
@@ -1560,20 +1566,25 @@ Predigtdienst
 Preemptiv
 Preis
 Preisanpassend
+Preisanstiegen
+Preisanstiegs
 Preisbereinigt
 Preisbestimmend
 Preisbewusst
 Preisbildend
 Preisbrechen
 Preisbrechend
+Preise
 Preisen
 Preisfestsetzend
+Preisg
 Preisgab
 Preisgabe
 Preisgeben
 Preisgebunden
 Preisgegeben
 Preisgekrönt
+Preisgesetz
 Preisgibt
 Preisgleich
 Preisgünstig
@@ -1694,6 +1705,7 @@ Problemfrei
 Problemlos
 Problemlösend
 Problemorientiert
+Problems
 Problemspezifisch
 Procedere
 Produkt
@@ -1725,6 +1737,7 @@ Profiliert
 Profit
 Profitabel
 Profitabilität
+Profite
 Profiteur
 Profitgier
 Profitieren

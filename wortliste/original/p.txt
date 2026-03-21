@@ -495,6 +495,7 @@ Partizipien
 partizipieren
 partner
 Partner
+Partnern
 partnerschaft
 Partnerschaft
 partnerschaftlich
@@ -540,6 +541,7 @@ passgerecht
 passier
 Passier
 passieren
+passiert
 passion
 Passion
 passioniert
@@ -1635,6 +1637,7 @@ plakatsäule
 Plakatsäule
 plakette
 Plakette
+Plakolm
 plan
 Plan
 Planck
@@ -2153,12 +2156,14 @@ poren
 Poren
 porno
 Porno
+Pornobildern
 pornografie
 Pornografie
 pornografisch
 pornographie
 Pornographie
 pornographisch
+Pornos
 porös
 Porsche
 port
@@ -2522,6 +2527,7 @@ präsentabel
 präsentation
 Präsentation
 präsentieren
+präsentierte
 präsentierteller
 Präsentierteller
 präsenz
@@ -2615,14 +2621,18 @@ preemptiv
 preis
 Preis
 preisanpassend
+Preisanstiegen
+Preisanstiegs
 preisbereinigt
 preisbestimmend
 preisbewusst
 preisbildend
 preisbrechen
 preisbrechend
+Preise
 preisen
 preisfestsetzend
+PreisG
 preisgab
 preisgabe
 Preisgabe
@@ -2630,6 +2640,7 @@ preisgeben
 preisgebunden
 preisgegeben
 preisgekrönt
+Preisgesetz
 preisgibt
 preisgleich
 preisgünstig
@@ -2822,6 +2833,7 @@ problemfrei
 problemlos
 problemlösend
 problemorientiert
+Problems
 problemspezifisch
 Procedere
 produkt
@@ -2875,6 +2887,7 @@ Profit
 profitabel
 profitabilität
 Profitabilität
+Profite
 profiteur
 Profiteur
 profitgier

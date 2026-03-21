@@ -79,6 +79,7 @@ cembalist
 cembalo
 cembalomusik
 cent
+centcom
 center
 centos
 centronics
@@ -227,6 +228,7 @@ choreographieren
 choreographisch
 chorist
 chose
+chris
 christ
 christa
 christall
@@ -243,6 +245,7 @@ christine
 christlich
 christlichkeit
 christoph
+christopher
 christophorus
 christsozial
 christus
@@ -339,6 +342,7 @@ coitus
 cola
 collage
 collie
+collien
 colmar
 colombo
 colorglas
@@ -382,6 +386,7 @@ controllerplatine
 cookie
 cool
 coolness
+cooper
 coprozessor
 copyright
 corazon

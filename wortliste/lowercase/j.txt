@@ -77,6 +77,7 @@ janusköpfig
 japan
 japaner
 japanisch
+japanischen
 jargon
 jaruzelski
 jäten
@@ -218,6 +219,7 @@ judentum
 judikativ
 jüdin
 jüdisch
+jüdischen
 judizieren
 judo
 judoka
@@ -265,6 +267,7 @@ jüngling
 jünglingsalter
 jungspund
 jüngst
+jüngsten
 jungverheiratet
 juni
 junior

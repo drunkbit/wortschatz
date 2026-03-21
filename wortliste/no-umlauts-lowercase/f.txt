@@ -19,6 +19,7 @@ fachaerztlich
 fachbereichleiter
 fachbezogen
 fachen
+fachfrau
 fachgemaess
 fachgerecht
 fachkundig
@@ -46,6 +47,7 @@ faedeln
 faeden
 faehig
 faehigkeit
+faehigkeiten
 faehnchen
 faehnlein
 faehnrich
@@ -55,6 +57,7 @@ faehrschiffverbindung
 faehrt
 faehrte
 faekalien
+faelle
 faellen
 faellig
 faelligkeit
@@ -139,6 +142,7 @@ fallschirmaehnlich
 fallsuechtig
 fallweise
 falsch
+falschbeschuldigungen
 falscher
 falschest
 falschheit
@@ -423,6 +427,7 @@ fermi
 fern
 fernab
 fernabgelegen
+fernandes
 fernando
 fernbedienbar
 fernbleiben
@@ -533,6 +538,8 @@ festschrieb
 festsetzen
 festsitzen
 festspannen
+festspielintendanten
+festspielspitze
 feststand
 feststecken
 feststehen
@@ -685,6 +692,7 @@ finanzieren
 finanzierungs
 finanzkraeftig
 finanzminister
+finanzministerium
 finanzoekonomisch
 finanzpolitisch
 finanzstark
@@ -749,6 +757,7 @@ fiskaljahr
 fiskalpakt
 fiskalpolitik
 fiskalpolitisch
+fiskalrats
 fiskalunion
 fiskus
 fistel
@@ -909,6 +918,7 @@ fliegengewichtler
 fliegenklatsche
 fliegens
 flieger
+fliegerbomben
 fliegerei
 fliegerisch
 fliehen
@@ -1001,6 +1011,7 @@ fluechtig
 fluechtigkeit
 fluechtigkeitsfehler
 fluechtling
+fluechtlinge
 fluechtlings
 fluechtlingsfrei
 fluechtlingstrecks
@@ -1009,6 +1020,7 @@ fluegellahm
 fluegellos
 fluegge
 fluessig
+fluessiggases
 fluessigkeit
 fluessigkeits
 fluessigkeitsgefuellt
@@ -1132,6 +1144,8 @@ fopperei
 forcieren
 ford
 fordern
+forderte
+forderung
 forderungs
 forelle
 forellenblau
@@ -1416,7 +1430,9 @@ frau
 frauen
 frauenfeindlich
 frauenhaft
+frauenhass
 frauenlos
+frauenverachtung
 fraulich
 fraunhofer
 freak
@@ -1573,6 +1589,7 @@ freudlos
 freudvoll
 freuen
 freund
+freunden
 freundeskreis
 freundesmund
 freundlich
@@ -1647,6 +1664,7 @@ froenen
 froesche
 froesteln
 froh
+frohe
 frohest
 frohgemut
 frohlocken
@@ -1692,6 +1710,7 @@ fruehest
 fruehestens
 fruehestmoeglich
 fruehjahrsoffensive
+fruehjahrsprognose
 fruehjahrsputz
 fruehjahrssitzung
 fruehjahrssprueche
@@ -1737,6 +1756,7 @@ fuehler
 fuehlerlehre
 fuehlungsnahme
 fuehren
+fuehrende
 fuehrer
 fuehrerlos
 fuehrte
@@ -1928,6 +1948,7 @@ fussballer
 fussballerisch
 fussballerkrankheit
 fussballnationalelf
+fussballrowdy
 fussen
 fussgaengerampel
 fussgaengeruebergang

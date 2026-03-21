@@ -26679,6 +26679,7 @@ Aflatoxin
 Aflatoxine
 Aflatoxinen
 Aflatoxins
+Afp
 Afra
 Afras
 Afrasiab
@@ -46061,7 +46062,9 @@ Anreden
 Anregen
 Anregungs
 Anreichern
+Anreicherung
 Anreicherungs
+Anreicherungsanlage
 Anreihen
 Anreise
 Anreisen
@@ -46229,6 +46232,7 @@ Anstreichen
 Anstreicher
 Anstrengen
 Anstrengend
+Anstrengungen
 Anstrich
 Ansturm
 Anstürmen
@@ -46617,6 +46621,7 @@ Arabien
 Arabisch
 Arabischsprachig
 Arafat
+Araktschi
 Aral
 Araldit
 Ararat
@@ -46920,10 +46925,17 @@ Atmungs
 Atmungsaktiv
 Atoll
 Atom
+Atomanlage
+Atomanlagen
 Atomar
+Atomenergiebehörde
+Atomfabrik
 Atomisieren
 Atomium
+Atomprogramm
 Atomsphäre
+Atomunfalls
+Atomwaffen
 Attachment
 Attacke
 Attackieren
@@ -47338,6 +47350,7 @@ Aufholen
 Aufholjagd
 Aufhorchen
 Aufhören
+Aufhört
 Aufkam
 Aufkauf
 Aufkaufen
@@ -47791,6 +47804,8 @@ August
 Augustin
 Augustiner
 Augustus
+Aui
+Auinger
 Auktion
 Auktions
 Aula
@@ -48089,6 +48104,7 @@ Ausgepicht
 Ausgeplaudert
 Ausgeplündert
 Ausgeprägt
+Ausgeprägte
 Ausgepresst
 Ausgepumpt
 Ausgeputzt
@@ -48286,6 +48302,7 @@ Ausland
 Ausländer
 Ausländerfeindlich
 Ausländisch
+Ausländische
 Auslands
 Auslandschuld
 Auslandsdeutscher
@@ -48346,6 +48363,8 @@ Ausmündung
 Ausmustern
 Ausnahm
 Ausnahme
+Ausnahmeregelung
+Ausnahmeregelungen
 Ausnahmslos
 Ausnahmsweise
 Ausnehmen
@@ -48462,6 +48481,8 @@ Außenamtsspecher
 Außenbord
 Außenborder
 Aussenden
+Aussendung
+Außenminister
 Außenpolitisch
 Außenseiter
 Außenstehende
@@ -48485,6 +48506,7 @@ Außerstand
 Außeruniversitär
 Aussetzen
 Aussetzer
+Aussetzung
 Aussicht
 Aussichts
 Aussichtslos

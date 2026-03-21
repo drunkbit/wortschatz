@@ -19,6 +19,7 @@ ebendeswegen
 ebendies
 ebendieselbe
 ebene
+ebenen
 ebenerdig
 ebenfalls
 ebenheit
@@ -36,6 +37,7 @@ echnaton
 echo
 echolot
 echt
+echte
 echtheit
 echtzeit
 echtzeitfähig
@@ -72,6 +74,7 @@ editor
 editorial
 editorinstallation
 edmund
+edtstadler
 eduard
 edukation
 edukativ
@@ -196,6 +199,8 @@ eigenbrötelei
 eigenbrötler
 eigenbrötlerisch
 eigenen
+eigener
+eigenes
 eigenhändig
 eigenheit
 eigeninitiatives
@@ -292,6 +297,7 @@ einbüßen
 einchecken
 eincremen
 eindämmen
+eindämmung
 eindämmungspolitik
 eindampfen
 eindecken
@@ -385,6 +391,7 @@ eingabeterm
 eingang
 eingängig
 eingangs
+eingangsgebäuden
 eingangsmultiplexer
 eingangstrigger
 eingearbeitet
@@ -647,6 +654,8 @@ eingravieren
 eingreifen
 eingrenzen
 eingriff
+eingriffe
+eingriffen
 eingriffs
 einhaken
 einhalt
@@ -679,6 +688,7 @@ einig
 einige
 einigen
 einigermaßen
+einiges
 einigkeit
 einigungs
 einjagen
@@ -771,6 +781,7 @@ einmotten
 einmünden
 einnahm
 einnahme
+einnahmen
 einnahmenminderung
 einnehmbar
 einnehmen
@@ -801,6 +812,7 @@ einrad
 einräder
 einrasten
 einräumen
+einräumt
 einrechenbar
 einrechnen
 einreden
@@ -1064,6 +1076,7 @@ einzelheit
 einzeller
 einzeln
 einzelstaatlich
+einzelzentrifugen
 einziehen
 einziehungs
 einzig
@@ -1403,6 +1416,7 @@ empfangsbereit
 empfängt
 empfehlen
 empfehlenswert
+empfehlungen
 empfehlungs
 empfiehlt
 empfinden
@@ -1488,6 +1502,7 @@ endsperre
 endsperren
 energetisch
 energie
+energieanlagen
 energiearm
 energieärmer
 energieärmste
@@ -1496,6 +1511,8 @@ energieeffizient
 energiefressend
 energiegeladen
 energielos
+energiemärkte
+energieminister
 energiepolitisch
 energiereich
 energiesparend
@@ -1683,6 +1700,7 @@ enthielt
 enthoben
 enthüllen
 enthüller
+enthüllt
 enthüllungsplattform
 enthusiasmus
 enthusiast
@@ -1859,6 +1877,7 @@ entsprochen
 entsprossen
 entsprungen
 entstammen
+entstand
 entstanden
 entstauben
 entstehen
@@ -1893,6 +1912,8 @@ entwich
 entwichen
 entwickeln
 entwickler
+entwicklung
+entwicklungen
 entwicklungs
 entwicklungsbedürftig
 entwicklungsfähig
@@ -1998,6 +2019,7 @@ erben
 erbenaufgebot
 erbenaufruf
 erbens
+erbes
 erbeten
 erbeuten
 erbfähig
@@ -2189,6 +2211,7 @@ erheben
 erheblich
 erheblichkeit
 erhebt
+erhebungen
 erhebungs
 erheischen
 erheitern
@@ -2200,6 +2223,7 @@ erhöbe
 erhoben
 erhoffen
 erhöhen
+erhöhte
 erholen
 erholsam
 erholungs
@@ -2243,7 +2267,9 @@ erklären
 erklärer
 erklärlich
 erklärlicherweise
+erklärte
 erklärtermaßen
+erklärung
 erklärungs
 erklärungsbedürftig
 erklärungsnot
@@ -2271,6 +2297,7 @@ erlauben
 erlaubnis
 erlaucht
 erläutern
+erläuterte
 erläuterungsbedürftig
 erle
 erlebe
@@ -2333,7 +2360,9 @@ erneuern
 erneuerungs
 erneut
 erneute
+erneuten
 erniedrigen
+erniedrigung
 ernst
 ernstfall
 ernsthaft
@@ -2373,6 +2402,7 @@ errang
 errata
 erraten
 erratisch
+erratisches
 errätst
 erratum
 errechenbar
@@ -2399,6 +2429,7 @@ errungenschaft
 ersann
 ersatz
 ersatzlos
+ersatzlose
 ersatzpflichtig
 ersatzweise
 ersaufen
@@ -2434,6 +2465,7 @@ erschrockenheit
 erschuf
 erschüttern
 erschütternd
+erschütternden
 erschweren
 erschwernis
 erschwindeln
@@ -2462,6 +2494,7 @@ erstanden
 erstarken
 erstarren
 erstatten
+erstattete
 erstattungsfähigkeit
 erstaunen
 erstaunens
@@ -2513,6 +2546,7 @@ ertasten
 erteilen
 ertönen
 ertrag
+ertrage
 ertragen
 erträglich
 ertragreich
@@ -2585,6 +2619,7 @@ erwirken
 erwirtschaften
 erwischen
 erwogen
+erwögen
 erworben
 erwünschen
 erwünscht
@@ -2758,6 +2793,7 @@ europäerviertel
 europaexekutiven
 europafreundlich
 europäisch
+europäische
 europarechtlich
 europaweit
 europium
@@ -2776,6 +2812,7 @@ evakuierungsbefehl
 evaluation
 evaluations
 evaluieren
+evaluiert
 evaluierungs
 evalutions
 evangeliar
@@ -2848,6 +2885,7 @@ existenzbedrohend
 existenzgefährdend
 existenzialismus
 existenziell
+existenzielle
 existieren
 exit
 exitcode
@@ -2932,6 +2970,7 @@ extensiv
 exterieur
 extern
 externat
+externe
 exterritorial
 extra
 extrahieren

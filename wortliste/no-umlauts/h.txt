@@ -32,6 +32,7 @@ habgier
 Habgier
 habgierig
 habhaft
+habibi
 habicht
 Habicht
 habilitand
@@ -161,6 +162,7 @@ haesslichkeit
 Haesslichkeit
 haetscheln
 haette
+haetten
 haeubchen
 Haeubchen
 haeufchen
@@ -261,6 +263,7 @@ halbherzig
 halbhohe
 halbieren
 Halbieren
+Halbierung
 halbintellektueller
 Halbintellektueller
 halbjaehrig
@@ -639,6 +642,7 @@ hauptgefreiten
 Hauptgefreiten
 hauptleidtragende
 Hauptleidtragende
+Hauptprofiteur
 hauptprozessor
 Hauptprozessor
 Hauptsache
@@ -649,10 +653,12 @@ hauptschuldige
 Hauptschuldige
 hauptschuldiger
 Hauptschuldiger
+Hauptstadt
 hauptwachtmeister
 Hauptwachtmeister
 hauptwettbewerb
 Hauptwettbewerb
+Hauptziel
 hauruck
 Hauruck
 hauruckverfahren
@@ -667,6 +673,7 @@ Hausbesetzerszene
 Hause
 hauseigen
 hausen
+Hauses
 Hausfrau
 hausfraulich
 hausgemacht
@@ -1502,6 +1509,7 @@ hereingezogen
 hereinholen
 hereinkam
 hereinkommen
+hereinkommt
 hereinlaesst
 hereinlassen
 hereinlegen
@@ -1617,6 +1625,7 @@ herrschaftlich
 herrschafts
 Herrschafts
 herrschen
+herrschende
 herrscher
 Herrscher
 herrschsucht
@@ -1635,6 +1644,7 @@ hersteller
 Hersteller
 herstellerspezifisch
 herstellerunabhaengig
+Herstellung
 herstellungs
 Herstellungs
 Herta
@@ -1978,6 +1988,7 @@ heuschrecken
 Heuschrecken
 Heuss
 heute
+Heute
 heutig
 heutzutage
 Hewlett
@@ -2112,6 +2123,7 @@ hinan
 hinarbeiten
 hinauf
 hinaufarbeiten
+hinauffaehrt
 hinauffahren
 hinauffuehren
 hinauffuhr
@@ -2392,6 +2404,7 @@ hinhoeren
 hinken
 hinkommen
 hinkriegen
+hinkt
 hinlaenglich
 hinlaenglichkeit
 Hinlaenglichkeit
@@ -2443,6 +2456,7 @@ Hinterbliebenenrente
 hintereinander
 hintereinanderausfuehrung
 Hintereinanderausfuehrung
+hintereinandergeschaltet
 hinterfragen
 Hinterfragen
 hintergangen
@@ -2451,6 +2465,8 @@ Hintergehen
 hinterging
 hintergruendig
 hinterhaeltig
+Hinterhaeuser
+Hinterhaeusers
 hinterher
 hinterherfahren
 hinterhergelaufen
@@ -2819,6 +2835,7 @@ hochkommen
 hochkomplex
 hochkontagioes
 hochkonzentriert
+Hochkulturfestival
 hochladen
 hochlegen
 hochleistungsfaehig
@@ -3161,6 +3178,7 @@ Hormon
 hormonaehnlich
 hormonbedingt
 hormonell
+Hormus
 horn
 Horn
 hornberger
@@ -3387,6 +3405,7 @@ Hundertstels
 hundertstelsekunde
 Hundertstelsekunde
 hunderttausend
+Hunderttausende
 hunderttausendfach
 hundertzehn
 hundertzwanzig

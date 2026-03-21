@@ -25,6 +25,7 @@ machbarkeit
 Machbarkeit
 machbarkeitsstudie
 Machbarkeitsstudie
+mache
 machen
 machenschaft
 Machenschaft
@@ -37,6 +38,7 @@ macho
 Macho
 macht
 Macht
+machte
 mächte
 Mächte
 machten
@@ -48,6 +50,7 @@ mächtigkeit
 Mächtigkeit
 machtlos
 machtpolitisch
+Machtposition
 machtsüchtig
 machtübernahme
 Machtübernahme
@@ -417,6 +420,7 @@ mangelhaftigkeit
 Mangelhaftigkeit
 mangeln
 mangels
+mangelt
 manhattan
 Manhattan
 manie
@@ -465,6 +469,7 @@ mannequinschule
 Mannequinschule
 männer
 Männer
+Männern
 mannesgesicht
 Mannesgesicht
 Mannesmann
@@ -576,6 +581,7 @@ margarine
 Margarine
 marge
 Marge
+Margen
 margentarife
 Margentarife
 Margerite
@@ -705,6 +711,7 @@ marschall
 Marschall
 märsche
 Märsche
+Marschflugkörper
 marschieren
 marseille
 Marseille
@@ -1014,6 +1021,7 @@ maxima
 Maxima
 maximal
 Maximal
+maximalen
 maximalwerttrigger
 Maximalwerttrigger
 maxime
@@ -1209,6 +1217,7 @@ mehrstufig
 mehrstündig
 mehrtägig
 mehrteilig
+Mehrwertsteuereinnahmen
 mehrwöchig
 mehrzähnig
 mehrzeilig
@@ -1239,6 +1248,7 @@ meinethalben
 meinetwegen
 meinetwillen
 meinige
+meinte
 meinungs
 Meinungs
 meinungsbildend
@@ -1246,6 +1256,7 @@ meinungsbildner
 Meinungsbildner
 meinungsmache
 Meinungsmache
+Meinungsverschiedenheiten
 meise
 Meise
 meißel
@@ -1306,6 +1317,8 @@ Melden
 meldepflichtig
 melder
 Melder
+meldet
+meldete
 meldungsarchiv
 Meldungsarchiv
 melissengeist
@@ -1544,6 +1557,7 @@ Methodologie
 methodologisch
 metier
 Metier
+MeToo
 metrik
 Metrik
 metrisch
@@ -1718,7 +1732,10 @@ militant
 militär
 Militär
 militärähnlich
+Militäreinsatz
 militärisch
+militärische
+militärischen
 militarisieren
 militarismus
 Militarismus
@@ -1729,6 +1746,8 @@ militärjunta
 Militärjunta
 militärjunten
 Militärjunten
+Militärkommandos
+Militäroperation
 militärpolitisch
 militärseelsorge
 Militärseelsorge
@@ -1853,6 +1872,7 @@ mineralölsteuern
 Mineralölsteuern
 mineralölunternehmen
 Mineralölunternehmen
+Mineralölwirtschaft
 Ming
 mini
 Mini
@@ -1881,6 +1901,7 @@ ministerial
 Ministerial
 ministerien
 Ministerien
+Ministerin
 ministerium
 Ministerium
 ministeriumsmitarbeiter
@@ -1919,6 +1940,7 @@ minutiös
 minütlich
 Mips
 mir
+Mir
 Mirgorod
 Miriam
 misanthrop
@@ -2196,6 +2218,7 @@ mitglieds
 Mitglieds
 mitgliedschaft
 Mitgliedschaft
+Mitgliedsstaaten
 mitgliedstaat
 Mitgliedstaat
 mithalten
@@ -2503,6 +2526,7 @@ Möchtegern
 möchten
 modalität
 Modalität
+Modalitäten
 mode
 Mode
 modebewusst
@@ -2533,6 +2557,7 @@ moderationstext
 Moderationstext
 moderator
 Moderator
+Moderatorin
 moderieren
 moderig
 modern
@@ -2675,7 +2700,9 @@ monarchist
 Monarchist
 monat
 Monat
+Monate
 monatelang
+Monaten
 monatlich
 monats
 Monats
@@ -2930,6 +2957,7 @@ Moslem
 moslemisch
 most
 Most
+MÖSt
 mosten
 motel
 Motel
@@ -3004,6 +3032,8 @@ mühlenkanal
 Mühlenkanal
 mühlstein
 Mühlstein
+Mühlviertel
+Mühlviertler
 mühsal
 Mühsal
 mühsam
@@ -3178,6 +3208,7 @@ muss
 muß
 muße
 Muße
+müsse
 musselin
 Musselin
 musselinkleid
@@ -3190,10 +3221,12 @@ Mussolini
 musst
 musste
 müsste
+müssten
 mustang
 Mustang
 muster
 Muster
+Musterbeispiel
 mustergültig
 musterhaft
 mustern

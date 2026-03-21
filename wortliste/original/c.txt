@@ -133,6 +133,7 @@ cembalomusik
 Cembalomusik
 cent
 Cent
+Centcom
 center
 Center
 CentOS
@@ -384,6 +385,7 @@ choreographisch
 chorist
 Chorist
 Chose
+Chris
 christ
 Christ
 Christa
@@ -407,6 +409,7 @@ christlich
 christlichkeit
 Christlichkeit
 Christoph
+Christopher
 Christophorus
 christsozial
 christus
@@ -570,6 +573,7 @@ collage
 Collage
 collie
 Collie
+Collien
 colmar
 Colmar
 colombo
@@ -637,6 +641,7 @@ Cookie
 cool
 coolness
 Coolness
+Cooper
 coprozessor
 Coprozessor
 copyright

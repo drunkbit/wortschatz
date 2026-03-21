@@ -184,6 +184,7 @@ waldarm
 waldbedeckt
 waldeinsamkeit
 waldig
+walding
 waldorflehrer
 waldorfpaedagogik
 waldorfschule
@@ -349,6 +350,7 @@ wasserspuelung
 wasserstandsanzeiger
 wasserstandsmeldung
 wasserstoffhaltig
+wasserstrasse
 wassersuechtig
 waten
 waterloo
@@ -416,6 +418,7 @@ wegebau
 wegelagerer
 wegelagerin
 wegemessung
+wegen
 wegerecht
 wegerich
 wegfaehrt
@@ -666,6 +669,7 @@ weiss
 weissagen
 weissager
 weissbuch
+weissen
 weissensee
 weisses
 weissgelb
@@ -674,6 +678,7 @@ weissgewaschen
 weissgrau
 weisshaarig
 weisshaeutig
+weissmann
 weissrussisch
 weissrussland
 weissschimmelkaese
@@ -708,6 +713,7 @@ weiterempfahl
 weiterempfehlen
 weiterempfiehlt
 weiterempfohlen
+weiteren
 weiterentwickeln
 weitererzaehlen
 weiterfaehrt
@@ -726,6 +732,7 @@ weitergefuehrt
 weitergegangen
 weitergegeben
 weitergehen
+weitergehenden
 weitergekommen
 weitergelaufen
 weitergelebt
@@ -852,6 +859,7 @@ weltklug
 weltlaeufig
 weltlich
 weltmaennisch
+weltmaerkte
 weltmeisterelf
 weltoffen
 weltpolitisch
@@ -861,6 +869,7 @@ weltumkrempelnd
 weltumsegler
 weltumspannend
 weltweit
+weltweiten
 weltwirtschaft
 weltwirtschaftlich
 wem
@@ -876,6 +885,7 @@ wendigkeit
 wenig
 wenigkeit
 wenigst
+wenigsten
 wenigstens
 wenn
 wenngleich
@@ -1035,6 +1045,7 @@ wichtig
 wichtiggemacht
 wichtigkeit
 wichtigmachen
+wichtigsten
 wichtigtuer
 wichtigtuerei
 wicke
@@ -1265,6 +1276,7 @@ wieso
 wievielerlei
 wievielt
 wieweit
+wifo
 wiki
 wikinger
 wikingerschiff
@@ -1326,6 +1338,7 @@ windel
 windelweich
 winden
 windeseile
+windfall
 windgeschuetzt
 windig
 windmuehlenfluegel
@@ -1404,9 +1417,11 @@ wirtschaften
 wirtschafter
 wirtschaftler
 wirtschaftlich
+wirtschaftliche
 wirtschaftlichkeit
 wirtschafts
 wirtschaftsfoerderung
+wirtschaftsforschungsinstituts
 wirtschaftsgeografie
 wirtschaftsgeographie
 wirtschaftspolitisch
@@ -1546,6 +1561,7 @@ wohltuend
 wohltun
 wohlueberlegt
 wohlverdient
+wohlverhaltensklausel
 wohlverstanden
 wohlweislich
 wohlwollend
@@ -1641,6 +1657,7 @@ wrackgut
 wrang
 wrangler
 wrestling
+wright
 wringen
 wucher
 wucherer

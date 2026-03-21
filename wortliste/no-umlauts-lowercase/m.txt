@@ -10,6 +10,7 @@ mach
 machart
 machbarkeit
 machbarkeitsstudie
+mache
 machen
 machenschaft
 macher
@@ -17,11 +18,13 @@ machete
 machiavelli
 macho
 macht
+machte
 machten
 machthabende
 machthaberisch
 machtlos
 machtpolitisch
+machtposition
 machtsuechtig
 machtuebernahme
 machtvoll
@@ -57,6 +60,7 @@ maehnenkamm
 maengel
 maennchen
 maenner
+maennern
 maennlein
 maennlich
 maennlichkeit
@@ -269,6 +273,7 @@ mangelhaft
 mangelhaftigkeit
 mangeln
 mangels
+mangelt
 manhattan
 manie
 manier
@@ -354,6 +359,7 @@ marder
 margarete
 margarine
 marge
+margen
 margentarife
 margerite
 marginal
@@ -431,6 +437,7 @@ mars
 marsala
 marsch
 marschall
+marschflugkoerper
 marschieren
 marseille
 marshallplan
@@ -610,6 +617,7 @@ mautpflichtig
 max
 maxima
 maximal
+maximalen
 maximalwerttrigger
 maxime
 maximieren
@@ -737,6 +745,7 @@ mehrstuendig
 mehrstufig
 mehrtaegig
 mehrteilig
+mehrwertsteuereinnahmen
 mehrwoechig
 mehrzaehnig
 mehrzeilig
@@ -759,10 +768,12 @@ meinethalben
 meinetwegen
 meinetwillen
 meinige
+meinte
 meinungs
 meinungsbildend
 meinungsbildner
 meinungsmache
+meinungsverschiedenheiten
 meise
 meissel
 meisselanordnung
@@ -804,6 +815,8 @@ melde
 melden
 meldepflichtig
 melder
+meldet
+meldete
 meldungsarchiv
 melissengeist
 melken
@@ -951,6 +964,7 @@ methodist
 methodologie
 methodologisch
 metier
+metoo
 metrik
 metrisch
 metro
@@ -1058,9 +1072,14 @@ milieuschilderung
 milieustudie
 militaer
 militaeraehnlich
+militaereinsatz
 militaerisch
+militaerische
+militaerischen
 militaerjunta
 militaerjunten
+militaerkommandos
+militaeroperation
 militaerpolitisch
 militaerseelsorge
 militaertechnisch
@@ -1142,6 +1161,7 @@ mineraloel
 mineraloelsteuer
 mineraloelsteuern
 mineraloelunternehmen
+mineraloelwirtschaft
 ming
 mini
 miniatur
@@ -1158,6 +1178,7 @@ miniprinter
 minister
 ministerial
 ministerien
+ministerin
 ministerium
 ministeriumsmitarbeiter
 ministeriumssprecher
@@ -1388,6 +1409,7 @@ mitgibt
 mitglieder
 mitglieds
 mitgliedschaft
+mitgliedsstaaten
 mitgliedstaat
 mithaeltst
 mithalten
@@ -1614,6 +1636,7 @@ mobilmachungsgesetz
 mobilwettbewerb
 mochte
 modalitaet
+modalitaeten
 mode
 modebewusst
 modell
@@ -1633,6 +1656,7 @@ moderat
 moderation
 moderationstext
 moderator
+moderatorin
 moderieren
 moderig
 modern
@@ -1687,6 +1711,7 @@ moerser
 moersergranate
 moertel
 moertelgeruch
+moest
 moewe
 mofa
 mogadischu
@@ -1737,7 +1762,9 @@ monarchie
 monarchisch
 monarchist
 monat
+monate
 monatelang
+monaten
 monatlich
 monats
 monatsweise
@@ -1924,6 +1951,8 @@ muehle
 muehlenbetrieb
 muehlenkanal
 muehlstein
+muehlviertel
+muehlviertler
 muehsal
 muehsam
 muehselig
@@ -1953,10 +1982,12 @@ muenzer
 muerbe
 muerrisch
 muesli
+muesse
 muessen
 muessig
 muessiggang
 muesste
+muessten
 muetter
 muettergenesungswerk
 muetterlich
@@ -2052,6 +2083,7 @@ musst
 musste
 mustang
 muster
+musterbeispiel
 mustergueltig
 musterhaft
 mustern

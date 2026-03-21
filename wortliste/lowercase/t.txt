@@ -44,6 +44,7 @@ tagbau
 tagbauten
 tagblatt
 tagblätter
+tage
 tageblatt
 tagebuch
 tagebücher
@@ -197,6 +198,7 @@ taschenweise
 taschkent
 task
 taskfunktion
+tasnim
 tässchen
 tasse
 tastatur
@@ -327,6 +329,7 @@ technologiebasiert
 technologiefrei
 technologieinduziert
 technologisch
+technologischen
 technophilie
 techtelmechtel
 teckel
@@ -344,6 +347,7 @@ teflonpfanne
 tegel
 tegernsee
 teheran
+teibm
 teich
 teig
 teigig
@@ -374,8 +378,10 @@ teilnehmer
 teilnimmt
 teilprivatisiert
 teilsprachenbeziehung
+teilstaatlichen
 teilstationär
 teilstreb
+teilte
 teilungs
 teilweise
 teilzuhaben
@@ -460,6 +466,7 @@ tempo
 tempomat
 temporal
 temporär
+temporäre
 tempus
 tendenz
 tendenziell
@@ -1090,6 +1097,7 @@ transporteur
 transportfähig
 transportierbarkeit
 transportieren
+transportiert
 transputer
 transrapid
 transsexualismus
@@ -1170,6 +1178,9 @@ treiberkarte
 treiberprogramm
 treibersoftware
 treibertransistoren
+treibstoff
+treibstoffe
+treibstoffindustrie
 treideln
 treidelpfad
 tremolieren
@@ -1394,6 +1405,7 @@ truppen
 truppführer
 truppweise
 trustcenter
+truth
 truthahn
 truthähne
 truthenne
@@ -1515,6 +1527,7 @@ turteltaube
 tusch
 tuscheln
 tuschen
+tut
 tüte
 tuten
 tutor
@@ -1541,6 +1554,7 @@ typinferenz
 typinformation
 typinkonsistent
 typisch
+typische
 typischerweise
 typisieren
 typisierungskonzepte

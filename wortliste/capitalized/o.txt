@@ -21,6 +21,7 @@ Oberägypten
 Oberammergau
 Oberbayerisch
 Oberbayern
+Obere
 Oberflächlich
 Oberflächlichkeit
 Obergärig
@@ -29,9 +30,11 @@ Obergerichtlich
 Oberhalb
 Oberhausen
 Oberirdisch
+Oberirdischen
 Oberkommandierende
 Obermedizinalrat
 Oberösterreich
+Oberösterreichischen
 Oberrhein
 Oberrheintal
 Oberschlesien
@@ -223,6 +226,7 @@ Omnibus
 Omnilaser
 Omnipotenzfunktionen
 Omnipotenzgefühl
+Omv
 Onanie
 Onanieren
 Onkel
@@ -271,6 +275,7 @@ Opposition
 Oppositionell
 Oppositionellen
 Oppositions
+Oppositionsparteien
 Opteron
 Opti
 Optik
@@ -314,6 +319,7 @@ Orbit
 Orbital
 Orchester
 Orchestrieren
+Orchestrierten
 Orchidee
 Orden
 Ordens
@@ -410,6 +416,7 @@ Ortskundig
 Ortsnah
 Ortsüblich
 Ortsungebunden
+Ortszeit
 Ortungs
 Orwell
 Os

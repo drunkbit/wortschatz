@@ -322,6 +322,7 @@ beantragen
 beantragungs
 beantworten
 beantworter
+beantwortet
 beantwortungs
 bearbeiten
 bearbeiter
@@ -382,6 +383,7 @@ bedenklich
 bedenklichkeit
 bedenkminute
 bedenkzeit
+bedeute
 bedeuten
 bedeutend
 bedeutsam
@@ -407,8 +409,10 @@ bedingungs
 bedingungslos
 bedrängen
 bedrängnis
+bedrängt
 bedrohen
 bedrohlich
+bedrohung
 bedrohungs
 bedrucken
 bedrücken
@@ -460,6 +464,7 @@ befehl
 befehlen
 befehligen
 befehls
+befehlshaber
 befehlshaberisch
 befestigen
 befestigt
@@ -572,6 +577,7 @@ begrenzen
 begrenzer
 begrenzt
 begrenztheit
+begrenzung
 begrenzungs
 begriff
 begriffe
@@ -587,6 +593,7 @@ begründet
 begründungs
 begrüßen
 begrüßenswert
+begrüßt
 begrüßungs
 begünstigen
 begutachten
@@ -813,6 +820,7 @@ bekannt
 bekannte
 bekanntenkreis
 bekanntermaßen
+bekannteste
 bekanntgab
 bekanntgabe
 bekanntgeben
@@ -881,6 +889,7 @@ belasten
 belastend
 belastet
 belästigen
+belastung
 belastungs
 belastungsfrei
 belaubt
@@ -999,6 +1008,7 @@ benommen
 benommenheit
 benoten
 benötigen
+benötigten
 benotungs
 bentley
 benutzbarkeit
@@ -1024,6 +1034,7 @@ beordert
 bepacken
 bepflanzen
 beplanken
+bepreisung
 bequatschen
 bequem
 bequemen
@@ -1046,6 +1057,7 @@ berechenbar
 berechenbarkeit
 berechenbarkeitstheorie
 berechnen
+berechnungen
 berechnungs
 berechtigen
 berechtigte
@@ -1113,6 +1125,8 @@ bericht
 berichten
 berichtenswert
 berichterstatter
+berichtet
+berichtete
 berichtigen
 berichtigungs
 berichtigungsfähig
@@ -1150,6 +1164,7 @@ berthold
 berüchtigt
 berücksichtigen
 berücksichtigt
+berücksichtigung
 beruf
 berufen
 beruferaten
@@ -1170,6 +1185,7 @@ berufstätig
 berufstechnisch
 berufsunfähigkeitesrente
 berufsvorbereitend
+berufung
 berufungs
 beruhen
 beruhigen
@@ -1259,6 +1275,7 @@ beschränken
 beschrankt
 beschränkt
 beschränktheit
+beschränkung
 beschreiben
 beschreibt
 beschreibungs
@@ -1290,6 +1307,7 @@ beschwörungs
 beseelen
 besehen
 beseitigen
+beseitigung
 beseitigungs
 besen
 besenreiser
@@ -1329,6 +1347,7 @@ besoldungs
 besoldungsmäßig
 besondere
 besonderen
+besonderer
 besonderheit
 besonders
 besonnen
@@ -1352,6 +1371,7 @@ bespritzen
 besprochen
 besprühen
 bespucken
+bessent
 besser
 besseren
 bessern
@@ -1372,6 +1392,7 @@ bestandschutz
 bestandteil
 bestärken
 bestätigen
+bestätigt
 bestätigung
 bestätigungs
 bestatten
@@ -1394,6 +1415,7 @@ bestehen
 bestehend
 bestehens
 bestehlen
+besteht
 besteigen
 besteingeführt
 besteingerichtet
@@ -1419,6 +1441,7 @@ bestie
 bestiegen
 bestiehlt
 bestimmen
+bestimmender
 bestimmt
 bestimmten
 bestimmtheit
@@ -1438,9 +1461,11 @@ bestreben
 bestreichen
 bestreiken
 bestreiten
+bestreitet
 bestreuen
 bestrichen
 bestricken
+bestritt
 bestritten
 bestrumpft
 bestseller
@@ -1483,6 +1508,8 @@ beton
 betonen
 betonier
 betonieren
+betont
+betonte
 betören
 betracht
 betrachten
@@ -1533,6 +1560,7 @@ betrifft
 betrinken
 betrittst
 betroffen
+betroffene
 betroffenheit
 betroffensein
 betrogen
@@ -1597,8 +1625,10 @@ bevorzugen
 bewachen
 bewacher
 bewachsen
+bewacht
 bewachungs
 bewaffnen
+bewaffnete
 bewahren
 bewähren
 bewahrer
@@ -1621,6 +1651,7 @@ beweggrund
 beweggründe
 beweglich
 beweglichkeit
+bewegung
 bewegungs
 bewegungsfähig
 bewegungslos
@@ -1692,11 +1723,13 @@ bezeichnen
 bezeichnenderweise
 bezeichner
 bezeichnerlänge
+bezeichnet
 bezeichnung
 bezeugen
 bezichtigen
 beziehen
 bezieher
+bezieht
 beziehungs
 beziehungslos
 beziehungsunfähig
@@ -2181,6 +2214,7 @@ bolzplatz
 bolzplätze
 bombardement
 bombardieren
+bombardiert
 bombastisch
 bombay
 bombe
@@ -2325,6 +2359,7 @@ brachliegen
 brachte
 brächten
 brackwasser
+brad
 brahman
 brahmanentum
 brahmanismus
@@ -2618,7 +2653,9 @@ budenzauber
 budget
 budgetdienstes
 budgetieren
+budgetneutral
 budgetposten
+budgetsanierung
 budgetvoranschlag
 budgetzielen
 buenos
@@ -2690,11 +2727,14 @@ bundesland
 bundesligist
 bundesmietengesetz
 bundespartei
+bundesparteichef
 bundesparteitag
 bundespolitik
 bundespolitisch
 bundespräsidialamt
+bundesregierung
 bundesstaatlich
+bundesstraße
 bundestag
 bundestags
 bundestagsplenardebatte
@@ -2711,6 +2751,7 @@ bündniskonform
 bundsteg
 bungalow
 bunker
+bunkerbrechende
 bunsen
 bunsenbrenner
 bunt
@@ -2733,6 +2774,7 @@ bürgenstock
 bürger
 bürgerkriegsähnlich
 bürgerlich
+bürgermeister
 bürgerschaft
 bürgerschaftswahl
 bürgersleute

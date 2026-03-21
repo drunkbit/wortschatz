@@ -22,6 +22,7 @@ haber
 habgier
 habgierig
 habhaft
+habibi
 habicht
 habilitand
 habilitation
@@ -101,6 +102,7 @@ halbhell
 halbherzig
 halbhohe
 halbieren
+halbierung
 halbintellektueller
 halbjährig
 halbjährlich
@@ -372,6 +374,7 @@ hätscheln
 hatte
 hätte
 hatten
+hätten
 häubchen
 haube
 haubitze
@@ -407,14 +410,17 @@ haupteslänge
 hauptgefreiten
 hauptleidtragende
 häuptling
+hauptprofiteur
 hauptprozessor
 hauptsache
 hauptsacheverfahren
 hauptsächlich
 hauptschuldige
 hauptschuldiger
+hauptstadt
 hauptwachtmeister
 hauptwettbewerb
+hauptziel
 hauruck
 hauruckverfahren
 haus
@@ -427,6 +433,7 @@ hause
 hauseigen
 hausen
 häuser
+hauses
 hausfrau
 hausfraulich
 hausgemacht
@@ -1090,6 +1097,7 @@ hereingezogen
 hereinholen
 hereinkam
 hereinkommen
+hereinkommt
 hereinlassen
 hereinlässt
 hereinlegen
@@ -1184,6 +1192,7 @@ herrschaft
 herrschaftlich
 herrschafts
 herrschen
+herrschende
 herrscher
 herrschsucht
 herrufen
@@ -1197,6 +1206,7 @@ herstellen
 hersteller
 herstellerspezifisch
 herstellerunabhängig
+herstellung
 herstellungs
 herta
 hertha
@@ -1594,6 +1604,7 @@ hinarbeiten
 hinauf
 hinaufarbeiten
 hinauffahren
+hinauffährt
 hinauffuhr
 hinaufführen
 hinaufgearbeitet
@@ -1856,6 +1867,7 @@ hinhören
 hinken
 hinkommen
 hinkriegen
+hinkt
 hinlänglich
 hinlänglichkeit
 hinlegen
@@ -1897,12 +1909,15 @@ hinterbliebene
 hinterbliebenenrente
 hintereinander
 hintereinanderausführung
+hintereinandergeschaltet
 hinterfragen
 hintergangen
 hintergehen
 hinterging
 hintergründig
 hinterhältig
+hinterhäuser
+hinterhäusers
 hinterher
 hinterherfahren
 hinterhergelaufen
@@ -2217,6 +2232,7 @@ hochkommen
 hochkomplex
 hochkontagiös
 hochkonzentriert
+hochkulturfestival
 hochladen
 hochlegen
 hochleistungsfähig
@@ -2461,6 +2477,7 @@ hormon
 hormonähnlich
 hormonbedingt
 hormonell
+hormus
 horn
 hornberger
 hörnchen
@@ -2589,6 +2606,7 @@ hundertstel
 hundertstels
 hundertstelsekunde
 hunderttausend
+hunderttausende
 hunderttausendfach
 hundertzehn
 hundertzwanzig

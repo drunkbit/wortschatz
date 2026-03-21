@@ -142,6 +142,7 @@
 Übergossen
 Übergreifen
 Übergriff
+Übergriffe
 Übergroß
 Übergroßzügig
 Überhand
@@ -374,6 +375,7 @@
 Übervorteilt
 Überwachen
 Überwacher
+Überwachung
 Überwachungs
 Überwältigen
 Überwand
@@ -406,6 +408,7 @@
 Überzugehen
 Überzugreifen
 Überzuwechseln
+Übler
 Üblich
 Üblichen
 Üblicherweise

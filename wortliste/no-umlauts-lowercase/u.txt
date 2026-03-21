@@ -149,6 +149,7 @@ uebergluecklich
 uebergossen
 uebergreifen
 uebergriff
+uebergriffe
 uebergross
 uebergrosszuegig
 ueberhaengen
@@ -381,6 +382,7 @@ uebervorteilen
 uebervorteilt
 ueberwachen
 ueberwacher
+ueberwachung
 ueberwachungs
 ueberwaeltigen
 ueberwand
@@ -413,6 +415,7 @@ ueberzuckern
 ueberzugehen
 ueberzugreifen
 ueberzuwechseln
+uebler
 ueblich
 ueblichen
 ueblicherweise
@@ -471,6 +474,7 @@ ulkig
 ulla
 ulm
 ulme
+ulmen
 ulrich
 ulrike
 ultima
@@ -1008,6 +1012,7 @@ unbeansprucht
 unbeanstandet
 unbeantwortet
 unbebaut
+unbedachter
 unbedarft
 unbedenklichkeit
 unbedenklichkeits
@@ -1391,6 +1396,7 @@ unnachgiebigkeit
 unnahbar
 unnatuerlichkeit
 unnennbar
+unnoetige
 unnoetigerweise
 unnuetz
 uno
@@ -1456,6 +1462,7 @@ unsere
 unsereiner
 unsereins
 unserem
+unserer
 unsererseits
 unseresgleichen
 unserm
@@ -1465,6 +1472,7 @@ unserthalben
 unsertwegen
 unsertwillen
 unsicherheit
+unsicherheiten
 unsicherheitsfaktor
 unsichtbar
 unsichtbarkeit
@@ -1576,6 +1584,8 @@ unterhebeln
 unterhielt
 unterhoehlen
 unterirdisch
+unterirdische
+unterirdischen
 unterjochen
 unterkellern
 unterkriegen
@@ -1635,6 +1645,7 @@ unterschieben
 unterschied
 unterschieden
 unterschiedlich
+unterschiedlichen
 unterschiedlichkeit
 unterschiedslos
 unterschlaegt
@@ -1721,6 +1732,7 @@ unuebertragbar
 unueberwindlich
 unumkehrbar
 unumkehrbarkeit
+unumschraenkten
 unumstoesslich
 unumwunden
 ununterscheidbar
@@ -1851,6 +1863,7 @@ uralt
 uraltparagraf
 uraltparagraph
 uran
+urananreicherungsanlage
 urangst
 uratmosphaere
 urauffuehren

@@ -413,6 +413,7 @@ Karnickel
 Kärnten
 Karo
 Karokönig
+Karoline
 Karolinger
 Karomuster
 Karosse
@@ -474,6 +475,7 @@ Kasernen
 Kasernieren
 Kasino
 Kaskade
+Kaskaden
 Kaskadenbombenwurf
 Kaskadenbombenwürfen
 Kaskadenmotor
@@ -1092,6 +1094,7 @@ Klimatisch
 Klimatisieren
 Klimatisierung
 Klimatologe
+Klimavergiftung
 Klimmzug
 Klimpern
 Klimpert
@@ -1470,6 +1473,7 @@ Kommasetzung
 Kommastelle
 Kommata
 Kommen
+Kommende
 Kommenden
 Kommentar
 Kommentarbuchstabe
@@ -1698,6 +1702,7 @@ Konjunktiv
 Konjunktur
 Konjunkturdämpfend
 Konjunkturell
+Konjunkturellen
 Konjunkturgerecht
 Konkatenation
 Konkatenieren
@@ -1744,6 +1749,7 @@ Konsensverfahren
 Konsequent
 Konsequenterweise
 Konsequenz
+Konsequenzen
 Konservatismus
 Konservativ
 Konservativen
@@ -1813,6 +1819,7 @@ Kontagiös
 Kontagiosität
 Kontakt
 Kontaktarm
+Kontaktaufnahme
 Kontaktfreudig
 Kontaktieren
 Kontaktiermöglichkeit
@@ -1870,6 +1877,7 @@ Kontrolleur
 Kontrollierbar
 Kontrollierbarkeit
 Kontrollieren
+Kontrolliert
 Kontrovers
 Kontur
 Konturieren
@@ -1941,6 +1949,7 @@ Koordination
 Koordinations
 Koordinator
 Koordinieren
+Koordinierung
 Koordinierungs
 Kopenhagen
 Köpenick
@@ -2002,6 +2011,7 @@ Körpereigen
 Körperlich
 Körperlichkeit
 Körperschaftssteuer
+Körperverletzung
 Korporation
 Korps
 Korpskommandeur
@@ -2028,6 +2038,7 @@ Korrespondieren
 Korridor
 Korrigierbarkeit
 Korrigieren
+Korrigiert
 Korrodieren
 Korrosion
 Korrosionsbeständig
@@ -2081,6 +2092,7 @@ Kostensenkend
 Kostensenkungspotenzial
 Kostensparend
 Kostet
+Kostete
 Kostgänger
 Köstlich
 Köstlichkeit
@@ -2277,6 +2289,7 @@ Kriegerdenkmal
 Kriegerisch
 Kriegerverein
 Kriegerwitwe
+Krieges
 Kriegs
 Kriegsbereit
 Kriegsbeschädigt
@@ -2288,6 +2301,7 @@ Kriegsführend
 Kriegsgerichtlich
 Kriegsgeschädigt
 Kriegslüstern
+Kriegsparteien
 Kriegstagebuch
 Kriegstagebücher
 Kriegsuntauglich
@@ -2297,6 +2311,8 @@ Kriegsvorlagen
 Kriegswichtig
 Kriegswillig
 Kriegszerstört
+Kriegsziel
+Kriegsziele
 Krim
 Krimi
 Kriminal
@@ -2362,6 +2378,7 @@ Kroch
 Krokodil
 Kron
 Krone
+Kronen
 Krönen
 Kronendach
 Kronengewölbe
@@ -2507,6 +2524,8 @@ Kundgetan
 Kundig
 Kündigen
 Kündigt
+Kündigte
+Kündigten
 Kündigungs
 Kundmachen
 Kundschaft
@@ -2546,6 +2565,8 @@ Kur
 Kür
 Kurativ
 Kuratorium
+Kuratoriums
+Kuratoriumssitzung
 Kurbel
 Kurbeln
 Kürbis
@@ -2566,6 +2587,7 @@ Kuriosum
 Kurs
 Kürschner
 Kursieren
+Kursierten
 Kursiv
 Kursivdruck
 Kursivschrift
@@ -2643,6 +2665,7 @@ Kybernetik
 Kybernetiker
 Kybernetisch
 Kyjiw
+Kyodo
 Kyphose
 Kyrillisch
 Kz

@@ -1,4 +1,6 @@
 I
+Iaea
+Iaeo
 Iata
 Iban
 Ibbenbüren
@@ -49,6 +51,7 @@ Ideologie
 Ideologieanfällig
 Ideologisch
 Ideologische
+Ideologischer
 Idiomatik
 Idiomatisch
 Idiome
@@ -382,6 +385,7 @@ Informatorisch
 Informell
 Informeller
 Informieren
+Informiert
 Infrage
 Infrarot
 Infrastruktur
@@ -647,6 +651,7 @@ Integralteil
 Integration
 Integrations
 Integrationsfähig
+Integrationsministerin
 Integrativ
 Integre
 Integrer
@@ -723,6 +728,8 @@ Intern
 Interna
 Internat
 International
+Internationale
+Internationalen
 Internationalisieren
 Internationalismus
 Internats
@@ -852,6 +859,10 @@ Irakisch
 Iran
 Iraner
 Iranisch
+Iranische
+Iranischem
+Iranischen
+Iranisches
 Irc
 Irden
 Irdisch
@@ -931,6 +942,7 @@ Islamabad
 Islamfeindlich
 Islamhasser
 Islamisch
+Islamischen
 Islamismus
 Islamist
 Islamistisch
@@ -966,7 +978,11 @@ Isp
 Israel
 Israeli
 Israelisch
+Israelische
+Israelischen
+Israelischer
 Israelitisch
+Israels
 Isst
 Ist
 Istanbul

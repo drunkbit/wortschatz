@@ -134,12 +134,14 @@ Landen
 Länder
 Ländereien
 Ländermäßig
+Ländern
 Länderspezifisch
 Länderübergreifend
 Landes
 Landesbedingt
 Landescup
 Landeseigen
+Landeshauptfrau
 Landesparlament
 Landesplanerisch
 Landespolitisch
@@ -195,6 +197,7 @@ Langgehen
 Langhaarig
 Langhalsig
 Langjährig
+Langjähriger
 Langkettig
 Langlaufen
 Langläuferrendite
@@ -307,6 +310,7 @@ Lauern
 Lauerstellung
 Lauf
 Laufen
+Laufend
 Laufende
 Laufens
 Läufer
@@ -570,6 +574,7 @@ Leise
 Leiste
 Leisten
 Leister
+Leistet
 Leistungs
 Leistungsbezogen
 Leistungsfähig
@@ -799,6 +804,7 @@ Lieferfähig
 Lieferfertig
 Lieferfristforderung
 Liefern
+Lieferungen
 Lieferungsbedingung
 Lieferungsschein
 Liege
@@ -925,6 +931,7 @@ Liter
 Literarisch
 Literat
 Literatur
+Literaturhaus
 Literaturwissenschaftlich
 Literweise
 Litfaßsäule
@@ -979,6 +986,7 @@ Lockerheit
 Lockerlassen
 Lockermachen
 Lockern
+Lockert
 Lockerungsarbeit
 Lockerungstraining
 Lockerzumachen
@@ -1026,6 +1034,7 @@ Loire
 Lok
 Lokal
 Lokalbedingt
+Lokaler
 Lokalisation
 Lokalisierbarkeit
 Lokalisieren
@@ -1178,6 +1187,7 @@ Ludwigsburg
 Ludwigsfelde
 Ludwigshafen
 Luft
+Luftangriff
 Lüftchen
 Luftdicht
 Lüften

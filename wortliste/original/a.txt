@@ -26951,6 +26951,7 @@ Aetits
 Aetosaurier
 Aetosauriern
 Aetosaurus
+af
 aF
 AfA
 AfaA
@@ -27429,6 +27430,7 @@ Aflatoxin
 Aflatoxine
 Aflatoxinen
 Aflatoxins
+AFP
 Afra
 Afras
 Afrasiab
@@ -41590,6 +41592,7 @@ angegrenzter
 angegrenztes
 angegrient
 angegriffen
+Angegriffen
 angegriffene
 angegriffenem
 angegriffenen
@@ -47642,8 +47645,10 @@ anregungs
 Anregungs
 anreichern
 Anreichern
+Anreicherung
 anreicherungs
 Anreicherungs
+Anreicherungsanlage
 anreihen
 anreise
 Anreise
@@ -47884,6 +47889,7 @@ Anstreicher
 anstrengen
 Anstrengen
 anstrengend
+Anstrengungen
 anstrich
 Anstrich
 ansturm
@@ -48420,6 +48426,7 @@ Arabien
 arabisch
 arabischsprachig
 Arafat
+Araktschi
 Aral
 araldit
 Araldit
@@ -48896,12 +48903,19 @@ atoll
 Atoll
 atom
 Atom
+Atomanlage
+Atomanlagen
 atomar
+Atomenergiebehörde
+Atomfabrik
 atomisieren
 Atomisieren
 atomium
 Atomium
+Atomprogramm
 Atomsphäre
+Atomunfalls
+Atomwaffen
 attachment
 Attachment
 attacke
@@ -48966,6 +48980,7 @@ Auerhühner
 auerochse
 Auerochse
 auf
+Auf
 aufaddieren
 aufarbeiten
 Aufarbeiten
@@ -49409,6 +49424,7 @@ aufholen
 Aufholjagd
 aufhorchen
 aufhören
+aufhört
 aufkam
 aufkauf
 Aufkauf
@@ -49999,6 +50015,8 @@ Augustin
 augustiner
 Augustiner
 Augustus
+aui
+Auinger
 auktion
 Auktion
 auktions
@@ -50013,6 +50031,7 @@ Aureole
 aurich
 Aurich
 aus
+Aus
 ausarbeiten
 Ausarbeiten
 ausarten
@@ -50365,6 +50384,7 @@ ausgepicht
 ausgeplaudert
 ausgeplündert
 ausgeprägt
+Ausgeprägte
 ausgepresst
 ausgepumpt
 ausgeputzt
@@ -50596,6 +50616,7 @@ ausländer
 Ausländer
 ausländerfeindlich
 ausländisch
+ausländische
 auslands
 Auslands
 auslandschuld
@@ -50697,6 +50718,8 @@ ausmustern
 ausnahm
 ausnahme
 Ausnahme
+Ausnahmeregelung
+Ausnahmeregelungen
 ausnahmslos
 ausnahmsweise
 ausnehmen
@@ -50863,6 +50886,8 @@ außenborder
 Außenborder
 aussenden
 Aussenden
+Aussendung
+Außenminister
 außenpolitisch
 außenseiter
 Außenseiter
@@ -50891,6 +50916,7 @@ aussetzen
 Aussetzen
 aussetzer
 Aussetzer
+Aussetzung
 aussicht
 Aussicht
 aussichts

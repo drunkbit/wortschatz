@@ -30,6 +30,7 @@ fachbereichleiter
 Fachbereichleiter
 fachbezogen
 fachen
+Fachfrau
 fachgemaess
 fachgerecht
 fachkundig
@@ -65,6 +66,7 @@ Faeden
 faehig
 faehigkeit
 Faehigkeit
+Faehigkeiten
 faehnchen
 Faehnchen
 faehnlein
@@ -82,6 +84,7 @@ faehrte
 Faehrte
 faekalien
 Faekalien
+Faelle
 faellen
 Faellen
 faellig
@@ -225,6 +228,7 @@ fallsuechtig
 fallweise
 falsch
 Falsch
+Falschbeschuldigungen
 falscher
 falschest
 falschheit
@@ -660,6 +664,7 @@ fern
 Fern
 fernab
 fernabgelegen
+Fernandes
 Fernando
 fernbedienbar
 fernbleiben
@@ -802,6 +807,8 @@ festschrieb
 festsetzen
 festsitzen
 festspannen
+Festspielintendanten
+Festspielspitze
 feststand
 feststecken
 feststehen
@@ -1034,6 +1041,7 @@ finanzierungs
 Finanzierungs
 finanzkraeftig
 Finanzminister
+Finanzministerium
 finanzoekonomisch
 finanzpolitisch
 finanzstark
@@ -1136,6 +1144,7 @@ Fiskalpakt
 fiskalpolitik
 Fiskalpolitik
 fiskalpolitisch
+Fiskalrats
 fiskalunion
 Fiskalunion
 fiskus
@@ -1402,6 +1411,7 @@ fliegens
 Fliegens
 flieger
 Flieger
+Fliegerbomben
 fliegerei
 Fliegerei
 fliegerisch
@@ -1557,6 +1567,7 @@ fluechtigkeitsfehler
 Fluechtigkeitsfehler
 fluechtling
 Fluechtling
+Fluechtlinge
 fluechtlings
 Fluechtlings
 fluechtlingsfrei
@@ -1569,6 +1580,7 @@ fluegellos
 fluegge
 fluessig
 Fluessig
+Fluessiggases
 fluessigkeit
 Fluessigkeit
 fluessigkeits
@@ -1770,6 +1782,8 @@ forcieren
 Ford
 fordern
 Fordern
+forderte
+Forderung
 forderungs
 Forderungs
 forelle
@@ -2184,7 +2198,9 @@ frauen
 Frauen
 frauenfeindlich
 frauenhaft
+Frauenhass
 frauenlos
+Frauenverachtung
 fraulich
 Fraunhofer
 freak
@@ -2395,6 +2411,7 @@ freudvoll
 freuen
 freund
 Freund
+Freunden
 freundeskreis
 Freundeskreis
 freundesmund
@@ -2510,6 +2527,7 @@ froesche
 Froesche
 froesteln
 froh
+frohe
 frohest
 frohgemut
 frohlocken
@@ -2580,6 +2598,7 @@ fruehestens
 fruehestmoeglich
 fruehjahrsoffensive
 Fruehjahrsoffensive
+Fruehjahrsprognose
 fruehjahrsputz
 Fruehjahrsputz
 fruehjahrssitzung
@@ -2646,6 +2665,7 @@ fuehlungsnahme
 Fuehlungsnahme
 fuehren
 Fuehren
+fuehrende
 fuehrer
 Fuehrer
 fuehrerlos
@@ -2928,6 +2948,7 @@ fussballerkrankheit
 Fussballerkrankheit
 fussballnationalelf
 Fussballnationalelf
+Fussballrowdy
 fussen
 fussgaengerampel
 Fussgaengerampel

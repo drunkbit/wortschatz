@@ -50,6 +50,7 @@ ulkig
 ulla
 ulm
 ulme
+ulmen
 ulrich
 ulrike
 ultima
@@ -587,6 +588,7 @@ unbeansprucht
 unbeanstandet
 unbeantwortet
 unbebaut
+unbedachter
 unbedarft
 unbedenklichkeit
 unbedenklichkeits
@@ -970,6 +972,7 @@ unnachgiebigkeit
 unnahbar
 unnatürlichkeit
 unnennbar
+unnötige
 unnötigerweise
 unnütz
 uno
@@ -1035,6 +1038,7 @@ unsere
 unsereiner
 unsereins
 unserem
+unserer
 unsererseits
 unseresgleichen
 unserm
@@ -1044,6 +1048,7 @@ unserthalben
 unsertwegen
 unsertwillen
 unsicherheit
+unsicherheiten
 unsicherheitsfaktor
 unsichtbar
 unsichtbarkeit
@@ -1155,6 +1160,8 @@ unterhebeln
 unterhielt
 unterhöhlen
 unterirdisch
+unterirdische
+unterirdischen
 unterjochen
 unterkellern
 unterkriegen
@@ -1214,6 +1221,7 @@ unterschieben
 unterschied
 unterschieden
 unterschiedlich
+unterschiedlichen
 unterschiedlichkeit
 unterschiedslos
 unterschlagen
@@ -1300,6 +1308,7 @@ unübertragbar
 unüberwindlich
 unumkehrbar
 unumkehrbarkeit
+unumschränkten
 unumstößlich
 unumwunden
 ununterscheidbar
@@ -1429,6 +1438,7 @@ urälteste
 uraltparagraf
 uraltparagraph
 uran
+urananreicherungsanlage
 urangst
 urängste
 uratmosphäre

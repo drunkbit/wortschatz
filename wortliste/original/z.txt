@@ -36,6 +36,7 @@ Zähler
 zahllos
 zahlreich
 zahlt
+zählt
 zahltag
 Zahltag
 Zahlungen
@@ -204,6 +205,7 @@ Zeige
 zeigen
 zeiger
 Zeiger
+zeigt
 zeigte
 zeile
 Zeile
@@ -255,6 +257,7 @@ zeitschriftenverlag
 Zeitschriftenverlag
 zeitsparend
 zeitunabhängig
+Zeitung
 zeitungs
 Zeitungs
 zeitversetzt
@@ -331,6 +334,7 @@ zentrifugal
 Zentrifugal
 zentrifuge
 Zentrifuge
+Zentrifugen
 zentrigramm
 Zentrigramm
 zentripetal
@@ -639,6 +643,7 @@ Ziehvater
 ziel
 Ziel
 zielbewusst
+Ziele
 zielen
 zielführend
 zielgenau
@@ -1055,6 +1060,7 @@ zugangs
 Zugangs
 zugangserschwerungsgesetz
 Zugangserschwerungsgesetz
+Zuge
 zugebaut
 zugeben
 zugebilligt
@@ -1214,6 +1220,7 @@ Zügigkeit
 zuging
 zugkräftig
 zugleich
+Zugleich
 zugreifen
 zugriff
 Zugriff
@@ -1565,6 +1572,7 @@ zurückhalten
 Zurückhalten
 zurückhaltend
 zurückhältst
+Zurückhaltung
 zurückhängen
 zurückhielt
 zurückholen
@@ -1645,6 +1653,7 @@ zurückzubringen
 zurückzudrängen
 zurückzuerhalten
 zurückzuerstatten
+zurückzufahren
 zurückzufließen
 zurückzufordern
 zurückzuführen
@@ -1923,6 +1932,8 @@ Zusatz
 zusätze
 Zusätze
 zusätzlich
+zusätzliche
+zusätzlichen
 Zusätzliches
 zusatzterm
 Zusatzterm
@@ -1994,6 +2005,7 @@ Zustände
 zustandekommen
 Zustandekommen
 zuständig
+zuständigen
 zuständigkeit
 Zuständigkeit
 zuständigkeitsbereich
@@ -2024,6 +2036,7 @@ zusteuern
 zustieg
 zustimmen
 Zustimmen
+Zustimmung
 zustopfen
 zustoßen
 zustößt
@@ -2081,6 +2094,7 @@ Zuversichtlichkeit
 zuversichtsindikator
 Zuversichtsindikator
 zuvor
+Zuvor
 zuvorderst
 zuvörderst
 zuvorgekommen

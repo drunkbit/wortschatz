@@ -78,6 +78,7 @@ januskoepfig
 japan
 japaner
 japanisch
+japanischen
 jargon
 jaruzelski
 jauche
@@ -224,11 +225,13 @@ judosport
 judoverband
 juedin
 juedisch
+juedischen
 juenger
 juengeren
 juengling
 juenglingsalter
 juengst
+juengsten
 juergen
 juetland
 jugend

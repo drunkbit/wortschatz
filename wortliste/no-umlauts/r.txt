@@ -94,6 +94,7 @@ Radikalkur
 radio
 Radio
 radioaktiv
+Radioaktivitaet
 radiodurchsage
 Radiodurchsage
 radiografie
@@ -223,6 +224,7 @@ rakete
 Rakete
 raketen
 Raketen
+Raketenprogramm
 Ralf
 rallye
 Rallye
@@ -496,9 +498,11 @@ Reagenzglaeser
 reagenzglas
 Reagenzglas
 reagieren
+reagierte
 reaktion
 Reaktion
 reaktionaer
+Reaktionen
 reaktions
 Reaktions
 reaktionsfaehig
@@ -508,6 +512,7 @@ reaktivieren
 Reaktivieren
 reaktor
 Reaktor
+Reaktorbrennstoff
 real
 Real
 realisation
@@ -569,6 +574,7 @@ Rechenschaftsbericht
 recherche
 Recherche
 recherchieren
+recherchiert
 rechnen
 Rechnen
 rechner
@@ -877,6 +883,7 @@ Regierungsbildung
 regierungsfaehig
 regierungsfreundlich
 Regierungsparteien
+Regierungsplaenen
 regierungstreu
 regime
 Regime
@@ -889,6 +896,8 @@ region
 Region
 regional
 Regional
+regionale
+regionalen
 regionalisieren
 Regionalisieren
 regionalitaet
@@ -996,6 +1005,7 @@ reibungsfrei
 reibungslos
 reich
 Reich
+reiche
 reichen
 Reichen
 reichern
@@ -1059,6 +1069,7 @@ rein
 Reineke
 reinertrag
 Reinertrag
+reines
 reinfaellt
 reinfall
 Reinfall
@@ -1231,6 +1242,7 @@ relativierbarkeit
 Relativierbarkeit
 relativieren
 Relativieren
+Relativierer
 relativismus
 Relativismus
 relativitaet
@@ -1598,6 +1610,7 @@ revolutionieren
 Revolutionieren
 revolutions
 Revolutions
+Revolutionsgarde
 revolver
 Revolver
 revue
@@ -1976,6 +1989,8 @@ rohkakaomarkt
 Rohkakaomarkt
 rohling
 Rohling
+Rohoelpreis
+Rohoelpreisen
 rohr
 Rohr
 rohstoffreich
@@ -2100,6 +2115,7 @@ roulette
 Roulette
 route
 Route
+Routen
 routenplaner
 Routenplaner
 router
@@ -2297,6 +2313,7 @@ ruhig
 ruhm
 Ruhm
 ruhmbedeckt
+Ruhmesblatt
 ruhmlos
 ruhmreich
 ruhr
@@ -2361,6 +2378,7 @@ rundenrekord
 Rundenrekord
 rundenzeit
 Rundenzeit
+Rundfunk
 rundherum
 rundlich
 rundum
@@ -2393,6 +2411,7 @@ Russeneinbruch
 russgeschwaerzt
 russig
 russisch
+russisches
 russischsprachig
 russland
 Russland

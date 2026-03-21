@@ -25454,6 +25454,7 @@ aegypter
 aegyptisch
 aehneln
 aehnlich
+aehnliches
 aehnlichkeit
 aehre
 aehren
@@ -25468,6 +25469,7 @@ aelv
 aemr
 aemter
 aendern
+aenderung
 aenderungen
 aenderungs
 aengste
@@ -26111,6 +26113,7 @@ aflatoxin
 aflatoxine
 aflatoxinen
 aflatoxins
+afp
 afra
 afras
 afrasiab
@@ -45137,7 +45140,9 @@ anreden
 anregen
 anregungs
 anreichern
+anreicherung
 anreicherungs
+anreicherungsanlage
 anreihen
 anreise
 anreisen
@@ -45305,6 +45310,7 @@ anstreichen
 anstreicher
 anstrengen
 anstrengend
+anstrengungen
 anstrich
 anstuermen
 ansturm
@@ -45693,6 +45699,7 @@ arabien
 arabisch
 arabischsprachig
 arafat
+araktschi
 aral
 araldit
 ararat
@@ -45995,10 +46002,17 @@ atmungs
 atmungsaktiv
 atoll
 atom
+atomanlage
+atomanlagen
 atomar
+atomenergiebehoerde
+atomfabrik
 atomisieren
 atomium
+atomprogramm
 atomsphaere
+atomunfalls
+atomwaffen
 attachment
 attacke
 attackieren
@@ -46409,6 +46423,7 @@ aufheulen
 aufhielt
 aufhob
 aufhoeren
+aufhoert
 aufholbedarf
 aufholen
 aufholjagd
@@ -46866,6 +46881,8 @@ august
 augustin
 augustiner
 augustus
+aui
+auinger
 auktion
 auktions
 aula
@@ -47164,6 +47181,7 @@ ausgepicht
 ausgeplaudert
 ausgepluendert
 ausgepraegt
+ausgepraegte
 ausgepresst
 ausgepumpt
 ausgeputzt
@@ -47358,6 +47376,7 @@ auslaedt
 auslaender
 auslaenderfeindlich
 auslaendisch
+auslaendische
 auslaesst
 auslaeufer
 auslaeuft
@@ -47421,6 +47440,8 @@ ausmuendung
 ausmustern
 ausnahm
 ausnahme
+ausnahmeregelung
+ausnahmeregelungen
 ausnahmslos
 ausnahmsweise
 ausnehmen
@@ -47537,6 +47558,8 @@ aussenamtsspecher
 aussenbord
 aussenborder
 aussenden
+aussendung
+aussenminister
 aussenpolitisch
 aussenseiter
 aussenstehende
@@ -47560,6 +47583,7 @@ ausserstand
 ausseruniversitaer
 aussetzen
 aussetzer
+aussetzung
 aussicht
 aussichts
 aussichtslos

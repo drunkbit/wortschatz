@@ -120,6 +120,7 @@ Japan
 japaner
 Japaner
 japanisch
+japanischen
 jargon
 Jargon
 Jaruzelski
@@ -348,6 +349,7 @@ Judoverband
 juedin
 Juedin
 juedisch
+juedischen
 juenger
 Juenger
 juengeren
@@ -356,6 +358,7 @@ Juengling
 juenglingsalter
 Juenglingsalter
 juengst
+juengsten
 Juergen
 juetland
 Juetland

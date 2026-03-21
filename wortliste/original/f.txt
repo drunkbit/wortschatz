@@ -36,6 +36,7 @@ Fächer
 fächerförmig
 fächern
 fächerübergreifend
+Fachfrau
 fachgemäß
 fachgerecht
 fachkundig
@@ -65,6 +66,7 @@ Fadenscheinigkeit
 fähig
 fähigkeit
 Fähigkeit
+Fähigkeiten
 fahl
 fähnchen
 Fähnchen
@@ -166,6 +168,7 @@ fall
 Fall
 falle
 Falle
+Fälle
 fallen
 fällen
 Fällen
@@ -185,6 +188,7 @@ fällt
 fallweise
 falsch
 Falsch
+Falschbeschuldigungen
 fälschen
 Fälschen
 falscher
@@ -660,6 +664,7 @@ fern
 Fern
 fernab
 fernabgelegen
+Fernandes
 Fernando
 fernbedienbar
 fernbleiben
@@ -802,6 +807,8 @@ festschrieb
 festsetzen
 festsitzen
 festspannen
+Festspielintendanten
+Festspielspitze
 feststand
 feststecken
 feststehen
@@ -1034,6 +1041,7 @@ finanzierungs
 Finanzierungs
 finanzkräftig
 Finanzminister
+Finanzministerium
 finanzökonomisch
 finanzpolitisch
 finanzstark
@@ -1136,6 +1144,7 @@ Fiskalpakt
 fiskalpolitik
 Fiskalpolitik
 fiskalpolitisch
+Fiskalrats
 fiskalunion
 Fiskalunion
 fiskus
@@ -1402,6 +1411,7 @@ fliegens
 Fliegens
 flieger
 Flieger
+Fliegerbomben
 fliegerei
 Fliegerei
 fliegerisch
@@ -1558,6 +1568,7 @@ flüchtigkeitsfehler
 Flüchtigkeitsfehler
 flüchtling
 Flüchtling
+Flüchtlinge
 flüchtlings
 Flüchtlings
 flüchtlingsfrei
@@ -1609,6 +1620,7 @@ flussabwärts
 flussaufwärts
 flüssig
 Flüssig
+Flüssiggases
 flüssigkeit
 Flüssigkeit
 flüssigkeits
@@ -1750,6 +1762,8 @@ fordern
 Fordern
 fördern
 Fördern
+forderte
+Forderung
 Förderungen
 forderungs
 Forderungs
@@ -2183,7 +2197,9 @@ frauen
 Frauen
 frauenfeindlich
 frauenhaft
+Frauenhass
 frauenlos
+Frauenverachtung
 fräulein
 Fräulein
 fraulich
@@ -2396,6 +2412,7 @@ freudvoll
 freuen
 freund
 Freund
+Freunden
 freundeskreis
 Freundeskreis
 freundesmund
@@ -2500,6 +2517,7 @@ frittieren
 Fritz
 frivol
 froh
+frohe
 frohest
 frohgemut
 fröhlich
@@ -2583,6 +2601,7 @@ frühestens
 frühestmöglich
 frühjahrsoffensive
 Frühjahrsoffensive
+Frühjahrsprognose
 frühjahrsputz
 Frühjahrsputz
 frühjahrssitzung
@@ -2655,6 +2674,7 @@ fuhre
 Fuhre
 führen
 Führen
+führende
 führer
 Führer
 führerlos
@@ -2924,6 +2944,7 @@ fußballerkrankheit
 Fußballerkrankheit
 fußballnationalelf
 Fußballnationalelf
+Fußballrowdy
 füßchen
 Füßchen
 fußen

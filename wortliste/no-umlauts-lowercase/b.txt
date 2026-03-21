@@ -323,6 +323,7 @@ beantragen
 beantragungs
 beantworten
 beantworter
+beantwortet
 beantwortungs
 bearbeiten
 bearbeiter
@@ -382,6 +383,7 @@ bedenklich
 bedenklichkeit
 bedenkminute
 bedenkzeit
+bedeute
 bedeuten
 bedeutend
 bedeutsam
@@ -407,8 +409,10 @@ bedingungs
 bedingungslos
 bedraengen
 bedraengnis
+bedraengt
 bedrohen
 bedrohlich
+bedrohung
 bedrohungs
 bedrucken
 bedruckt
@@ -460,6 +464,7 @@ befehl
 befehlen
 befehligen
 befehls
+befehlshaber
 befehlshaberisch
 befestigen
 befestigt
@@ -572,6 +577,7 @@ begrenzen
 begrenzer
 begrenzt
 begrenztheit
+begrenzung
 begrenzungs
 begriff
 begriffe
@@ -587,6 +593,7 @@ begruendet
 begruendungs
 begruessen
 begruessenswert
+begruesst
 begruessungs
 beguenstigen
 beguetert
@@ -813,6 +820,7 @@ bekannt
 bekannte
 bekanntenkreis
 bekanntermassen
+bekannteste
 bekanntgab
 bekanntgabe
 bekanntgeben
@@ -882,6 +890,7 @@ belastbarkeit
 belasten
 belastend
 belastet
+belastung
 belastungs
 belastungsfrei
 belaubt
@@ -996,6 +1005,7 @@ bengel
 benimmt
 benjamin
 benoetigen
+benoetigten
 benommen
 benommenheit
 benoten
@@ -1024,6 +1034,7 @@ beordert
 bepacken
 bepflanzen
 beplanken
+bepreisung
 bequatschen
 bequem
 bequemen
@@ -1046,6 +1057,7 @@ berechenbar
 berechenbarkeit
 berechenbarkeitstheorie
 berechnen
+berechnungen
 berechnungs
 berechtigen
 berechtigte
@@ -1113,6 +1125,8 @@ bericht
 berichten
 berichtenswert
 berichterstatter
+berichtet
+berichtete
 berichtigen
 berichtigungs
 berichtigungsfaehig
@@ -1150,6 +1164,7 @@ berthold
 beruechtigt
 beruecksichtigen
 beruecksichtigt
+beruecksichtigung
 beruehmt
 beruehmtheit
 beruehren
@@ -1175,6 +1190,7 @@ berufstaetig
 berufstechnisch
 berufsunfaehigkeitesrente
 berufsvorbereitend
+berufung
 berufungs
 beruhen
 beruhigen
@@ -1258,6 +1274,7 @@ beschosst
 beschraenken
 beschraenkt
 beschraenktheit
+beschraenkung
 beschrankt
 beschreiben
 beschreibt
@@ -1290,6 +1307,7 @@ beschworen
 beseelen
 besehen
 beseitigen
+beseitigung
 beseitigungs
 besen
 besenreiser
@@ -1329,6 +1347,7 @@ besoldungs
 besoldungsmaessig
 besondere
 besonderen
+besonderer
 besonderheit
 besonders
 besonnen
@@ -1352,6 +1371,7 @@ bespritzen
 besprochen
 bespruehen
 bespucken
+bessent
 besser
 besseren
 bessern
@@ -1365,6 +1385,7 @@ bestaendig
 bestaendigkeit
 bestaerken
 bestaetigen
+bestaetigt
 bestaetigung
 bestaetigungs
 bestaeuben
@@ -1394,6 +1415,7 @@ bestehen
 bestehend
 bestehens
 bestehlen
+besteht
 besteigen
 besteingefuehrt
 besteingerichtet
@@ -1419,6 +1441,7 @@ bestie
 bestiegen
 bestiehlt
 bestimmen
+bestimmender
 bestimmt
 bestimmten
 bestimmtheit
@@ -1438,9 +1461,11 @@ bestreben
 bestreichen
 bestreiken
 bestreiten
+bestreitet
 bestreuen
 bestrichen
 bestricken
+bestritt
 bestritten
 bestrumpft
 bestseller
@@ -1484,6 +1509,8 @@ beton
 betonen
 betonier
 betonieren
+betont
+betonte
 betracht
 betrachten
 betrachter
@@ -1533,6 +1560,7 @@ betrifft
 betrinken
 betrittst
 betroffen
+betroffene
 betroffenheit
 betroffensein
 betrogen
@@ -1597,6 +1625,7 @@ bevorzugen
 bewachen
 bewacher
 bewachsen
+bewacht
 bewachungs
 bewaehren
 bewaehrt
@@ -1606,6 +1635,7 @@ bewaeltigungsstrategie
 bewaessern
 bewaesserungs
 bewaffnen
+bewaffnete
 bewahren
 bewahrer
 bewahrheiten
@@ -1621,6 +1651,7 @@ beweggruende
 beweggrund
 beweglich
 beweglichkeit
+bewegung
 bewegungs
 bewegungsfaehig
 bewegungslos
@@ -1692,11 +1723,13 @@ bezeichnen
 bezeichnenderweise
 bezeichner
 bezeichnerlaenge
+bezeichnet
 bezeichnung
 bezeugen
 bezichtigen
 beziehen
 bezieher
+bezieht
 beziehungs
 beziehungslos
 beziehungsunfaehig
@@ -2200,6 +2233,7 @@ bolzplaetze
 bolzplatz
 bombardement
 bombardieren
+bombardiert
 bombastisch
 bombay
 bombe
@@ -2324,6 +2358,7 @@ brachland
 brachliegen
 brachte
 brackwasser
+brad
 braechten
 braende
 braetst
@@ -2607,7 +2642,9 @@ budenzauber
 budget
 budgetdienstes
 budgetieren
+budgetneutral
 budgetposten
+budgetsanierung
 budgetvoranschlag
 budgetzielen
 buebisch
@@ -2655,6 +2692,7 @@ buergenstock
 buerger
 buergerkriegsaehnlich
 buergerlich
+buergermeister
 buergerschaft
 buergerschaftswahl
 buergersleute
@@ -2727,11 +2765,14 @@ bundesland
 bundesligist
 bundesmietengesetz
 bundespartei
+bundesparteichef
 bundesparteitag
 bundespolitik
 bundespolitisch
 bundespraesidialamt
+bundesregierung
 bundesstaatlich
+bundesstrasse
 bundestag
 bundestags
 bundestagsplenardebatte
@@ -2742,6 +2783,7 @@ bundesweit
 bundsteg
 bungalow
 bunker
+bunkerbrechende
 bunsen
 bunsenbrenner
 bunt

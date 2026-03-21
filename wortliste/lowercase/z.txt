@@ -24,6 +24,7 @@ zähler
 zahllos
 zahlreich
 zahlt
+zählt
 zahltag
 zahlungen
 zahlungs
@@ -133,6 +134,7 @@ zeichnungsberechtigt
 zeige
 zeigen
 zeiger
+zeigt
 zeigte
 zeile
 zeilen
@@ -172,6 +174,7 @@ zeitschriftenhändler
 zeitschriftenverlag
 zeitsparend
 zeitunabhängig
+zeitung
 zeitungs
 zeitversetzt
 zeitvertreib
@@ -219,6 +222,7 @@ zentren
 zentrieren
 zentrifugal
 zentrifuge
+zentrifugen
 zentrigramm
 zentripetal
 zentrisch
@@ -439,6 +443,7 @@ ziehtöchter
 ziehvater
 ziel
 zielbewusst
+ziele
 zielen
 zielführend
 zielgenau
@@ -711,6 +716,7 @@ zugänglich
 zugänglichkeit
 zugangs
 zugangserschwerungsgesetz
+zuge
 zugebaut
 zugeben
 zugebilligt
@@ -1153,6 +1159,7 @@ zurückgriff
 zurückhalten
 zurückhaltend
 zurückhältst
+zurückhaltung
 zurückhängen
 zurückhielt
 zurückholen
@@ -1227,6 +1234,7 @@ zurückzubringen
 zurückzudrängen
 zurückzuerhalten
 zurückzuerstatten
+zurückzufahren
 zurückzufließen
 zurückzufordern
 zurückzuführen
@@ -1492,6 +1500,8 @@ zusandte
 zusatz
 zusätze
 zusätzlich
+zusätzliche
+zusätzlichen
 zusätzliches
 zusatzterm
 zuschalten
@@ -1544,6 +1554,7 @@ zustand
 zustände
 zustandekommen
 zuständig
+zuständigen
 zuständigkeit
 zuständigkeitsbereich
 zuständlich
@@ -1564,6 +1575,7 @@ zustellungsbevollmächtigt
 zusteuern
 zustieg
 zustimmen
+zustimmung
 zustopfen
 zustoßen
 zustößt

@@ -73,6 +73,7 @@ dageblieben
 dagegen
 dagestanden
 dagewesen
+dagewesenes
 Dagmar
 daheim
 daher
@@ -222,6 +223,7 @@ darlehns
 Darlehns
 darm
 Darm
+darob
 darreichen
 darreichungsform
 Darreichungsform
@@ -231,6 +233,7 @@ darsteller
 Darsteller
 darstellerisch
 Darstellung
+Darstellungen
 darstellungs
 Darstellungs
 darstellungsbedingt
@@ -700,6 +703,7 @@ dementi
 Dementi
 dementieren
 Dementieren
+dementiert
 dementsprechend
 demenz
 Demenz
@@ -888,6 +892,7 @@ derweil
 derzeit
 Derzeit
 derzeitig
+derzeitigen
 derzufolge
 des
 desaster
@@ -1034,6 +1039,7 @@ deutschere
 DeutscheSeele
 deutscheste
 deutschfeindlich
+Deutschkurs
 deutschland
 Deutschland
 deutschsprachig
@@ -1120,9 +1126,11 @@ diakonisch
 dialekt
 Dialekt
 dialektal
+Dialekte
 dialektik
 Dialektik
 dialektisch
+Dialekts
 dialektunabhaengig
 dialektunabhaengigkeit
 Dialektunabhaengigkeit
@@ -1162,6 +1170,7 @@ Dichten
 dichter
 Dichter
 dichterisch
+Dichters
 dichtheit
 Dichtheit
 dichtigkeit
@@ -1183,6 +1192,7 @@ Dickleibigkeit
 dicklich
 dickste
 dickwanstig
+Dicpics
 didaktik
 Didaktik
 didaktiker
@@ -1258,10 +1268,12 @@ Diesel
 dieselbe
 diesellok
 Diesellok
+Dieseltreibstoff
 diesem
 diesen
 dieser
 dieses
+Dieses
 diesig
 diesjaehrig
 diesmal
@@ -1316,6 +1328,7 @@ diffusor
 Diffusor
 digital
 Digital
+digitalen
 digitalisieren
 Digitalisieren
 digitalisierungsbericht
@@ -1363,6 +1376,7 @@ dilswitch
 Dilswitch
 dimension
 Dimension
+Dimensionen
 dimensionieren
 Dimensionieren
 dimensionierungsaenderung
@@ -1658,6 +1672,7 @@ Dock
 dockbetrieb
 Dockbetrieb
 documenta
+doe
 doener
 Doener
 doerfchen
@@ -1780,6 +1795,7 @@ Donnergang
 donnern
 donnerstag
 Donnerstag
+Donnerstagabend
 donnerstagabends
 donnerstagmorgen
 Donnerstagmorgen
@@ -1792,6 +1808,7 @@ doping
 Doping
 doppel
 Doppel
+Doppelbudget
 doppeldecker
 Doppeldecker
 doppeldeutig
@@ -1962,6 +1979,7 @@ dranhaengen
 drankommen
 drapieren
 drastisch
+drastischen
 drauf
 draufdruecken
 draufgabe
@@ -2095,6 +2113,7 @@ dreiundzwanzigste
 dreiviertel
 dreiviertelstuendig
 dreiwoechig
+dreiwoechigen
 dreizehn
 dreizehnjaehrig
 dreizehnmal
@@ -2145,6 +2164,7 @@ drinstehen
 dritt
 Dritt
 drittbest
+dritte
 drittel
 Drittel
 dritten
@@ -2331,6 +2351,7 @@ duennfluessig
 duensten
 duepieren
 Duerer
+duerfe
 duerfen
 duerfte
 duerftig
@@ -2382,6 +2403,7 @@ duldsamkeit
 Duldsamkeit
 Dumas
 dumm
+dumme
 dummerchenrolle
 Dummerchenrolle
 dummerweise

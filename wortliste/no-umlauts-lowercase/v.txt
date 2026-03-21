@@ -112,6 +112,7 @@ verabscheuen
 verabscheuend
 verabscheuenswert
 verabschieden
+verabschiedeten
 verachten
 veraechter
 veraechtlich
@@ -142,6 +143,7 @@ veraltung
 veranda
 veranden
 verankern
+verankert
 veranlagen
 veranlassen
 veranschaulichen
@@ -153,6 +155,7 @@ verantworten
 verantwortlich
 verantwortliche
 verantwortlichkeit
+verantwortung
 verantwortungs
 verantwortungsbewusst
 verantwortungslos
@@ -185,6 +188,7 @@ verbauen
 verbauern
 verbesserbarkeit
 verbessern
+verbessert
 verbesserung
 verbesserungsmassnahme
 verbesserungsmoeglichkeit
@@ -265,6 +269,7 @@ verbruedern
 verbruehen
 verbuchen
 verbuenden
+verbuendeten
 verbuergen
 verbuessen
 verbum
@@ -380,6 +385,7 @@ vereinfachen
 vereinfachungsgruende
 vereinheitlichen
 vereinigen
+vereinigten
 vereinigungstyp
 vereinnahmen
 vereins
@@ -432,6 +438,7 @@ verfault
 verfechter
 verfehlen
 verfeinden
+verfeindeten
 verfeinern
 verfemen
 verfertigen
@@ -595,6 +602,7 @@ verhaltensauffaellig
 verhaltensgestoert
 verhandelbarkeit
 verhandeln
+verhandlungen
 verhandlungs
 verhandlungssicher
 verhangen
@@ -841,6 +849,7 @@ vermeidung
 vermeinen
 vermeintlich
 vermelden
+vermeldete
 vermengen
 vermenschlichen
 vermerk
@@ -894,9 +903,11 @@ vernetzbarkeit
 vernetzen
 vernichten
 vernichter
+vernichtung
 vernichtungs
 vernickeln
 verniedlichen
+verniedlicht
 vernieten
 vernissage
 vernommen
@@ -913,6 +924,7 @@ vernunftwidrig
 veroeden
 veroeffentlichen
 veroeffentlicht
+veroeffentlichten
 veroeffentlichungs
 verona
 veroneser
@@ -1228,6 +1240,8 @@ verstaendnisschwierigkeit
 verstaendnisvoll
 verstaerken
 verstaerker
+verstaerkte
+verstaerkten
 verstaerkungs
 verstand
 verstanden
@@ -1300,6 +1314,7 @@ verteidigungs
 verteidigungspolitisch
 verteilen
 verteiler
+verteilt
 verteilungs
 verteuern
 verteufeln
@@ -1331,6 +1346,7 @@ vertrauenerweckend
 vertrauens
 vertrauensbildend
 vertrauensselig
+vertrauensverhaeltnis
 vertrauensvoll
 vertrauenswuerdig
 vertrauert
@@ -1346,6 +1362,7 @@ vertretungsberechtigt
 vertrieb
 vertrieben
 vertriebs
+vertritt
 vertrocknen
 vertroedeln
 vertroesten
@@ -1539,6 +1556,7 @@ video
 videoclip
 videocontroller
 videorecorder
+videos
 videotape
 videothek
 viecher
@@ -1924,6 +1942,7 @@ vorausschauen
 vorausschicken
 voraussehen
 voraussetzen
+voraussetzungen
 voraussetzungslos
 voraussicht
 voraussichtlich
@@ -2319,6 +2338,7 @@ vortriebs
 vortrug
 vorueber
 voruebergehen
+voruebergehend
 vorueberziehen
 vorurteilsfrei
 vorurteilslos
@@ -2354,6 +2374,7 @@ vorwerken
 vorwerksbewohner
 vorwiegend
 vorwirft
+vorwuerfe
 vorwurfsvoll
 vorzeichenrichtig
 vorzeigen
