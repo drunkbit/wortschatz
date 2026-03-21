@@ -2,47 +2,18 @@
 
 Eine umfassende deutsche Wortliste zur freien Weiterverarbeitung.
 
-Die Wörter stammen aus [mehreren Quellen](#quellen) und werden in zwei Varianten bereitgestellt:
+Die Wörter stammen aus [mehreren Quellen](#quellen) und werden in sechs Varianten bereitgestellt:
 
-- **Originalschreibung** — Groß-/Kleinschreibung wie im Wörterbuch (Nomen groß etc.)
-- **Lowercase** — Alle Wörter kleingeschrieben
+| Variante | Verzeichnis | Beschreibung | Beispiel |
+|----------|-------------|--------------|----------|
+| **Original** | `original/` | Groß-/Kleinschreibung wie im Wörterbuch | Übermütig |
+| **Lowercase** | `lowercase/` | Alles kleingeschrieben | übermütig |
+| **Uppercase** | `uppercase/` | Alles großgeschrieben | ÜBERMÜTIG |
+| **No-Umlauts** | `no-umlauts/` | Umlaute ersetzt (ä→ae, ö→oe, ü→ue, ß→ss) | Uebermutig |
+| **No-Umlauts-Lowercase** | `no-umlauts-lowercase/` | Umlaute ersetzt + lowercase | uebermutig |
+| **Capitalized** | `capitalized/` | Erster Buchstabe groß, Rest klein | Übermütig |
 
-Beide Varianten gibt es als **eine Gesamtdatei** (`_alle.txt`) und **aufgeteilt nach Anfangsbuchstabe** (a–z + ae, oe, ue für Umlaute).
-
-## Verzeichnisstruktur
-
-```
-wortschatz/
-├── wortliste/
-│   ├── original/           # Originalschreibung
-│   │   ├── _alle.txt       # Alle Wörter in einer Datei
-│   │   ├── a.txt ... z.txt # Pro Buchstabe
-│   │   ├── ae.txt          # Wörter mit Ä/ä am Anfang
-│   │   ├── oe.txt          # Wörter mit Ö/ö am Anfang
-│   │   └── ue.txt          # Wörter mit Ü/ü am Anfang
-│   └── lowercase/          # Alles kleingeschrieben
-│       ├── _alle.txt
-│       ├── a.txt ... z.txt
-│       ├── ae.txt
-│       ├── oe.txt
-│       └── ue.txt
-├── tools/                  # Extraktions- und Build-Tools
-│   ├── src/
-│   │   ├── sources/        # Ein Extraktor pro Quelle
-│   │   │   ├── hunspell.ts
-│   │   │   ├── wiktionary.ts
-│   │   │   ├── dwds.ts
-│   │   │   └── text-extraktor.ts
-│   │   ├── pipeline/       # Verarbeitung & Export
-│   │   │   ├── merge.ts
-│   │   │   ├── normalize.ts
-│   │   │   ├── split.ts
-│   │   │   └── export.ts
-│   │   └── index.ts        # CLI Entry Point
-│   └── input/              # Eigene Texte hier ablegen
-├── README.md
-└── LICENSE
-```
+Alle Varianten gibt es als **eine Gesamtdatei** (`_alle.txt`) und **aufgeteilt nach Anfangsbuchstabe** (a–z + ae, oe, ue für Umlaute).
 
 ## Format
 
@@ -66,30 +37,41 @@ curl -O https://raw.githubusercontent.com/drunkbit/wortschatz/main/wortliste/low
 
 # Wörter mit Ü am Anfang
 curl -O https://raw.githubusercontent.com/drunkbit/wortschatz/main/wortliste/original/ue.txt
+
+# Alle Wörter ohne Umlaute (lowercase)
+curl -O https://raw.githubusercontent.com/drunkbit/wortschatz/main/wortliste/no-umlauts-lowercase/_alle.txt
+
+# Alle Wörter großgeschrieben
+curl -O https://raw.githubusercontent.com/drunkbit/wortschatz/main/wortliste/uppercase/_alle.txt
 ```
 
 ## Wortliste selbst generieren
 
-### Voraussetzungen
-
-- Node.js >= 18
-
 ### Installation
 
 ```bash
-cd tools
-npm install
+cd tools && npm install
 ```
 
 ### Wörter aus Quellen abrufen
 
-```bash
-# Alle Quellen abrufen
-npm run fetch
+Alle Quellen:
 
-# Nur bestimmte Quelle
+```bash
+npm run fetch
+```
+
+Nur eine bestimmte Quelle:
+
+```bash
 npm run fetch -- --hunspell
+```
+
+```bash
 npm run fetch -- --wiktionary
+```
+
+```bash
 npm run fetch -- --dwds
 ```
 
@@ -98,17 +80,20 @@ npm run fetch -- --dwds
 Eigene Textdateien (`.txt`) im Verzeichnis `tools/input/` ablegen. Der Text-Extraktor tokenisiert den Fließtext und extrahiert einzelne Wörter automatisch.
 
 ```bash
-# Texte verarbeiten
 npm run extract
 ```
 
 ### Wortliste generieren
 
-```bash
-# Nur neue Wörter zur bestehenden Liste ergänzen
-npm run build-wordlist
+Nur neue Wörter zur bestehenden Liste ergänzen:
 
-# Wortliste komplett neu erstellen
+```bash
+npm run build-wordlist
+```
+
+Wortliste komplett neu erstellen:
+
+```bash
 npm run rebuild-wordlist
 ```
 
@@ -116,11 +101,11 @@ Ohne `--rebuild` werden nur Wörter hinzugefügt, die noch nicht in der bestehen
 
 ## Quellen
 
-| Quelle | Beschreibung | Lizenz |
-|--------|-------------|--------|
-| [Hunspell de_DE](https://github.com/wooorm/dictionaries/tree/main/dictionaries/de) | Deutsches Hunspell-Wörterbuch | GPL-2.0 / GPL-3.0 |
-| [Wiktionary](https://de.wiktionary.org/) | Deutschsprachiges Wiktionary (Kategorie: Deutsch) | CC BY-SA 3.0 |
-| [DWDS](https://www.dwds.de/) | Digitales Wörterbuch der deutschen Sprache | Siehe DWDS-Nutzungsbedingungen |
+| Quelle | Beschreibung |
+|--------|-------------|
+| [Hunspell de_DE](https://github.com/wooorm/dictionaries/tree/main/dictionaries/de) | Deutsches Hunspell-Wörterbuch |
+| [Wiktionary](https://de.wiktionary.org/) | Deutschsprachiges Wiktionary (Kategorie: Deutsch) |
+| [DWDS](https://www.dwds.de/) | Digitales Wörterbuch der deutschen Sprache |
 
 ## Lizenz
 
