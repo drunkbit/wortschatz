@@ -113,18 +113,28 @@ ignorieren
 Ignorieren
 IHK
 ihm
+Ihm
 ihn
+Ihn
 ihnen
+Ihnen
 ihr
 Ihr
 ihre
 Ihre
+ihrem
+Ihrem
 ihren
+Ihren
 ihrer
+Ihrer
 ihrerseits
+ihres
+Ihres
 ihresgleichen
 ihrethalben
 ihretwegen
+Ihretwegen
 ihretwillen
 ihrige
 II
@@ -163,6 +173,7 @@ Illustrator
 illustre
 illustrieren
 Illustrieren
+illustrierten
 illyrien
 Illyrien
 illyrier
@@ -210,11 +221,14 @@ Immatrikulations
 immatrikulieren
 immens
 immer
+Immer
 immerdar
 immerfeucht
 immerfort
+Immerfort
 immergruen
 immerhin
+Immerhin
 immerzu
 immigrant
 Immigrant
@@ -518,6 +532,8 @@ ineffizient
 ineffizienz
 Ineffizienz
 ineinander
+ineinandergefahren
+ineinandergestreute
 inessentiell
 inessenziell
 inexistent
@@ -582,6 +598,7 @@ info
 Info
 infolge
 infolgedessen
+Infolgedessen
 informant
 Informant
 informantenschutz
@@ -621,6 +638,7 @@ Ingangsetzen
 Ingeborg
 ingenieur
 Ingenieur
+Ingenieure
 ingenieurmaessig
 ingenieurs
 Ingenieurs
@@ -781,6 +799,7 @@ innegewohnt
 innehaben
 innehaeltst
 innehalten
+innehaltend
 innehat
 innehatte
 innen
@@ -805,6 +824,7 @@ innere
 Innere
 innerei
 Innerei
+Inneren
 innereuropaeisch
 innerfamiliaer
 innerfranzoesisch
@@ -824,6 +844,7 @@ innerstaedtisch
 innerste
 innerwirtschaftlich
 innewohnen
+innezuhalten
 innig
 innigkeit
 Innigkeit
@@ -851,6 +872,7 @@ inquisitorisch
 ins
 insasse
 Insasse
+Insassen
 insassenversicherung
 Insassenversicherung
 insbesondere
@@ -897,6 +919,7 @@ Insigne
 Insignien
 insistieren
 insofern
+insoferne
 insolvent
 insolvenz
 Insolvenz
@@ -997,6 +1020,7 @@ instrumentarium
 Instrumentarium
 instrumentation
 Instrumentation
+Instrumente
 instrumenten
 Instrumenten
 instrumentieren
@@ -1086,7 +1110,10 @@ Interdependenz
 interdisziplinaer
 interessant
 Interessant
+Interessante
 interessanterweise
+Interessantes
+Interessantheit
 interesse
 Interesse
 interessehalber
@@ -1102,8 +1129,11 @@ interessentengruppe
 Interessentengruppe
 interessentenmeldung
 Interessentenmeldung
+interessiere
 interessieren
 interessiert
+interessierte
+interessierten
 interessiertheit
 Interessiertheit
 intereuropaeisch
@@ -1253,6 +1283,7 @@ inthronisieren
 intim
 intimbereich
 Intimbereich
+intime
 intimitaet
 Intimitaet
 intimitaetsgrenze
@@ -1307,6 +1338,7 @@ inventardatei
 Inventardatei
 inventarisieren
 Inventarisieren
+Inventarverzeichnis
 inventur
 Inventur
 inverkehrbringen
@@ -1339,6 +1371,7 @@ Inzest
 inzucht
 Inzucht
 inzwischen
+Inzwischen
 ion
 Ion
 ionen
@@ -1375,6 +1408,10 @@ ire
 Ire
 irgend
 irgendein
+irgendeine
+irgendeinem
+irgendeinen
+irgendeiner
 irgendeines
 irgendeinmal
 irgendetwas
@@ -1384,6 +1421,8 @@ irgendjemandem
 irgendwann
 irgendwas
 irgendwelche
+irgendwelchen
+irgendwelcher
 irgendwem
 irgendwen
 irgendwer
@@ -1394,6 +1433,8 @@ irgendwohin
 iris
 Iris
 irisch
+Irlaender
+Irlaendern
 irland
 Irland
 Irmtraud
@@ -1438,6 +1479,7 @@ Irreversibilitaet
 irrezufuehren
 irrfahrt
 Irrfahrt
+Irrfahrten
 irrglaube
 Irrglaube
 irrig
@@ -1451,6 +1493,7 @@ Irrlehre
 irrsinn
 Irrsinn
 irrsinnig
+irrst
 irrtuemer
 Irrtuemer
 irrtuemlich
@@ -1464,12 +1507,14 @@ Isaac
 Isaak
 isar
 Isar
+Isbary
 ISBN
 ischias
 Ischias
 ischiasnerv
 Ischiasnerv
 ISDN
+Isidor
 Isis
 islaender
 Islaender

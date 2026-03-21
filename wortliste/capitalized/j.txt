@@ -3,6 +3,7 @@ Ja
 Jacht
 Jachtklub
 Jack
+Jäckchen
 Jacke
 Jacken
 Jackett
@@ -16,10 +17,13 @@ Jaffa
 Jagd
 Jagdfrevel
 Jagdgrün
+Jage
 Jagen
 Jäger
 Jägerei
 Jägerlatein
+Jagte
+Jagten
 Jaguar
 Jäh
 Jählings
@@ -59,6 +63,7 @@ Jähzornig
 Jakarta
 Jakob
 Jakobiner
+Jakobs
 Jalousie
 Jalta
 Jamaika
@@ -68,6 +73,7 @@ Jammer
 Jämmerlich
 Jammern
 Jammerschade
+Jammervollen
 Jan
 Janeiro
 Janina
@@ -78,6 +84,7 @@ Japan
 Japaner
 Japanisch
 Japanischen
+Japanisches
 Jargon
 Jaruzelski
 Jäten
@@ -109,6 +116,7 @@ Jedermann
 Jederzeit
 Jederzeitig
 Jedes
+Jedesmal
 Jedoch
 Jedwede
 Jeep
@@ -119,10 +127,14 @@ Jemals
 Jemand
 Jemandem
 Jemanden
+Jemandes
 Jemen
 Jena
 Jene
 Jenem
+Jenen
+Jener
+Jenes
 Jens
 Jenseits
 Jenseitsverheißung
@@ -140,11 +152,15 @@ Jesuitenpriester
 Jet
 Jetten
 Jetzige
+Jetzigen
+Jetziges
 Jetzt
 Jeweilig
 Jeweils
 Jiddisch
 Jim
+Jitsu
+Jiu
 Joachim
 Job
 Jobben
@@ -164,6 +180,7 @@ Jogginghose
 Joghurt
 Jogurt
 Johann
+Johanna
 Johannesburg
 Johannesevangelium
 Johannisbeere
@@ -254,6 +271,7 @@ Jungenschaft
 Junger
 Jünger
 Jüngeren
+Junges
 Jungfer
 Jungfernfahrt
 Jungfernflug
@@ -262,11 +280,13 @@ Jungfernreise
 Jungfilmer
 Jungfräulich
 Junggeblieben
+Junggeselle
 Junggesellenabschied
 Jüngling
 Jünglingsalter
 Jungspund
 Jüngst
+Jüngste
 Jüngsten
 Jungverheiratet
 Juni

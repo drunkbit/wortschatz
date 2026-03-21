@@ -190,6 +190,7 @@ Charakteristik
 charakteristika
 Charakteristika
 charakteristisch
+charakteristischen
 charakterlich
 charakterlos
 charakterstark
@@ -244,6 +245,7 @@ chatter
 Chatter
 chauffeur
 Chauffeur
+Chauffeuren
 chauffieren
 chaussee
 Chaussee
@@ -408,6 +410,7 @@ Christine
 christlich
 christlichkeit
 Christlichkeit
+Christmarkt
 Christoph
 Christopher
 Christophorus
@@ -480,6 +483,7 @@ Claude
 Claudia
 Clausewitz
 clausus
+Clayton
 Clemens
 Clement
 clenbuterol
@@ -578,6 +582,7 @@ colmar
 Colmar
 colombo
 Colombo
+Colorado
 colorglas
 Colorglas
 colorscheiben
@@ -695,6 +700,7 @@ CPU
 CPUs
 crash
 Crash
+Crayon
 creme
 Creme
 cremefarben

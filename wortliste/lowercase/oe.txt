@@ -4,13 +4,21 @@
 öfen
 öffenbar
 öffentlich
+öffentlichen
+öffentlicher
 öffentlichkeit
 öffentlichkeitsarbeit
 öffentlichkeitswirksam
 öffnen
+öffnende
 öffner
+öffnete
+öffneten
+öffnung
+öffnungen
 öffnungs
 öfter
+öfters
 öftesten
 öko
 ökologe
@@ -26,6 +34,7 @@
 ökumenisch
 öl
 ölen
+ölfleck
 ölig
 ölportrait
 öls
@@ -33,6 +42,7 @@
 ölverschmiert
 örtlich
 örtlichkeit
+örtlichkeiten
 öse
 österlich
 österreich
@@ -40,6 +50,7 @@
 österreichisch
 österreichischen
 östlich
+östlichen
 östrogen
 östrogenspiegel
 ötv

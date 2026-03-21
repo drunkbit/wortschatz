@@ -17,6 +17,7 @@ qual
 qualcomm
 quälen
 quälend
+quälenden
 quäler
 quälerei
 qualifikation
@@ -58,6 +59,7 @@ quartals
 quartalsweise
 quartett
 quartier
+quartiere
 quarz
 quarzgenau
 quarzhaltig
@@ -92,13 +94,17 @@ quer
 quere
 querele
 querfeldein
+quergasse
+quergassen
 querschnittgelähmt
 querschnittsabmessung
 querschnittsgelähmt
 querschnittslähmung
+querstraße
 querulant
 querzustellen
 quetschen
+quetschte
 quicklebendig
 quickstepp
 quieken

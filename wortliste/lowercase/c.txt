@@ -114,6 +114,7 @@ charakterisieren
 charakteristik
 charakteristika
 charakteristisch
+charakteristischen
 charakterlich
 charakterlos
 charakterstark
@@ -147,6 +148,7 @@ chateaubriand
 chatten
 chatter
 chauffeur
+chauffeuren
 chauffieren
 chaussee
 chauvinismen
@@ -244,6 +246,7 @@ christina
 christine
 christlich
 christlichkeit
+christmarkt
 christoph
 christopher
 christophorus
@@ -290,6 +293,7 @@ claude
 claudia
 clausewitz
 clausus
+clayton
 clemens
 clement
 clenbuterol
@@ -345,6 +349,7 @@ collie
 collien
 colmar
 colombo
+colorado
 colorglas
 colorscheiben
 colorverglasung
@@ -416,6 +421,7 @@ cowboy
 cpu
 cpus
 crash
+crayon
 creme
 cremefarben
 cremefarbig

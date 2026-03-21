@@ -12,6 +12,7 @@ jacobs
 jacqueline
 jacques
 jadebusen
+jaeckchen
 jaeger
 jaegerei
 jaegerlatein
@@ -30,7 +31,10 @@ jaffa
 jagd
 jagdfrevel
 jagdgruen
+jage
 jagen
+jagte
+jagten
 jaguar
 jahn
 jahr
@@ -62,6 +66,7 @@ jahwe
 jakarta
 jakob
 jakobiner
+jakobs
 jalousie
 jalta
 jamaika
@@ -70,6 +75,7 @@ james
 jammer
 jammern
 jammerschade
+jammervollen
 jan
 janeiro
 janina
@@ -79,6 +85,7 @@ japan
 japaner
 japanisch
 japanischen
+japanisches
 jargon
 jaruzelski
 jauche
@@ -109,6 +116,7 @@ jedermann
 jederzeit
 jederzeitig
 jedes
+jedesmal
 jedoch
 jedwede
 jeep
@@ -119,10 +127,14 @@ jemals
 jemand
 jemandem
 jemanden
+jemandes
 jemen
 jena
 jene
 jenem
+jenen
+jener
+jenes
 jens
 jenseits
 jenseitsverheissung
@@ -140,11 +152,15 @@ jesuitenpriester
 jet
 jetten
 jetzige
+jetzigen
+jetziges
 jetzt
 jeweilig
 jeweils
 jiddisch
 jim
+jitsu
+jiu
 joachim
 job
 jobben
@@ -165,6 +181,7 @@ jogginghose
 joghurt
 jogurt
 johann
+johanna
 johannesburg
 johannesevangelium
 johannisbeere
@@ -231,6 +248,7 @@ juengeren
 juengling
 juenglingsalter
 juengst
+juengste
 juengsten
 juergen
 juetland
@@ -260,6 +278,7 @@ jungenhaft
 jungens
 jungenschaft
 junger
+junges
 jungfer
 jungfernfahrt
 jungfernflug
@@ -268,6 +287,7 @@ jungfernreise
 jungfilmer
 jungfraeulich
 junggeblieben
+junggeselle
 junggesellenabschied
 jungspund
 jungverheiratet

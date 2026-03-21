@@ -26,6 +26,7 @@ quaeker
 Quaeker
 quaelen
 quaelend
+quaelenden
 quaeler
 Quaeler
 quaelerei
@@ -99,6 +100,7 @@ quartett
 Quartett
 quartier
 Quartier
+Quartiere
 quarz
 Quarz
 quarzgenau
@@ -155,17 +157,21 @@ Quere
 querele
 Querele
 querfeldein
+Quergasse
+Quergassen
 querschnittgelaehmt
 querschnittsabmessung
 Querschnittsabmessung
 querschnittsgelaehmt
 querschnittslaehmung
 Querschnittslaehmung
+Querstrasse
 querulant
 Querulant
 querzustellen
 quetschen
 Quetschen
+quetschte
 quicklebendig
 quickstepp
 Quickstepp

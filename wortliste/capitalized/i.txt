@@ -78,9 +78,11 @@ Ihn
 Ihnen
 Ihr
 Ihre
+Ihrem
 Ihren
 Ihrer
 Ihrerseits
+Ihres
 Ihresgleichen
 Ihrethalben
 Ihretwegen
@@ -111,6 +113,7 @@ Illustrativ
 Illustrator
 Illustre
 Illustrieren
+Illustrierten
 Illyrien
 Illyrier
 Ilmenau
@@ -330,6 +333,8 @@ Ineffektiv
 Ineffizient
 Ineffizienz
 Ineinander
+Ineinandergefahren
+Ineinandergestreute
 Inessentiell
 Inessenziell
 Inexistent
@@ -396,6 +401,7 @@ Inganghaltung
 Ingangsetzen
 Ingeborg
 Ingenieur
+Ingenieure
 Ingenieurmäßig
 Ingenieurs
 Ingenieurwissenschaftlich
@@ -495,6 +501,7 @@ Innegehalten
 Innegewohnt
 Innehaben
 Innehalten
+Innehaltend
 Innehältst
 Innehat
 Innehatte
@@ -512,6 +519,7 @@ Innerbetrieblich
 Innerdeutsch
 Innere
 Innerei
+Inneren
 Innereuropäisch
 Innerfamiliär
 Innerfranzösisch
@@ -529,6 +537,7 @@ Innerstädtisch
 Innerste
 Innerwirtschaftlich
 Innewohnen
+Innezuhalten
 Innig
 Innigkeit
 Innovation
@@ -546,6 +555,7 @@ Inquisitor
 Inquisitorisch
 Ins
 Insasse
+Insassen
 Insassenversicherung
 Insbesondere
 Inschrift
@@ -574,6 +584,7 @@ Insigne
 Insignien
 Insistieren
 Insofern
+Insoferne
 Insolvent
 Insolvenz
 Insoweit
@@ -633,6 +644,7 @@ Instrumentalist
 Instrumentarien
 Instrumentarium
 Instrumentation
+Instrumente
 Instrumenten
 Instrumentieren
 Insuffizienz
@@ -689,7 +701,10 @@ Intercity
 Interdependenz
 Interdisziplinär
 Interessant
+Interessante
 Interessanterweise
+Interessantes
+Interessantheit
 Interesse
 Interessehalber
 Interesselosigkeit
@@ -699,8 +714,11 @@ Interessensorientiert
 Interessent
 Interessentengruppe
 Interessentenmeldung
+Interessiere
 Interessieren
 Interessiert
+Interessierte
+Interessierten
 Interessiertheit
 Intereuropäisch
 Interface
@@ -789,6 +807,7 @@ Inthronisation
 Inthronisieren
 Intim
 Intimbereich
+Intime
 Intimität
 Intimitätsgrenze
 Intimsphäre
@@ -823,6 +842,7 @@ Invasiv
 Inventar
 Inventardatei
 Inventarisieren
+Inventarverzeichnis
 Inventur
 Inverkehrbringen
 Invers
@@ -869,6 +889,10 @@ Irdisch
 Ire
 Irgend
 Irgendein
+Irgendeine
+Irgendeinem
+Irgendeinen
+Irgendeiner
 Irgendeines
 Irgendeinmal
 Irgendetwas
@@ -877,6 +901,8 @@ Irgendjemandem
 Irgendwann
 Irgendwas
 Irgendwelche
+Irgendwelchen
+Irgendwelcher
 Irgendwem
 Irgendwen
 Irgendwer
@@ -887,6 +913,8 @@ Irgendwohin
 Iris
 Irisch
 Irland
+Irländer
+Irländern
 Irmtraud
 Ironie
 Ironiker
@@ -915,6 +943,7 @@ Irreversibel
 Irreversibilität
 Irrezuführen
 Irrfahrt
+Irrfahrten
 Irrglaube
 Irrig
 Irritation
@@ -923,6 +952,7 @@ Irrläufer
 Irrlehre
 Irrsinn
 Irrsinnig
+Irrst
 Irrtum
 Irrtümer
 Irrtümlich
@@ -932,10 +962,12 @@ Irrwitzig
 Isaac
 Isaak
 Isar
+Isbary
 Isbn
 Ischias
 Ischiasnerv
 Isdn
+Isidor
 Isis
 Islam
 Islamabad
