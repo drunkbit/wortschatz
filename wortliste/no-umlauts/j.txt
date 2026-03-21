@@ -12,6 +12,7 @@ jacken
 Jacken
 jackett
 Jackett
+Jackettkleid
 jacketttasche
 Jacketttasche
 Jacob
@@ -38,6 +39,10 @@ jaehzorn
 Jaehzorn
 jaehzornig
 jaemmerlich
+jaemmerliche
+jaemmerlichen
+jaemmerlicher
+Jaemmerlichkeit
 Jaenner
 jaeten
 jaffa
@@ -47,11 +52,15 @@ Jagd
 jagdfrevel
 Jagdfrevel
 jagdgruen
+Jagdhunde
 jage
 jagen
 Jagen
+jagend
+jagt
 jagte
 jagten
+jagtest
 jaguar
 Jaguar
 Jahn
@@ -65,6 +74,8 @@ Jahrbuecher
 Jahre
 jahrein
 jahrelang
+Jahrelang
+jahrelange
 Jahren
 jahres
 Jahres
@@ -72,6 +83,7 @@ jahresunterlagen
 Jahresunterlagen
 jahreswettbewerb
 Jahreswettbewerb
+Jahreszeit
 jahreszeitlich
 jahrgang
 Jahrgang
@@ -79,6 +91,7 @@ jahrhundert
 Jahrhundert
 jahrhundertealt
 jahrhundertelang
+Jahrmaerkten
 jahrmarkt
 Jahrmarkt
 jahrmillion
@@ -113,6 +126,7 @@ James
 jammer
 Jammer
 jammern
+Jammern
 jammerschade
 jammervollen
 Jan
@@ -165,6 +179,7 @@ Jeanstyp
 jede
 jedem
 jeden
+Jeden
 jedenfalls
 Jedenfalls
 jeder
@@ -175,13 +190,16 @@ jedermann
 jederzeit
 jederzeitig
 jedes
+Jedes
 jedesmal
 Jedesmal
 jedoch
+Jedoch
 jedwede
 jeep
 Jeep
 jegliche
+jeglicher
 jeher
 Jelzin
 jemals
@@ -197,7 +215,9 @@ Jena
 jene
 jenem
 jenen
+Jenen
 jener
+Jener
 jenes
 Jens
 jenseits
@@ -206,6 +226,7 @@ jenseitsverheissung
 Jenseitsverheissung
 jeremiade
 Jeremiade
+Jeremias
 jericho
 Jericho
 jersey
@@ -228,12 +249,14 @@ Jet
 jetten
 jetzige
 jetzigen
+jetziger
 jetziges
 jetzt
 Jetzt
 jeweilig
 jeweils
 jiddisch
+jiddische
 Jim
 Jitsu
 Jiu
@@ -307,6 +330,7 @@ jordanisch
 Joschka
 Josef
 Joseph
+Josephsplatz
 jota
 Jota
 joule
@@ -334,6 +358,7 @@ Joystickwerten
 jubel
 Jubel
 jubeln
+jubelten
 jubilaeen
 Jubilaeen
 jubilaeum
@@ -358,6 +383,7 @@ Juden
 judenfeindlich
 judentum
 Judentum
+Judentums
 judikativ
 judizieren
 judo
@@ -372,11 +398,15 @@ judoverband
 Judoverband
 juedin
 Juedin
+Juedinnen
 juedisch
+juedische
+Juedische
 juedischen
 juenger
 Juenger
 juengeren
+Juengeren
 juengling
 Juengling
 juenglingsalter
@@ -389,9 +419,12 @@ juetland
 Juetland
 jugend
 Jugend
+Jugendeindruecke
+Jugenderinnerungen
 jugendfrei
 jugendgefaehrdend
 jugendlich
+jugendlicher
 jugendlichkeit
 Jugendlichkeit
 jugendpflegerisch
@@ -446,6 +479,7 @@ Jungfilmer
 jungfraeulich
 junggeblieben
 Junggeselle
+Junggesellen
 junggesellenabschied
 Junggesellenabschied
 jungspund
@@ -494,6 +528,8 @@ Juror
 jury
 Jury
 juryfrei
+Jus
+Jusstudium
 just
 justieren
 Justieren

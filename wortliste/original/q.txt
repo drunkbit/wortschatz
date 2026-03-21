@@ -27,9 +27,12 @@ Quäker
 qual
 Qual
 Qualcomm
+Qualen
 quälen
 quälend
+quälende
 quälenden
+quälendste
 quäler
 Quäler
 quälerei
@@ -57,6 +60,11 @@ qualmen
 qualmerei
 Qualmerei
 qualmig
+quälst
+quält
+quälte
+quälten
+quältest
 qualvoll
 quant
 Quant

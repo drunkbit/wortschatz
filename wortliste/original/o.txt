@@ -37,8 +37,11 @@ oberbayerisch
 oberbayern
 Oberbayern
 obere
+oberen
+Oberfläche
 oberflächlich
 oberflächlichen
+oberflächlicher
 oberflächlichkeit
 Oberflächlichkeit
 obergärig
@@ -50,6 +53,7 @@ oberhalb
 Oberhand
 oberhausen
 Oberhausen
+Oberherrschaft
 oberirdisch
 oberirdischen
 Oberkassier
@@ -125,6 +129,7 @@ obmann
 Obmann
 obmännin
 Obmännin
+Obmannstellvertreters
 oboe
 Oboe
 oboist
@@ -199,7 +204,11 @@ OECD
 OEM
 ofen
 Ofen
+Ofenbank
+Ofens
+Ofentür
 offen
+Offen
 offenbach
 Offenbach
 offenbacher
@@ -211,20 +220,24 @@ Offenbaren
 offenbarlich
 offenbarungseid
 Offenbarungseid
+Offenbarungswort
 offene
 offenem
 offenen
 offener
 offenes
+Offenes
 offengelassen
 offengelegt
 offengestanden
 offenhalten
+Offenhalten
 offenheit
 Offenheit
 offenherzig
 offenherzigkeit
 Offenherzigkeit
+offenhielt
 offenkundig
 offenlassen
 offenlässt
@@ -232,6 +245,7 @@ offenlegen
 Offenlegen
 offenlegungsschrift
 Offenlegungsschrift
+offenließ
 offenmarktausschuss
 Offenmarktausschuss
 offensichtlich
@@ -273,6 +287,7 @@ Oft
 oftmalig
 oftmals
 oh
+Oh
 oheim
 Oheim
 ohio
@@ -286,9 +301,12 @@ ohnedies
 ohneeinander
 ohnegleichen
 ohnehin
+ohneweiters
 ohnmacht
 Ohnmacht
 ohnmächtig
+ohnmächtige
+ohnmächtiges
 Ohnmachtsanfall
 oho
 ohr
@@ -341,6 +359,7 @@ oldtimer
 Oldtimer
 Oleg
 Olga
+Olgas
 oligarchie
 Oligarchie
 oligarchisch
@@ -445,9 +464,13 @@ Operngucker
 opfer
 Opfer
 opferbereit
+Opferkrüge
+Opfermut
 opfern
 Opfern
 opferreich
+opfert
+opferte
 opiate
 Opiate
 opisthotonus
@@ -545,6 +568,7 @@ orbital
 Orbital
 orchester
 Orchester
+Orchesters
 Orchestralmusik
 orchestrieren
 Orchestrieren
@@ -559,6 +583,7 @@ Ordensreihe
 ordentlich
 ordentliche
 ordentlichen
+ordentlicher
 ordentlichkeit
 Ordentlichkeit
 order
@@ -577,6 +602,7 @@ ordnen
 Ordnen
 ordner
 Ordner
+ordnet
 ordnete
 Ordnung
 ordnungs
@@ -619,6 +645,7 @@ organismus
 Organismus
 organist
 Organist
+Organs
 organum
 Organum
 orgasmen
@@ -671,6 +698,7 @@ Ort
 Orte
 orten
 Orten
+Ortes
 orthodox
 orthodoxie
 Orthodoxie
@@ -798,6 +826,7 @@ Ostsibirien
 ostwärts
 ostwestfalen
 Ostwestfalen
+Oswald
 OSZE
 oszillation
 Oszillation
@@ -821,7 +850,12 @@ Othmar
 Otmar
 otter
 Otter
+Ottla
+Ottlas
 Otto
+Ottomane
+Ottomar
+Ottomars
 ottomotor
 Ottomotor
 output

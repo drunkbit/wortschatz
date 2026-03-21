@@ -142,12 +142,15 @@ Raedern
 raederwerk
 Raederwerk
 raekeln
+raekelt
 raendelschraube
 Raendelschraube
 raender
 Raender
 raendern
 Raendern
+Raenge
+Raenke
 raeson
 Raeson
 raesonieren
@@ -160,6 +163,8 @@ Raetsel
 raetselecke
 Raetselecke
 raetselhaft
+raetselhafte
+Raetselhafte
 raetseln
 raetselraten
 Raetselraten
@@ -194,6 +199,7 @@ Raeumfahrt
 raeumlich
 raeumlichkeit
 Raeumlichkeit
+raeumt
 raeumten
 raeumungs
 Raeumungs
@@ -245,6 +251,7 @@ rammbock
 Rammbock
 rammeln
 rammen
+rammte
 rampe
 Rampe
 rampenfunktion
@@ -266,6 +273,7 @@ Randalierer
 randalierszene
 Randalierszene
 Rande
+Randleiste
 randnah
 randomisieren
 Randomisieren
@@ -275,6 +283,7 @@ Rang
 Range
 rangelei
 Rangelei
+Rangerhoehung
 Ranges
 ranghoechste
 ranghoeher
@@ -308,6 +317,7 @@ rasch
 Rasch
 rasche
 rascheln
+Rascheln
 raschem
 raschen
 rascher
@@ -345,6 +355,7 @@ rast
 Rast
 rastatt
 Rastatt
+raste
 rasten
 raster
 Raster
@@ -355,6 +366,7 @@ ratatouille
 Ratatouille
 rate
 raten
+Raten
 ratenkauf
 Ratenkauf
 ratensenkung
@@ -415,6 +427,7 @@ ratsam
 ratsche
 Ratsche
 Ratschlaege
+Ratschlaegen
 ratschlag
 Ratschlag
 ratte
@@ -435,9 +448,13 @@ rauben
 raubens
 Raubens
 Raubmoerder
+Raubtier
+Raubtiere
 rauch
 Rauch
+rauche
 rauchen
+Rauchen
 raucher
 Raucher
 raucherhusten
@@ -459,6 +476,7 @@ raufschieben
 rauh
 rauhaardackel
 Rauhaardackel
+rauhe
 rauheit
 Rauheit
 rauigkeit
@@ -494,12 +512,14 @@ Raureif
 raus
 rausch
 Rausch
+Rausche
 rauschen
 Rauschen
 rauschende
 rauschgiftsuechtig
 rauschpegel
 Rauschpegel
+rauscht
 rauschte
 rauschten
 rausgefahren
@@ -605,6 +625,7 @@ Rechaud
 rechen
 Rechen
 rechenintensiv
+Rechenschaft
 rechenschaftsbericht
 Rechenschaftsbericht
 recherche
@@ -619,11 +640,13 @@ rechnergesteuert
 rechnergestuetzt
 rechnerisch
 rechnerunterstuetzt
+rechnest
 rechnet
 rechnete
 Rechnung
 rechnungs
 Rechnungs
+Rechnungsabschluesse
 recht
 Recht
 rechte
@@ -634,9 +657,12 @@ rechteckig
 rechten
 Rechten
 rechtens
+rechter
 Rechtes
 rechtfertigen
 Rechtfertigen
+rechtfertigendes
+rechtfertigte
 Rechtfertigung
 Rechtfertigungen
 rechtglaeubigen
@@ -656,6 +682,7 @@ rechtlos
 rechtlosigkeit
 Rechtlosigkeit
 rechtmaessig
+rechtmaessigerweise
 rechtmaessigkeit
 Rechtmaessigkeit
 rechts
@@ -734,6 +761,8 @@ redaktionsschluss
 Redaktionsschluss
 rede
 Rede
+Redebegabung
+Redefertigkeit
 redefinieren
 redefinition
 Redefinition
@@ -755,6 +784,7 @@ redet
 redete
 redeten
 Redeweise
+Redewendungen
 Redford
 redigieren
 redigierung
@@ -767,6 +797,7 @@ Redmond
 redner
 Redner
 rednerisch
+rednerischen
 rednerpult
 Rednerpult
 rednertribuene
@@ -813,6 +844,7 @@ referendum
 Referendum
 referent
 Referent
+Referenten
 referentiell
 referenz
 Referenz
@@ -897,6 +929,7 @@ regelmaessigen
 regelmaessiges
 Regelmaessigkeit
 regeln
+Regeln
 regelrecht
 regelrechten
 regelungs
@@ -911,6 +944,7 @@ regenerativ
 regenerieren
 Regenerieren
 regennass
+regennassen
 regenreich
 regensburg
 Regensburg
@@ -932,6 +966,7 @@ Regieren
 regierende
 regiert
 regierte
+regiertest
 Regierung
 regierungs
 Regierungs
@@ -964,6 +999,7 @@ regisseur
 Regisseur
 register
 Register
+Registrator
 registratur
 Registratur
 registrier
@@ -991,6 +1027,7 @@ Reglerzustand
 reglos
 regnen
 regnerisch
+regnerischer
 regress
 Regress
 regressanspruch
@@ -1058,6 +1095,7 @@ reibraeder
 Reibraeder
 reibrolle
 Reibrolle
+reibt
 reibungs
 Reibungs
 reibungsfrei
@@ -1067,8 +1105,11 @@ Reich
 reiche
 reichen
 Reichen
+reichenden
+reichendes
 reicher
 reichern
+reiches
 reichgeschmueckte
 reichhaltig
 reichhaltiger
@@ -1077,6 +1118,7 @@ Reichhaltigkeit
 Reichinnek
 reichlich
 reichlichen
+reichlicher
 reichs
 Reichs
 reichsacht
@@ -1107,6 +1149,7 @@ reifegrad
 Reifegrad
 reifen
 Reifen
+reifenhaltenden
 reifepruefung
 Reifepruefung
 reifevermerk
@@ -1122,6 +1165,7 @@ reihen
 Reihen
 Reihenfolge
 reihenweise
+reihte
 reihum
 reihung
 Reihung
@@ -1134,6 +1178,9 @@ Reimplementierung
 rein
 reine
 Reineke
+reinen
+reiner
+reineres
 reinertrag
 Reinertrag
 reines
@@ -1160,6 +1207,7 @@ reiniger
 Reiniger
 reinigte
 reinigten
+reinigtest
 Reinigung
 reinigungs
 Reinigungs
@@ -1173,6 +1221,7 @@ Reinkultur
 reinlaesst
 reinlassen
 reinlich
+reinlicher
 reinlichkeit
 Reinlichkeit
 reinlichkeits
@@ -1188,6 +1237,7 @@ reinste
 reinvestieren
 reinwaschen
 reinweg
+reinzuwaschen
 reis
 Reis
 reisanbau
@@ -1197,6 +1247,7 @@ Reise
 reisebeduerftige
 Reisebeduerftige
 reisefertig
+Reisehandtasche
 Reisekleid
 Reisekoffer
 reiselustig
@@ -1209,6 +1260,7 @@ Reisepass
 Reisepasses
 reisernte
 Reisernte
+Reisetasche
 Reisetransport
 reisig
 Reisig
@@ -1218,6 +1270,7 @@ reiskultur
 Reiskultur
 reispapier
 Reispapier
+Reiss
 reissaus
 Reissaus
 reissbrett
@@ -1227,6 +1280,7 @@ Reisschleim
 reisschnaps
 Reisschnaps
 reissen
+reissend
 reisser
 Reisser
 reisserisch
@@ -1240,6 +1294,7 @@ reissnagel
 Reissnagel
 reisspelze
 Reisspelze
+reisst
 reissuppe
 Reissuppe
 reissverschluss
@@ -1256,6 +1311,8 @@ Reiten
 Reitens
 reiter
 Reiter
+Reiterin
+Reitknechte
 Reitkunst
 Reitschueler
 Reitschule
@@ -1269,7 +1326,9 @@ reizen
 reizend
 reizlos
 reizte
+Reizung
 reizvoll
+reizvollster
 rekapitalisieren
 Rekapitalisieren
 rekapitulieren
@@ -1347,6 +1406,7 @@ Relief
 reliefkunst
 Reliefkunst
 religioes
+religioesen
 religion
 Religion
 religions
@@ -1386,11 +1446,13 @@ Rendsburg
 Renell
 Renells
 renitent
+renitenterweise
 renitenz
 Renitenz
 renn
 Renn
 Rennbahn
+renne
 rennen
 Rennen
 renner
@@ -1466,6 +1528,7 @@ repraesentation
 Repraesentation
 repraesentations
 Repraesentations
+Repraesentationspflichten
 Repraesentationszimmer
 repraesentativ
 repraesentativitaet
@@ -1565,15 +1628,18 @@ Resozialisierungsprogramm
 respekt
 Respekt
 respektabel
+respektable
 respekteinfloessend
 respektieren
 Respektieren
 respektierlich
+respektiert
 respektive
 respektlos
 respektlosigkeit
 Respektlosigkeit
 respektvoll
+respektvollen
 respektwidrig
 ressentiment
 Ressentiment
@@ -1600,6 +1666,9 @@ restaurator
 Restaurator
 restaurieren
 Restaurieren
+Restchen
+Reste
+Restes
 restitutionsedikt
 Restitutionsedikt
 restlich
@@ -1641,11 +1710,16 @@ Retten
 rettende
 retter
 Retter
+Retterin
+rettet
+rettete
 rettich
 Rettich
 Rettung
 rettungs
 Rettungs
+Rettungsversuch
+Rettungsversuchen
 returnieren
 retusche
 Retusche
@@ -1653,6 +1727,7 @@ retuschieren
 reue
 Reue
 reuelos
+reuen
 reuevoll
 reuig
 reumuetig
@@ -1703,6 +1778,7 @@ revolution
 Revolution
 revolutionaer
 Revolutionaer
+revolutionaeren
 revolutionieren
 Revolutionieren
 revolutions
@@ -1748,6 +1824,7 @@ rezitator
 Rezitator
 rezitieren
 Rezitieren
+rezitiert
 RFC
 RFCs
 rhabarber
@@ -1797,6 +1874,7 @@ rhetorisch
 rheuma
 Rheuma
 rheumatisch
+rheumatischen
 rheumatismus
 Rheumatismus
 rhodesien
@@ -1831,17 +1909,23 @@ Richard
 Richelieu
 richt
 Richt
+richte
+Richte
 richten
 Richten
 richter
 Richter
 richterlich
+richtet
 richtete
 richtig
+Richtig
 richtige
+Richtige
 richtigem
 richtigen
 richtiger
+Richtiger
 richtigerweise
 richtiges
 richtiggehend
@@ -1849,6 +1933,7 @@ richtigkeit
 Richtigkeit
 richtigstellen
 Richtigstellen
+richtigzustellen
 Richtung
 Richtungen
 richtungs
@@ -1871,6 +1956,8 @@ Riechorgan
 riecht
 Riecht
 rief
+riefe
+riefen
 riege
 Riege
 riegel
@@ -1889,6 +1976,7 @@ Ries
 riese
 Riese
 rieseln
+rieselte
 riesen
 Riesen
 riesengross
@@ -1907,6 +1995,8 @@ riesterrente
 Riesterrente
 riet
 riete
+rietest
+rietst
 riff
 Riff
 riga
@@ -1981,12 +2071,14 @@ risikofrei
 risikofreudig
 risikolos
 risikoreich
+Risikos
 risikoscheu
 riskant
 riskanterweise
 riskieren
 riss
 Riss
+rissen
 rissfest
 rissig
 rissige
@@ -1996,7 +2088,9 @@ ritt
 Ritt
 ritter
 Ritter
+Ritterburg
 ritterlich
+ritterlichen
 rittig
 Rittigkeit
 rittlings
@@ -2004,6 +2098,7 @@ ritual
 Ritual
 ritualisiert
 rituell
+Ritze
 ritzel
 Ritzel
 ritzen
@@ -2069,6 +2164,9 @@ Roden
 rodler
 Rodler
 roecheln
+Roecheln
+roechelnd
+roechelnde
 roechen
 Roeckchen
 roecke
@@ -2097,6 +2195,7 @@ roeteln
 Roeteln
 roeter
 roetlich
+roetlichblonde
 roetlicher
 roetung
 Roetung
@@ -2114,6 +2213,7 @@ Roggenstroh
 roh
 Roh
 rohe
+rohen
 roher
 rohes
 rohheit
@@ -2126,6 +2226,7 @@ Rohoelpreis
 Rohoelpreisen
 rohr
 Rohr
+Rohrstab
 rohstoffreich
 Roland
 rolandslied
@@ -2247,6 +2348,7 @@ Rotschild
 rotten
 rotterdam
 Rotterdam
+Rotwerden
 rotzen
 rotzfrech
 rotznase
@@ -2332,11 +2434,16 @@ Rueckblick
 rueckblickend
 ruecken
 Ruecken
+rueckend
+Rueckendeckel
 Rueckenkoerben
+Rueckenkorb
+Rueckenlage
 Rueckenlehne
 rueckenmark
 Rueckenmark
 rueckfuehren
+Rueckgabe
 rueckgaberecht
 Rueckgaberecht
 rueckgabewert
@@ -2345,10 +2452,12 @@ rueckgaengig
 rueckgebildet
 rueckgeliefert
 rueckgesandt
+rueckgeschlossen
 rueckgesetzt
 Rueckgrad
 rueckgrat
 Rueckgrat
+Rueckgratsverkruemmung
 Rueckhalt
 rueckhaltlos
 rueckhaltlosem
@@ -2359,6 +2468,8 @@ Rueckkoppeln
 rueckkopplungsfaehig
 Rueckkunft
 ruecklaeufig
+ruecklaeufige
+ruecklaeufigen
 ruecklings
 ruecknahmekurs
 Ruecknahmekurs
@@ -2369,6 +2480,9 @@ Rueckrad
 Rueckrat
 rueckrundenauftakt
 Rueckrundenauftakt
+Rueckschluessen
+Rueckschluss
+Rueckschritte
 rueckschrittlich
 Rueckseite
 ruecksetzen
@@ -2376,13 +2490,19 @@ Ruecksicht
 ruecksichtlich
 Ruecksichtnahme
 ruecksichtslos
+Ruecksichtslos
+ruecksichtsloser
+ruecksichtsloseste
 ruecksichtslosigkeit
 Ruecksichtslosigkeit
 ruecksichtsvoll
+ruecksichtsvoller
 rueckstaendig
+Rueckstand
 rueckstauklappe
 Rueckstauklappe
 rueckte
+rueckten
 ruecktrittsangebot
 Ruecktrittsangebot
 ruecktrittserklaerung
@@ -2393,6 +2513,7 @@ rueckverfolgen
 rueckwaertig
 rueckwaertige
 rueckwaerts
+Rueckwaertsfahren
 rueckwaertsgewandt
 rueckwaertslaufen
 Rueckwaertslaufen
@@ -2400,9 +2521,12 @@ rueckwaertsorientierung
 Rueckwaertsorientierung
 rueckwaertsrichtung
 Rueckwaertsrichtung
+Rueckweg
+Rueckwegs
 rueckwirkend
 rueckzahlbar
 rueckzufuehren
+Rueckzug
 rueckzugsmanoever
 Rueckzugsmanoever
 rueckzugsort
@@ -2423,10 +2547,14 @@ ruehmen
 ruehmenswert
 Ruehmenswertes
 ruehmlich
+ruehmst
+ruehmt
+ruehmtest
 ruehr
 ruehre
 ruehren
 Ruehren
+ruehrend
 ruehrer
 Ruehrer
 ruehrstaebe
@@ -2440,6 +2568,8 @@ ruelpsen
 ruempfe
 Ruempfe
 ruempfen
+ruempften
+Rueschen
 ruessel
 Ruessel
 ruesselsheim
@@ -2461,6 +2591,7 @@ Ruf
 Rufe
 rufen
 Rufen
+rufend
 rufer
 Rufer
 Rufes
@@ -2475,6 +2606,8 @@ ruhelos
 ruhelosen
 ruhen
 ruhende
+ruhenden
+ruhenwollenden
 Ruheort
 Ruhepausen
 ruhestaendler
@@ -2488,8 +2621,10 @@ ruhige
 ruhigem
 ruhigen
 ruhiger
+Ruhiger
 ruhigere
 ruhiges
+ruhiggewordenen
 ruhm
 Ruhm
 ruhmbedeckt
@@ -2517,6 +2652,7 @@ Ruhrschnellweg
 ruhrstatut
 Ruhrstatut
 ruht
+ruhte
 ruhten
 ruin
 Ruin
@@ -2554,6 +2690,7 @@ run
 Run
 rund
 Rund
+Rundbau
 runde
 Runde
 runden
@@ -2564,11 +2701,15 @@ rundenzeit
 Rundenzeit
 rundes
 Rundfunk
+Rundgang
 rundherum
+Rundlehnstuhl
 rundlich
+rundrueckigen
 rundum
 rundungsfehler
 Rundungsfehler
+rundwangigen
 rune
 Rune
 runter
@@ -2581,6 +2722,7 @@ runterzufahren
 runzel
 Runzel
 runzeln
+runzelte
 runzlig
 Rupert
 rupfen

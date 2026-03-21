@@ -7,6 +7,7 @@ Jäckchen
 Jacke
 Jacken
 Jackett
+Jackettkleid
 Jacketttasche
 Jacob
 Jacobs
@@ -17,13 +18,17 @@ Jaffa
 Jagd
 Jagdfrevel
 Jagdgrün
+Jagdhunde
 Jage
 Jagen
+Jagend
 Jäger
 Jägerei
 Jägerlatein
+Jagt
 Jagte
 Jagten
+Jagtest
 Jaguar
 Jäh
 Jählings
@@ -36,11 +41,13 @@ Jährchen
 Jahre
 Jahrein
 Jahrelang
+Jahrelange
 Jahren
 Jähren
 Jahres
 Jahresunterlagen
 Jahreswettbewerb
+Jahreszeit
 Jahreszeitlich
 Jahrgang
 Jahrhundert
@@ -49,6 +56,7 @@ Jahrhundertelang
 Jährig
 Jährlich
 Jahrmarkt
+Jahrmärkten
 Jahrmillion
 Jahrtausend
 Jahrtausendelang
@@ -71,6 +79,10 @@ Jambus
 James
 Jammer
 Jämmerlich
+Jämmerliche
+Jämmerlichen
+Jämmerlicher
+Jämmerlichkeit
 Jammern
 Jammerschade
 Jammervollen
@@ -121,6 +133,7 @@ Jedoch
 Jedwede
 Jeep
 Jegliche
+Jeglicher
 Jeher
 Jelzin
 Jemals
@@ -139,6 +152,7 @@ Jens
 Jenseits
 Jenseitsverheißung
 Jeremiade
+Jeremias
 Jericho
 Jersey
 Jerusalem
@@ -153,11 +167,13 @@ Jet
 Jetten
 Jetzige
 Jetzigen
+Jetziger
 Jetziges
 Jetzt
 Jeweilig
 Jeweils
 Jiddisch
+Jiddische
 Jim
 Jitsu
 Jiu
@@ -203,6 +219,7 @@ Jörg
 Joschka
 Josef
 Joseph
+Josephsplatz
 Jota
 Joule
 Journal
@@ -218,6 +235,7 @@ Joystick
 Joystickwerten
 Jubel
 Jubeln
+Jubelten
 Jubiläen
 Jubilar
 Jubiläum
@@ -233,9 +251,12 @@ Jude
 Juden
 Judenfeindlich
 Judentum
+Judentums
 Judikativ
 Jüdin
+Jüdinnen
 Jüdisch
+Jüdische
 Jüdischen
 Judizieren
 Judo
@@ -244,9 +265,12 @@ Judokurs
 Judosport
 Judoverband
 Jugend
+Jugendeindrücke
+Jugenderinnerungen
 Jugendfrei
 Jugendgefährdend
 Jugendlich
+Jugendlicher
 Jugendlichkeit
 Jugendpflegerisch
 Jugoslawe
@@ -281,6 +305,7 @@ Jungfilmer
 Jungfräulich
 Junggeblieben
 Junggeselle
+Junggesellen
 Junggesellenabschied
 Jüngling
 Jünglingsalter
@@ -313,6 +338,8 @@ Juristisch
 Juror
 Jury
 Juryfrei
+Jus
+Jusstudium
 Just
 Justieren
 Justiermagnet

@@ -85,6 +85,7 @@ Casanova
 Cäsar
 cäsarismus
 Cäsarismus
+Casinelli
 casino
 Casino
 casinoabend
@@ -151,6 +152,7 @@ chamäleon
 Chamäleon
 champagner
 Champagner
+Champagnerglas
 champagnerkorken
 Champagnerkorken
 champignon
@@ -185,6 +187,7 @@ charakterbildend
 charakterfest
 charakterisieren
 Charakterisieren
+Charakterisierung
 charakteristik
 Charakteristik
 charakteristika
@@ -273,6 +276,7 @@ Chefkapellmeister
 Chefs
 chemie
 Chemie
+Chemiestudium
 chemikalie
 Chemikalie
 chemikalien
@@ -635,6 +639,7 @@ Contergan
 continuation
 Continuation
 contra
+contrario
 controller
 Controller
 controllerbox
@@ -704,7 +709,9 @@ Crayon
 creme
 Creme
 cremefarben
+cremefarbene
 cremefarbig
+cremefarbige
 cremen
 crescendi
 Crescendi

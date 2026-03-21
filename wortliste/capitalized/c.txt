@@ -51,6 +51,7 @@ Caruso
 Casanova
 Cäsar
 Cäsarismus
+Casinelli
 Casino
 Casinoabend
 Cäsium
@@ -90,6 +91,7 @@ Ch
 Chalet
 Chamäleon
 Champagner
+Champagnerglas
 Champagnerkorken
 Champignon
 Champion
@@ -111,6 +113,7 @@ Charakter
 Charakterbildend
 Charakterfest
 Charakterisieren
+Charakterisierung
 Charakteristik
 Charakteristika
 Charakteristisch
@@ -164,6 +167,7 @@ Chef
 Chefkapellmeister
 Chefs
 Chemie
+Chemiestudium
 Chemikalie
 Chemikalien
 Chemiker
@@ -385,6 +389,7 @@ Container
 Contergan
 Continuation
 Contra
+Contrario
 Controller
 Controllerbox
 Controllerplatine
@@ -424,7 +429,9 @@ Crash
 Crayon
 Creme
 Cremefarben
+Cremefarbene
 Cremefarbig
+Cremefarbige
 Cremen
 Crescendi
 Crescendo

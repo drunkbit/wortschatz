@@ -23,8 +23,11 @@ oberammergau
 oberbayerisch
 oberbayern
 obere
+oberen
+oberflaeche
 oberflaechlich
 oberflaechlichen
+oberflaechlicher
 oberflaechlichkeit
 obergaerig
 obergefreiten
@@ -33,6 +36,7 @@ obergriff
 oberhalb
 oberhand
 oberhausen
+oberherrschaft
 oberirdisch
 oberirdischen
 oberkassier
@@ -83,6 +87,7 @@ obligationsanleihe
 obligatorisch
 obmaennin
 obmann
+obmannstellvertreters
 oboe
 oboist
 obolus
@@ -130,17 +135,22 @@ oe
 oeamtc
 oecd
 oed
+oede
+oeden
 oefen
 oeffenbar
 oeffentlich
+oeffentliche
 oeffentlichen
 oeffentlicher
 oeffentlichkeit
 oeffentlichkeitsarbeit
 oeffentlichkeitswirksam
+oeffne
 oeffnen
 oeffnende
 oeffner
+oeffnet
 oeffnete
 oeffneten
 oeffnung
@@ -165,6 +175,7 @@ oel
 oelen
 oelfleck
 oelig
+oellampe
 oelportrait
 oels
 oelverbrauchend
@@ -187,6 +198,9 @@ oetv
 oevp
 oezdemir
 ofen
+ofenbank
+ofens
+ofentuer
 offen
 offenbach
 offenbacher
@@ -194,6 +208,7 @@ offenbar
 offenbaren
 offenbarlich
 offenbarungseid
+offenbarungswort
 offene
 offenem
 offenen
@@ -206,11 +221,13 @@ offenhalten
 offenheit
 offenherzig
 offenherzigkeit
+offenhielt
 offenkundig
 offenlaesst
 offenlassen
 offenlegen
 offenlegungsschrift
+offenliess
 offenmarktausschuss
 offensichtlich
 offensiv
@@ -247,9 +264,12 @@ ohnedies
 ohneeinander
 ohnegleichen
 ohnehin
+ohneweiters
 ohnmacht
 ohnmachtsanfall
 ohnmaechtig
+ohnmaechtige
+ohnmaechtiges
 oho
 ohr
 ohren
@@ -283,6 +303,7 @@ oldenburger
 oldtimer
 oleg
 olga
+olgas
 oligarchie
 oligarchisch
 oligopolistisch
@@ -349,8 +370,12 @@ opernburleske
 operngucker
 opfer
 opferbereit
+opferkruege
+opfermut
 opfern
 opferreich
+opfert
+opferte
 opiate
 opisthotonus
 opium
@@ -409,6 +434,7 @@ oratorium
 orbit
 orbital
 orchester
+orchesters
 orchestralmusik
 orchestrieren
 orchestrierten
@@ -419,6 +445,7 @@ ordensreihe
 ordentlich
 ordentliche
 ordentlichen
+ordentlicher
 ordentlichkeit
 order
 ordern
@@ -429,6 +456,7 @@ ordinarien
 ordinate
 ordnen
 ordner
+ordnet
 ordnete
 ordnung
 ordnungs
@@ -458,6 +486,7 @@ organismen
 organismentypen
 organismus
 organist
+organs
 organum
 orgasmen
 orgasmus
@@ -490,6 +519,7 @@ ornithologisch
 ort
 orte
 orten
+ortes
 orthodox
 orthodoxie
 orthogonal
@@ -573,6 +603,7 @@ ostschweiz
 ostsibirien
 ostwaerts
 ostwestfalen
+oswald
 osze
 oszillation
 oszillator
@@ -588,7 +619,12 @@ oszilloskop
 othmar
 otmar
 otter
+ottla
+ottlas
 otto
+ottomane
+ottomar
+ottomars
 ottomotor
 output
 outputfile

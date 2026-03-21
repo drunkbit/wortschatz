@@ -23,8 +23,11 @@ Oberammergau
 Oberbayerisch
 Oberbayern
 Obere
+Oberen
+Oberfläche
 Oberflächlich
 Oberflächlichen
+Oberflächlicher
 Oberflächlichkeit
 Obergärig
 Obergefreiten
@@ -33,6 +36,7 @@ Obergriff
 Oberhalb
 Oberhand
 Oberhausen
+Oberherrschaft
 Oberirdisch
 Oberirdischen
 Oberkassier
@@ -83,6 +87,7 @@ Obligationsanleihe
 Obligatorisch
 Obmann
 Obmännin
+Obmannstellvertreters
 Oboe
 Oboist
 Obolus
@@ -129,6 +134,9 @@ Odyssee
 Oecd
 Oem
 Ofen
+Ofenbank
+Ofens
+Ofentür
 Offen
 Offenbach
 Offenbacher
@@ -136,6 +144,7 @@ Offenbar
 Offenbaren
 Offenbarlich
 Offenbarungseid
+Offenbarungswort
 Offene
 Offenem
 Offenen
@@ -148,11 +157,13 @@ Offenhalten
 Offenheit
 Offenherzig
 Offenherzigkeit
+Offenhielt
 Offenkundig
 Offenlassen
 Offenlässt
 Offenlegen
 Offenlegungsschrift
+Offenließ
 Offenmarktausschuss
 Offensichtlich
 Offensiv
@@ -189,8 +200,11 @@ Ohnedies
 Ohneeinander
 Ohnegleichen
 Ohnehin
+Ohneweiters
 Ohnmacht
 Ohnmächtig
+Ohnmächtige
+Ohnmächtiges
 Ohnmachtsanfall
 Oho
 Ohr
@@ -225,6 +239,7 @@ Oldenburger
 Oldtimer
 Oleg
 Olga
+Olgas
 Oligarchie
 Oligarchisch
 Oligopolistisch
@@ -291,8 +306,12 @@ Opernburleske
 Operngucker
 Opfer
 Opferbereit
+Opferkrüge
+Opfermut
 Opfern
 Opferreich
+Opfert
+Opferte
 Opiate
 Opisthotonus
 Opium
@@ -351,6 +370,7 @@ Oratorium
 Orbit
 Orbital
 Orchester
+Orchesters
 Orchestralmusik
 Orchestrieren
 Orchestrierten
@@ -361,6 +381,7 @@ Ordensreihe
 Ordentlich
 Ordentliche
 Ordentlichen
+Ordentlicher
 Ordentlichkeit
 Order
 Ordern
@@ -371,6 +392,7 @@ Ordinarien
 Ordinate
 Ordnen
 Ordner
+Ordnet
 Ordnete
 Ordnung
 Ordnungs
@@ -400,6 +422,7 @@ Organismen
 Organismentypen
 Organismus
 Organist
+Organs
 Organum
 Orgasmen
 Orgasmus
@@ -432,6 +455,7 @@ Ornithologisch
 Ort
 Orte
 Orten
+Ortes
 Orthodox
 Orthodoxie
 Orthogonal
@@ -515,6 +539,7 @@ Ostschweiz
 Ostsibirien
 Ostwärts
 Ostwestfalen
+Oswald
 Osze
 Oszillation
 Oszillator
@@ -530,7 +555,12 @@ Oszilloskop
 Othmar
 Otmar
 Otter
+Ottla
+Ottlas
 Otto
+Ottomane
+Ottomar
+Ottomars
 Ottomotor
 Output
 Outputfile

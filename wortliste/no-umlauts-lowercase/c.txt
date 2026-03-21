@@ -52,6 +52,7 @@ cartansch
 cartoon
 caruso
 casanova
+casinelli
 casino
 casinoabend
 castor
@@ -90,6 +91,7 @@ ch
 chalet
 chamaeleon
 champagner
+champagnerglas
 champagnerkorken
 champignon
 champion
@@ -111,6 +113,7 @@ charakter
 charakterbildend
 charakterfest
 charakterisieren
+charakterisierung
 charakteristik
 charakteristika
 charakteristisch
@@ -164,6 +167,7 @@ chef
 chefkapellmeister
 chefs
 chemie
+chemiestudium
 chemikalie
 chemikalien
 chemiker
@@ -385,6 +389,7 @@ container
 contergan
 continuation
 contra
+contrario
 controller
 controllerbox
 controllerplatine
@@ -424,7 +429,9 @@ crash
 crayon
 creme
 cremefarben
+cremefarbene
 cremefarbig
+cremefarbige
 cremen
 crescendi
 crescendo
