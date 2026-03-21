@@ -1,3 +1,10 @@
+# Wortschatz: Cache der Tools (generierte Zwischendaten)
+tools/cache/
+tools/dist/
+
+# package-lock.json
+package-lock.json
+
 # Logs
 logs
 *.log
