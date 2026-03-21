@@ -7,6 +7,7 @@
     "fetch": "tsx src/index.ts fetch",
     "extract": "tsx src/index.ts extract",
     "build-wordlist": "tsx src/index.ts build",
+    "rebuild-wordlist": "tsx src/index.ts build --rebuild",
     "start": "tsx src/index.ts"
   },
   "dependencies": {

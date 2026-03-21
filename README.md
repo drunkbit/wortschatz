@@ -105,11 +105,14 @@ npm run extract
 ### Wortliste generieren
 
 ```bash
-# Wortlisten aus allen gecachten Quellen zusammenbauen
+# Nur neue Wörter zur bestehenden Liste ergänzen
 npm run build-wordlist
+
+# Wortliste komplett neu erstellen
+npm run rebuild-wordlist
 ```
 
-Dies erstellt die komplette Verzeichnisstruktur unter `wortliste/` mit allen Varianten und Dateien.
+Ohne `--rebuild` werden nur Wörter hinzugefügt, die noch nicht in der bestehenden Liste enthalten sind. Existiert noch keine Wortliste, wird sie automatisch neu erstellt.
 
 ## Quellen
 
