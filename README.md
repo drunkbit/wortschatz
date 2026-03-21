@@ -2,7 +2,7 @@
 
 Eine umfassende deutsche Wortliste zur freien Weiterverarbeitung.
 
-Die Wörter stammen aus mehreren Quellen und werden in zwei Varianten bereitgestellt:
+Die Wörter stammen aus [mehreren Quellen](#quellen) und werden in zwei Varianten bereitgestellt:
 
 - **Originalschreibung** — Groß-/Kleinschreibung wie im Wörterbuch (Nomen groß etc.)
 - **Lowercase** — Alle Wörter kleingeschrieben
@@ -49,7 +49,7 @@ wortschatz/
 - **Plaintext** (`.txt`), UTF-8
 - Ein Wort pro Zeile
 - Alphabetisch sortiert (deutsche Locale)
-- Keine Duplikate innerhalb einer Datei
+- Keine Duplikate innerhalb einer Datei (nicht case-sensitive)
 
 ## Nutzung der Wortliste
 
