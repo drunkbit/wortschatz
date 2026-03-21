@@ -1,4 +1,5 @@
 l
+la
 laben
 Laben
 labertasche
@@ -32,6 +33,7 @@ Lachens
 lacher
 Lacher
 lächerlich
+lächerliche
 lächerlichkeit
 Lächerlichkeit
 lachs
@@ -229,11 +231,14 @@ landesbedingt
 landescup
 Landescup
 landeseigen
+Landesparlament
 landesplanerisch
 landespolitisch
 Landesprache
 landesüblich
 landesweit
+landete
+landeten
 landgebunden
 landläufig
 landläufigkeit
@@ -241,6 +246,7 @@ Landläufigkeit
 ländler
 Ländler
 ländlich
+ländlichen
 Landrover
 landschaftlich
 landschafts
@@ -259,10 +265,14 @@ landsmannschaft
 Landsmannschaft
 landstreicherei
 Landstreicherei
+Landtag
 landtags
 Landtags
+Landtagswahl
+Landtagswahlen
 landungs
 Landungs
+Landwirtschaft
 landwirtschaftlich
 lang
 Lang
@@ -273,6 +283,7 @@ langatmig
 langatmigkeit
 Langatmigkeit
 langbeinig
+lange
 länge
 Länge
 langen
@@ -282,6 +293,7 @@ Langenscheidt
 langeoog
 Langeoog
 länger
+längere
 längerfristig
 langeweile
 Langeweile
@@ -469,6 +481,7 @@ Lauerstellung
 lauf
 Lauf
 laufen
+laufende
 laufens
 Laufens
 läufer
@@ -506,8 +519,10 @@ lauten
 läuten
 lautenklang
 Lautenklang
+lauter
 läutern
 Läutern
+lautet
 lautfolge
 Lautfolge
 lauthals
@@ -792,6 +807,7 @@ Leichnam
 leicht
 Leicht
 leichtathletisch
+leichte
 leichtfertig
 leichtfüßig
 leichtfüßigkeit
@@ -823,6 +839,7 @@ Leidensgenosse
 leidensweg
 Leidensweg
 leider
+leidet
 leidgeprüft
 leidig
 leidlich
@@ -935,6 +952,7 @@ Lenken
 lenker
 Lenker
 Lennon
+Lenny
 Lenovo
 lenz
 Lenz
@@ -1014,6 +1032,7 @@ Lettland
 letzt
 Letzt
 letzte
+letzten
 letztendlich
 letztens
 letztere
@@ -1083,6 +1102,7 @@ Libanon
 libelle
 Libelle
 liberal
+liberalen
 liberalisieren
 Liberalisieren
 liberalisierungsansatz
@@ -1140,6 +1160,7 @@ Liebe
 liebelei
 Liebelei
 lieben
+Liebende
 liebenswert
 liebenswürdig
 liebenswürdigkeit
@@ -1151,9 +1172,11 @@ Liebesbezeigung
 liebeshändeln
 Liebeshändeln
 liebeskrank
+Liebesroman
 liebestöter
 Liebestöter
 liebevoll
+liebevolle
 liebgeworden
 liebhaber
 Liebhaber
@@ -1170,6 +1193,8 @@ lieblings
 Lieblings
 lieblingsspeise
 Lieblingsspeise
+Lieblingstiere
+Lieblingswörter
 lieblos
 lieblosigkeit
 Lieblosigkeit
@@ -1225,9 +1250,12 @@ liegenbleiben
 liegenblieb
 liegenschaft
 Liegenschaft
+liegt
 lieh
 lies
+Lies
 ließ
+ließe
 liest
 lift
 Lift
@@ -1335,6 +1363,7 @@ linksläufig
 linksliberal
 linksliegen
 linksorientiert
+Linkspartei
 linksradikal
 linksrheinisch
 linksseitig
@@ -1389,6 +1418,7 @@ list
 List
 listbefehl
 Listbefehl
+Liste
 listen
 Listen
 listenreich
@@ -1751,6 +1781,7 @@ löwe
 Löwe
 löwen
 Löwen
+Löwenstern
 lowpegel
 Lowpegel
 loyal
@@ -1818,6 +1849,7 @@ Lufthansa
 luftig
 luftmachen
 Luftmachen
+Luftschloss
 lufttransportverbande
 Lufttransportverbande
 lüftungs

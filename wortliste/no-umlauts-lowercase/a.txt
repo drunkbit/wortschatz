@@ -25459,6 +25459,7 @@ aehre
 aehren
 aehrenamt
 aelter
+aeltere
 aeltern
 aeltest
 aeltesten
@@ -25467,6 +25468,7 @@ aelv
 aemr
 aemter
 aendern
+aenderungen
 aenderungs
 aengste
 aengstigen
@@ -26901,6 +26903,7 @@ agrarflugzeuge
 agrarflugzeugen
 agrarflugzeuges
 agrarflugzeugs
+agrarfoerderungen
 agrargeschichte
 agrargesellschaft
 agrargesellschaften
@@ -45641,6 +45644,7 @@ apostrophieren
 apotheke
 apotheken
 apotheker
+app
 appalachen
 apparat
 apparateglasblaeser
@@ -45717,13 +45721,17 @@ arbeitsgeber
 arbeitsintensiv
 arbeitslos
 arbeitslosen
+arbeitslosigkeit
 arbeitsmarktpolitisch
+arbeitsmarktprojekte
 arbeitsnehmer
 arbeitspaedagogisch
 arbeitsrechtlich
 arbeitsreich
 arbeitsscheu
 arbeitssparend
+arbeitstag
+arbeitstags
 arbeitstechnisch
 arbeitsueberlastung
 arbeitsunfaehig
@@ -45910,6 +45918,7 @@ assistent
 assistenz
 assistieren
 assoziation
+assoziationen
 assoziations
 assoziativ
 assoziativitaet
@@ -45939,6 +45948,7 @@ astronomisch
 asyl
 asylant
 asylrechtlich
+asylwerber
 asymmetrie
 asymmetrisch
 asymptote
@@ -46398,6 +46408,7 @@ aufhob
 aufhoeren
 aufholbedarf
 aufholen
+aufholjagd
 aufhorchen
 aufkaeufer
 aufkam
@@ -46514,6 +46525,7 @@ aufrechtstehen
 aufrechtzuerhalten
 aufregen
 aufregend
+aufregung
 aufreiben
 aufreibend
 aufreihen
@@ -46633,6 +46645,7 @@ aufstossen
 aufstreben
 aufstreichen
 aufstrich
+aufstrichen
 aufstuetzen
 aufsuchen
 aufsummieren
@@ -46834,6 +46847,7 @@ aufzwingen
 aug
 augapfel
 augen
+augenblick
 augenblicklich
 augenfaellig
 augenlied
@@ -46923,6 +46937,7 @@ ausdrucken
 ausdrucks
 ausdrucksfaehig
 ausdruckslos
+ausdrucksmoeglichkeiten
 ausdrucksstaerker
 ausdrucksstark
 ausdrucksvoll
@@ -47584,6 +47599,7 @@ aussteige
 aussteigen
 aussteigens
 aussteiger
+aussteigt
 ausstell
 ausstellen
 aussteller
@@ -47637,6 +47653,7 @@ austuefteln
 ausueben
 ausuebungs
 ausufern
+ausufernden
 ausverkauf
 ausverkaufen
 ausverkaufs
@@ -47821,6 +47838,7 @@ autochthon
 autodidakt
 autodidaktisch
 autodrom
+autofahrer
 autogen
 autogramm
 autograph

@@ -551,6 +551,7 @@ gedanke
 Gedanke
 gedanken
 Gedanken
+Gedankenkarussell
 gedankenlos
 gedankenreich
 gedankenverloren
@@ -830,6 +831,7 @@ Gefuehlsduselei
 gefuehlsduslig
 gefuehlsmaessig
 gefuehlsvoll
+Gefuehlswelt
 gefuehlt
 gefuehlvoll
 gefuehrt
@@ -861,6 +863,7 @@ Gegend
 gegeneinander
 gegeneinanderwirken
 Gegeneinanderwirken
+Gegenfinanzierung
 gegengewichtslos
 gegengezeichnet
 gegenlaeufig
@@ -879,6 +882,7 @@ gegenstandsbereich
 Gegenstandsbereich
 gegenstandslos
 gegensteuern
+Gegenteil
 gegenteilig
 gegenueber
 gegenuebergestanden
@@ -899,6 +903,7 @@ gegenueberzustehen
 gegenwaertig
 gegenwarts
 Gegenwarts
+Gegenwindes
 gegenzeichnen
 gegenzurechnen
 gegenzusteuern
@@ -906,6 +911,7 @@ gegessen
 geglaenzt
 geglaettet
 geglaubt
+geglaubten
 geglichen
 gegliedert
 geglotzt
@@ -1034,6 +1040,7 @@ gehirnpsychologisch
 gehisst
 gehobelt
 gehoben
+gehobene
 gehoeft
 Gehoeft
 gehoehnt
@@ -1043,6 +1050,7 @@ gehoer
 Gehoer
 gehoeren
 gehoerig
+gehoerige
 gehoerlos
 gehoert
 gehofft
@@ -1056,6 +1064,7 @@ Gehorsamkeit
 gehortet
 gehsteig
 Gehsteig
+geht
 gehuellt
 gehuetet
 gehuldigt
@@ -1359,6 +1368,7 @@ geleert
 gelegen
 gelegenheit
 Gelegenheit
+Gelegenheiten
 gelegenheits
 Gelegenheits
 gelegt
@@ -1475,6 +1485,7 @@ gemein
 gemeinde
 Gemeinde
 gemeindeeigen
+Gemeinden
 gemeindlich
 gemeinerweise
 gemeinfrei
@@ -1580,6 +1591,7 @@ genagelt
 genagt
 genannt
 genau
+Genau
 genauestens
 genauigkeit
 Genauigkeit
@@ -1853,6 +1865,7 @@ Gepolter
 gepraege
 Gepraege
 gepraegt
+gepraegten
 geprahlt
 geprallt
 geprasst
@@ -2058,6 +2071,7 @@ germanistisch
 germanium
 Germanium
 gern
+gerne
 gernegross
 Gernegross
 gerochen
@@ -2140,6 +2154,8 @@ gesamt
 Gesamt
 gesamtaktiv
 gesamtdeutsch
+gesamte
+gesamten
 gesamteuropaeisch
 gesamtgesellschaftlich
 gesamtheit
@@ -2225,6 +2241,7 @@ Geschehnis
 gescheit
 gescheitelt
 gescheitert
+gescheiterten
 gescheitsein
 Gescheitsein
 geschellt
@@ -2547,6 +2564,7 @@ Gesetzgebung
 gesetzgebungs
 Gesetzgebungs
 gesetzlich
+gesetzlichen
 gesetzlichkeit
 Gesetzlichkeit
 gesetzlos
@@ -2605,6 +2623,7 @@ gespann
 Gespann
 gespannt
 gespart
+Gespart
 gespasst
 gespeichert
 gespeist
@@ -3176,6 +3195,7 @@ gewohnheitsmaessig
 gewohnt
 gewollt
 gewonnen
+gewonnenen
 geworben
 geworden
 geworfen
@@ -3597,7 +3617,9 @@ Glueckauf
 glueckbringend
 gluecken
 gluecklich
+Glueckliche
 gluecklicherweise
+Gluecklichmacherwoerter
 gluecklichsein
 Gluecklichsein
 gluecklos
@@ -3609,6 +3631,7 @@ glueckselig
 glueckseligkeit
 Glueckseligkeit
 glueckstrahlend
+Glueckswoerter
 Glueckswunsch
 glueckwuensche
 Glueckwuensche
@@ -3869,6 +3892,7 @@ grafikfaehig
 grafikprozessor
 Grafikprozessor
 grafisch
+grafischen
 grafit
 Grafit
 grafologe
@@ -4062,6 +4086,7 @@ Grenz
 grenze
 Grenze
 grenzen
+Grenzen
 grenzenlos
 grenzer
 Grenzer
@@ -4143,6 +4168,7 @@ Groessen
 groessenordnungsmaessig
 groessenwahnsinnig
 groesser
+groessere
 groesste
 groesstenteils
 groesstmoeglich
@@ -4166,6 +4192,7 @@ grossbaeuerlich
 grossbritannien
 Grossbritannien
 grossbuergerlich
+grosse
 grossenteils
 grossflaechig
 grossformatig
@@ -4234,6 +4261,7 @@ Gruendlichkeit
 gruendungs
 Gruendungs
 gruenen
+Gruenen
 gruenlich
 gruenlichbraun
 gruessen
@@ -4261,6 +4289,7 @@ grundkapitalien
 Grundkapitalien
 grundlegend
 grundlos
+Grundrechenarten
 grundrechtlich
 grundsaetzlich
 grundsaetzlichkeit
@@ -4396,6 +4425,8 @@ gutbetucht
 gutbuergerlich
 gutduenken
 Gutduenken
+gute
+guten
 Gutenberg
 gutfundiert
 gutgegangen

@@ -33,6 +33,7 @@
 Ähren
 Ährenamt
 älter
+ältere
 ältest
 ältesten
 Ältesten
@@ -41,6 +42,7 @@
 Ämter
 ändern
 Ändern
+Änderungen
 änderungs
 Änderungs
 ängste

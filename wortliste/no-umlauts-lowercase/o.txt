@@ -104,6 +104,7 @@ odessa
 odium
 odyssee
 oe
+oeamtc
 oecd
 oed
 oefen
@@ -147,6 +148,8 @@ oestlich
 oestrogen
 oestrogenspiegel
 oetv
+oevp
+oezdemir
 ofen
 offen
 offenbach
@@ -208,6 +211,7 @@ ohren
 ohrenbetaeubend
 ohrfeigen
 ohrlaeppchen
+ohrwurm
 okay
 okkult
 okkultismus
@@ -308,6 +312,7 @@ opportunistisch
 opportunitaetsprinzip
 opposition
 oppositionell
+oppositionellen
 oppositions
 opteron
 opti
@@ -356,6 +361,7 @@ orchidee
 orden
 ordens
 ordentlich
+ordentliche
 ordentlichkeit
 order
 ordern
@@ -419,6 +425,7 @@ ornithologe
 ornithologie
 ornithologisch
 ort
+orte
 orten
 orthodox
 orthodoxie

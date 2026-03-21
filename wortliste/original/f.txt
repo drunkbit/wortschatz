@@ -275,6 +275,7 @@ fantasieprojekte
 Fantasieprojekte
 fantasiereich
 fantasievoll
+fantasievolle
 fantast
 Fantast
 fantastisch
@@ -544,10 +545,12 @@ fehlschlägt
 fehlschlug
 feier
 Feier
+Feierabend
 feierlich
 feierlichkeit
 Feierlichkeit
 feiern
+Feiertag
 feiertags
 Feiertags
 feig
@@ -655,7 +658,9 @@ Fernando
 fernbedienbar
 fernbleiben
 fernblieb
+ferne
 ferneingestellt
+fernen
 fernerhin
 ferngeblieben
 ferngehalten
@@ -688,6 +693,7 @@ fernsehgaudi
 Fernsehgaudi
 fernsichtig
 fernsieht
+Fernweh
 fernzubleiben
 fernzuhalten
 ferrara
@@ -1014,11 +1020,13 @@ Finanz
 finanziell
 finanzier
 Finanzier
+Finanzierbar
 finanzieren
 Finanzieren
 finanzierungs
 Finanzierungs
 finanzkräftig
+Finanzminister
 finanzökonomisch
 finanzpolitisch
 finanzstark
@@ -1037,6 +1045,7 @@ finderlohn
 Finderlohn
 finderlöhne
 Finderlöhne
+findest
 findig
 findigkeit
 Findigkeit
@@ -1053,6 +1062,7 @@ fingerdick
 fingerig
 fingerling
 Fingerling
+Fingerspitzengefühl
 fingerzeig
 Fingerzeig
 fingieren
@@ -1162,6 +1172,8 @@ Fläche
 flächen
 Flächen
 flächendeckend
+Flächenland
+Flächenländer
 flächenmäßig
 flachheit
 Flachheit
@@ -1403,6 +1415,7 @@ fließkommaprozessor
 Fließkommaprozessor
 fließkommazahl
 Fließkommazahl
+fließt
 flimmer
 Flimmer
 flimmern
@@ -1649,6 +1662,7 @@ folglich
 folgsam
 folgsamkeit
 Folgsamkeit
+folgte
 folie
 Folie
 folien
@@ -1692,6 +1706,7 @@ fontainebleau
 Fontainebleau
 fontäne
 Fontäne
+Fonts
 foppen
 fopperei
 Fopperei
@@ -1724,6 +1739,7 @@ fordern
 Fordern
 fördern
 Fördern
+Förderungen
 forderungs
 Forderungs
 förderungs
@@ -1731,6 +1747,7 @@ Förderungs
 förderungsbedürftig
 förderungswettbewerb
 Förderungswettbewerb
+Förderverträge
 forelle
 Forelle
 forellenblau
@@ -1838,6 +1855,7 @@ forschen
 Forschen
 forscher
 Forscher
+Forschung
 forschungs
 Forschungs
 forschungsfreudig
@@ -2023,6 +2041,8 @@ foxtrott
 Foxtrott
 foyer
 Foyer
+FP
+FPÖ
 Fr
 fracht
 Fracht
@@ -2067,7 +2087,9 @@ fraktion
 Fraktion
 fraktions
 Fraktions
+Fraktionschefin
 fraktionslos
+Fraktionsspitze
 fraktur
 Fraktur
 fraktursatz
@@ -2196,6 +2218,7 @@ Freiburger
 freidemokratisch
 freidenkerisch
 freien
+Freien
 Freier
 freifinanziert
 freigab
@@ -2233,6 +2256,7 @@ freihändig
 freiheit
 Freiheit
 freiheitlich
+Freiheitlichen
 freiheits
 Freiheits
 freiheitsliebend
@@ -2308,6 +2332,7 @@ fremdbezogen
 fremden
 Fremden
 fremdenfeindlich
+Fremdenwesen
 fremdfinanziert
 fremdgesteuert
 fremdheit
@@ -2315,6 +2340,7 @@ Fremdheit
 fremdländisch
 fremdling
 Fremdling
+Fremdschämen
 fremdsprachen
 Fremdsprachen
 fremdsprachig
@@ -2340,6 +2366,7 @@ frettchen
 Frettchen
 freud
 Freud
+Freude
 freuden
 Freuden
 freudenjauchzer
@@ -2389,6 +2416,7 @@ friedenserhaltend
 friedensliebend
 friedenspfeife
 Friedenspfeife
+Friedenspolitik
 friedenstifter
 Friedenstifter
 friedenstörend
@@ -2536,6 +2564,7 @@ Frühaufsteher
 frühchen
 Frühchen
 frühchristlich
+früher
 frühest
 frühestens
 frühestmöglich
@@ -2545,12 +2574,16 @@ frühjahrsputz
 Frühjahrsputz
 frühjahrssitzung
 Frühjahrssitzung
+Frühjahrssprüche
 frühkindlich
 frühling
 Frühling
 frühlings
 Frühlings
+Frühlingsadjektive
 frühlingshaft
+Frühlingswörter
+Frühlingszitate
 frühmenschlich
 frühminoisch
 frühmorgens
@@ -2789,6 +2822,7 @@ funktionsuntüchtig
 funktionswichtig
 Funkton
 für
+Für
 fürbitte
 Fürbitte
 furche
@@ -2811,6 +2845,7 @@ furnier
 Furnier
 furore
 Furore
+fürs
 fürsorge
 Fürsorge
 fürsorgepflicht

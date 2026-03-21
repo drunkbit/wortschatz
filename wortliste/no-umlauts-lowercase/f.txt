@@ -186,6 +186,7 @@ fantasielos
 fantasieprojekte
 fantasiereich
 fantasievoll
+fantasievolle
 fantast
 fantastisch
 faq
@@ -342,9 +343,11 @@ fehlschlaegt
 fehlschlagen
 fehlschlug
 feier
+feierabend
 feierlich
 feierlichkeit
 feiern
+feiertag
 feiertags
 feig
 feigen
@@ -419,7 +422,9 @@ fernando
 fernbedienbar
 fernbleiben
 fernblieb
+ferne
 ferneingestellt
+fernen
 fernerhin
 ferngeblieben
 ferngehalten
@@ -445,6 +450,7 @@ fernseher
 fernsehgaudi
 fernsichtig
 fernsieht
+fernweh
 fernzubleiben
 fernzuhalten
 ferrara
@@ -669,9 +675,11 @@ finalspiel
 finanz
 finanziell
 finanzier
+finanzierbar
 finanzieren
 finanzierungs
 finanzkraeftig
+finanzminister
 finanzoekonomisch
 finanzpolitisch
 finanzstark
@@ -683,6 +691,7 @@ finden
 finder
 finderloehne
 finderlohn
+findest
 findig
 findigkeit
 findling
@@ -693,6 +702,7 @@ finger
 fingerdick
 fingerig
 fingerling
+fingerspitzengefuehl
 fingerzeig
 fingieren
 finit
@@ -768,6 +778,8 @@ fladenbrot
 flaeche
 flaechen
 flaechendeckend
+flaechenlaender
+flaechenland
 flaechenmaessig
 flaechig
 flaemisch
@@ -902,6 +914,7 @@ fliesskommaberechnung
 fliesskommaoperation
 fliesskommaprozessor
 fliesskommazahl
+fliesst
 flimmer
 flimmern
 flink
@@ -1049,9 +1062,11 @@ foerdererzylinders
 foerdererzylinderweg
 foerderlich
 foerdern
+foerderungen
 foerderungs
 foerderungsbeduerftig
 foerderungswettbewerb
+foerdervertraege
 foermchen
 foermig
 foermlich
@@ -1078,6 +1093,7 @@ folgewidrig
 folglich
 folgsam
 folgsamkeit
+folgte
 folie
 folien
 foliengeschuetzt
@@ -1101,6 +1117,7 @@ fonografie
 font
 fontaene
 fontainebleau
+fonts
 foppen
 fopperei
 forcieren
@@ -1166,6 +1183,7 @@ forsa
 forsch
 forschen
 forscher
+forschung
 forschungs
 forschungsfreudig
 forschungsorientiert
@@ -1303,6 +1321,8 @@ fourieranalyse
 fouriertransformation
 foxtrott
 foyer
+fp
+fpoe
 fr
 fracht
 frachtenindex
@@ -1336,7 +1356,9 @@ fragwuerdigkeit
 fraktal
 fraktion
 fraktions
+fraktionschefin
 fraktionslos
+fraktionsspitze
 fraktur
 fraktursatz
 frakturschrift
@@ -1444,6 +1466,7 @@ freihaendig
 freihalten
 freiheit
 freiheitlich
+freiheitlichen
 freiheits
 freiheitsliebend
 freiheraus
@@ -1503,11 +1526,13 @@ fremdbestimmt
 fremdbezogen
 fremden
 fremdenfeindlich
+fremdenwesen
 fremdfinanziert
 fremdgesteuert
 fremdheit
 fremdlaendisch
 fremdling
+fremdschaemen
 fremdsprachen
 fremdsprachig
 fremdsprachlich
@@ -1525,6 +1550,7 @@ fressen
 fresser
 frettchen
 freud
+freude
 freuden
 freudenjauchzer
 freudentraene
@@ -1557,6 +1583,7 @@ friedens
 friedenserhaltend
 friedensliebend
 friedenspfeife
+friedenspolitik
 friedenstifter
 friedenstoerend
 friedfertig
@@ -1649,16 +1676,21 @@ frueh
 fruehaufsteher
 fruehchen
 fruehchristlich
+frueher
 fruehest
 fruehestens
 fruehestmoeglich
 fruehjahrsoffensive
 fruehjahrsputz
 fruehjahrssitzung
+fruehjahrssprueche
 fruehkindlich
 fruehling
 fruehlings
+fruehlingsadjektive
 fruehlingshaft
+fruehlingswoerter
+fruehlingszitate
 fruehmenschlich
 fruehminoisch
 fruehmorgens
@@ -1772,6 +1804,7 @@ fuerchten
 fuerchterlich
 fuereinander
 fuerlieb
+fuers
 fuersorge
 fuersorgepflicht
 fuersorger

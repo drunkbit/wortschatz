@@ -1,4 +1,5 @@
 ö
+ÖAMTC
 öd
 öfen
 Öfen
@@ -60,3 +61,5 @@
 östrogenspiegel
 Östrogenspiegel
 ÖTV
+ÖVP
+Özdemir

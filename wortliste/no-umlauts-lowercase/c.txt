@@ -73,6 +73,7 @@ cellophan
 cellulitis
 cellulose
 celsius
+cem
 cembali
 cembalist
 cembalo
@@ -103,6 +104,7 @@ chaos
 chaostheorie
 chaot
 chaotisch
+chaotische
 chaplin
 charakter
 charakterbildend
@@ -157,6 +159,7 @@ cheerleader
 cheeseburger
 chef
 chefkapellmeister
+chefs
 chemie
 chemikalie
 chemikalien

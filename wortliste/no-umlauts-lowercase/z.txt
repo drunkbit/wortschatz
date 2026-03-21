@@ -32,7 +32,9 @@ zahlentheoretisch
 zahler
 zahllos
 zahlreich
+zahlt
 zahltag
+zahlungen
 zahlungs
 zahlungsaufschub
 zahlungsfaehig
@@ -79,6 +81,7 @@ zauberei
 zauberer
 zauberhaft
 zaubern
+zaubert
 zauderer
 zaudern
 zaum
@@ -130,6 +133,7 @@ zeichnungsberechtigt
 zeige
 zeigen
 zeiger
+zeigte
 zeile
 zeilen
 zeilenbuffer
@@ -140,6 +144,7 @@ zeitabhaengig
 zeitanteilig
 zeitaufwaendig
 zeitaufwendig
+zeitgeist
 zeitgemaess
 zeitgenoessisch
 zeitgerecht
@@ -157,6 +162,7 @@ zeitlos
 zeitlupenaufnahme
 zeitnah
 zeitnormal
+zeitperiode
 zeitraffer
 zeitrafferaufnahme
 zeitraubend
@@ -425,6 +431,7 @@ ziehklinge
 ziehren
 ziehsoehne
 ziehsohn
+zieht
 ziehtochter
 ziehtoechter
 ziehvater
@@ -495,6 +502,7 @@ zinsesverzinsung
 zinseszins
 zinsfrei
 zinsguenstig
+zinskosten
 zinslos
 zinspanne
 zinspflichtig
@@ -529,6 +537,7 @@ zisterne
 zisterzienser
 zitadelle
 zitat
+zitate
 zitatesammlung
 zither
 zitieren
@@ -879,6 +888,7 @@ zugutehielt
 zugutekaemen
 zugutekam
 zugutekommen
+zugzwang
 zuhaelter
 zuhaelterei
 zuhaeltst
@@ -909,6 +919,7 @@ zuknuepfen
 zukommen
 zukorken
 zukuenftig
+zukuenftige
 zukunft
 zukunftbezogen
 zukunfts
@@ -1245,6 +1256,7 @@ zurverfuegungstellen
 zurzeit
 zusaetze
 zusaetzlich
+zusaetzliches
 zusage
 zusagen
 zusah
@@ -1382,6 +1394,7 @@ zusammenhaeltst
 zusammenhaengen
 zusammenhaeufen
 zusammenhalten
+zusammenhang
 zusammenhanglos
 zusammenhauen
 zusammenheften

@@ -42,6 +42,7 @@ Paket
 Pakistan
 Pakistanisch
 Pakt
+Paktiert
 Paktorganisation
 Paktpreis
 Paläanthropologie
@@ -254,7 +255,9 @@ Parteilos
 Parteinah
 Parteinahme
 Parteipolitisch
+Parteipräferenzen
 Parteischädigend
+Parteispitze
 Parteitags
 Parteiübergreifend
 Parterre
@@ -538,6 +541,7 @@ Personalie
 Personalisieren
 Personalsparend
 Personell
+Personelle
 Personen
 Personenabhängig
 Personenbezogen
@@ -1084,6 +1088,7 @@ Plotter
 Plotterpapier
 Plotterstifte
 Plötzlich
+Plötzliche
 Plump
 Plumpheit
 Plünderer
@@ -1252,6 +1257,8 @@ Popper
 Poppig
 Popsänger
 Populär
+Populäre
+Populären
 Popularisieren
 Popularität
 Popularitätskurve
@@ -1319,6 +1326,7 @@ Positionieren
 Positionierhülle
 Positions
 Positiv
+Positive
 Positivismus
 Positivistisch
 Posse
@@ -1374,6 +1382,7 @@ Potenzialtopf
 Potenzialtrennung
 Potenzialverlauf
 Potenziell
+Potenziellen
 Potenzieren
 Potenziert
 Potenzsteigernd
@@ -1643,6 +1652,7 @@ Prioritätsanspruch
 Prioritätsordnung
 Prioritätsrecht
 Prioritätssteuerung
+Prise
 Prismen
 Pritsche
 Pritschenwagen
@@ -1740,6 +1750,7 @@ Progressiv
 Prohibition
 Prohibitiv
 Projekt
+Projekte
 Projektieren
 Projektil
 Projektion
@@ -1940,6 +1951,7 @@ Psychotherapeut
 Psychotherapeutisch
 Psychotherapie
 Psychotisch
+Pt
 Ptolemaios
 Ptolemäus
 Ptt

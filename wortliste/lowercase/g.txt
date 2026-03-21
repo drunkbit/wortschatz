@@ -369,6 +369,7 @@ gedampft
 gedämpft
 gedanke
 gedanken
+gedankenkarussell
 gedankenlos
 gedankenreich
 gedankenverloren
@@ -591,6 +592,7 @@ gefühlsduselei
 gefühlsduslig
 gefühlsmäßig
 gefühlsvoll
+gefühlswelt
 gefühlt
 gefühlvoll
 geführt
@@ -617,6 +619,7 @@ gegenanklage
 gegend
 gegeneinander
 gegeneinanderwirken
+gegenfinanzierung
 gegengewichtslos
 gegengezeichnet
 gegenläufig
@@ -631,6 +634,7 @@ gegenständlichkeit
 gegenstandsbereich
 gegenstandslos
 gegensteuern
+gegenteil
 gegenteilig
 gegenüber
 gegenübergestanden
@@ -650,6 +654,7 @@ gegenüberzusitzen
 gegenüberzustehen
 gegenwärtig
 gegenwarts
+gegenwindes
 gegenzeichnen
 gegenzurechnen
 gegenzusteuern
@@ -657,6 +662,7 @@ gegessen
 geglänzt
 geglättet
 geglaubt
+geglaubten
 geglichen
 gegliedert
 geglotzt
@@ -759,6 +765,7 @@ gehirnpsychologisch
 gehisst
 gehobelt
 gehoben
+gehobene
 gehofft
 gehöft
 gehöhnt
@@ -769,12 +776,14 @@ gehör
 gehorchen
 gehören
 gehörig
+gehörige
 gehörlos
 gehorsam
 gehorsamkeit
 gehört
 gehortet
 gehsteig
+geht
 gehuldigt
 gehüllt
 gehungert
@@ -1007,6 +1016,7 @@ gelee
 geleert
 gelegen
 gelegenheit
+gelegenheiten
 gelegenheits
 gelegt
 gelehnt
@@ -1096,6 +1106,7 @@ gemeckert
 gemein
 gemeinde
 gemeindeeigen
+gemeinden
 gemeindlich
 gemeinerweise
 gemeinfrei
@@ -1364,6 +1375,7 @@ gepolt
 gepolter
 gepräge
 geprägt
+geprägten
 geprahlt
 geprallt
 geprasst
@@ -1523,6 +1535,7 @@ germanistik
 germanistisch
 germanium
 gern
+gerne
 gernegroß
 geröchelt
 gerochen
@@ -1578,6 +1591,8 @@ gesammelt
 gesamt
 gesamtaktiv
 gesamtdeutsch
+gesamte
+gesamten
 gesamteuropäisch
 gesamtgesellschaftlich
 gesamtheit
@@ -1656,6 +1671,7 @@ geschehnis
 gescheit
 gescheitelt
 gescheitert
+gescheiterten
 gescheitsein
 geschellt
 geschenk
@@ -1910,6 +1926,7 @@ gesetzgeberisch
 gesetzgebung
 gesetzgebungs
 gesetzlich
+gesetzlichen
 gesetzlichkeit
 gesetzlos
 gesetzlosigkeit
@@ -2419,6 +2436,7 @@ gewölk
 gewollt
 gewonnen
 gewönnen
+gewonnenen
 geworben
 geworden
 geworfen
@@ -2718,7 +2736,9 @@ glückbringend
 glücken
 gluckern
 glücklich
+glückliche
 glücklicherweise
+glücklichmacherwörter
 glücklichsein
 glücklos
 glücks
@@ -2727,6 +2747,7 @@ glückselig
 glückseligkeit
 glucksen
 glückstrahlend
+glückswörter
 glückswunsch
 glückwunsch
 glückwünsche
@@ -2881,6 +2902,7 @@ grafikfähig
 grafikprozessor
 gräfin
 grafisch
+grafischen
 grafit
 grafologe
 grafologisch
@@ -3073,12 +3095,14 @@ großartig
 großbäuerlich
 großbritannien
 großbürgerlich
+große
 größe
 größen
 größenordnungsmäßig
 großenteils
 größenwahnsinnig
 größer
+größere
 großflächig
 großformatig
 großgeschrieben
@@ -3146,6 +3170,7 @@ grundlegend
 gründlich
 gründlichkeit
 grundlos
+grundrechenarten
 grundrechtlich
 grundsätzlich
 grundsätzlichkeit
@@ -3229,7 +3254,9 @@ gutartigkeit
 gutbetucht
 gutbürgerlich
 gutdünken
+gute
 güte
+guten
 gutenberg
 güter
 gütersloh

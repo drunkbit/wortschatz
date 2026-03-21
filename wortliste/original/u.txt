@@ -51,6 +51,7 @@ ukas
 Ukas
 ukraine
 Ukraine
+Ukrainehilfen
 ukrainekrise
 Ukrainekrise
 ukrainer
@@ -88,6 +89,7 @@ ultraviolett
 ultraviolettstrahlung
 Ultraviolettstrahlung
 um
+Um
 umadressieren
 umändern
 umarbeiten
@@ -177,6 +179,7 @@ umformungs
 Umformungs
 umfrage
 Umfrage
+Umfragen
 umfüllen
 umfunktionieren
 umgab
@@ -652,6 +655,7 @@ Umweg
 umwelt
 Umwelt
 umweltbedingt
+Umweltbereich
 umweltbewusst
 umweltfreundlich
 umweltgerecht
@@ -785,6 +789,7 @@ unbedenklichkeits
 Unbedenklichkeits
 unbedeutsamkeit
 Unbedeutsamkeit
+unbedingt
 unbedingtheit
 Unbedingtheit
 unbedrängt
@@ -904,6 +909,7 @@ unbrauchbarkeit
 Unbrauchbarkeit
 unbunt
 und
+Und
 undank
 Undank
 undankbarkeit
@@ -1031,6 +1037,7 @@ unfehlbar
 unfehlbarkeit
 Unfehlbarkeit
 unfest
+unfinanzierbar
 unflektierbar
 unflektiert
 unfolgsamkeit
@@ -1085,6 +1092,7 @@ ungekünstelt
 ungeladen
 ungelenk
 ungelernt
+ungeliebte
 ungelogen
 Ungemach
 ungemütlichkeit
@@ -1122,6 +1130,7 @@ ungetüm
 Ungetüm
 ungewissheit
 Ungewissheit
+ungewöhnliche
 ungewöhnlichkeit
 Ungewöhnlichkeit
 ungeziefer
@@ -1326,6 +1335,7 @@ unnennbar
 unnötigerweise
 unnütz
 UNO
+unordentliche
 unordentlichkeit
 Unordentlichkeit
 unordnung
@@ -1354,6 +1364,7 @@ unrast
 Unrast
 unrat
 Unrat
+unrealistische
 unrecht
 Unrecht
 unrechtmäßigkeit
@@ -1414,6 +1425,7 @@ Unselbständigkeit
 unselbstständigkeit
 Unselbstständigkeit
 unser
+unsere
 unsereiner
 unsereins
 unsererseits
@@ -1736,6 +1748,7 @@ Untugend
 unüberbietbar
 unüberbrückbar
 unüberlegt
+unüberlegte
 unüberprüfbar
 unübersehbar
 unübersetzbar
@@ -1836,6 +1849,8 @@ unwägbarkeit
 Unwägbarkeit
 unwahrheit
 Unwahrheit
+unwahrscheinlich
+unwahrscheinliche
 unwahrscheinlichkeit
 Unwahrscheinlichkeit
 unwartbarkeit

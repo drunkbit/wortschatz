@@ -18,6 +18,7 @@ maastrichter
 Maastrichter
 Maasübergang
 Mac
+Mach
 machart
 Machart
 machbarkeit
@@ -120,6 +121,7 @@ Magie
 magier
 Magier
 magisch
+magische
 magister
 Magister
 magistrat
@@ -333,6 +335,7 @@ malteser
 Malteser
 maltesisch
 malträtieren
+Malu
 malus
 Malus
 malve
@@ -352,11 +355,13 @@ Mammon
 mammut
 Mammut
 man
+Man
 management
 Management
 managen
 manager
 Manager
+manc
 manch
 manchenorts
 mancherlei
@@ -707,6 +712,7 @@ marssonde
 Marssonde
 marter
 Marter
+Marterbauer
 martern
 martialisch
 Martin
@@ -861,6 +867,8 @@ Mäßigkeit
 massiv
 Massiv
 maßlos
+Maßnahme
+Maßnahmen
 maßnahmenkatalog
 Maßnahmenkatalog
 Maßname
@@ -1250,6 +1258,7 @@ Meistbegünstigungsklausel
 meistbesucht
 meistbietend
 meistdiskutiert
+meiste
 meistens
 meistenteils
 meister
@@ -1263,6 +1272,7 @@ meisterschafts
 Meisterschafts
 meistgekauft
 meistgelesen
+Meistgelesen
 meistgenannt
 meistgenutzt
 meistgespielt
@@ -1277,6 +1287,7 @@ Mekonggebiet
 melancholie
 Melancholie
 melancholisch
+melancholisches
 Melanie
 melanom
 Melanom
@@ -1421,6 +1432,7 @@ merlin
 Merlin
 merowinger
 Merowinger
+Merz
 meschugge
 mesner
 Mesner
@@ -1452,6 +1464,7 @@ Messing
 messner
 Messner
 messtechnisch
+Messungen
 metabol
 metabolisch
 metabolismus
@@ -1812,6 +1825,7 @@ Mindest
 mindeste
 mindestens
 mindestreservepflichtig
+Mindestsätze
 mine
 Mine
 minen
@@ -1824,6 +1838,7 @@ Mineralien
 mineralisch
 mineralöl
 Mineralöl
+Mineralölsteuer
 mineralölsteuern
 Mineralölsteuern
 mineralölunternehmen
@@ -1862,6 +1877,8 @@ ministeriumsmitarbeiter
 Ministeriumsmitarbeiter
 ministeriumssprecher
 Ministeriumssprecher
+Ministerpräsidenten
+Ministerpräsidentenamt
 ministrant
 Ministrant
 minnesänger
@@ -2208,6 +2225,7 @@ mitnichten
 mitprotokollieren
 mitrechnen
 mitreden
+mitregiert
 mitreisen
 mitreißen
 mitsamt
@@ -2241,6 +2259,7 @@ mittags
 Mittags
 mittagsläuten
 Mittagsläuten
+Mittagspause
 mittdreißiger
 Mittdreißiger
 mitte
@@ -2467,6 +2486,7 @@ Möbiusband
 möblieren
 möbliert
 mochte
+möchte
 möchtegern
 Möchtegern
 möchten
@@ -2554,6 +2574,8 @@ mogelpackung
 Mogelpackung
 mögen
 möglich
+mögliche
+möglichen
 möglicherweise
 möglichkeit
 Möglichkeit
@@ -3140,6 +3162,7 @@ Müsli
 muslim
 Muslim
 muslimisch
+muss
 muße
 Muße
 musselin
@@ -3153,6 +3176,7 @@ Müßiggang
 Mussolini
 musst
 musste
+müsste
 mustang
 Mustang
 muster
@@ -3193,6 +3217,7 @@ mutterlos
 muttermal
 Muttermal
 mutterseelenallein
+Mutterseelenallein
 muttersprachler
 Muttersprachler
 muttersprachlich

@@ -53,10 +53,14 @@ Häfen
 Hafer
 Haft
 Haften
+Haftet
 Häftling
 Haftpflicht
 Haftpflichtig
+Haftung
+Haftungen
 Haftungs
+Haftungszusagen
 Hagebutte
 Hagel
 Hageln
@@ -72,6 +76,7 @@ Haider
 Haifa
 Haifisch
 Haifischbecken
+Haiku
 Hain
 Hainbuche
 Haiti
@@ -130,6 +135,7 @@ Halbwertszeit
 Halbwüchsig
 Halde
 Half
+Halfen
 Hälfte
 Halfter
 Halftern
@@ -257,6 +263,7 @@ Hängen
 Hängenbleiben
 Hänger
 Hängig
+Hängt
 Haniel
 Hanne
 Hannelore
@@ -346,6 +353,7 @@ Hasel
 Haselnussbraun
 Hasen
 Hasenscharte
+Hashtags
 Haskell
 Hass
 Hassen
@@ -406,8 +414,10 @@ Hauruckverfahren
 Haus
 Hausart
 Hausbacken
+Hausbaukredit
 Hausbesetzerszene
 Häuschen
+Hause
 Hauseigen
 Hausen
 Häuser
@@ -580,6 +590,7 @@ Heimgesucht
 Heimgezahlt
 Heimholen
 Heimisch
+Heimische
 Heimkam
 Heimkehr
 Heimkehren
@@ -626,6 +637,7 @@ Heitern
 Heiz
 Heizen
 Heizer
+Heizöl
 Heizungs
 Hektar
 Hektarertrag
@@ -1521,6 +1533,7 @@ Hildesheim
 Hilfe
 Hilfebedürftig
 Hilfeflehend
+Hilfen
 Hilflos
 Hilflosigkeit
 Hilfreich
@@ -1754,6 +1767,7 @@ Hineinziehen
 Hineinzoomen
 Hineinzubekommen
 Hineinzubringen
+Hineinzufahren
 Hineinzugehen
 Hineinzukommen
 Hineinzulegen
@@ -2062,6 +2076,7 @@ Historikergespräch
 Historikertag
 Historikerverband
 Historisch
+Historischen
 Historisieren
 Historismus
 Hit
@@ -2305,6 +2320,7 @@ Höhen
 Höhenverstellbar
 Hohenzoller
 Höhepunkt
+Hoher
 Höher
 Höherentwicklung
 Höherfrequent
@@ -2347,6 +2363,7 @@ Holperig
 Holpern
 Holstein
 Holsteinisch
+Holte
 Holunder
 Holunderbaum
 Holz

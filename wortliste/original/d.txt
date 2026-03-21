@@ -1,5 +1,6 @@
 d
 da
+Da
 dabei
 dabeibleiben
 dabeigeblieben
@@ -91,6 +92,7 @@ damenhaft
 damhirsch
 Damhirsch
 damit
+Damit
 dämlich
 damm
 Damm
@@ -167,6 +169,7 @@ Dankeschön
 danksagen
 Danksagen
 dann
+Dann
 Dante
 Danton
 danzig
@@ -202,6 +205,7 @@ dargelegt
 dargereicht
 dargestellt
 dargetan
+darin
 darlegen
 Darlegen
 darlehen
@@ -224,6 +228,7 @@ Darstellen
 darsteller
 Darsteller
 darstellerisch
+Darstellung
 darstellungs
 Darstellungs
 darstellungsbedingt
@@ -236,6 +241,8 @@ Darwin
 darzubringen
 darzulegen
 darzustellen
+das
+Das
 dasaß
 dasein
 Dasein
@@ -244,6 +251,7 @@ Daseins
 dasitzen
 dasjenige
 dass
+Dass
 dasselbe
 dasselbige
 dasssatz
@@ -358,6 +366,7 @@ davos
 Davos
 DAX
 dazu
+Dazu
 dazuführen
 dazugeben
 dazugehören
@@ -511,6 +520,8 @@ defizit
 Defizit
 defizitär
 defizitorientiert
+Defizitverfahren
+Defizitverfahrens
 deflation
 Deflation
 deflationär
@@ -759,6 +770,7 @@ demütigen
 Demütigen
 demzufolge
 den
+denen
 denitrifikation
 Denitrifikation
 denitrifikations
@@ -785,6 +797,7 @@ denkmalgeschützt
 denkmalsschutz
 Denkmalsschutz
 denkwürdig
+Denn
 Dennis
 dennoch
 dennschon
@@ -833,6 +846,7 @@ deprimieren
 Deputat
 deputieren
 der
+Der
 derart
 derartig
 derb
@@ -870,6 +884,7 @@ derselbe
 derselbige
 derweil
 derzeit
+Derzeit
 derzeitig
 derzufolge
 des
@@ -1006,9 +1021,15 @@ deutlichkeit
 Deutlichkeit
 deutsch
 Deutsch
+deutsche
+Deutsche
+deutschen
+Deutschen
 deutschenfeindlichkeit
 Deutschenfeindlichkeit
+deutscher
 deutschere
+DeutscheSeele
 deutscheste
 deutschfeindlich
 deutschland
@@ -1126,6 +1147,7 @@ Diät
 diätenerhöhung
 Diätenerhöhung
 dich
+Dich
 dichotomie
 Dichotomie
 dicht
@@ -1167,6 +1189,7 @@ didaktikseminar
 Didaktikseminar
 didaktisch
 die
+Die
 dieb
 Dieb
 diebes
@@ -1226,11 +1249,16 @@ dienstwillig
 Diepgen
 dies
 diesbezüglich
+diese
+Diese
 diesel
 Diesel
 dieselbe
 diesellok
 Diesellok
+diesem
+diesen
+dieser
 diesig
 diesjährig
 diesmal
@@ -1406,6 +1434,7 @@ directory
 Directory
 direkt
 Direkt
+direkten
 direktion
 Direktion
 direktional
@@ -1499,6 +1528,7 @@ diskussionsfähig
 diskuswerfer
 Diskuswerfer
 diskutieren
+diskutiert
 diskzugriff
 Diskzugriff
 Disney
@@ -1616,6 +1646,7 @@ DNVP
 dobermann
 Dobermann
 doch
+Doch
 docht
 Docht
 dock
@@ -1647,6 +1678,7 @@ dohlennest
 Dohlennest
 dohlenpärchen
 Dohlenpärchen
+doktern
 doktor
 Doktor
 doktorand
@@ -1797,6 +1829,7 @@ Dörrobst
 dorsch
 Dorsch
 dort
+Dort
 dorthin
 dortig
 dortmund
@@ -1993,6 +2026,7 @@ dreigeteilt
 dreihundert
 dreihundertmal
 dreijährig
+Dreikäsehoch
 dreiländereck
 Dreiländereck
 dreimal
@@ -2079,6 +2113,7 @@ dressman
 Dressman
 dressur
 Dressur
+Dreyer
 dribbelkünstler
 Dribbelkünstler
 dribbeln
@@ -2372,6 +2407,7 @@ Dur
 duralith
 Duralith
 durch
+Durch
 durchackern
 durcharbeiten
 Durcharbeiten
@@ -2764,6 +2800,7 @@ durchzwängen
 Dürer
 dürfen
 durfte
+dürfte
 dürftig
 dürftigkeit
 Dürftigkeit
@@ -2811,6 +2848,7 @@ dutt
 Dutt
 dutzend
 Dutzend
+dutzende
 dutzendweise
 duzen
 DVD

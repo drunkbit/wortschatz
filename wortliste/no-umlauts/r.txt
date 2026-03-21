@@ -78,6 +78,7 @@ Radiernadel
 radieschen
 Radieschen
 radikal
+radikale
 radikalenerlass
 Radikalenerlass
 radikalisieren
@@ -294,6 +295,7 @@ rascheln
 raschest
 rasen
 Rasen
+Rasenmaeher
 raserei
 Raserei
 rasier
@@ -432,6 +434,7 @@ rauigkeit
 Rauigkeit
 raum
 Raum
+Raumes
 raumkrank
 raumsparend
 raumweit
@@ -509,6 +512,7 @@ real
 Real
 realisation
 Realisation
+realisierbar
 realisierbarkeit
 Realisierbarkeit
 realisieren
@@ -573,6 +577,7 @@ rechnergesteuert
 rechnergestuetzt
 rechnerisch
 rechnerunterstuetzt
+rechnet
 rechnungs
 Rechnungs
 recht
@@ -585,6 +590,7 @@ rechteckig
 rechtens
 rechtfertigen
 Rechtfertigen
+Rechtfertigung
 rechtglaeubigkeit
 Rechtglaeubigkeit
 rechthaber
@@ -692,6 +698,7 @@ redenschreiber
 Redenschreiber
 rederei
 Rederei
+redet
 Redford
 redigieren
 redigierung
@@ -718,6 +725,7 @@ redundanz
 Redundanz
 reduzieren
 Reduzieren
+reduziert
 reeder
 Reeder
 reederei
@@ -799,6 +807,7 @@ reformfreudig
 reformieren
 reformismus
 Reformismus
+Reformkurs
 reformorientiert
 reformpaedagogisch
 reformulieren
@@ -825,6 +834,7 @@ Regelausschlag
 regelbasiert
 regelhaft
 regelmaessig
+regelmaessiges
 regeln
 regelrecht
 regelungs
@@ -856,11 +866,16 @@ regie
 Regie
 regieren
 Regieren
+regierende
 regiert
+Regierung
 regierungs
 Regierungs
+Regierungsbeteiligung
+Regierungsbildung
 regierungsfaehig
 regierungsfreundlich
+Regierungsparteien
 regierungstreu
 regime
 Regime
@@ -877,6 +892,7 @@ regionalisieren
 Regionalisieren
 regionalitaet
 Regionalitaet
+Regionen
 regisseur
 Regisseur
 register
@@ -983,8 +999,10 @@ reichen
 Reichen
 reichern
 reichhaltig
+reichhaltiger
 reichhaltigkeit
 Reichhaltigkeit
+Reichinnek
 reichlich
 reichs
 Reichs
@@ -1000,6 +1018,7 @@ reichstags
 Reichstags
 reichsunmittelbar
 Reichsweite
+reicht
 reichtuemer
 Reichtuemer
 reichtum
@@ -1711,6 +1730,7 @@ richtigkeit
 Richtigkeit
 richtigstellen
 Richtigstellen
+Richtung
 richtungs
 Richtungs
 richtungsbit
@@ -1989,6 +2009,7 @@ Romantik
 romantiker
 Romantiker
 romantisch
+romantische
 romanze
 Romanze
 Rommel
@@ -2039,6 +2060,7 @@ Rotator
 rotbraun
 rotchinesen
 Rotchinesen
+rote
 Roth
 rothaarig
 Rothschild
@@ -2383,5 +2405,6 @@ rutschen
 rutschig
 rutschpartie
 Rutschpartie
+rutschte
 RWE
 RWEs

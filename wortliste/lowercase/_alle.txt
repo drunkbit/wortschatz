@@ -27483,6 +27483,7 @@ agrarflugzeuge
 agrarflugzeugen
 agrarflugzeuges
 agrarflugzeugs
+agrarförderungen
 agrargeschichte
 agrargesellschaft
 agrargesellschaften
@@ -32721,6 +32722,7 @@ altepetls
 alter
 älter
 altere
+ältere
 alterier
 alteriere
 alterieren
@@ -37476,6 +37478,7 @@ anderthalbseitigen
 anderthalbseitiger
 anderthalbseitiges
 anderthalbtausend
+änderungen
 änderungs
 anderweit
 anderweite
@@ -46601,6 +46604,7 @@ apostrophieren
 apotheke
 apotheken
 apotheker
+app
 appalachen
 apparat
 apparateglasbläser
@@ -46687,13 +46691,17 @@ arbeitsgeber
 arbeitsintensiv
 arbeitslos
 arbeitslosen
+arbeitslosigkeit
 arbeitsmarktpolitisch
+arbeitsmarktprojekte
 arbeitsnehmer
 arbeitspädagogisch
 arbeitsrechtlich
 arbeitsreich
 arbeitsscheu
 arbeitssparend
+arbeitstag
+arbeitstags
 arbeitstechnisch
 arbeitsüberlastung
 arbeitsunfähig
@@ -46896,6 +46904,7 @@ assistent
 assistenz
 assistieren
 assoziation
+assoziationen
 assoziations
 assoziativ
 assoziativität
@@ -46929,6 +46938,7 @@ astronomisch
 asyl
 asylant
 asylrechtlich
+asylwerber
 asymmetrie
 asymmetrisch
 asymptote
@@ -47398,6 +47408,7 @@ aufhielt
 aufhob
 aufholbedarf
 aufholen
+aufholjagd
 aufhorchen
 aufhören
 aufkam
@@ -47515,6 +47526,7 @@ aufrechtstehen
 aufrechtzuerhalten
 aufregen
 aufregend
+aufregung
 aufreiben
 aufreibend
 aufreihen
@@ -47634,6 +47646,7 @@ aufstößt
 aufstreben
 aufstreichen
 aufstrich
+aufstrichen
 aufstützen
 aufsuchen
 aufsummieren
@@ -47837,6 +47850,7 @@ augapfel
 äugelchen
 augen
 äugen
+augenblick
 augenblicklich
 augenfällig
 augenlied
@@ -47930,6 +47944,7 @@ ausdrücklich
 ausdrucks
 ausdrucksfähig
 ausdruckslos
+ausdrucksmöglichkeiten
 ausdrucksstark
 ausdrucksstärker
 ausdrucksvoll
@@ -48592,6 +48607,7 @@ aussteige
 aussteigen
 aussteigens
 aussteiger
+aussteigt
 ausstell
 ausstellen
 aussteller
@@ -48645,6 +48661,7 @@ austüfteln
 ausüben
 ausübungs
 ausufern
+ausufernden
 ausverkauf
 ausverkaufen
 ausverkaufs
@@ -48829,6 +48846,7 @@ autochthon
 autodidakt
 autodidaktisch
 autodrom
+autofahrer
 autogen
 autogramm
 autograph
@@ -48903,6 +48921,7 @@ bäcker
 bäckerei
 backgammon
 background
+backpfeifengesicht
 backslash
 bäckt
 backup
@@ -49094,6 +49113,7 @@ bart
 bärte
 bartholdy
 bärtig
+bas
 basal
 basalt
 basar
@@ -49267,6 +49287,7 @@ bedeuten
 bedeutend
 bedeutsam
 bedeutsamkeit
+bedeutungen
 bedeutungs
 bedeutungsähnlich
 bedeutungsgleich
@@ -49348,6 +49369,7 @@ befeuern
 befiehlt
 befielt
 befinden
+befindet
 befindlich
 befindlichkeit
 beflecken
@@ -49451,6 +49473,7 @@ begrenzt
 begrenztheit
 begrenzungs
 begriff
+begriffe
 begriffen
 begrifflich
 begrifflichkeit
@@ -49475,6 +49498,7 @@ behäbigkeit
 behaftet
 behagen
 behaglich
+behagliche
 behaglichkeit
 behalf
 behalten
@@ -49547,6 +49571,7 @@ beibringen
 beicht
 beichten
 beide
+beiden
 beiderlei
 beiderseitig
 beiderseits
@@ -49603,6 +49628,7 @@ beinah
 beiname
 beinamen
 beinhalten
+beinhaltet
 beinhart
 beipacken
 beipflichten
@@ -49621,6 +49647,7 @@ beiseite
 beisetzen
 beisitzer
 beispiel
+beispielen
 beispielgebend
 beispielhaft
 beispiellos
@@ -49638,7 +49665,9 @@ beisteuern
 beitag
 beitrag
 beitragen
+beiträgen
 beitrags
+beitragsbild
 beitragsfinanziert
 beitragsfrei
 beitragspflichtig
@@ -49689,6 +49718,7 @@ bekanntgemacht
 bekanntgibt
 bekanntheit
 bekanntheitsgrad
+bekanntlich
 bekanntmachen
 bekanntschaft
 bekanntwerden
@@ -49714,6 +49744,7 @@ beknackt
 bekommen
 bekömmlich
 bekömmlichkeit
+bekommt
 beköstigen
 bekräftigen
 bekränzt
@@ -49795,6 +49826,7 @@ beliebt
 beliebtheit
 beliebtheits
 belief
+beliefen
 beliefern
 beliegen
 beliehen
@@ -49838,10 +49870,12 @@ ben
 benachbart
 benachrichtigen
 benachteiligen
+benachteiligt
 benahm
 benannt
 benannte
 benchmark
+benchnine
 benebeln
 benedikt
 benediktiner
@@ -49919,6 +49953,7 @@ beredsam
 beredsamkeit
 beredt
 bereich
+bereichen
 bereichern
 bereichs
 bereichsübergreifend
@@ -49935,6 +49970,7 @@ bereithalten
 bereithältst
 bereithielt
 bereitliegen
+bereits
 bereitschaft
 bereitschafts
 bereitstand
@@ -50120,6 +50156,7 @@ beschrankt
 beschränkt
 beschränktheit
 beschreiben
+beschreibt
 beschreibungs
 beschreiten
 beschrieb
@@ -50165,6 +50202,7 @@ besichtigungs
 besiedeln
 besiedelung
 besiegeln
+besiegelten
 besiegen
 besingen
 besinnen
@@ -50186,6 +50224,7 @@ besolden
 besoldungs
 besoldungsmäßig
 besondere
+besonderen
 besonderheit
 besonders
 besonnen
@@ -50228,6 +50267,7 @@ bestandschutz
 bestandteil
 bestärken
 bestätigen
+bestätigung
 bestätigungs
 bestatten
 bestattungs
@@ -50246,6 +50286,7 @@ bestechlichkeit
 bestechungs
 besteck
 bestehen
+bestehend
 bestehens
 bestehlen
 besteigen
@@ -50272,6 +50313,7 @@ bestiegen
 bestiehlt
 bestimmen
 bestimmt
+bestimmten
 bestimmtheit
 bestimmtheitsgrundsatz
 bestimmungs
@@ -50322,6 +50364,7 @@ betäubungs
 betaversion
 beteiligen
 beteiligte
+beteiligung
 beteiligungs
 betel
 beten
@@ -50356,6 +50399,7 @@ betreffzeile
 betreiben
 betreiber
 betreibergesellschaft
+betreibt
 betreten
 betreuen
 betreuer
@@ -50451,6 +50495,7 @@ bewahren
 bewähren
 bewahrer
 bewahrheiten
+bewahrt
 bewährt
 bewährungs
 bewalden
@@ -50539,6 +50584,7 @@ bezeichnen
 bezeichnenderweise
 bezeichner
 bezeichnerlänge
+bezeichnung
 bezeugen
 bezichtigen
 beziehen
@@ -50549,6 +50595,7 @@ beziehungsunfähig
 beziehungsweise
 bezierkurve
 beziffern
+beziffert
 bezirk
 bezirks
 bezöge
@@ -50660,6 +50707,7 @@ billetteur
 billiarde
 billig
 billigen
+billiger
 billigerweise
 billigstkaufaufträge
 billion
@@ -50832,6 +50880,7 @@ blattgrün
 blau
 blauäugig
 blaubeer
+blauen
 blaugelb
 blaugemacht
 blaugrau
@@ -50885,6 +50934,7 @@ blöcke
 blocken
 blockfrei
 blockieren
+blockiert
 blockweise
 blöd
 blödelei
@@ -50935,6 +50985,7 @@ blutdürstig
 blüte
 bluten
 blüten
+blütenlese
 blütenübersät
 blütenweiß
 blütezeit
@@ -51206,6 +51257,7 @@ brauchbar
 brauchbarkeit
 bräuche
 brauchen
+braucht
 bräuchten
 brauchtum
 brauchwasser
@@ -51307,6 +51359,7 @@ brimborium
 bringen
 bringer
 bringschuld
+bringt
 brisant
 brisanz
 brise
@@ -51356,8 +51409,10 @@ bruchfest
 brüchig
 brüchigkeit
 bruchstückhaft
+bruchteil
 brücke
 brücken
+brückentag
 bruder
 brüder
 brüderlich
@@ -51408,6 +51463,8 @@ buchen
 bücher
 bücherei
 büchermachen
+buchform
+buchgesegnete
 buchhalterisch
 büchlein
 buchmäßig
@@ -51424,6 +51481,7 @@ buchstabengetreu
 buchstabieren
 buchstäblich
 bucht
+buchtipps
 buchungs
 buckel
 buckeln
@@ -51440,7 +51498,11 @@ buddhistisch
 bude
 budenzauber
 budget
+budgetdienstes
 budgetieren
+budgetposten
+budgetvoranschlag
+budgetzielen
 buenos
 büfett
 büffel
@@ -51503,15 +51565,22 @@ bundes
 bundesbehördlich
 bundesbevollmächtigte
 bundesdeutsch
+bundesebene
 bundesgesetzblatt
 bundesgesetzlich
+bundesland
 bundesligist
 bundesmietengesetz
+bundespartei
+bundesparteitag
+bundespolitik
 bundespolitisch
 bundespräsidialamt
 bundesstaatlich
+bundestag
 bundestags
 bundestagsplenardebatte
+bundestagswahl
 bundeswehrgefreite
 bundeswehroberst
 bundesweit
@@ -51688,6 +51757,7 @@ cellophan
 cellulitis
 cellulose
 celsius
+cem
 cembali
 cembalist
 cembalo
@@ -51718,6 +51788,7 @@ chaos
 chaostheorie
 chaot
 chaotisch
+chaotische
 chaplin
 charakter
 charakterbildend
@@ -51772,6 +51843,7 @@ cheerleader
 cheeseburger
 chef
 chefkapellmeister
+chefs
 chemie
 chemikalie
 chemikalien
@@ -52217,6 +52289,7 @@ dargelegt
 dargereicht
 dargestellt
 dargetan
+darin
 darlegen
 darlehen
 darlehens
@@ -52229,6 +52302,7 @@ darreichungsform
 darstellen
 darsteller
 darstellerisch
+darstellung
 darstellungs
 darstellungsbedingt
 darüber
@@ -52240,6 +52314,7 @@ darwin
 darzubringen
 darzulegen
 darzustellen
+das
 dasaß
 dasein
 daseins
@@ -52437,6 +52512,8 @@ definitiv
 defizit
 defizitär
 defizitorientiert
+defizitverfahren
+defizitverfahrens
 deflation
 deflationär
 deflations
@@ -52589,6 +52666,7 @@ demütig
 demütigen
 demzufolge
 den
+denen
 denitrifikation
 denitrifikations
 denjenigen
@@ -52606,6 +52684,7 @@ denkmäler
 denkmalgeschützt
 denkmalsschutz
 denkwürdig
+denn
 dennis
 dennoch
 dennschon
@@ -52754,8 +52833,12 @@ deuterium
 deutlich
 deutlichkeit
 deutsch
+deutsche
+deutschen
 deutschenfeindlichkeit
+deutscher
 deutschere
+deutscheseele
 deutscheste
 deutschfeindlich
 deutschland
@@ -52895,9 +52978,13 @@ dienstwillig
 diepgen
 dies
 diesbezüglich
+diese
 diesel
 dieselbe
 diesellok
+diesem
+diesen
+dieser
 diesig
 diesjährig
 diesmal
@@ -53001,6 +53088,7 @@ dir
 directories
 directory
 direkt
+direkten
 direktion
 direktional
 direktions
@@ -53056,6 +53144,7 @@ diskussions
 diskussionsfähig
 diskuswerfer
 diskutieren
+diskutiert
 diskzugriff
 disney
 disparat
@@ -53145,6 +53234,7 @@ dogmengeschichte
 dohle
 dohlennest
 dohlenpärchen
+doktern
 doktor
 doktorand
 doktrin
@@ -53366,6 +53456,7 @@ dreigeteilt
 dreihundert
 dreihundertmal
 dreijährig
+dreikäsehoch
 dreiländereck
 dreimal
 dreimalig
@@ -53436,6 +53527,7 @@ dresseur
 dressieren
 dressman
 dressur
+dreyer
 dribbelkünstler
 dribbeln
 drift
@@ -53954,6 +54046,7 @@ durchzwängen
 dürer
 dürfen
 durfte
+dürfte
 dürftig
 dürftigkeit
 dürr
@@ -53983,6 +54076,7 @@ düsterblau
 düsterkeit
 dutt
 dutzend
+dutzende
 dutzendweise
 duzen
 dvd
@@ -54123,6 +54217,7 @@ ehelos
 ehemalig
 ehemals
 ehemündig
+ehepaar
 eher
 ehest
 ehewidrig
@@ -54163,6 +54258,7 @@ eich
 eiche
 eichel
 eichen
+eichendorff
 eichfähig
 eichpflichtig
 eid
@@ -54193,6 +54289,7 @@ eigenartigerweise
 eigenbrötelei
 eigenbrötler
 eigenbrötlerisch
+eigenen
 eigenhändig
 eigenheit
 eigeninitiatives
@@ -54204,6 +54301,7 @@ eigennutzen
 eigennützig
 eigenschaft
 eigenschafts
+eigenschaftswörter
 eigensicher
 eigensinn
 eigensinnig
@@ -54306,6 +54404,7 @@ eindrücken
 eindrücklich
 eindrucks
 eindrucksvoll
+eine
 einehe
 eineiig
 eineindeutig
@@ -54314,10 +54413,13 @@ eineinhalbjährig
 eineinhalbstündig
 eineinhalbtausend
 einelementig
+einem
 einen
 einengen
+einer
 einerlei
 einerseits
+eines
 einesteils
 einfach
 einfachheit
@@ -54399,6 +54501,8 @@ eingebrockt
 eingebucht
 eingebuchtet
 eingebunden
+eingebundener
+eingebung
 eingebürgert
 eingebüßt
 eingecheckt
@@ -54919,6 +55023,7 @@ einstein
 einstell
 einstellen
 einstellig
+einstelligen
 einstellungs
 einstich
 einstieg
@@ -55054,6 +55159,8 @@ einziehen
 einziehungs
 einzig
 einzigartig
+einzigartigen
+einzigartigewörter
 einzigartigkeit
 einzog
 einzuarbeiten
@@ -55361,9 +55468,12 @@ emitter
 emittieren
 emma
 emmentaler
+emojis
 emoticon
 emotion
 emotional
+emotionaler
+emotionales
 emotionalität
 emotionell
 emotionsgeladen
@@ -55387,6 +55497,7 @@ empfehlenswert
 empfehlungs
 empfiehlt
 empfinden
+empfindet
 empfindlich
 empfindlichkeit
 empfindsam
@@ -55535,6 +55646,7 @@ entbunden
 entdecken
 entdecker
 entdeckungs
+entdeckungsreise
 ente
 entebbe
 entehren
@@ -55701,6 +55813,7 @@ entlassen
 entlässt
 entlassungs
 entlasten
+entlastung
 entlastungs
 entlaubungs
 entlaufen
@@ -55815,6 +55928,8 @@ entsinnen
 entsorgen
 entsorgungs
 entspannen
+entspannt
+entspannte
 entspannungs
 entspannungsfreundlich
 entsperr
@@ -55825,6 +55940,8 @@ entsprächen
 entsprang
 entsprängen
 entsprechen
+entsprechenden
+entsprechungen
 entspricht
 entsprießen
 entspringen
@@ -56045,6 +56162,7 @@ ereignis
 ereignislos
 ereignisorientiert
 ereignisreich
+ereignisse
 ereilen
 erektil
 erektion
@@ -56078,6 +56196,7 @@ erfolglosigkeit
 erfolgreich
 erfolgs
 erfolgsbetont
+erfolgserlebnis
 erfolgversprechend
 erforderlich
 erforderlichenfalls
@@ -56117,6 +56236,7 @@ ergebenheit
 ergebnis
 ergebnislos
 ergebnisreich
+ergebnisse
 ergehen
 ergibt
 ergiebig
@@ -56182,6 +56302,7 @@ ericsson
 erigiert
 erika
 erinnern
+erinnerungen
 erinnerungs
 eritrea
 erkalten
@@ -56212,6 +56333,7 @@ erklärlicherweise
 erklärtermaßen
 erklärungs
 erklärungsbedürftig
+erklärungsnot
 erklecklich
 erklettern
 erklimmen
@@ -56222,6 +56344,7 @@ erkranken
 erkrankungsgefahr
 erkrankungswahrscheinlichkeit
 erkunden
+erkundet
 erkundigen
 erkundungs
 erlag
@@ -56295,10 +56418,12 @@ ernennungsurkunde
 erneuern
 erneuerungs
 erneut
+erneute
 erniedrigen
 ernst
 ernstfall
 ernsthaft
+ernsthaften
 ernsthaftigkeit
 ernstzunehmen
 ernte
@@ -56429,6 +56554,7 @@ erstaunens
 erstaunlich
 erstaunlicherweise
 erstbeste
+erste
 erstechen
 erstehen
 erstehungskosten
@@ -56438,6 +56564,7 @@ ersteingabe
 erstellen
 ersteller
 erstellungs
+ersten
 erstens
 erster
 ersterben
@@ -56497,6 +56624,7 @@ eruption
 erwachen
 erwachsen
 erwachsenen
+erwachsener
 erwachsensein
 erwächst
 erwägen
@@ -56506,8 +56634,10 @@ erwähnenswert
 erwandern
 erwarb
 erwärmen
+erwartbaren
 erwarten
 erwartet
+erwartung
 erwartungs
 erwartungsfreudig
 erwartungsgemäß
@@ -56557,6 +56687,7 @@ erzengelhaft
 erzeugen
 erzeuger
 erzeugnis
+erzeugt
 erzeugungs
 erziehen
 erzieher
@@ -56629,6 +56760,7 @@ etappen
 etappenweise
 etat
 etatmäßig
+etc
 eth
 ethanol
 ethernet
@@ -56659,6 +56791,7 @@ etüden
 etui
 etwa
 etwaig
+etwas
 etymologie
 etymologisch
 eu
@@ -56707,6 +56840,7 @@ europäerviertel
 europaexekutiven
 europafreundlich
 europäisch
+europarechtlich
 europaweit
 europium
 eurovision
@@ -56797,6 +56931,7 @@ existenzgefährdend
 existenzialismus
 existenziell
 existieren
+exit
 exitcode
 exkaiser
 exkanzler
@@ -57089,6 +57224,7 @@ fantasielos
 fantasieprojekte
 fantasiereich
 fantasievoll
+fantasievolle
 fantast
 fantastisch
 faq
@@ -57256,9 +57392,11 @@ fehlschlagen
 fehlschlägt
 fehlschlug
 feier
+feierabend
 feierlich
 feierlichkeit
 feiern
+feiertag
 feiertags
 feig
 feigen
@@ -57333,7 +57471,9 @@ fernando
 fernbedienbar
 fernbleiben
 fernblieb
+ferne
 ferneingestellt
+fernen
 fernerhin
 ferngeblieben
 ferngehalten
@@ -57359,6 +57499,7 @@ fernseher
 fernsehgaudi
 fernsichtig
 fernsieht
+fernweh
 fernzubleiben
 fernzuhalten
 ferrara
@@ -57583,9 +57724,11 @@ finalspiel
 finanz
 finanziell
 finanzier
+finanzierbar
 finanzieren
 finanzierungs
 finanzkräftig
+finanzminister
 finanzökonomisch
 finanzpolitisch
 finanzstark
@@ -57597,6 +57740,7 @@ finden
 finder
 finderlohn
 finderlöhne
+findest
 findig
 findigkeit
 findling
@@ -57607,6 +57751,7 @@ finger
 fingerdick
 fingerig
 fingerling
+fingerspitzengefühl
 fingerzeig
 fingieren
 finit
@@ -57674,6 +57819,8 @@ flachdrücken
 fläche
 flächen
 flächendeckend
+flächenland
+flächenländer
 flächenmäßig
 flachheit
 flachhüglig
@@ -57816,6 +57963,7 @@ fließkommaberechnung
 fließkommaoperation
 fließkommaprozessor
 fließkommazahl
+fließt
 flimmer
 flimmern
 flink
@@ -57969,6 +58117,7 @@ folgewidrig
 folglich
 folgsam
 folgsamkeit
+folgte
 folie
 folien
 foliengeschützt
@@ -57992,6 +58141,7 @@ fonografie
 font
 fontainebleau
 fontäne
+fonts
 foppen
 fopperei
 forcieren
@@ -58010,10 +58160,12 @@ fördererzylinderweg
 förderlich
 fordern
 fördern
+förderungen
 forderungs
 förderungs
 förderungsbedürftig
 förderungswettbewerb
+förderverträge
 forelle
 forellenblau
 forellenfilet
@@ -58077,6 +58229,7 @@ forsa
 forsch
 forschen
 forscher
+forschung
 forschungs
 forschungsfreudig
 forschungsorientiert
@@ -58218,6 +58371,8 @@ fourieranalyse
 fouriertransformation
 foxtrott
 foyer
+fp
+fpö
 fr
 fracht
 frachtenindex
@@ -58245,7 +58400,9 @@ fragwürdigkeit
 fraktal
 fraktion
 fraktions
+fraktionschefin
 fraktionslos
+fraktionsspitze
 fraktur
 fraktursatz
 frakturschrift
@@ -58359,6 +58516,7 @@ freihalten
 freihändig
 freiheit
 freiheitlich
+freiheitlichen
 freiheits
 freiheitsliebend
 freiheraus
@@ -58418,11 +58576,13 @@ fremdbestimmt
 fremdbezogen
 fremden
 fremdenfeindlich
+fremdenwesen
 fremdfinanziert
 fremdgesteuert
 fremdheit
 fremdländisch
 fremdling
+fremdschämen
 fremdsprachen
 fremdsprachig
 fremdsprachlich
@@ -58440,6 +58600,7 @@ fressen
 fresser
 frettchen
 freud
+freude
 freuden
 freudenjauchzer
 freudenträne
@@ -58472,6 +58633,7 @@ friedens
 friedenserhaltend
 friedensliebend
 friedenspfeife
+friedenspolitik
 friedenstifter
 friedenstörend
 friedfertig
@@ -58565,16 +58727,21 @@ früh
 frühaufsteher
 frühchen
 frühchristlich
+früher
 frühest
 frühestens
 frühestmöglich
 frühjahrsoffensive
 frühjahrsputz
 frühjahrssitzung
+frühjahrssprüche
 frühkindlich
 frühling
 frühlings
+frühlingsadjektive
 frühlingshaft
+frühlingswörter
+frühlingszitate
 frühmenschlich
 frühminoisch
 frühmorgens
@@ -58759,6 +58926,7 @@ furios
 fürlieb
 furnier
 furore
+fürs
 fürsorge
 fürsorgepflicht
 fürsorger
@@ -59182,6 +59350,7 @@ gedampft
 gedämpft
 gedanke
 gedanken
+gedankenkarussell
 gedankenlos
 gedankenreich
 gedankenverloren
@@ -59404,6 +59573,7 @@ gefühlsduselei
 gefühlsduslig
 gefühlsmäßig
 gefühlsvoll
+gefühlswelt
 gefühlt
 gefühlvoll
 geführt
@@ -59430,6 +59600,7 @@ gegenanklage
 gegend
 gegeneinander
 gegeneinanderwirken
+gegenfinanzierung
 gegengewichtslos
 gegengezeichnet
 gegenläufig
@@ -59444,6 +59615,7 @@ gegenständlichkeit
 gegenstandsbereich
 gegenstandslos
 gegensteuern
+gegenteil
 gegenteilig
 gegenüber
 gegenübergestanden
@@ -59463,6 +59635,7 @@ gegenüberzusitzen
 gegenüberzustehen
 gegenwärtig
 gegenwarts
+gegenwindes
 gegenzeichnen
 gegenzurechnen
 gegenzusteuern
@@ -59470,6 +59643,7 @@ gegessen
 geglänzt
 geglättet
 geglaubt
+geglaubten
 geglichen
 gegliedert
 geglotzt
@@ -59572,6 +59746,7 @@ gehirnpsychologisch
 gehisst
 gehobelt
 gehoben
+gehobene
 gehofft
 gehöft
 gehöhnt
@@ -59582,12 +59757,14 @@ gehör
 gehorchen
 gehören
 gehörig
+gehörige
 gehörlos
 gehorsam
 gehorsamkeit
 gehört
 gehortet
 gehsteig
+geht
 gehuldigt
 gehüllt
 gehungert
@@ -59820,6 +59997,7 @@ gelee
 geleert
 gelegen
 gelegenheit
+gelegenheiten
 gelegenheits
 gelegt
 gelehnt
@@ -59909,6 +60087,7 @@ gemeckert
 gemein
 gemeinde
 gemeindeeigen
+gemeinden
 gemeindlich
 gemeinerweise
 gemeinfrei
@@ -60177,6 +60356,7 @@ gepolt
 gepolter
 gepräge
 geprägt
+geprägten
 geprahlt
 geprallt
 geprasst
@@ -60336,6 +60516,7 @@ germanistik
 germanistisch
 germanium
 gern
+gerne
 gernegroß
 geröchelt
 gerochen
@@ -60391,6 +60572,8 @@ gesammelt
 gesamt
 gesamtaktiv
 gesamtdeutsch
+gesamte
+gesamten
 gesamteuropäisch
 gesamtgesellschaftlich
 gesamtheit
@@ -60469,6 +60652,7 @@ geschehnis
 gescheit
 gescheitelt
 gescheitert
+gescheiterten
 gescheitsein
 geschellt
 geschenk
@@ -60723,6 +60907,7 @@ gesetzgeberisch
 gesetzgebung
 gesetzgebungs
 gesetzlich
+gesetzlichen
 gesetzlichkeit
 gesetzlos
 gesetzlosigkeit
@@ -61232,6 +61417,7 @@ gewölk
 gewollt
 gewonnen
 gewönnen
+gewonnenen
 geworben
 geworden
 geworfen
@@ -61531,7 +61717,9 @@ glückbringend
 glücken
 gluckern
 glücklich
+glückliche
 glücklicherweise
+glücklichmacherwörter
 glücklichsein
 glücklos
 glücks
@@ -61540,6 +61728,7 @@ glückselig
 glückseligkeit
 glucksen
 glückstrahlend
+glückswörter
 glückswunsch
 glückwunsch
 glückwünsche
@@ -61694,6 +61883,7 @@ grafikfähig
 grafikprozessor
 gräfin
 grafisch
+grafischen
 grafit
 grafologe
 grafologisch
@@ -61886,12 +62076,14 @@ großartig
 großbäuerlich
 großbritannien
 großbürgerlich
+große
 größe
 größen
 größenordnungsmäßig
 großenteils
 größenwahnsinnig
 größer
+größere
 großflächig
 großformatig
 großgeschrieben
@@ -61959,6 +62151,7 @@ grundlegend
 gründlich
 gründlichkeit
 grundlos
+grundrechenarten
 grundrechtlich
 grundsätzlich
 grundsätzlichkeit
@@ -62042,7 +62235,9 @@ gutartigkeit
 gutbetucht
 gutbürgerlich
 gutdünken
+gute
 güte
+guten
 gutenberg
 güter
 gütersloh
@@ -62149,10 +62344,14 @@ häfen
 hafer
 haft
 haften
+haftet
 häftling
 haftpflicht
 haftpflichtig
+haftung
+haftungen
 haftungs
+haftungszusagen
 hagebutte
 hagel
 hageln
@@ -62168,6 +62367,7 @@ haider
 haifa
 haifisch
 haifischbecken
+haiku
 hain
 hainbuche
 haiti
@@ -62226,6 +62426,7 @@ halbwertszeit
 halbwüchsig
 halde
 half
+halfen
 hälfte
 halfter
 halftern
@@ -62353,6 +62554,7 @@ hängen
 hängenbleiben
 hänger
 hängig
+hängt
 haniel
 hanne
 hannelore
@@ -62442,6 +62644,7 @@ hasel
 haselnussbraun
 hasen
 hasenscharte
+hashtags
 haskell
 hass
 hassen
@@ -62502,8 +62705,10 @@ hauruckverfahren
 haus
 hausart
 hausbacken
+hausbaukredit
 hausbesetzerszene
 häuschen
+hause
 hauseigen
 hausen
 häuser
@@ -62676,6 +62881,7 @@ heimgesucht
 heimgezahlt
 heimholen
 heimisch
+heimische
 heimkam
 heimkehr
 heimkehren
@@ -62722,6 +62928,7 @@ heitern
 heiz
 heizen
 heizer
+heizöl
 heizungs
 hektar
 hektarertrag
@@ -63617,6 +63824,7 @@ hildesheim
 hilfe
 hilfebedürftig
 hilfeflehend
+hilfen
 hilflos
 hilflosigkeit
 hilfreich
@@ -63850,6 +64058,7 @@ hineinziehen
 hineinzoomen
 hineinzubekommen
 hineinzubringen
+hineinzufahren
 hineinzugehen
 hineinzukommen
 hineinzulegen
@@ -64158,6 +64367,7 @@ historikergespräch
 historikertag
 historikerverband
 historisch
+historischen
 historisieren
 historismus
 hit
@@ -64401,6 +64611,7 @@ höhen
 höhenverstellbar
 hohenzoller
 höhepunkt
+hoher
 höher
 höherentwicklung
 höherfrequent
@@ -64443,6 +64654,7 @@ holperig
 holpern
 holstein
 holsteinisch
+holte
 holunder
 holunderbaum
 holz
@@ -64763,6 +64975,7 @@ ide
 ideal
 idealerweise
 idealisieren
+idealisierten
 idealismus
 idealist
 idealistisch
@@ -64789,6 +65002,7 @@ ideologe
 ideologie
 ideologieanfällig
 ideologisch
+ideologische
 idiomatik
 idiomatisch
 idiome
@@ -64813,6 +65027,8 @@ ihk
 ihm
 ihn
 ihr
+ihre
+ihrer
 ihrerseits
 ihresgleichen
 ihrethalben
@@ -65116,6 +65332,7 @@ informationsverarbeitend
 informativ
 informatorisch
 informell
+informeller
 informieren
 infrage
 infrarot
@@ -65145,11 +65362,14 @@ inhalieren
 inhalt
 inhalteanbieter
 inhaltlich
+inhaltlichen
+inhaltlicher
 inhalts
 inhaltsabhängig
 inhaltslos
 inhaltsorientiert
 inhaltsreich
+inhaltsverzeichnis
 inhärent
 inhomogen
 inhomogenität
@@ -65228,6 +65448,7 @@ innehat
 innehatte
 innen
 innenleben
+innenministeriums
 innenpolitisch
 innensechskant
 innensechskantschlüssel
@@ -65271,6 +65492,7 @@ inputparser
 inquisition
 inquisitor
 inquisitorisch
+ins
 insasse
 insassenversicherung
 insbesondere
@@ -65312,6 +65534,9 @@ inspektionszyklen
 inspektor
 inspiration
 inspirieren
+inspirierende
+inspirierendeausdrucksform
+inspirierender
 inspizient
 inspizieren
 inst
@@ -65528,6 +65753,7 @@ intrigieren
 introvertiert
 intuition
 intuitiv
+intuitive
 intus
 inuit
 invalide
@@ -65744,8 +65970,10 @@ jahraus
 jahrbuch
 jahrbücher
 jährchen
+jahre
 jahrein
 jahrelang
+jahren
 jähren
 jahres
 jahresunterlagen
@@ -65784,6 +66012,7 @@ jammerschade
 jan
 janeiro
 janina
+jänner
 januar
 janusköpfig
 japan
@@ -65810,7 +66039,10 @@ jeansindustrie
 jeansträger
 jeanstyp
 jede
+jedem
+jeden
 jedenfalls
+jeder
 jederart
 jederlei
 jedermann
@@ -65825,6 +66057,7 @@ jelzin
 jemals
 jemand
 jemandem
+jemanden
 jemen
 jena
 jene
@@ -65954,7 +66187,9 @@ jungenbeine
 jungenhaft
 jungens
 jungenschaft
+junger
 jünger
+jüngeren
 jungfer
 jungfernfahrt
 jungfernflug
@@ -66027,6 +66262,8 @@ kabinen
 kabinett
 kabinettchef
 kabinetts
+kabinettsdisziplin
+kabinettsmitglied
 kabuff
 kabul
 kachel
@@ -66225,6 +66462,7 @@ kampfreich
 kampfstark
 kampfstärker
 kampfstärkste
+kämpft
 kampfunfähig
 kampieren
 kanaan
@@ -66256,6 +66494,7 @@ kandinsky
 känguru
 kaninchen
 kanister
+kann
 kanne
 kannibale
 kannibalisch
@@ -66291,6 +66530,7 @@ kanzelparagraph
 kanzlei
 kanzler
 kanzlernachfolge
+kanzlerpartei
 kap
 kapaun
 kapazität
@@ -66314,6 +66554,7 @@ kapitalismuskritisch
 kapitalist
 kapitalistisch
 kapitalkräftig
+kapitalmarkt
 kapitalstark
 kapitän
 kapitänleutnant
@@ -66606,6 +66847,7 @@ käuflichkeit
 kaufmännisch
 kaufmanns
 kaufstark
+kauft
 kaugummi
 kaukasus
 kaulquappe
@@ -66668,6 +66910,8 @@ keimfrei
 keimling
 keimtötend
 kein
+keine
+keinen
 keinerlei
 keinesfalls
 keineswegs
@@ -66783,6 +67027,7 @@ khan
 khmer
 khomeini
 khz
+ki
 kib
 kibbuz
 kibbuzim
@@ -66790,6 +67035,7 @@ kibbuznik
 kichern
 kicken
 kicker
+kickl
 kickstarter
 kickstartermechanismus
 kidnappen
@@ -67025,6 +67271,9 @@ kleie
 klein
 kleinarmenien
 kleinbürgerlich
+kleine
+kleinere
+kleines
 kleineuropäisch
 kleinformatig
 kleingedruckt
@@ -67079,16 +67328,19 @@ klient
 klientel
 klientelpolitik
 klima
+klimaförderungen
 klimatisch
 klimatisieren
 klimatisierung
 klimatologe
 klimmzug
 klimpern
+klingbeil
 klinge
 klingel
 klingeln
 klingen
+klingt
 klinik
 klinikum
 klinisch
@@ -67260,6 +67512,7 @@ knutschen
 koalieren
 koalition
 koalitions
+koalitionspartner
 koalitionstreu
 koalitionsunfähig
 koaxialkabel
@@ -67456,6 +67709,7 @@ kommasetzung
 kommastelle
 kommata
 kommen
+kommenden
 kommentar
 kommentarbuchstabe
 kommentarfunktion
@@ -67481,6 +67735,7 @@ kommissionär
 kommissions
 kommissionshungrig
 kommode
+kommt
 kommunal
 kommune
 kommunikation
@@ -67642,6 +67897,7 @@ konföderation
 konföderiert
 konföderierte
 konform
+konforme
 konformismus
 konformität
 konformitäts
@@ -67688,6 +67944,7 @@ konkav
 konklave
 konkordat
 konkret
+konkrete
 konkretere
 konkreteste
 konkretisieren
@@ -67700,6 +67957,7 @@ konkurrenzlos
 konkurrieren
 konkurs
 konkursreif
+könne
 konnektivität
 können
 könnens
@@ -67709,6 +67967,9 @@ konnotation
 konnotativ
 konnotieren
 konnte
+könnte
+konnten
+könnten
 konquistador
 konrad
 konrektor
@@ -67724,6 +67985,7 @@ konsequenterweise
 konsequenz
 konservatismus
 konservativ
+konservativen
 konservativismus
 konservator
 konservatorien
@@ -67738,6 +68000,7 @@ konsistenzprüfung
 konsistorium
 konsole
 konsolidieren
+konsolidiert
 konsolidierungs
 konsolschnittstelle
 konsonant
@@ -67925,6 +68188,7 @@ kopernikus
 kopf
 köpfe
 köpfen
+kopfkino
 kopflastig
 kopflos
 kopfschüttelnd
@@ -68055,6 +68319,7 @@ kostenschonend
 kostensenkend
 kostensenkungspotenzial
 kostensparend
+kostet
 kostgänger
 köstlich
 köstlichkeit
@@ -68164,6 +68429,7 @@ kraxelei
 kreation
 kreationismus
 kreativ
+kreative
 kreativität
 kreativitätsverlust
 kreatur
@@ -68177,6 +68443,7 @@ kredenzen
 kredit
 kreditfähig
 kreditgebend
+kreditgeschäft
 kreditieren
 kreditnehmerzahl
 kreditor
@@ -68399,6 +68666,7 @@ kuckuck
 kuckucksei
 kuckuckskind
 kuckucksuhr
+kuddelmuddel
 kufe
 kugel
 kügelchen
@@ -68440,6 +68708,9 @@ kultstatus
 kultur
 kulturabhängig
 kulturell
+kulturelle
+kulturellejuwelen
+kulturelles
 kulturfreundlich
 kulturgeschichtlich
 kulturhistorisch
@@ -68452,6 +68723,7 @@ kummer
 kümmerdasein
 kümmerlich
 kümmern
+kummerspeck
 kummervoll
 kumpan
 kumpel
@@ -68472,6 +68744,7 @@ kundgeben
 kundgetan
 kundig
 kündigen
+kündigt
 kündigungs
 kundmachen
 kundschaft
@@ -68489,6 +68762,7 @@ künstler
 künstlerisch
 künstlertum
 künstlich
+künstlicher
 kunstlos
 kunstvoll
 kunterbunt
@@ -68538,6 +68812,7 @@ kursortasten
 kursstürze
 kursus
 kursvernichtend
+kurswechsel
 kurt
 kurtisane
 kurve
@@ -68550,9 +68825,11 @@ kurzärmlig
 kurzatmig
 kurzatmigkeit
 kurzbeinig
+kurze
 kürzel
 kürzen
 kurzentschlossen
+kurzer
 kürzer
 kurzerhand
 kürzest
@@ -68568,6 +68845,7 @@ kurzschließen
 kurzschlussfest
 kurzsichtig
 kurzsichtigkeit
+kürzt
 kurzum
 kürzungs
 kurzweilig
@@ -68600,10 +68878,12 @@ kwu
 kybernetik
 kybernetiker
 kybernetisch
+kyjiw
 kyphose
 kyrillisch
 kz
 l
+la
 laben
 labertasche
 labil
@@ -68623,6 +68903,7 @@ lachen
 lachens
 lacher
 lächerlich
+lächerliche
 lächerlichkeit
 lachs
 lachseier
@@ -68741,16 +69022,20 @@ landes
 landesbedingt
 landescup
 landeseigen
+landesparlament
 landesplanerisch
 landespolitisch
 landesprache
 landesüblich
 landesweit
+landete
+landeten
 landgebunden
 landläufig
 landläufigkeit
 ländler
 ländlich
+ländlichen
 landrover
 landschaftlich
 landschafts
@@ -68761,8 +69046,12 @@ landsmann
 landsmännin
 landsmannschaft
 landstreicherei
+landtag
 landtags
+landtagswahl
+landtagswahlen
 landungs
+landwirtschaft
 landwirtschaftlich
 lang
 langärmelig
@@ -68771,12 +69060,14 @@ langärmlig
 langatmig
 langatmigkeit
 langbeinig
+lange
 länge
 langen
 längen
 langenscheidt
 langeoog
 länger
+längere
 längerfristig
 langeweile
 langfristig
@@ -68895,6 +69186,7 @@ lauern
 lauerstellung
 lauf
 laufen
+laufende
 laufens
 läufer
 lauffähig
@@ -68920,7 +69212,9 @@ laut
 lauten
 läuten
 lautenklang
+lauter
 läutern
+lautet
 lautfolge
 lauthals
 lautlos
@@ -69098,6 +69392,7 @@ leichenblass
 leichnam
 leicht
 leichtathletisch
+leichte
 leichtfertig
 leichtfüßig
 leichtfüßigkeit
@@ -69119,6 +69414,7 @@ leidenschaftlichkeit
 leidensgenosse
 leidensweg
 leider
+leidet
 leidgeprüft
 leidig
 leidlich
@@ -69188,6 +69484,7 @@ lenk
 lenken
 lenker
 lennon
+lenny
 lenovo
 lenz
 leonardo
@@ -69237,6 +69534,7 @@ lettisch
 lettland
 letzt
 letzte
+letzten
 letztendlich
 letztens
 letztere
@@ -69284,6 +69582,7 @@ libanesisch
 libanon
 libelle
 liberal
+liberalen
 liberalisieren
 liberalisierungsansatz
 liberalismus
@@ -69321,6 +69620,7 @@ liebäugeln
 liebe
 liebelei
 lieben
+liebende
 liebenswert
 liebenswürdig
 liebenswürdigkeit
@@ -69328,8 +69628,10 @@ liebes
 liebesbezeigung
 liebeshändeln
 liebeskrank
+liebesroman
 liebestöter
 liebevoll
+liebevolle
 liebgeworden
 liebhaber
 liebhaberei
@@ -69340,6 +69642,8 @@ lieblichkeit
 liebling
 lieblings
 lieblingsspeise
+lieblingstiere
+lieblingswörter
 lieblos
 lieblosigkeit
 liebreiz
@@ -69372,9 +69676,11 @@ liegen
 liegenbleiben
 liegenblieb
 liegenschaft
+liegt
 lieh
 lies
 ließ
+ließe
 liest
 lift
 liften
@@ -69442,6 +69748,7 @@ linksläufig
 linksliberal
 linksliegen
 linksorientiert
+linkspartei
 linksradikal
 linksrheinisch
 linksseitig
@@ -69475,6 +69782,7 @@ lispeln
 lissabon
 list
 listbefehl
+liste
 listen
 listenreich
 listig
@@ -69714,6 +70022,7 @@ louvre
 lovestory
 löwe
 löwen
+löwenstern
 lowpegel
 loyal
 loyalität
@@ -69754,6 +70063,7 @@ luftgetrocknet
 lufthansa
 luftig
 luftmachen
+luftschloss
 lufttransportverbande
 lüftungs
 luftwaffenoberstleutnant
@@ -69835,6 +70145,7 @@ maastricht
 maastrichter
 maasübergang
 mac
+mach
 machart
 machbarkeit
 machbarkeitsstudie
@@ -69897,6 +70208,7 @@ maghrebinisch
 magie
 magier
 magisch
+magische
 magister
 magistrat
 magistratsbeamte
@@ -70013,6 +70325,7 @@ malta
 malteser
 maltesisch
 malträtieren
+malu
 malus
 malve
 malweise
@@ -70026,6 +70339,7 @@ man
 management
 managen
 manager
+manc
 manch
 manchenorts
 mancherlei
@@ -70238,6 +70552,7 @@ marshallplan
 marsmensch
 marssonde
 marter
+marterbauer
 martern
 martialisch
 martin
@@ -70336,6 +70651,8 @@ mäßigen
 mäßigkeit
 massiv
 maßlos
+maßnahme
+maßnahmen
 maßnahmenkatalog
 maßname
 maßstäblich
@@ -70586,6 +70903,7 @@ meistbegünstigungsklausel
 meistbesucht
 meistbietend
 meistdiskutiert
+meiste
 meistens
 meistenteils
 meister
@@ -70606,6 +70924,7 @@ mekong
 mekonggebiet
 melancholie
 melancholisch
+melancholisches
 melanie
 melanom
 melde
@@ -70696,6 +71015,7 @@ merkwürdigerweise
 merkwürdigkeit
 merlin
 merowinger
+merz
 meschugge
 mesner
 mesolithikum
@@ -70713,6 +71033,7 @@ messina
 messing
 messner
 messtechnisch
+messungen
 metabol
 metabolisch
 metabolismus
@@ -70935,6 +71256,7 @@ mindest
 mindeste
 mindestens
 mindestreservepflichtig
+mindestsätze
 mine
 minen
 minenverseucht
@@ -70942,6 +71264,7 @@ mineral
 mineralien
 mineralisch
 mineralöl
+mineralölsteuer
 mineralölsteuern
 mineralölunternehmen
 ming
@@ -70963,6 +71286,8 @@ ministerien
 ministerium
 ministeriumsmitarbeiter
 ministeriumssprecher
+ministerpräsidenten
+ministerpräsidentenamt
 ministrant
 minnesänger
 minoisch
@@ -71226,6 +71551,7 @@ mitnichten
 mitprotokollieren
 mitrechnen
 mitreden
+mitregiert
 mitreisen
 mitreißen
 mitsamt
@@ -71253,6 +71579,7 @@ mittagessen
 mittäglich
 mittags
 mittagsläuten
+mittagspause
 mittdreißiger
 mitte
 mitteilen
@@ -71414,6 +71741,7 @@ möbiusband
 möblieren
 möbliert
 mochte
+möchte
 möchtegern
 möchten
 modalität
@@ -71469,6 +71797,8 @@ mogeln
 mogelpackung
 mögen
 möglich
+mögliche
+möglichen
 möglicherweise
 möglichkeit
 möglichkeitsform
@@ -71824,6 +72154,7 @@ muskulös
 müsli
 muslim
 muslimisch
+muss
 muße
 musselin
 musselinkleid
@@ -71833,6 +72164,7 @@ müßiggang
 mussolini
 musst
 musste
+müsste
 mustang
 muster
 mustergültig
@@ -72428,6 +72760,7 @@ nationalchina
 nationalchinese
 nationalchinesisch
 nationalgardist
+nationalhymne
 nationalisieren
 nationalismus
 nationalist
@@ -72508,6 +72841,7 @@ neckarwestheim
 necken
 neckermann
 neckermannurlauber
+neckische
 neffe
 negation
 negativ
@@ -72541,6 +72875,7 @@ nenndurchfluss
 nennen
 nennenswert
 nenner
+nennt
 nennungsliste
 neo
 neodarwinismus
@@ -72555,6 +72890,7 @@ neonazismus
 neonazistisch
 neonlicht
 neoprenanzug
+neos
 nepal
 nepalese
 nepalesisch
@@ -72577,6 +72913,7 @@ nerzstola
 ness
 nessel
 nest
+nesthocker
 netanjahu
 netanyahu
 netbsd
@@ -72596,6 +72933,8 @@ neu
 neuartig
 neudeutsch
 neueinkleiden
+neuem
+neuen
 neuenburg
 neuer
 neuerdings
@@ -72697,6 +73036,7 @@ neutrino
 neutron
 neutronen
 neutrum
+neuverschuldung
 neuverteilen
 neuwerk
 neuwertig
@@ -72763,6 +73103,7 @@ nichtproduktiv
 nichtproportional
 nichtregistriert
 nichtrussisch
+nichts
 nichtsahnend
 nichtsdestominder
 nichtsdestotrotz
@@ -72861,6 +73202,7 @@ niederzuschlagen
 niederzusetzen
 niedlich
 niedrig
+niedriger
 niedrigkeit
 niedriglöhne
 niedrigpreisig
@@ -73051,6 +73393,7 @@ norwegisch
 nostalgie
 nostalgiewelle
 nostalgisch
+nostalgische
 not
 nota
 notar
@@ -73107,6 +73450,8 @@ nsu
 nt
 ntt
 nuance
+nuancen
+nuancenreichtum
 nuancieren
 nüchtern
 nüchternheit
@@ -73168,6 +73513,7 @@ nymphomanie
 nymphomanin
 o
 ö
+öamtc
 oase
 oasenländer
 ob
@@ -73347,6 +73693,7 @@ ohren
 ohrenbetäubend
 ohrfeigen
 ohrläppchen
+ohrwurm
 okay
 okkult
 okkultismus
@@ -73465,6 +73812,7 @@ opportunistisch
 opportunitätsprinzip
 opposition
 oppositionell
+oppositionellen
 oppositions
 opteron
 opti
@@ -73513,6 +73861,7 @@ orchidee
 orden
 ordens
 ordentlich
+ordentliche
 ordentlichkeit
 order
 ordern
@@ -73576,6 +73925,7 @@ ornithologe
 ornithologie
 ornithologisch
 ort
+orte
 orten
 orthodox
 orthodoxie
@@ -73697,6 +74047,7 @@ overall
 overdressed
 overheadfolie
 overkill
+övp
 ovulationshemmend
 oxford
 oxid
@@ -73706,6 +74057,7 @@ oxidieren
 oxyd
 oxydation
 oxydations
+özdemir
 ozean
 ozeanien
 ozeanisch
@@ -73756,6 +74108,7 @@ paket
 pakistan
 pakistanisch
 pakt
+paktiert
 paktorganisation
 paktpreis
 paläanthropologie
@@ -73968,7 +74321,9 @@ parteilos
 parteinah
 parteinahme
 parteipolitisch
+parteipräferenzen
 parteischädigend
+parteispitze
 parteitags
 parteiübergreifend
 parterre
@@ -74252,6 +74607,7 @@ personalie
 personalisieren
 personalsparend
 personell
+personelle
 personen
 personenabhängig
 personenbezogen
@@ -74798,6 +75154,7 @@ plotter
 plotterpapier
 plotterstifte
 plötzlich
+plötzliche
 plump
 plumpheit
 plünderer
@@ -74966,6 +75323,8 @@ popper
 poppig
 popsänger
 populär
+populäre
+populären
 popularisieren
 popularität
 popularitätskurve
@@ -75033,6 +75392,7 @@ positionieren
 positionierhülle
 positions
 positiv
+positive
 positivismus
 positivistisch
 posse
@@ -75088,6 +75448,7 @@ potenzialtopf
 potenzialtrennung
 potenzialverlauf
 potenziell
+potenziellen
 potenzieren
 potenziert
 potenzsteigernd
@@ -75357,6 +75718,7 @@ prioritätsanspruch
 prioritätsordnung
 prioritätsrecht
 prioritätssteuerung
+prise
 prismen
 pritsche
 pritschenwagen
@@ -75454,6 +75816,7 @@ progressiv
 prohibition
 prohibitiv
 projekt
+projekte
 projektieren
 projektil
 projektion
@@ -75654,6 +76017,7 @@ psychotherapeut
 psychotherapeutisch
 psychotherapie
 psychotisch
+pt
 ptolemaios
 ptolemäus
 ptt
@@ -75963,6 +76327,7 @@ radiermesser
 radiernadel
 radieschen
 radikal
+radikale
 radikalenerlass
 radikalisieren
 radikalist
@@ -76061,6 +76426,7 @@ rasch
 rascheln
 raschest
 rasen
+rasenmäher
 raserei
 rasier
 rasieren
@@ -76167,6 +76533,7 @@ rauheit
 rauigkeit
 raum
 räumen
+raumes
 räumfahrt
 raumkrank
 räumlich
@@ -76223,6 +76590,7 @@ reaktivieren
 reaktor
 real
 realisation
+realisierbar
 realisierbarkeit
 realisieren
 realisierungschance
@@ -76262,6 +76630,7 @@ rechnergesteuert
 rechnergestützt
 rechnerisch
 rechnerunterstützt
+rechnet
 rechnungs
 recht
 rechte
@@ -76269,6 +76638,7 @@ rechteck
 rechteckig
 rechtens
 rechtfertigen
+rechtfertigung
 rechtgläubigkeit
 rechthaber
 rechthaberei
@@ -76346,6 +76716,7 @@ redensart
 redensartlich
 redenschreiber
 rederei
+redet
 redford
 redigieren
 redigierung
@@ -76362,6 +76733,7 @@ reduktion
 redundant
 redundanz
 reduzieren
+reduziert
 reeder
 reederei
 reedereikonsortien
@@ -76409,6 +76781,7 @@ reformer
 reformfreudig
 reformieren
 reformismus
+reformkurs
 reformorientiert
 reformpädagogisch
 reformulieren
@@ -76426,6 +76799,7 @@ regelausschlag
 regelbasiert
 regelhaft
 regelmäßig
+regelmäßiges
 regeln
 regelrecht
 regelungs
@@ -76445,10 +76819,15 @@ regentschaftsrat
 reggae
 regie
 regieren
+regierende
 regiert
+regierung
 regierungs
+regierungsbeteiligung
+regierungsbildung
 regierungsfähig
 regierungsfreundlich
+regierungsparteien
 regierungstreu
 regime
 regimegegner
@@ -76458,6 +76837,7 @@ region
 regional
 regionalisieren
 regionalität
+regionen
 regisseur
 register
 registratur
@@ -76518,7 +76898,9 @@ reich
 reichen
 reichern
 reichhaltig
+reichhaltiger
 reichhaltigkeit
+reichinnek
 reichlich
 reichs
 reichsacht
@@ -76528,6 +76910,7 @@ reichspogromnacht
 reichstags
 reichsunmittelbar
 reichsweite
+reicht
 reichtum
 reichtümer
 reichweite
@@ -76954,6 +77337,7 @@ richtigerweise
 richtiggehend
 richtigkeit
 richtigstellen
+richtung
 richtungs
 richtungsbit
 richtungslos
@@ -77119,6 +77503,7 @@ romano
 romantik
 romantiker
 romantisch
+romantische
 romanze
 römer
 römerzug
@@ -77158,6 +77543,7 @@ rotations
 rotator
 rotbraun
 rotchinesen
+rote
 röte
 röteln
 röter
@@ -77389,6 +77775,7 @@ rutschbahn
 rutschen
 rutschig
 rutschpartie
+rutschte
 rüttelfest
 rüttelfestigkeit
 rütteln
@@ -77426,6 +77813,7 @@ sach
 sacharin
 sachbedingt
 sachbezogen
+sachbuchautor
 sachdienlich
 sache
 sacher
@@ -77601,6 +77989,7 @@ sänger
 sängerfest
 sanguinisch
 sanieren
+sanierungen
 sanierungs
 sanitär
 sanitäter
@@ -77612,6 +78001,7 @@ sanktionsausschuss
 sanktionsmöglichkeit
 sanktionspolitik
 sann
+sans
 sansibar
 santa
 santorin
@@ -77800,6 +78190,7 @@ schaffen
 schaffens
 schaffhausen
 schaffner
+schaffte
 schafhirt
 schafott
 schafpelz
@@ -77975,6 +78366,7 @@ schäumen
 schaumig
 schäumwerkzeug
 schaurig
+schaut
 scheck
 scheckig
 scheckreitereien
@@ -77996,6 +78388,7 @@ schein
 scheinbar
 scheinen
 scheinheilig
+scheint
 scheintot
 scheinwerferlicht
 scheißen
@@ -78078,6 +78471,7 @@ schicklichkeit
 schicksal
 schicksalhaft
 schicksals
+schickt
 schiebe
 schiebeleere
 schiebelehre
@@ -78103,6 +78497,8 @@ schienen
 schier
 schierling
 schieß
+schießbude
+schießbudenfigur
 schießen
 schießerei
 schießwütig
@@ -78152,6 +78548,7 @@ schimpfen
 schimpflich
 schimpfwort
 schimpfwörter
+schimpfwörterlexikon
 schindel
 schindeldach
 schindeldächer
@@ -78205,6 +78602,7 @@ schlager
 schläger
 schlägerei
 schlagfertig
+schlagfertige
 schlagfertigkeit
 schlagfest
 schlagkräftig
@@ -78248,6 +78646,7 @@ schlaumeier
 schlawiner
 schlecht
 schlechterdings
+schlechtestes
 schlechtgeredet
 schlechthin
 schlechtigkeit
@@ -78503,6 +78902,7 @@ schnappschuss
 schnappstift
 schnaps
 schnäpse
+schnapsidee
 schnarch
 schnarchen
 schnarren
@@ -78639,9 +79039,11 @@ scholz
 schon
 schön
 schönbrunn
+schöne
 schöneberg
 schönefeld
 schonen
+schönen
 schoner
 schönfärben
 schöngeistig
@@ -78650,6 +79052,8 @@ schönheit
 schönheits
 schönheitswettbewerb
 schönredner
+schönste
+schönsten
 schonungslos
 schopf
 schöpfeimer
@@ -78743,6 +79147,7 @@ schrift
 schriftdeutsch
 schriftenreihe
 schriftlich
+schriftsteller
 schriftstellergilde
 schriftstellerisch
 schriftstellerverband
@@ -79085,6 +79490,7 @@ schwiegerväter
 schwiele
 schwielig
 schwierig
+schwierigen
 schwierigkeit
 schwierigkeits
 schwillt
@@ -79287,6 +79693,9 @@ seilzugpoti
 seim
 seimig
 sein
+seine
+seinen
+seiner
 seinerseits
 seinerzeit
 seinesgleichen
@@ -79297,6 +79706,7 @@ seismisch
 seismograf
 seismograph
 seismologisch
+seit
 seitdem
 seite
 seiten
@@ -79361,6 +79771,7 @@ selbstherrlich
 selbstironisch
 selbstklebend
 selbstkritisch
+selbstläufer
 selbstleuchtend
 selbstlos
 selbstmörderisch
@@ -79398,6 +79809,7 @@ seligkeit
 seligsprechung
 sellerie
 selten
+seltene
 seltenheit
 seltenheitswert
 selterswasser
@@ -79452,6 +79864,7 @@ senken
 senker
 senkrecht
 senkrechtstarter
+senkung
 senner
 sennerei
 sennheiser
@@ -79464,6 +79877,7 @@ sensibel
 sensibilisieren
 sensibilität
 sensibilitäts
+sensiblen
 sensitiv
 sensitivität
 sensor
@@ -79715,6 +80129,7 @@ siegprämie
 siegreich
 siegtreffer
 sieh
+siehe
 sieht
 siel
 siemens
@@ -79879,6 +80294,7 @@ sitzen
 sitzenbleiben
 sitzenblieb
 sitzenzubleiben
+sitzfleisch
 sitzungs
 sixtinisch
 sizilianer
@@ -80066,6 +80482,7 @@ solidarsystem
 solidität
 solist
 solitär
+soll
 sollbestand
 sollbestände
 sollbruchstelle
@@ -80078,6 +80495,7 @@ sollmaß
 sollmenge
 sollprofil
 sollstärke
+sollte
 sollwert
 sollzustand
 solo
@@ -80128,6 +80546,7 @@ sonnenüberglänzt
 sonnenverbrannt
 sonnig
 sonntag
+sonntagabend
 sonntagabends
 sonntäglich
 sonntagmorgen
@@ -80208,6 +80627,7 @@ sowjetrussland
 sowohl
 sozial
 sozialdarwinismus
+sozialdemokraten
 sozialdemokratisch
 sozialisation
 sozialisieren
@@ -80295,6 +80715,7 @@ spargel
 sparkasse
 spärlich
 spärlichkeit
+sparplan
 sparre
 sparsam
 sparsamkeit
@@ -80319,6 +80740,7 @@ spät
 spatel
 spaten
 spatenstich
+später
 späterhin
 spätestens
 spätherbst
@@ -80443,6 +80865,8 @@ spielertyp
 spielespezialist
 spielfrei
 spielfreudig
+spielraum
+spielt
 spielverderber
 spien
 spieß
@@ -80494,6 +80918,8 @@ spitze
 spitzel
 spitzeln
 spitzen
+spitzenkandidaten
+spitzenpolitiker
 spitzfindig
 spitzhacke
 spitzig
@@ -80548,15 +80974,20 @@ sprachabhängig
 sprachbeobachtend
 sprache
 spräche
+sprachen
 sprachenunterstützung
 sprachenvielfalt
+sprachgefühl
 sprachgesteuert
 sprachhistorisch
 sprachkommunikativ
 sprachkundig
 sprachlich
+sprachlichetiefe
 sprachlos
 sprachpolitisch
+sprachschatz
+sprachschatzkammer
 sprachspezifisch
 sprachunabhängig
 sprachwissenschaftlich
@@ -80589,6 +81020,7 @@ sprint
 sprinten
 sprinter
 sprit
+spritpreisbremse
 spritsparen
 spritz
 spritze
@@ -80654,6 +81086,7 @@ staat
 staaten
 staatenlos
 staatlich
+staatlichen
 staatlichkeit
 staats
 staatsabhängig
@@ -80689,6 +81122,7 @@ stabilitätsgeschichte
 stabilitätsgesetz
 stabilitätskriterien
 stabilwerden
+stable
 stabreim
 stabs
 stabsfeldwebel
@@ -80749,6 +81183,7 @@ stammen
 stammes
 stammesgeschichtlich
 stämmig
+stammtisch
 stammverwandt
 stampfen
 stand
@@ -80801,6 +81236,7 @@ starb
 starbucks
 stargast
 stark
+starke
 stärke
 stärkegrad
 stärkehaltig
@@ -80812,6 +81248,7 @@ stärkste
 starkstrom
 starkstromkabel
 starkstromleitung
+stärkung
 stärkungsmittel
 starnberger
 staroffice
@@ -80944,6 +81381,7 @@ steckerteil
 steckertyp
 steckkompatibel
 steckling
+steckt
 steckverbinderprobleme
 stefan
 stefanie
@@ -80967,6 +81405,7 @@ stehenließ
 stehenzubleiben
 steher
 stehlen
+steht
 steiermark
 steif
 steifen
@@ -80981,6 +81420,7 @@ steigerungsform
 steigerungsgrad
 steigerungsrate
 steigerungswert
+steigt
 steigungsregen
 steil
 steilheit
@@ -81070,12 +81510,14 @@ sterilität
 sterling
 stern
 sterndeuter
+sterne
 sternenbanner
 sternenfahrt
 sternenförmig
 sternenforscher
 sternenhimmel
 sternenklar
+sternentanzen
 sternförmig
 sternhagelvoll
 sternhell
@@ -81106,6 +81548,7 @@ steuerpflichtig
 steuerpolitisch
 steuerrechtlich
 steuersäckel
+steuersätze
 steuerungs
 steuerungsseitig
 steuerungstechnisch
@@ -81244,6 +81687,7 @@ stimmer
 stimmhaft
 stimmig
 stimmlos
+stimmung
 stimmungs
 stimmungsmache
 stimmungsvoll
@@ -81434,6 +81878,7 @@ streicheln
 streichen
 streicher
 streichorchester
+streicht
 streif
 streifen
 streifenweise
@@ -81515,7 +81960,9 @@ strukturgleich
 strukturieren
 strukturiert
 strukturiertheit
+strukturkonservativen
 strukturschwach
+strukturschwachen
 struma
 strumpf
 strümpfe
@@ -81648,6 +82095,7 @@ subskription
 substantialisierung
 substantiell
 substantiv
+substantive
 substantivieren
 substantiviert
 substantivisch
@@ -81728,6 +82176,7 @@ südslawentum
 südsteiermark
 südwärts
 südwest
+südwesten
 südwestenglisch
 südwestfalen
 südwestlich
@@ -81794,6 +82243,7 @@ sündigen
 sunnit
 sunnitisch
 super
+superbenzin
 supererfolgreich
 superfarmland
 superiorität
@@ -81811,6 +82261,7 @@ süppchen
 suppe
 suppen
 suppengrün
+suppenküchen
 support
 supraleitend
 supraleitung
@@ -81833,6 +82284,7 @@ suspendieren
 suspensorien
 suspensorium
 süß
+süße
 süßen
 sussex
 süßigkeit
@@ -81900,6 +82352,7 @@ synergie
 synkope
 synode
 synonym
+synonyme
 synonymisch
 synoptisch
 syntagmatisch
@@ -82009,8 +82462,10 @@ tageweise
 tagewerk
 tagfalter
 täglich
+täglichen
 tagsüber
 tagtäglich
+tagträumereien
 tagundnachtgleiche
 tagungs
 taifun
@@ -82161,6 +82616,7 @@ tätig
 tätigen
 tätigkeit
 tätigkeits
+tätigt
 tätigwerden
 tatkräftig
 tätlich
@@ -82510,6 +82966,7 @@ texel
 text
 textblockende
 textbuffer
+texte
 texter
 textfile
 textil
@@ -82532,6 +82989,7 @@ thematik
 thematisch
 thematisieren
 themen
+themensuche
 themenverwandt
 themistokles
 themse
@@ -82620,10 +83078,13 @@ tiebreak
 tief
 tiefblau
 tiefdecker
+tiefe
 tiefenproben
 tiefenpsychologisch
 tiefenströmung
 tiefenwirkung
+tiefer
+tiefes
 tiefgekühlt
 tiefgeladen
 tiefgestellt
@@ -82819,6 +83280,7 @@ toronto
 torpedieren
 torpedo
 torpedoboot
+torschlusspanik
 torschusspanik
 torso
 torte
@@ -82880,6 +83342,7 @@ tourenzahl
 tourenzähler
 tourismus
 tourismusbranche
+tourismusförderung
 tourismusindustrie
 tourismuskompetenz
 tourismusverband
@@ -82904,13 +83367,16 @@ trachtenhut
 trächtig
 trächtigkeit
 trackball
+tracker
 tradieren
 tradition
 traditionalismus
 traditionalist
 traditionalistisch
 traditionell
+traditionelle
 traditionellerweise
+traditionen
 traditionsbewusst
 traditionsgemäß
 traditionsreich
@@ -82976,6 +83442,7 @@ transatlantisch
 transfer
 transferieren
 transformation
+transformationsförderungen
 transformator
 transformieren
 transfusion
@@ -83062,6 +83529,7 @@ träumer
 träumerei
 träumerisch
 traumhaft
+traumwörtereien
 traurede
 traurig
 traurigkeit
@@ -83075,6 +83543,7 @@ trecker
 treff
 treffen
 treffend
+treffenden
 treffer
 trefferliste
 trefferquote
@@ -83111,6 +83580,7 @@ treppauf
 treppe
 treppen
 treppenförmig
+treppenwitz
 tresen
 tresor
 tret
@@ -83524,6 +83994,7 @@ uart
 überbleibsel
 überblendeffekt
 überblenden
+überblick
 überblicken
 überboten
 überbracht
@@ -83894,6 +84365,7 @@ uart
 überzuwechseln
 ubiquitär
 üblich
+üblichen
 üblicherweise
 üblichkeitsnachweis
 übrig
@@ -83939,6 +84411,7 @@ uhrzustände
 uhu
 ukas
 ukraine
+ukrainehilfen
 ukrainekrise
 ukrainer
 ukrainisch
@@ -84024,6 +84497,7 @@ umformer
 umformulieren
 umformungs
 umfrage
+umfragen
 umfüllen
 umfunktionieren
 umgab
@@ -84380,6 +84854,7 @@ umwechseln
 umweg
 umwelt
 umweltbedingt
+umweltbereich
 umweltbewusst
 umweltfreundlich
 umweltgerecht
@@ -84490,6 +84965,7 @@ unbedarft
 unbedenklichkeit
 unbedenklichkeits
 unbedeutsamkeit
+unbedingt
 unbedingtheit
 unbedrängt
 unbedruckbar
@@ -84678,6 +85154,7 @@ unfassbar
 unfehlbar
 unfehlbarkeit
 unfest
+unfinanzierbar
 unflektierbar
 unflektiert
 unfolgsamkeit
@@ -84716,6 +85193,7 @@ ungekünstelt
 ungeladen
 ungelenk
 ungelernt
+ungeliebte
 ungelogen
 ungemach
 ungemütlichkeit
@@ -84743,6 +85221,7 @@ ungestüm
 ungetrimmt
 ungetüm
 ungewissheit
+ungewöhnliche
 ungewöhnlichkeit
 ungeziefer
 ungeziemend
@@ -84867,6 +85346,7 @@ unnennbar
 unnötigerweise
 unnütz
 uno
+unordentliche
 unordentlichkeit
 unordnung
 unpaarig
@@ -84885,6 +85365,7 @@ unqualifizierbar
 unquantifizierbar
 unrast
 unrat
+unrealistische
 unrecht
 unrechtmäßigkeit
 unrechts
@@ -84923,6 +85404,7 @@ unsegen
 unselbständigkeit
 unselbstständigkeit
 unser
+unsere
 unsereiner
 unsereins
 unsererseits
@@ -85180,6 +85662,7 @@ untugend
 unüberbietbar
 unüberbrückbar
 unüberlegt
+unüberlegte
 unüberprüfbar
 unübersehbar
 unübersetzbar
@@ -85256,6 +85739,8 @@ unvorhersehbar
 unvorsichtigkeit
 unwägbarkeit
 unwahrheit
+unwahrscheinlich
+unwahrscheinliche
 unwahrscheinlichkeit
 unwartbarkeit
 unwegsam
@@ -85617,6 +86102,7 @@ verbauen
 verbauern
 verbesserbarkeit
 verbessern
+verbesserung
 verbesserungsmaßnahme
 verbesserungsmöglichkeit
 verbesserungsvorschlag
@@ -85913,6 +86399,7 @@ vergaloppieren
 vergammeln
 vergammelt
 vergangen
+vergangenen
 vergangenheit
 vergangenheitsbezogen
 vergangenheitsform
@@ -85936,6 +86423,7 @@ vergeltungs
 vergemeinschaften
 vergesellschaften
 vergessen
+vergessenes
 vergessenheit
 vergesslich
 vergesslichkeit
@@ -86174,6 +86662,8 @@ verlags
 verlagsüblich
 verlangen
 verlängern
+verlängert
+verlängertes
 verlängerungs
 verlangsamen
 verlass
@@ -86206,6 +86696,7 @@ verletzen
 verletzend
 verletzer
 verletzlich
+verletzt
 verletzungs
 verletzungsbedingt
 verleugnen
@@ -86213,6 +86704,7 @@ verleumden
 verleumder
 verleumderisch
 verlieben
+verliebt
 verliebtheit
 verliehen
 verlieren
@@ -86259,6 +86751,7 @@ vermehrungs
 vermeidbarkeit
 vermeiden
 vermeidlich
+vermeidung
 vermeinen
 vermeintlich
 vermelden
@@ -86472,6 +86965,7 @@ verschiedenartig
 verschiedenerlei
 verschiedenfarbig
 verschiedenheit
+verschiedensten
 verschiffen
 verschimmeln
 verschlafen
@@ -86604,6 +87098,7 @@ versöhnlichkeit
 versonnen
 versorgen
 versorger
+versorgung
 versorgungs
 versorgungspufferung
 verspannen
@@ -86618,6 +87113,7 @@ verspotten
 versprechen
 versprecher
 versprengen
+verspricht
 verspritzen
 versprochen
 versprühen
@@ -86830,6 +87326,8 @@ verweltlichen
 verwendbarkeit
 verwenden
 verwender
+verwendet
+verwendeten
 verwendungs
 verwendungsfähig
 verwerfen
@@ -86960,9 +87458,12 @@ vieladerig
 vielbefahren
 vieldeutig
 vieldeutigkeit
+viele
 vieleck
+vielen
 vielerlei
 vielerorts
+vieles
 vielfach
 vielfalt
 vielfältig
@@ -87124,6 +87625,7 @@ viskosität
 viskositätsangabe
 vista
 visualisieren
+visualisiert
 visualisierungsproblem
 visualisierungssystem
 visualisierungswerkzeug
@@ -87144,6 +87646,7 @@ vitrine
 vitrinentür
 vivendi
 vize
+vizekanzler
 vlies
 vlsi
 vmos
@@ -87265,6 +87768,7 @@ voneinander
 vonnöten
 vonseiten
 vonstatten
+voodoo
 vopo
 vor
 vorab
@@ -87433,6 +87937,7 @@ vorfahren
 vorfand
 vorfinden
 vorformatieren
+vorfreude
 vorführ
 vorführen
 vorgab
@@ -87562,6 +88067,7 @@ vorig
 vorindustriell
 vorinitialisieren
 vorinstalliert
+vorjahren
 vorjahres
 vorjährig
 vorjahrsmeister
@@ -87645,6 +88151,7 @@ vorsätzlich
 vorschalten
 vorschieben
 vorschießen
+vorschlag
 vorschlagen
 vorschlagsliste
 vorschlagsrecht
@@ -87673,6 +88180,7 @@ vorsingen
 vorsintflutlich
 vorsitzen
 vorsitzende
+vorsitzender
 vorsitzer
 vorsorge
 vorsorgen
@@ -87696,6 +88204,8 @@ vorsteherhund
 vorstellbar
 vorstellen
 vorstellig
+vorstellt
+vorstellung
 vorstellungs
 vorstoßen
 vorstrecken
@@ -87726,8 +88236,10 @@ vorverlegen
 vorverstärken
 vorvorgestern
 vorvorig
+vorwahl
 vorwählen
 vorwählnummer
+vorwahlumfragen
 vorwand
 vorwarf
 vorwärmen
@@ -87883,13 +88395,18 @@ wagneroper
 wagnis
 wagon
 wahl
+wahlanalysten
 wählbar
 wählbarkeit
 wahlberechtigt
 wählen
+wählenden
 wahlentscheidend
 wähler
+wahlergebnisses
 wählerisch
+wählern
+wählerschaft
 wahlfähig
 wählfähig
 wahlfang
@@ -87899,6 +88416,7 @@ wahlfisch
 wahlfrei
 wahlheimat
 wahllos
+wahlsieg
 wahlweise
 wahn
 wahnbild
@@ -87911,6 +88429,7 @@ wahnwitzig
 wahr
 wahren
 währen
+während
 währenddessen
 wahrgehabt
 wahrgenommen
@@ -87929,6 +88448,7 @@ wahrnahm
 wahrnehmbar
 wahrnehmbarkeit
 wahrnehmen
+wahrnehmung
 wahrnehmungs
 wahrnimmt
 wahrsagen
@@ -87959,6 +88479,7 @@ waldarm
 waldärmer
 waldärmste
 waldbedeckt
+waldeinsamkeit
 wälder
 waldig
 waldorflehrer
@@ -88029,6 +88550,7 @@ wandelzeit
 wander
 wanderer
 wanderheuschrecke
+wanderlust
 wandern
 wanderschaft
 wandersmann
@@ -88063,6 +88585,7 @@ wappnen
 warb
 ward
 ware
+wäre
 waren
 wären
 warenkonti
@@ -88098,6 +88621,7 @@ warte
 warteliste
 warten
 wärter
+wartet
 wartungs
 wartungsarm
 wartungsfrei
@@ -88647,11 +89171,13 @@ weltmännisch
 weltmeisterelf
 weltoffen
 weltpolitisch
+weltschmerz
 weltumfassend
 weltumkrempelnd
 weltumsegler
 weltumspannend
 weltweit
+weltwirtschaft
 weltwirtschaftlich
 wem
 wembleystadion
@@ -88667,6 +89193,7 @@ wenig
 wenigkeit
 wenigst
 wenigstens
+wenn
 wenngleich
 wennschon
 wer
@@ -88680,6 +89207,7 @@ werbetrommel
 werbewirksam
 werblich
 werbungskosten
+werde
 werdegang
 werden
 werder
@@ -88694,12 +89222,14 @@ werks
 werkspionage
 werksseitig
 werkstatt
+werkstattbericht
 werkstätte
 werksvertrag
 werktags
 werktätig
 werkvertraglich
 werkzeug
+werkzeuge
 wermut
 wermutstropfen
 werner
@@ -88740,6 +89270,7 @@ westalpen
 westantarktisch
 westberliner
 westdeutsch
+westdeutschen
 weste
 westen
 westentasche
@@ -88945,6 +89476,7 @@ wiedereinmal
 wiedereinnehmen
 wiedereinsetzen
 wiedereinstellen
+wiedereinzug
 wiederergreifen
 wiederergriffen
 wiedererkannt
@@ -89068,6 +89600,7 @@ wildschweinfleisch
 wildschweingulasch
 wilhelm
 wilhelmshaven
+will
 wille
 willen
 willenlos
@@ -89188,6 +89721,7 @@ wirtschaftler
 wirtschaftlich
 wirtschaftlichkeit
 wirtschafts
+wirtschaftsförderung
 wirtschaftsgeografie
 wirtschaftsgeographie
 wirtschaftspolitisch
@@ -89234,6 +89768,7 @@ witzbold
 witzelei
 witzeln
 witzig
+witzige
 witzigkeit
 wizard
 wladimir
@@ -89245,6 +89780,7 @@ woanders
 wobei
 woche
 wochen
+wochenende
 wochenlang
 wochentags
 wöchentlich
@@ -89284,6 +89820,7 @@ wohlerzogen
 wohlfahrts
 wohlfeil
 wohlfühlen
+wohlfühlwörter
 wohlgefällig
 wohlgefühlt
 wohlgemerkt
@@ -89300,6 +89837,7 @@ wohlhabend
 wohlhabenheit
 wohlig
 wohlklingend
+wohlklingende
 wohlmeinend
 wohlorganisiert
 wohlriechend
@@ -89323,6 +89861,7 @@ wohnen
 wohnhaft
 wohnlich
 wohnmobil
+wohnt
 wohnungs
 wohnungseigentümergemeinschaft
 wohnungslos
@@ -89345,6 +89884,7 @@ wolkenkuckucksheim
 wolkenkuckucksland
 wolkenkuckucksländer
 wolkenlos
+wolkenschaukeln
 wolkig
 woll
 wolle
@@ -89380,7 +89920,10 @@ wortärmer
 wortärmste
 wortbrüchig
 wörtchen
+wortentdeckungsreise
 wörter
+wörtern
+wörtersammler
 wortfügungslehren
 wortgetreu
 wortgewandt
@@ -89390,6 +89933,7 @@ wortklauberei
 wörtlich
 wortlos
 wortreich
+wortschönheiten
 wortschwall
 wortschwatz
 wortstreit
@@ -89433,6 +89977,7 @@ wunde
 wunder
 wunderbar
 wunderbarerweise
+wunderfrohe
 wundergenommen
 wunderhübsch
 wunderhübscheste
@@ -89468,6 +90013,7 @@ wuppertal
 wuppertaler
 wurde
 würde
+wurden
 würdenträger
 würdevoll
 würdig
@@ -89589,7 +90135,9 @@ zahler
 zähler
 zahllos
 zahlreich
+zahlt
 zahltag
+zahlungen
 zahlungs
 zahlungsaufschub
 zahlungsfähig
@@ -89644,6 +90192,7 @@ zauberei
 zauberer
 zauberhaft
 zaubern
+zaubert
 zauderer
 zaudern
 zaum
@@ -89696,6 +90245,7 @@ zeichnungsberechtigt
 zeige
 zeigen
 zeiger
+zeigte
 zeile
 zeilen
 zeilenbuffer
@@ -89706,6 +90256,7 @@ zeitabhängig
 zeitanteilig
 zeitaufwändig
 zeitaufwendig
+zeitgeist
 zeitgemäß
 zeitgenössisch
 zeitgerecht
@@ -89723,6 +90274,7 @@ zeitlos
 zeitlupenaufnahme
 zeitnah
 zeitnormal
+zeitperiode
 zeitraffer
 zeitrafferaufnahme
 zeitraubend
@@ -89991,6 +90543,7 @@ ziehklinge
 ziehren
 ziehsohn
 ziehsöhne
+zieht
 ziehtochter
 ziehtöchter
 ziehvater
@@ -90061,6 +90614,7 @@ zinsesverzinsung
 zinseszins
 zinsfrei
 zinsgünstig
+zinskosten
 zinslos
 zinspanne
 zinspflichtig
@@ -90095,6 +90649,7 @@ zisterne
 zisterzienser
 zitadelle
 zitat
+zitate
 zitatesammlung
 zither
 zitieren
@@ -90433,6 +90988,7 @@ zugutehielt
 zugutekam
 zugutekämen
 zugutekommen
+zugzwang
 zuhalten
 zuhälter
 zuhälterei
@@ -90465,6 +91021,7 @@ zukorken
 zukunft
 zukunftbezogen
 zukünftig
+zukünftige
 zukunfts
 zukunftsfähig
 zukunftsgerichtet
@@ -90944,6 +91501,7 @@ zusammengezogen
 zusammengezuckt
 zusammenhalten
 zusammenhältst
+zusammenhang
 zusammenhängen
 zusammenhanglos
 zusammenhauen
@@ -91044,6 +91602,7 @@ zusandte
 zusatz
 zusätze
 zusätzlich
+zusätzliches
 zusatzterm
 zuschalten
 zuschanzen

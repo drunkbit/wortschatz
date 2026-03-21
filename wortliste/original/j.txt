@@ -1,5 +1,6 @@
 j
 ja
+Ja
 jacht
 Jacht
 jachtklub
@@ -47,8 +48,10 @@ jahrbücher
 Jahrbücher
 jährchen
 Jährchen
+Jahre
 jahrein
 jahrelang
+Jahren
 jähren
 jahres
 Jahres
@@ -107,6 +110,7 @@ Jan
 janeiro
 Janeiro
 Janina
+Jänner
 januar
 Januar
 janusköpfig
@@ -148,7 +152,10 @@ Jeansträger
 jeanstyp
 Jeanstyp
 jede
+jedem
+jeden
 jedenfalls
+jeder
 jederart
 jederlei
 jedermann
@@ -164,6 +171,7 @@ Jelzin
 jemals
 jemand
 jemandem
+jemanden
 jemen
 Jemen
 jena
@@ -197,6 +205,7 @@ Jet
 jetten
 jetzige
 jetzt
+Jetzt
 jeweilig
 jeweils
 jiddisch
@@ -376,8 +385,10 @@ jungens
 Jungens
 jungenschaft
 Jungenschaft
+junger
 jünger
 Jünger
+jüngeren
 jungfer
 Jungfer
 jungfernfahrt

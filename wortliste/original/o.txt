@@ -4,6 +4,7 @@ Oase
 oasenländer
 Oasenländer
 ob
+Ob
 Obacht
 Obama
 obdach
@@ -231,6 +232,7 @@ Offsetspannung
 offsetwert
 Offsetwert
 oft
+Oft
 oftmalig
 oftmals
 oh
@@ -258,6 +260,7 @@ ohrenbetäubend
 ohrfeigen
 ohrläppchen
 Ohrläppchen
+Ohrwurm
 okay
 okkult
 okkultismus
@@ -420,6 +423,7 @@ Opportunitätsprinzip
 opposition
 Opposition
 oppositionell
+oppositionellen
 oppositions
 Oppositions
 opteron
@@ -502,6 +506,7 @@ Orden
 ordens
 Ordens
 ordentlich
+ordentliche
 ordentlichkeit
 Ordentlichkeit
 order
@@ -605,6 +610,7 @@ Ornithologie
 ornithologisch
 ort
 Ort
+Orte
 orten
 Orten
 orthodox

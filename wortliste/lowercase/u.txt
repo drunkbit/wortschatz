@@ -37,6 +37,7 @@ uhrzustände
 uhu
 ukas
 ukraine
+ukrainehilfen
 ukrainekrise
 ukrainer
 ukrainisch
@@ -122,6 +123,7 @@ umformer
 umformulieren
 umformungs
 umfrage
+umfragen
 umfüllen
 umfunktionieren
 umgab
@@ -478,6 +480,7 @@ umwechseln
 umweg
 umwelt
 umweltbedingt
+umweltbereich
 umweltbewusst
 umweltfreundlich
 umweltgerecht
@@ -588,6 +591,7 @@ unbedarft
 unbedenklichkeit
 unbedenklichkeits
 unbedeutsamkeit
+unbedingt
 unbedingtheit
 unbedrängt
 unbedruckbar
@@ -776,6 +780,7 @@ unfassbar
 unfehlbar
 unfehlbarkeit
 unfest
+unfinanzierbar
 unflektierbar
 unflektiert
 unfolgsamkeit
@@ -814,6 +819,7 @@ ungekünstelt
 ungeladen
 ungelenk
 ungelernt
+ungeliebte
 ungelogen
 ungemach
 ungemütlichkeit
@@ -841,6 +847,7 @@ ungestüm
 ungetrimmt
 ungetüm
 ungewissheit
+ungewöhnliche
 ungewöhnlichkeit
 ungeziefer
 ungeziemend
@@ -965,6 +972,7 @@ unnennbar
 unnötigerweise
 unnütz
 uno
+unordentliche
 unordentlichkeit
 unordnung
 unpaarig
@@ -983,6 +991,7 @@ unqualifizierbar
 unquantifizierbar
 unrast
 unrat
+unrealistische
 unrecht
 unrechtmäßigkeit
 unrechts
@@ -1021,6 +1030,7 @@ unsegen
 unselbständigkeit
 unselbstständigkeit
 unser
+unsere
 unsereiner
 unsereins
 unsererseits
@@ -1278,6 +1288,7 @@ untugend
 unüberbietbar
 unüberbrückbar
 unüberlegt
+unüberlegte
 unüberprüfbar
 unübersehbar
 unübersetzbar
@@ -1354,6 +1365,8 @@ unvorhersehbar
 unvorsichtigkeit
 unwägbarkeit
 unwahrheit
+unwahrscheinlich
+unwahrscheinliche
 unwahrscheinlichkeit
 unwartbarkeit
 unwegsam

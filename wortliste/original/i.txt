@@ -31,6 +31,7 @@ Ideal
 idealerweise
 idealisieren
 Idealisieren
+idealisierten
 idealismus
 Idealismus
 idealist
@@ -72,6 +73,7 @@ ideologie
 Ideologie
 ideologieanfällig
 ideologisch
+ideologische
 idiomatik
 Idiomatik
 idiomatisch
@@ -109,6 +111,8 @@ IHK
 ihm
 ihn
 ihr
+ihre
+ihrer
 ihrerseits
 ihresgleichen
 ihrethalben
@@ -162,6 +166,7 @@ Ilmensee
 iltis
 Iltis
 im
+Im
 image
 Image
 imagepflege
@@ -335,6 +340,7 @@ Imputation
 imputieren
 imstande
 in
+In
 inadäquat
 inaktiv
 inaktivieren
@@ -586,6 +592,7 @@ informationsverarbeitend
 informativ
 informatorisch
 informell
+informeller
 informieren
 infrage
 infrarot
@@ -635,12 +642,15 @@ Inhalt
 inhalteanbieter
 Inhalteanbieter
 inhaltlich
+inhaltlichen
+inhaltlicher
 inhalts
 Inhalts
 inhaltsabhängig
 inhaltslos
 inhaltsorientiert
 inhaltsreich
+Inhaltsverzeichnis
 inhärent
 inhomogen
 inhomogenität
@@ -768,6 +778,7 @@ innen
 Innen
 innenleben
 Innenleben
+Innenministeriums
 innenpolitisch
 innensechskant
 Innensechskant
@@ -828,6 +839,7 @@ Inquisition
 inquisitor
 Inquisitor
 inquisitorisch
+ins
 insasse
 Insasse
 insassenversicherung
@@ -896,6 +908,9 @@ Inspektor
 inspiration
 Inspiration
 inspirieren
+inspirierende
+InspirierendeAusdrucksform
+inspirierender
 inspizient
 Inspizient
 inspizieren
@@ -1059,6 +1074,7 @@ interdependenz
 Interdependenz
 interdisziplinär
 interessant
+Interessant
 interessanterweise
 interesse
 Interesse
@@ -1252,6 +1268,7 @@ introvertiert
 intuition
 Intuition
 intuitiv
+intuitive
 intus
 inuit
 Inuit
@@ -1504,6 +1521,7 @@ israelisch
 israelitisch
 isst
 ist
+Ist
 istanbul
 Istanbul
 istanbuler

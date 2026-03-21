@@ -122,6 +122,7 @@ cellulose
 Cellulose
 celsius
 Celsius
+Cem
 cembali
 Cembali
 cembalist
@@ -175,6 +176,7 @@ Chaostheorie
 chaot
 Chaot
 chaotisch
+chaotische
 Chaplin
 charakter
 Charakter
@@ -265,6 +267,7 @@ chef
 Chef
 chefkapellmeister
 Chefkapellmeister
+Chefs
 chemie
 Chemie
 chemikalie
@@ -521,6 +524,7 @@ cmos
 Cmos
 CNN
 Co
+CO
 coaten
 coatingmass
 Coatingmass

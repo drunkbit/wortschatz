@@ -16,6 +16,8 @@ Kabinen
 Kabinett
 Kabinettchef
 Kabinetts
+Kabinettsdisziplin
+Kabinettsmitglied
 Kabuff
 Kabul
 Kachel
@@ -214,6 +216,7 @@ Kampfreich
 Kampfstark
 Kampfstärker
 Kampfstärkste
+Kämpft
 Kampfunfähig
 Kampieren
 Kanaan
@@ -245,6 +248,7 @@ Kandinsky
 Känguru
 Kaninchen
 Kanister
+Kann
 Kanne
 Kannibale
 Kannibalisch
@@ -280,6 +284,7 @@ Kanzelparagraph
 Kanzlei
 Kanzler
 Kanzlernachfolge
+Kanzlerpartei
 Kap
 Kapaun
 Kapazität
@@ -303,6 +308,7 @@ Kapitalismuskritisch
 Kapitalist
 Kapitalistisch
 Kapitalkräftig
+Kapitalmarkt
 Kapitalstark
 Kapitän
 Kapitänleutnant
@@ -595,6 +601,7 @@ Käuflichkeit
 Kaufmännisch
 Kaufmanns
 Kaufstark
+Kauft
 Kaugummi
 Kaukasus
 Kaulquappe
@@ -657,6 +664,8 @@ Keimfrei
 Keimling
 Keimtötend
 Kein
+Keine
+Keinen
 Keinerlei
 Keinesfalls
 Keineswegs
@@ -772,6 +781,7 @@ Khan
 Khmer
 Khomeini
 Khz
+Ki
 Kib
 Kibbuz
 Kibbuzim
@@ -779,6 +789,7 @@ Kibbuznik
 Kichern
 Kicken
 Kicker
+Kickl
 Kickstarter
 Kickstartermechanismus
 Kidnappen
@@ -1014,6 +1025,9 @@ Kleie
 Klein
 Kleinarmenien
 Kleinbürgerlich
+Kleine
+Kleinere
+Kleines
 Kleineuropäisch
 Kleinformatig
 Kleingedruckt
@@ -1068,16 +1082,19 @@ Klient
 Klientel
 Klientelpolitik
 Klima
+Klimaförderungen
 Klimatisch
 Klimatisieren
 Klimatisierung
 Klimatologe
 Klimmzug
 Klimpern
+Klingbeil
 Klinge
 Klingel
 Klingeln
 Klingen
+Klingt
 Klinik
 Klinikum
 Klinisch
@@ -1249,6 +1266,7 @@ Knutschen
 Koalieren
 Koalition
 Koalitions
+Koalitionspartner
 Koalitionstreu
 Koalitionsunfähig
 Koaxialkabel
@@ -1445,6 +1463,7 @@ Kommasetzung
 Kommastelle
 Kommata
 Kommen
+Kommenden
 Kommentar
 Kommentarbuchstabe
 Kommentarfunktion
@@ -1470,6 +1489,7 @@ Kommissionär
 Kommissions
 Kommissionshungrig
 Kommode
+Kommt
 Kommunal
 Kommune
 Kommunikation
@@ -1631,6 +1651,7 @@ Konföderation
 Konföderiert
 Konföderierte
 Konform
+Konforme
 Konformismus
 Konformität
 Konformitäts
@@ -1677,6 +1698,7 @@ Konkav
 Konklave
 Konkordat
 Konkret
+Konkrete
 Konkretere
 Konkreteste
 Konkretisieren
@@ -1689,6 +1711,7 @@ Konkurrenzlos
 Konkurrieren
 Konkurs
 Konkursreif
+Könne
 Konnektivität
 Können
 Könnens
@@ -1698,6 +1721,9 @@ Konnotation
 Konnotativ
 Konnotieren
 Konnte
+Könnte
+Konnten
+Könnten
 Konquistador
 Konrad
 Konrektor
@@ -1713,6 +1739,7 @@ Konsequenterweise
 Konsequenz
 Konservatismus
 Konservativ
+Konservativen
 Konservativismus
 Konservator
 Konservatorien
@@ -1727,6 +1754,7 @@ Konsistenzprüfung
 Konsistorium
 Konsole
 Konsolidieren
+Konsolidiert
 Konsolidierungs
 Konsolschnittstelle
 Konsonant
@@ -1914,6 +1942,7 @@ Kopernikus
 Kopf
 Köpfe
 Köpfen
+Kopfkino
 Kopflastig
 Kopflos
 Kopfschüttelnd
@@ -2044,6 +2073,7 @@ Kostenschonend
 Kostensenkend
 Kostensenkungspotenzial
 Kostensparend
+Kostet
 Kostgänger
 Köstlich
 Köstlichkeit
@@ -2153,6 +2183,7 @@ Kraxelei
 Kreation
 Kreationismus
 Kreativ
+Kreative
 Kreativität
 Kreativitätsverlust
 Kreatur
@@ -2166,6 +2197,7 @@ Kredenzen
 Kredit
 Kreditfähig
 Kreditgebend
+Kreditgeschäft
 Kreditieren
 Kreditnehmerzahl
 Kreditor
@@ -2388,6 +2420,7 @@ Kuckuck
 Kuckucksei
 Kuckuckskind
 Kuckucksuhr
+Kuddelmuddel
 Kufe
 Kugel
 Kügelchen
@@ -2429,6 +2462,9 @@ Kultstatus
 Kultur
 Kulturabhängig
 Kulturell
+Kulturelle
+Kulturellejuwelen
+Kulturelles
 Kulturfreundlich
 Kulturgeschichtlich
 Kulturhistorisch
@@ -2441,6 +2477,7 @@ Kummer
 Kümmerdasein
 Kümmerlich
 Kümmern
+Kummerspeck
 Kummervoll
 Kumpan
 Kumpel
@@ -2461,6 +2498,7 @@ Kundgeben
 Kundgetan
 Kundig
 Kündigen
+Kündigt
 Kündigungs
 Kundmachen
 Kundschaft
@@ -2478,6 +2516,7 @@ Künstler
 Künstlerisch
 Künstlertum
 Künstlich
+Künstlicher
 Kunstlos
 Kunstvoll
 Kunterbunt
@@ -2527,6 +2566,7 @@ Kursortasten
 Kursstürze
 Kursus
 Kursvernichtend
+Kurswechsel
 Kurt
 Kurtisane
 Kurve
@@ -2539,9 +2579,11 @@ Kurzärmlig
 Kurzatmig
 Kurzatmigkeit
 Kurzbeinig
+Kurze
 Kürzel
 Kürzen
 Kurzentschlossen
+Kurzer
 Kürzer
 Kurzerhand
 Kürzest
@@ -2557,6 +2599,7 @@ Kurzschließen
 Kurzschlussfest
 Kurzsichtig
 Kurzsichtigkeit
+Kürzt
 Kurzum
 Kürzungs
 Kurzweilig
@@ -2589,6 +2632,7 @@ Kwu
 Kybernetik
 Kybernetiker
 Kybernetisch
+Kyjiw
 Kyphose
 Kyrillisch
 Kz

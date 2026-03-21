@@ -313,6 +313,7 @@ verbesserbarkeit
 Verbesserbarkeit
 verbessern
 Verbessern
+Verbesserung
 verbesserungsmassnahme
 Verbesserungsmassnahme
 verbesserungsmoeglichkeit
@@ -764,6 +765,7 @@ vergaloppieren
 vergammeln
 vergammelt
 vergangen
+vergangenen
 vergangenheit
 Vergangenheit
 vergangenheitsbezogen
@@ -800,6 +802,7 @@ Vergemeinschaften
 vergesellschaften
 Vergesellschaften
 vergessen
+Vergessenes
 vergessenheit
 Vergessenheit
 vergesslich
@@ -1158,6 +1161,8 @@ verladestation
 Verladestation
 verlaengern
 Verlaengern
+verlaengert
+verlaengertes
 verlaengerungs
 Verlaengerungs
 verlaesslich
@@ -1218,6 +1223,7 @@ verletzend
 verletzer
 Verletzer
 verletzlich
+verletzt
 verletzungs
 Verletzungs
 verletzungsbedingt
@@ -1229,6 +1235,7 @@ verleumder
 Verleumder
 verleumderisch
 verlieben
+verliebt
 verliebtheit
 Verliebtheit
 verliehen
@@ -1299,6 +1306,7 @@ Vermeidbarkeit
 vermeiden
 Vermeiden
 vermeidlich
+Vermeidung
 vermeinen
 vermeintlich
 vermelden
@@ -1333,6 +1341,7 @@ Vermischen
 vermischungsgrad
 Vermischungsgrad
 vermissen
+Vermissen
 vermisstenanzeige
 Vermisstenanzeige
 vermisstenliste
@@ -1613,6 +1622,7 @@ verschiedenerlei
 verschiedenfarbig
 verschiedenheit
 Verschiedenheit
+verschiedensten
 verschiffen
 Verschiffen
 verschimmeln
@@ -1817,6 +1827,7 @@ versorgen
 Versorgen
 versorger
 Versorger
+Versorgung
 versorgungs
 Versorgungs
 versorgungspufferung
@@ -1838,6 +1849,7 @@ Versprechen
 versprecher
 Versprecher
 versprengen
+verspricht
 verspritzen
 versprochen
 verspruehen
@@ -2175,6 +2187,8 @@ verwenden
 Verwenden
 verwender
 Verwender
+verwendet
+verwendeten
 verwendungs
 Verwendungs
 verwendungsfaehig
@@ -2382,10 +2396,13 @@ vielbefahren
 vieldeutig
 vieldeutigkeit
 Vieldeutigkeit
+viele
 vieleck
 Vieleck
+vielen
 vielerlei
 vielerorts
+vieles
 vielfach
 vielfaeltig
 vielfaeltigkeit
@@ -2614,6 +2631,7 @@ vista
 Vista
 visualisieren
 Visualisieren
+visualisiert
 visualisierungsproblem
 Visualisierungsproblem
 visualisierungssystem
@@ -2646,6 +2664,7 @@ Vitrinentuer
 vivendi
 vize
 Vize
+Vizekanzler
 vlies
 Vlies
 vLSI
@@ -2817,6 +2836,7 @@ voneinander
 vonnoeten
 vonseiten
 vonstatten
+Voodoo
 Vopo
 vor
 Vor
@@ -3010,6 +3030,7 @@ vorfahren
 vorfand
 vorfinden
 vorformatieren
+Vorfreude
 vorfuehr
 Vorfuehr
 vorfuehren
@@ -3154,6 +3175,7 @@ vorindustriell
 vorinitialisieren
 vorinstalliert
 vorjaehrig
+Vorjahren
 vorjahres
 Vorjahres
 vorjahrsmeister
@@ -3259,6 +3281,7 @@ vorschalten
 vorschieben
 vorschiessen
 vorschlaegt
+Vorschlag
 vorschlagen
 vorschlagsliste
 Vorschlagsliste
@@ -3295,6 +3318,7 @@ vorsintflutlich
 vorsitzen
 vorsitzende
 Vorsitzende
+Vorsitzender
 vorsitzer
 Vorsitzer
 vorsorge
@@ -3325,6 +3349,8 @@ Vorsteherhund
 vorstellbar
 vorstellen
 vorstellig
+vorstellt
+Vorstellung
 vorstellungs
 Vorstellungs
 vorstossen
@@ -3372,6 +3398,8 @@ vorwaertsfahren
 Vorwaertsfahren
 vorwaertsrichtung
 Vorwaertsrichtung
+Vorwahl
+Vorwahlumfragen
 vorwand
 Vorwand
 vorwarf

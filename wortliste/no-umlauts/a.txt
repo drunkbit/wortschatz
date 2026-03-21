@@ -10226,6 +10226,7 @@ abgesetzten
 abgesetzter
 abgesetztes
 abgesichert
+Abgesichert
 abgesicherte
 abgesichertem
 abgesicherten
@@ -26200,6 +26201,7 @@ aehren
 Aehren
 Aehrenamt
 aelter
+aeltere
 Aeltern
 aeltest
 aeltesten
@@ -26211,6 +26213,7 @@ aemter
 Aemter
 aendern
 Aendern
+Aenderungen
 aenderungs
 Aenderungs
 aengste
@@ -27735,6 +27738,7 @@ Agrarflugzeuge
 Agrarflugzeugen
 Agrarflugzeuges
 Agrarflugzeugs
+Agrarfoerderungen
 Agrargeschichte
 Agrargesellschaft
 Agrargesellschaften
@@ -29484,6 +29488,7 @@ Aktuator
 Aktuatoren
 Aktuators
 aktuell
+Aktuell
 aktuelle
 aktuellem
 aktuellen
@@ -32838,6 +32843,7 @@ Alsfelds
 Alsleben
 Alslebens
 also
+Also
 Alstaden
 Alstadens
 Alstahaug
@@ -36345,6 +36351,7 @@ Amylose
 Amylum
 Amylums
 an
+An
 AN
 Ana
 ANA
@@ -47449,6 +47456,7 @@ apotheken
 Apotheken
 apotheker
 Apotheker
+App
 appalachen
 Appalachen
 apparat
@@ -47569,13 +47577,17 @@ arbeitsintensiv
 arbeitslos
 arbeitslosen
 Arbeitslosen
+Arbeitslosigkeit
 arbeitsmarktpolitisch
+Arbeitsmarktprojekte
 Arbeitsnehmer
 arbeitspaedagogisch
 arbeitsrechtlich
 arbeitsreich
 arbeitsscheu
 arbeitssparend
+Arbeitstag
+Arbeitstags
 arbeitstechnisch
 arbeitsueberlastung
 Arbeitsueberlastung
@@ -47874,6 +47886,7 @@ Assistenz
 assistieren
 assoziation
 Assoziation
+Assoziationen
 assoziations
 Assoziations
 assoziativ
@@ -47924,6 +47937,7 @@ Asyl
 asylant
 Asylant
 asylrechtlich
+Asylwerber
 asymmetrie
 Asymmetrie
 asymmetrisch
@@ -48040,6 +48054,7 @@ Au
 aubergine
 Aubergine
 auch
+Auch
 Audi
 audienz
 Audienz
@@ -48504,6 +48519,7 @@ aufhoeren
 aufholbedarf
 Aufholbedarf
 aufholen
+Aufholjagd
 aufhorchen
 aufkaeufer
 Aufkaeufer
@@ -48665,6 +48681,7 @@ aufrechtzuerhalten
 aufregen
 Aufregen
 aufregend
+Aufregung
 aufreiben
 aufreibend
 aufreihen
@@ -48831,6 +48848,7 @@ aufstreben
 aufstreichen
 aufstrich
 Aufstrich
+Aufstrichen
 aufstuetzen
 aufsuchen
 Aufsuchen
@@ -49071,6 +49089,7 @@ augapfel
 Augapfel
 augen
 Augen
+Augenblick
 augenblicklich
 augenfaellig
 Augenlied
@@ -49200,6 +49219,7 @@ ausdrucks
 Ausdrucks
 ausdrucksfaehig
 ausdruckslos
+Ausdrucksmoeglichkeiten
 ausdrucksstaerker
 ausdrucksstark
 ausdrucksvoll
@@ -50051,6 +50071,7 @@ aussteigens
 Aussteigens
 aussteiger
 Aussteiger
+aussteigt
 ausstell
 Ausstell
 ausstellen
@@ -50135,6 +50156,7 @@ ausuebungs
 Ausuebungs
 ausufern
 Ausufern
+ausufernden
 ausverkauf
 Ausverkauf
 ausverkaufen
@@ -50358,6 +50380,7 @@ Autodidakt
 autodidaktisch
 autodrom
 Autodrom
+Autofahrer
 autogen
 autogramm
 Autogramm

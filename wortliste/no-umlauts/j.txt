@@ -1,5 +1,6 @@
 j
 ja
+Ja
 jacht
 Jacht
 jachtklub
@@ -36,6 +37,7 @@ jaehzorn
 Jaehzorn
 jaehzornig
 jaemmerlich
+Jaenner
 jaeten
 jaffa
 Jaffa
@@ -55,8 +57,10 @@ jahrbuch
 Jahrbuch
 jahrbuecher
 Jahrbuecher
+Jahre
 jahrein
 jahrelang
+Jahren
 jahres
 Jahres
 jahresunterlagen
@@ -148,7 +152,10 @@ Jeanstraeger
 jeanstyp
 Jeanstyp
 jede
+jedem
+jeden
 jedenfalls
+jeder
 jederart
 jederlei
 jedermann
@@ -164,6 +171,7 @@ Jelzin
 jemals
 jemand
 jemandem
+jemanden
 jemen
 Jemen
 jena
@@ -197,6 +205,7 @@ Jet
 jetten
 jetzige
 jetzt
+Jetzt
 jeweilig
 jeweils
 jiddisch
@@ -338,6 +347,7 @@ Juedin
 juedisch
 juenger
 Juenger
+juengeren
 juengling
 Juengling
 juenglingsalter
@@ -386,6 +396,7 @@ jungens
 Jungens
 jungenschaft
 Jungenschaft
+junger
 jungfer
 Jungfer
 jungfernfahrt

@@ -29,8 +29,10 @@ jahraus
 jahrbuch
 jahrbücher
 jährchen
+jahre
 jahrein
 jahrelang
+jahren
 jähren
 jahres
 jahresunterlagen
@@ -69,6 +71,7 @@ jammerschade
 jan
 janeiro
 janina
+jänner
 januar
 janusköpfig
 japan
@@ -95,7 +98,10 @@ jeansindustrie
 jeansträger
 jeanstyp
 jede
+jedem
+jeden
 jedenfalls
+jeder
 jederart
 jederlei
 jedermann
@@ -110,6 +116,7 @@ jelzin
 jemals
 jemand
 jemandem
+jemanden
 jemen
 jena
 jene
@@ -239,7 +246,9 @@ jungenbeine
 jungenhaft
 jungens
 jungenschaft
+junger
 jünger
+jüngeren
 jungfer
 jungfernfahrt
 jungfernflug

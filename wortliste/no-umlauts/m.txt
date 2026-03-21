@@ -10,6 +10,7 @@ maastrichter
 Maastrichter
 Maasuebergang
 Mac
+Mach
 machart
 Machart
 machbarkeit
@@ -183,6 +184,7 @@ Magie
 magier
 Magier
 magisch
+magische
 magister
 Magister
 magistrat
@@ -384,6 +386,7 @@ malteser
 Malteser
 maltesisch
 maltraetieren
+Malu
 malus
 Malus
 malve
@@ -403,11 +406,13 @@ Mammon
 mammut
 Mammut
 man
+Man
 management
 Management
 managen
 manager
 Manager
+manc
 manch
 manchenorts
 mancherlei
@@ -734,6 +739,7 @@ marssonde
 Marssonde
 marter
 Marter
+Marterbauer
 martern
 martialisch
 Martin
@@ -875,6 +881,8 @@ massig
 massiv
 Massiv
 masslos
+Massnahme
+Massnahmen
 massnahmenkatalog
 Massnahmenkatalog
 Massname
@@ -1250,6 +1258,7 @@ Meistbeguenstigungsklausel
 meistbesucht
 meistbietend
 meistdiskutiert
+meiste
 meistens
 meistenteils
 meister
@@ -1263,6 +1272,7 @@ meisterschafts
 Meisterschafts
 meistgekauft
 meistgelesen
+Meistgelesen
 meistgenannt
 meistgenutzt
 meistgespielt
@@ -1277,6 +1287,7 @@ Mekonggebiet
 melancholie
 Melancholie
 melancholisch
+melancholisches
 Melanie
 melanom
 Melanom
@@ -1421,6 +1432,7 @@ merlin
 Merlin
 merowinger
 Merowinger
+Merz
 meschugge
 mesner
 Mesner
@@ -1452,6 +1464,7 @@ Messing
 messner
 Messner
 messtechnisch
+Messungen
 metabol
 metabolisch
 metabolismus
@@ -1812,6 +1825,7 @@ Mindest
 mindeste
 mindestens
 mindestreservepflichtig
+Mindestsaetze
 mine
 Mine
 minen
@@ -1824,6 +1838,7 @@ Mineralien
 mineralisch
 mineraloel
 Mineraloel
+Mineraloelsteuer
 mineraloelsteuern
 Mineraloelsteuern
 mineraloelunternehmen
@@ -1862,6 +1877,8 @@ ministeriumsmitarbeiter
 Ministeriumsmitarbeiter
 ministeriumssprecher
 Ministeriumssprecher
+Ministerpraesidenten
+Ministerpraesidentenamt
 ministrant
 Ministrant
 minnesaenger
@@ -2208,6 +2225,7 @@ mitnichten
 mitprotokollieren
 mitrechnen
 mitreden
+mitregiert
 mitreisen
 mitreissen
 mitsamt
@@ -2241,6 +2259,7 @@ mittags
 Mittags
 mittagslaeuten
 Mittagslaeuten
+Mittagspause
 mittdreissiger
 Mittdreissiger
 mitte
@@ -2541,12 +2560,15 @@ moebiusband
 Moebiusband
 moeblieren
 moebliert
+moechte
 moechtegern
 Moechtegern
 moechten
 moege
 moegen
 moeglich
+moegliche
+moeglichen
 moeglicherweise
 moeglichkeit
 Moeglichkeit
@@ -3018,6 +3040,7 @@ muessen
 muessig
 muessiggang
 Muessiggang
+muesste
 muetter
 Muetter
 muettergenesungswerk
@@ -3158,6 +3181,7 @@ muskuloes
 muslim
 Muslim
 muslimisch
+muss
 musse
 Musse
 musselin
@@ -3199,6 +3223,7 @@ mutterlos
 muttermal
 Muttermal
 mutterseelenallein
+Mutterseelenallein
 muttersprachler
 Muttersprachler
 muttersprachlich

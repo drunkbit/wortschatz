@@ -46,6 +46,7 @@ radiermesser
 radiernadel
 radieschen
 radikal
+radikale
 radikalenerlass
 radikalisieren
 radikalist
@@ -180,6 +181,7 @@ rasch
 rascheln
 raschest
 rasen
+rasenmaeher
 raserei
 rasier
 rasieren
@@ -263,6 +265,7 @@ rauhaardackel
 rauheit
 rauigkeit
 raum
+raumes
 raumkrank
 raumsparend
 raumweit
@@ -314,6 +317,7 @@ reaktivieren
 reaktor
 real
 realisation
+realisierbar
 realisierbarkeit
 realisieren
 realisierungschance
@@ -353,6 +357,7 @@ rechnergesteuert
 rechnergestuetzt
 rechnerisch
 rechnerunterstuetzt
+rechnet
 rechnungs
 recht
 rechte
@@ -360,6 +365,7 @@ rechteck
 rechteckig
 rechtens
 rechtfertigen
+rechtfertigung
 rechtglaeubigkeit
 rechthaber
 rechthaberei
@@ -437,6 +443,7 @@ redensart
 redensartlich
 redenschreiber
 rederei
+redet
 redford
 redigieren
 redigierung
@@ -453,6 +460,7 @@ reduktion
 redundant
 redundanz
 reduzieren
+reduziert
 reeder
 reederei
 reedereikonsortien
@@ -500,6 +508,7 @@ reformer
 reformfreudig
 reformieren
 reformismus
+reformkurs
 reformorientiert
 reformpaedagogisch
 reformulieren
@@ -517,6 +526,7 @@ regelausschlag
 regelbasiert
 regelhaft
 regelmaessig
+regelmaessiges
 regeln
 regelrecht
 regelungs
@@ -536,10 +546,15 @@ regentschaftsrat
 reggae
 regie
 regieren
+regierende
 regiert
+regierung
 regierungs
+regierungsbeteiligung
+regierungsbildung
 regierungsfaehig
 regierungsfreundlich
+regierungsparteien
 regierungstreu
 regime
 regimegegner
@@ -549,6 +564,7 @@ region
 regional
 regionalisieren
 regionalitaet
+regionen
 regisseur
 register
 registratur
@@ -609,7 +625,9 @@ reich
 reichen
 reichern
 reichhaltig
+reichhaltiger
 reichhaltigkeit
+reichinnek
 reichlich
 reichs
 reichsacht
@@ -619,6 +637,7 @@ reichspogromnacht
 reichstags
 reichsunmittelbar
 reichsweite
+reicht
 reichtuemer
 reichtum
 reichweite
@@ -1045,6 +1064,7 @@ richtigerweise
 richtiggehend
 richtigkeit
 richtigstellen
+richtung
 richtungs
 richtungsbit
 richtungslos
@@ -1222,6 +1242,7 @@ romano
 romantik
 romantiker
 romantisch
+romantische
 romanze
 rommel
 roms
@@ -1254,6 +1275,7 @@ rotations
 rotator
 rotbraun
 rotchinesen
+rote
 roth
 rothaarig
 rothschild
@@ -1484,5 +1506,6 @@ rutschbahn
 rutschen
 rutschig
 rutschpartie
+rutschte
 rwe
 rwes

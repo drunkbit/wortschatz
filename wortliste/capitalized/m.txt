@@ -12,6 +12,7 @@ Maastricht
 Maastrichter
 Maasübergang
 Mac
+Mach
 Machart
 Machbarkeit
 Machbarkeitsstudie
@@ -74,6 +75,7 @@ Maghrebinisch
 Magie
 Magier
 Magisch
+Magische
 Magister
 Magistrat
 Magistratsbeamte
@@ -190,6 +192,7 @@ Malta
 Malteser
 Maltesisch
 Malträtieren
+Malu
 Malus
 Malve
 Malweise
@@ -203,6 +206,7 @@ Man
 Management
 Managen
 Manager
+Manc
 Manch
 Manchenorts
 Mancherlei
@@ -415,6 +419,7 @@ Marshallplan
 Marsmensch
 Marssonde
 Marter
+Marterbauer
 Martern
 Martialisch
 Martin
@@ -513,6 +518,8 @@ Mäßigen
 Mäßigkeit
 Massiv
 Maßlos
+Maßnahme
+Maßnahmen
 Maßnahmenkatalog
 Maßname
 Maßstäblich
@@ -763,6 +770,7 @@ Meistbegünstigungsklausel
 Meistbesucht
 Meistbietend
 Meistdiskutiert
+Meiste
 Meistens
 Meistenteils
 Meister
@@ -783,6 +791,7 @@ Mekong
 Mekonggebiet
 Melancholie
 Melancholisch
+Melancholisches
 Melanie
 Melanom
 Melde
@@ -873,6 +882,7 @@ Merkwürdigerweise
 Merkwürdigkeit
 Merlin
 Merowinger
+Merz
 Meschugge
 Mesner
 Mesolithikum
@@ -890,6 +900,7 @@ Messina
 Messing
 Messner
 Messtechnisch
+Messungen
 Metabol
 Metabolisch
 Metabolismus
@@ -1112,6 +1123,7 @@ Mindest
 Mindeste
 Mindestens
 Mindestreservepflichtig
+Mindestsätze
 Mine
 Minen
 Minenverseucht
@@ -1119,6 +1131,7 @@ Mineral
 Mineralien
 Mineralisch
 Mineralöl
+Mineralölsteuer
 Mineralölsteuern
 Mineralölunternehmen
 Ming
@@ -1140,6 +1153,8 @@ Ministerien
 Ministerium
 Ministeriumsmitarbeiter
 Ministeriumssprecher
+Ministerpräsidenten
+Ministerpräsidentenamt
 Ministrant
 Minnesänger
 Minoisch
@@ -1403,6 +1418,7 @@ Mitnichten
 Mitprotokollieren
 Mitrechnen
 Mitreden
+Mitregiert
 Mitreisen
 Mitreißen
 Mitsamt
@@ -1430,6 +1446,7 @@ Mittagessen
 Mittäglich
 Mittags
 Mittagsläuten
+Mittagspause
 Mittdreißiger
 Mitte
 Mitteilen
@@ -1591,6 +1608,7 @@ Möbiusband
 Möblieren
 Möbliert
 Mochte
+Möchte
 Möchtegern
 Möchten
 Modalität
@@ -1646,6 +1664,8 @@ Mogeln
 Mogelpackung
 Mögen
 Möglich
+Mögliche
+Möglichen
 Möglicherweise
 Möglichkeit
 Möglichkeitsform
@@ -2001,6 +2021,7 @@ Muskulös
 Müsli
 Muslim
 Muslimisch
+Muss
 Muße
 Musselin
 Musselinkleid
@@ -2010,6 +2031,7 @@ Müßiggang
 Mussolini
 Musst
 Musste
+Müsste
 Mustang
 Muster
 Mustergültig

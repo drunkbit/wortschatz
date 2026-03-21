@@ -156,6 +156,7 @@ dargelegt
 dargereicht
 dargestellt
 dargetan
+darin
 darlegen
 darlehen
 darlehens
@@ -168,6 +169,7 @@ darreichungsform
 darstellen
 darsteller
 darstellerisch
+darstellung
 darstellungs
 darstellungsbedingt
 darüber
@@ -179,6 +181,7 @@ darwin
 darzubringen
 darzulegen
 darzustellen
+das
 dasaß
 dasein
 daseins
@@ -376,6 +379,8 @@ definitiv
 defizit
 defizitär
 defizitorientiert
+defizitverfahren
+defizitverfahrens
 deflation
 deflationär
 deflations
@@ -528,6 +533,7 @@ demütig
 demütigen
 demzufolge
 den
+denen
 denitrifikation
 denitrifikations
 denjenigen
@@ -545,6 +551,7 @@ denkmäler
 denkmalgeschützt
 denkmalsschutz
 denkwürdig
+denn
 dennis
 dennoch
 dennschon
@@ -693,8 +700,12 @@ deuterium
 deutlich
 deutlichkeit
 deutsch
+deutsche
+deutschen
 deutschenfeindlichkeit
+deutscher
 deutschere
+deutscheseele
 deutscheste
 deutschfeindlich
 deutschland
@@ -834,9 +845,13 @@ dienstwillig
 diepgen
 dies
 diesbezüglich
+diese
 diesel
 dieselbe
 diesellok
+diesem
+diesen
+dieser
 diesig
 diesjährig
 diesmal
@@ -940,6 +955,7 @@ dir
 directories
 directory
 direkt
+direkten
 direktion
 direktional
 direktions
@@ -995,6 +1011,7 @@ diskussions
 diskussionsfähig
 diskuswerfer
 diskutieren
+diskutiert
 diskzugriff
 disney
 disparat
@@ -1084,6 +1101,7 @@ dogmengeschichte
 dohle
 dohlennest
 dohlenpärchen
+doktern
 doktor
 doktorand
 doktrin
@@ -1305,6 +1323,7 @@ dreigeteilt
 dreihundert
 dreihundertmal
 dreijährig
+dreikäsehoch
 dreiländereck
 dreimal
 dreimalig
@@ -1375,6 +1394,7 @@ dresseur
 dressieren
 dressman
 dressur
+dreyer
 dribbelkünstler
 dribbeln
 drift
@@ -1893,6 +1913,7 @@ durchzwängen
 dürer
 dürfen
 durfte
+dürfte
 dürftig
 dürftigkeit
 dürr
@@ -1922,6 +1943,7 @@ düsterblau
 düsterkeit
 dutt
 dutzend
+dutzende
 dutzendweise
 duzen
 dvd

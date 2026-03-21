@@ -185,6 +185,7 @@ Verbauen
 Verbauern
 Verbesserbarkeit
 Verbessern
+Verbesserung
 Verbesserungsmaßnahme
 Verbesserungsmöglichkeit
 Verbesserungsvorschlag
@@ -481,6 +482,7 @@ Vergaloppieren
 Vergammeln
 Vergammelt
 Vergangen
+Vergangenen
 Vergangenheit
 Vergangenheitsbezogen
 Vergangenheitsform
@@ -504,6 +506,7 @@ Vergeltungs
 Vergemeinschaften
 Vergesellschaften
 Vergessen
+Vergessenes
 Vergessenheit
 Vergesslich
 Vergesslichkeit
@@ -742,6 +745,8 @@ Verlags
 Verlagsüblich
 Verlangen
 Verlängern
+Verlängert
+Verlängertes
 Verlängerungs
 Verlangsamen
 Verlass
@@ -774,6 +779,7 @@ Verletzen
 Verletzend
 Verletzer
 Verletzlich
+Verletzt
 Verletzungs
 Verletzungsbedingt
 Verleugnen
@@ -781,6 +787,7 @@ Verleumden
 Verleumder
 Verleumderisch
 Verlieben
+Verliebt
 Verliebtheit
 Verliehen
 Verlieren
@@ -827,6 +834,7 @@ Vermehrungs
 Vermeidbarkeit
 Vermeiden
 Vermeidlich
+Vermeidung
 Vermeinen
 Vermeintlich
 Vermelden
@@ -1040,6 +1048,7 @@ Verschiedenartig
 Verschiedenerlei
 Verschiedenfarbig
 Verschiedenheit
+Verschiedensten
 Verschiffen
 Verschimmeln
 Verschlafen
@@ -1172,6 +1181,7 @@ Versöhnlichkeit
 Versonnen
 Versorgen
 Versorger
+Versorgung
 Versorgungs
 Versorgungspufferung
 Verspannen
@@ -1186,6 +1196,7 @@ Verspotten
 Versprechen
 Versprecher
 Versprengen
+Verspricht
 Verspritzen
 Versprochen
 Versprühen
@@ -1398,6 +1409,8 @@ Verweltlichen
 Verwendbarkeit
 Verwenden
 Verwender
+Verwendet
+Verwendeten
 Verwendungs
 Verwendungsfähig
 Verwerfen
@@ -1528,9 +1541,12 @@ Vieladerig
 Vielbefahren
 Vieldeutig
 Vieldeutigkeit
+Viele
 Vieleck
+Vielen
 Vielerlei
 Vielerorts
+Vieles
 Vielfach
 Vielfalt
 Vielfältig
@@ -1692,6 +1708,7 @@ Viskosität
 Viskositätsangabe
 Vista
 Visualisieren
+Visualisiert
 Visualisierungsproblem
 Visualisierungssystem
 Visualisierungswerkzeug
@@ -1712,6 +1729,7 @@ Vitrine
 Vitrinentür
 Vivendi
 Vize
+Vizekanzler
 Vlies
 Vlsi
 Vmos
@@ -1833,6 +1851,7 @@ Voneinander
 Vonnöten
 Vonseiten
 Vonstatten
+Voodoo
 Vopo
 Vor
 Vorab
@@ -2001,6 +2020,7 @@ Vorfahren
 Vorfand
 Vorfinden
 Vorformatieren
+Vorfreude
 Vorführ
 Vorführen
 Vorgab
@@ -2130,6 +2150,7 @@ Vorig
 Vorindustriell
 Vorinitialisieren
 Vorinstalliert
+Vorjahren
 Vorjahres
 Vorjährig
 Vorjahrsmeister
@@ -2213,6 +2234,7 @@ Vorsätzlich
 Vorschalten
 Vorschieben
 Vorschießen
+Vorschlag
 Vorschlagen
 Vorschlagsliste
 Vorschlagsrecht
@@ -2241,6 +2263,7 @@ Vorsingen
 Vorsintflutlich
 Vorsitzen
 Vorsitzende
+Vorsitzender
 Vorsitzer
 Vorsorge
 Vorsorgen
@@ -2264,6 +2287,8 @@ Vorsteherhund
 Vorstellbar
 Vorstellen
 Vorstellig
+Vorstellt
+Vorstellung
 Vorstellungs
 Vorstoßen
 Vorstrecken
@@ -2294,8 +2319,10 @@ Vorverlegen
 Vorverstärken
 Vorvorgestern
 Vorvorig
+Vorwahl
 Vorwählen
 Vorwählnummer
+Vorwahlumfragen
 Vorwand
 Vorwarf
 Vorwärmen

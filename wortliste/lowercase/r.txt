@@ -54,6 +54,7 @@ radiermesser
 radiernadel
 radieschen
 radikal
+radikale
 radikalenerlass
 radikalisieren
 radikalist
@@ -152,6 +153,7 @@ rasch
 rascheln
 raschest
 rasen
+rasenmäher
 raserei
 rasier
 rasieren
@@ -258,6 +260,7 @@ rauheit
 rauigkeit
 raum
 räumen
+raumes
 räumfahrt
 raumkrank
 räumlich
@@ -314,6 +317,7 @@ reaktivieren
 reaktor
 real
 realisation
+realisierbar
 realisierbarkeit
 realisieren
 realisierungschance
@@ -353,6 +357,7 @@ rechnergesteuert
 rechnergestützt
 rechnerisch
 rechnerunterstützt
+rechnet
 rechnungs
 recht
 rechte
@@ -360,6 +365,7 @@ rechteck
 rechteckig
 rechtens
 rechtfertigen
+rechtfertigung
 rechtgläubigkeit
 rechthaber
 rechthaberei
@@ -437,6 +443,7 @@ redensart
 redensartlich
 redenschreiber
 rederei
+redet
 redford
 redigieren
 redigierung
@@ -453,6 +460,7 @@ reduktion
 redundant
 redundanz
 reduzieren
+reduziert
 reeder
 reederei
 reedereikonsortien
@@ -500,6 +508,7 @@ reformer
 reformfreudig
 reformieren
 reformismus
+reformkurs
 reformorientiert
 reformpädagogisch
 reformulieren
@@ -517,6 +526,7 @@ regelausschlag
 regelbasiert
 regelhaft
 regelmäßig
+regelmäßiges
 regeln
 regelrecht
 regelungs
@@ -536,10 +546,15 @@ regentschaftsrat
 reggae
 regie
 regieren
+regierende
 regiert
+regierung
 regierungs
+regierungsbeteiligung
+regierungsbildung
 regierungsfähig
 regierungsfreundlich
+regierungsparteien
 regierungstreu
 regime
 regimegegner
@@ -549,6 +564,7 @@ region
 regional
 regionalisieren
 regionalität
+regionen
 regisseur
 register
 registratur
@@ -609,7 +625,9 @@ reich
 reichen
 reichern
 reichhaltig
+reichhaltiger
 reichhaltigkeit
+reichinnek
 reichlich
 reichs
 reichsacht
@@ -619,6 +637,7 @@ reichspogromnacht
 reichstags
 reichsunmittelbar
 reichsweite
+reicht
 reichtum
 reichtümer
 reichweite
@@ -1045,6 +1064,7 @@ richtigerweise
 richtiggehend
 richtigkeit
 richtigstellen
+richtung
 richtungs
 richtungsbit
 richtungslos
@@ -1210,6 +1230,7 @@ romano
 romantik
 romantiker
 romantisch
+romantische
 romanze
 römer
 römerzug
@@ -1249,6 +1270,7 @@ rotations
 rotator
 rotbraun
 rotchinesen
+rote
 röte
 röteln
 röter
@@ -1480,6 +1502,7 @@ rutschbahn
 rutschen
 rutschig
 rutschpartie
+rutschte
 rüttelfest
 rüttelfestigkeit
 rütteln

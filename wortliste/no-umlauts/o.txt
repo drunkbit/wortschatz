@@ -4,6 +4,7 @@ Oase
 oasenlaender
 Oasenlaender
 ob
+Ob
 Obacht
 Obama
 obdach
@@ -167,6 +168,7 @@ Odium
 odyssee
 Odyssee
 oe
+OeAMTC
 OECD
 oed
 oefen
@@ -230,6 +232,8 @@ Oestrogen
 oestrogenspiegel
 Oestrogenspiegel
 OeTV
+OeVP
+Oezdemir
 ofen
 Ofen
 offen
@@ -293,6 +297,7 @@ Offsetspannung
 offsetwert
 Offsetwert
 oft
+Oft
 oftmalig
 oftmals
 oh
@@ -320,6 +325,7 @@ ohrenbetaeubend
 ohrfeigen
 ohrlaeppchen
 Ohrlaeppchen
+Ohrwurm
 okay
 okkult
 okkultismus
@@ -482,6 +488,7 @@ Opportunitaetsprinzip
 opposition
 Opposition
 oppositionell
+oppositionellen
 oppositions
 Oppositions
 opteron
@@ -564,6 +571,7 @@ Orden
 ordens
 Ordens
 ordentlich
+ordentliche
 ordentlichkeit
 Ordentlichkeit
 order
@@ -667,6 +675,7 @@ Ornithologie
 ornithologisch
 ort
 Ort
+Orte
 orten
 Orten
 orthodox

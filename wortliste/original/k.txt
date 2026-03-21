@@ -27,6 +27,8 @@ kabinettchef
 Kabinettchef
 kabinetts
 Kabinetts
+Kabinettsdisziplin
+Kabinettsmitglied
 kabuff
 Kabuff
 kabul
@@ -356,6 +358,7 @@ kampfreich
 kampfstark
 kampfstärker
 kampfstärkste
+kämpft
 kampfunfähig
 kampieren
 Kanaan
@@ -408,6 +411,8 @@ kaninchen
 Kaninchen
 kanister
 Kanister
+kann
+Kann
 kanne
 Kanne
 kannibale
@@ -470,6 +475,7 @@ kanzler
 Kanzler
 kanzlernachfolge
 Kanzlernachfolge
+Kanzlerpartei
 kap
 Kap
 kapaun
@@ -508,6 +514,7 @@ kapitalist
 Kapitalist
 kapitalistisch
 kapitalkräftig
+Kapitalmarkt
 kapitalstark
 kapitän
 Kapitän
@@ -1009,6 +1016,7 @@ kaufmännisch
 kaufmanns
 Kaufmanns
 kaufstark
+kauft
 kaugummi
 Kaugummi
 kaukasus
@@ -1112,6 +1120,8 @@ keimling
 Keimling
 keimtötend
 kein
+keine
+keinen
 keinerlei
 keinesfalls
 keineswegs
@@ -1298,6 +1308,7 @@ khmer
 Khmer
 Khomeini
 kHz
+KI
 KiB
 kibbuz
 Kibbuz
@@ -1309,6 +1320,7 @@ kichern
 kicken
 kicker
 Kicker
+Kickl
 kickstarter
 Kickstarter
 kickstartermechanismus
@@ -1695,6 +1707,9 @@ Klein
 kleinarmenien
 Kleinarmenien
 kleinbürgerlich
+kleine
+kleinere
+kleines
 kleineuropäisch
 kleinformatig
 kleingedruckt
@@ -1780,6 +1795,7 @@ klientelpolitik
 Klientelpolitik
 klima
 Klima
+Klimaförderungen
 klimatisch
 klimatisieren
 klimatisierung
@@ -1789,12 +1805,15 @@ Klimatologe
 klimmzug
 Klimmzug
 klimpern
+Klingbeil
 klinge
 Klinge
 klingel
 Klingel
 klingeln
 klingen
+klingt
+Klingt
 klinik
 Klinik
 klinikum
@@ -2062,6 +2081,7 @@ koalition
 Koalition
 koalitions
 Koalitions
+Koalitionspartner
 koalitionstreu
 koalitionsunfähig
 koaxialkabel
@@ -2414,6 +2434,7 @@ Kommastelle
 kommata
 Kommata
 kommen
+kommenden
 kommentar
 Kommentar
 kommentarbuchstabe
@@ -2459,6 +2480,7 @@ Kommissions
 kommissionshungrig
 kommode
 Kommode
+kommt
 kommunal
 Kommunal
 kommune
@@ -2740,6 +2762,7 @@ konföderiert
 konföderierte
 Konföderierte
 konform
+konforme
 konformismus
 Konformismus
 konformität
@@ -2815,6 +2838,7 @@ Konklave
 konkordat
 Konkordat
 konkret
+konkrete
 konkretere
 konkreteste
 konkretisieren
@@ -2833,6 +2857,7 @@ konkurrieren
 konkurs
 Konkurs
 konkursreif
+könne
 konnektivität
 Konnektivität
 können
@@ -2847,6 +2872,9 @@ Konnotation
 konnotativ
 konnotieren
 konnte
+könnte
+konnten
+könnten
 konquistador
 Konquistador
 Konrad
@@ -2871,6 +2899,7 @@ Konsequenz
 konservatismus
 Konservatismus
 konservativ
+konservativen
 konservativismus
 Konservativismus
 konservator
@@ -2898,6 +2927,7 @@ konsole
 Konsole
 konsolidieren
 Konsolidieren
+konsolidiert
 konsolidierungs
 Konsolidierungs
 konsolschnittstelle
@@ -3205,6 +3235,7 @@ Kopf
 köpfe
 Köpfe
 köpfen
+Kopfkino
 kopflastig
 kopflos
 kopfschüttelnd
@@ -3426,6 +3457,7 @@ kostensenkend
 kostensenkungspotenzial
 Kostensenkungspotenzial
 kostensparend
+kostet
 kostgänger
 Kostgänger
 köstlich
@@ -3599,6 +3631,7 @@ Kreation
 kreationismus
 Kreationismus
 kreativ
+kreative
 kreativität
 Kreativität
 kreativitätsverlust
@@ -3617,6 +3650,7 @@ kredit
 Kredit
 kreditfähig
 kreditgebend
+Kreditgeschäft
 kreditieren
 kreditnehmerzahl
 Kreditnehmerzahl
@@ -3976,6 +4010,7 @@ kuckuckskind
 Kuckuckskind
 kuckucksuhr
 Kuckucksuhr
+Kuddelmuddel
 kufe
 Kufe
 kugel
@@ -4044,6 +4079,9 @@ kultur
 Kultur
 kulturabhängig
 kulturell
+kulturelle
+KulturelleJuwelen
+kulturelles
 kulturfreundlich
 kulturgeschichtlich
 kulturhistorisch
@@ -4061,6 +4099,7 @@ kümmerdasein
 Kümmerdasein
 kümmerlich
 kümmern
+Kummerspeck
 kummervoll
 kumpan
 Kumpan
@@ -4092,6 +4131,7 @@ kundgetan
 kundig
 kündigen
 Kündigen
+kündigt
 kündigungs
 Kündigungs
 kundmachen
@@ -4116,6 +4156,7 @@ künstlerisch
 künstlertum
 Künstlertum
 künstlich
+künstlicher
 kunstlos
 kunstvoll
 kunterbunt
@@ -4197,6 +4238,7 @@ Kursstürze
 kursus
 Kursus
 kursvernichtend
+Kurswechsel
 Kurt
 kurtisane
 Kurtisane
@@ -4214,11 +4256,13 @@ kurzatmig
 kurzatmigkeit
 Kurzatmigkeit
 kurzbeinig
+kurze
 kürzel
 Kürzel
 kürzen
 Kürzen
 kurzentschlossen
+kurzer
 kürzer
 kurzerhand
 kürzest
@@ -4236,6 +4280,7 @@ kurzschlussfest
 kurzsichtig
 kurzsichtigkeit
 Kurzsichtigkeit
+kürzt
 kurzum
 kürzungs
 Kürzungs
@@ -4286,7 +4331,9 @@ Kybernetik
 kybernetiker
 Kybernetiker
 kybernetisch
+Kyjiw
 kyphose
 Kyphose
 kyrillisch
+Kyrillisch
 KZ

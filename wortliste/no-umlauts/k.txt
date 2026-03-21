@@ -27,6 +27,8 @@ kabinettchef
 Kabinettchef
 kabinetts
 Kabinetts
+Kabinettsdisziplin
+Kabinettsmitglied
 kabuff
 Kabuff
 kabul
@@ -88,6 +90,7 @@ kaempfen
 kaempfer
 Kaempfer
 kaempferisch
+kaempft
 kaenguru
 Kaenguru
 kaeppchen
@@ -434,6 +437,8 @@ kaninchen
 Kaninchen
 kanister
 Kanister
+kann
+Kann
 kanne
 Kanne
 kannibale
@@ -496,6 +501,7 @@ kanzler
 Kanzler
 kanzlernachfolge
 Kanzlernachfolge
+Kanzlerpartei
 kap
 Kap
 kapaun
@@ -540,6 +546,7 @@ kapitalist
 Kapitalist
 kapitalistisch
 kapitalkraeftig
+Kapitalmarkt
 kapitalstark
 kapitel
 Kapitel
@@ -1011,6 +1018,7 @@ kaufmaennisch
 kaufmanns
 Kaufmanns
 kaufstark
+kauft
 kaugummi
 Kaugummi
 kaukasus
@@ -1112,6 +1120,8 @@ keimling
 Keimling
 keimtoetend
 kein
+keine
+keinen
 keinerlei
 keinesfalls
 keineswegs
@@ -1298,6 +1308,7 @@ khmer
 Khmer
 Khomeini
 kHz
+KI
 KiB
 kibbuz
 Kibbuz
@@ -1309,6 +1320,7 @@ kichern
 kicken
 kicker
 Kicker
+Kickl
 kickstarter
 Kickstarter
 kickstartermechanismus
@@ -1695,6 +1707,9 @@ Klein
 kleinarmenien
 Kleinarmenien
 kleinbuergerlich
+kleine
+kleinere
+kleines
 kleineuropaeisch
 kleinformatig
 kleingedruckt
@@ -1780,6 +1795,7 @@ klientelpolitik
 Klientelpolitik
 klima
 Klima
+Klimafoerderungen
 klimatisch
 klimatisieren
 klimatisierung
@@ -1789,12 +1805,15 @@ Klimatologe
 klimmzug
 Klimmzug
 klimpern
+Klingbeil
 klinge
 Klinge
 klingel
 Klingel
 klingeln
 klingen
+klingt
+Klingt
 klinik
 Klinik
 klinikum
@@ -2062,6 +2081,7 @@ koalition
 Koalition
 koalitions
 Koalitions
+Koalitionspartner
 koalitionstreu
 koalitionsunfaehig
 koaxialkabel
@@ -2133,11 +2153,14 @@ koenigtuemer
 Koenigtuemer
 koenigtum
 Koenigtum
+koenne
 koennen
 koennens
 Koennens
 koenner
 Koenner
+koennte
+koennten
 Koepenick
 koepfe
 Koepfe
@@ -2462,6 +2485,7 @@ Kommastelle
 kommata
 Kommata
 kommen
+kommenden
 kommentar
 Kommentar
 kommentarbuchstabe
@@ -2507,6 +2531,7 @@ Kommissions
 kommissionshungrig
 kommode
 Kommode
+kommt
 kommunal
 Kommunal
 kommune
@@ -2788,6 +2813,7 @@ konfoederiert
 konfoederierte
 Konfoederierte
 konform
+konforme
 konformismus
 Konformismus
 konformitaet
@@ -2847,6 +2873,7 @@ Konklave
 konkordat
 Konkordat
 konkret
+konkrete
 konkretere
 konkreteste
 konkretisieren
@@ -2874,6 +2901,7 @@ Konnotation
 konnotativ
 konnotieren
 konnte
+konnten
 konquistador
 Konquistador
 Konrad
@@ -2898,6 +2926,7 @@ Konsequenz
 konservatismus
 Konservatismus
 konservativ
+konservativen
 konservativismus
 Konservativismus
 konservator
@@ -2925,6 +2954,7 @@ konsole
 Konsole
 konsolidieren
 Konsolidieren
+konsolidiert
 konsolidierungs
 Konsolidierungs
 konsolschnittstelle
@@ -3228,6 +3258,7 @@ kopernikanisch
 Kopernikus
 kopf
 Kopf
+Kopfkino
 kopflastig
 kopflos
 kopfschuettelnd
@@ -3431,6 +3462,7 @@ kostensenkend
 kostensenkungspotenzial
 Kostensenkungspotenzial
 kostensparend
+kostet
 kostgaenger
 Kostgaenger
 kostprobe
@@ -3599,6 +3631,7 @@ Kreation
 kreationismus
 Kreationismus
 kreativ
+kreative
 kreativitaet
 Kreativitaet
 kreativitaetsverlust
@@ -3617,6 +3650,7 @@ kredit
 Kredit
 kreditfaehig
 kreditgebend
+Kreditgeschaeft
 kreditieren
 kreditnehmerzahl
 Kreditnehmerzahl
@@ -3966,6 +4000,7 @@ kuckuckskind
 Kuckuckskind
 kuckucksuhr
 Kuckucksuhr
+Kuddelmuddel
 kuebel
 Kuebel
 kueche
@@ -4006,6 +4041,7 @@ kuender
 Kuender
 kuendigen
 Kuendigen
+kuendigt
 kuendigungs
 Kuendigungs
 kuenftig
@@ -4017,6 +4053,7 @@ kuenstlerisch
 kuenstlertum
 Kuenstlertum
 kuenstlich
+kuenstlicher
 kuer
 Kuer
 kuerbis
@@ -4031,6 +4068,7 @@ Kuerzen
 kuerzer
 kuerzest
 kuerzlich
+kuerzt
 kuerzungs
 Kuerzungs
 kuessen
@@ -4094,6 +4132,9 @@ kultur
 Kultur
 kulturabhaengig
 kulturell
+kulturelle
+KulturelleJuwelen
+kulturelles
 kulturfreundlich
 kulturgeschichtlich
 kulturhistorisch
@@ -4105,6 +4146,7 @@ kultus
 Kultus
 kummer
 Kummer
+Kummerspeck
 kummervoll
 kumpan
 Kumpan
@@ -4218,6 +4260,7 @@ Kursstuerze
 kursus
 Kursus
 kursvernichtend
+Kurswechsel
 Kurt
 kurtisane
 Kurtisane
@@ -4235,7 +4278,9 @@ kurzatmig
 kurzatmigkeit
 Kurzatmigkeit
 kurzbeinig
+kurze
 kurzentschlossen
+kurzer
 kurzerhand
 kurzfassen
 kurzfristig
@@ -4286,7 +4331,9 @@ Kybernetik
 kybernetiker
 Kybernetiker
 kybernetisch
+Kyjiw
 kyphose
 Kyphose
 kyrillisch
+Kyrillisch
 KZ

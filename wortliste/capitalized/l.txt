@@ -1,4 +1,5 @@
 L
+La
 Laben
 Labertasche
 Labil
@@ -18,6 +19,7 @@ Lachen
 Lachens
 Lacher
 Lächerlich
+Lächerliche
 Lächerlichkeit
 Lachs
 Lachseier
@@ -136,16 +138,20 @@ Landes
 Landesbedingt
 Landescup
 Landeseigen
+Landesparlament
 Landesplanerisch
 Landespolitisch
 Landesprache
 Landesüblich
 Landesweit
+Landete
+Landeten
 Landgebunden
 Landläufig
 Landläufigkeit
 Ländler
 Ländlich
+Ländlichen
 Landrover
 Landschaftlich
 Landschafts
@@ -156,8 +162,12 @@ Landsmann
 Landsmännin
 Landsmannschaft
 Landstreicherei
+Landtag
 Landtags
+Landtagswahl
+Landtagswahlen
 Landungs
+Landwirtschaft
 Landwirtschaftlich
 Lang
 Langärmelig
@@ -166,12 +176,14 @@ Langärmlig
 Langatmig
 Langatmigkeit
 Langbeinig
+Lange
 Länge
 Langen
 Längen
 Langenscheidt
 Langeoog
 Länger
+Längere
 Längerfristig
 Langeweile
 Langfristig
@@ -290,6 +302,7 @@ Lauern
 Lauerstellung
 Lauf
 Laufen
+Laufende
 Laufens
 Läufer
 Lauffähig
@@ -315,7 +328,9 @@ Laut
 Lauten
 Läuten
 Lautenklang
+Lauter
 Läutern
+Lautet
 Lautfolge
 Lauthals
 Lautlos
@@ -493,6 +508,7 @@ Leichenblass
 Leichnam
 Leicht
 Leichtathletisch
+Leichte
 Leichtfertig
 Leichtfüßig
 Leichtfüßigkeit
@@ -514,6 +530,7 @@ Leidenschaftlichkeit
 Leidensgenosse
 Leidensweg
 Leider
+Leidet
 Leidgeprüft
 Leidig
 Leidlich
@@ -583,6 +600,7 @@ Lenk
 Lenken
 Lenker
 Lennon
+Lenny
 Lenovo
 Lenz
 Leonardo
@@ -632,6 +650,7 @@ Lettisch
 Lettland
 Letzt
 Letzte
+Letzten
 Letztendlich
 Letztens
 Letztere
@@ -679,6 +698,7 @@ Libanesisch
 Libanon
 Libelle
 Liberal
+Liberalen
 Liberalisieren
 Liberalisierungsansatz
 Liberalismus
@@ -716,6 +736,7 @@ Liebäugeln
 Liebe
 Liebelei
 Lieben
+Liebende
 Liebenswert
 Liebenswürdig
 Liebenswürdigkeit
@@ -723,8 +744,10 @@ Liebes
 Liebesbezeigung
 Liebeshändeln
 Liebeskrank
+Liebesroman
 Liebestöter
 Liebevoll
+Liebevolle
 Liebgeworden
 Liebhaber
 Liebhaberei
@@ -735,6 +758,8 @@ Lieblichkeit
 Liebling
 Lieblings
 Lieblingsspeise
+Lieblingstiere
+Lieblingswörter
 Lieblos
 Lieblosigkeit
 Liebreiz
@@ -767,9 +792,11 @@ Liegen
 Liegenbleiben
 Liegenblieb
 Liegenschaft
+Liegt
 Lieh
 Lies
 Ließ
+Ließe
 Liest
 Lift
 Liften
@@ -837,6 +864,7 @@ Linksläufig
 Linksliberal
 Linksliegen
 Linksorientiert
+Linkspartei
 Linksradikal
 Linksrheinisch
 Linksseitig
@@ -870,6 +898,7 @@ Lispeln
 Lissabon
 List
 Listbefehl
+Liste
 Listen
 Listenreich
 Listig
@@ -1109,6 +1138,7 @@ Louvre
 Lovestory
 Löwe
 Löwen
+Löwenstern
 Lowpegel
 Loyal
 Loyalität
@@ -1149,6 +1179,7 @@ Luftgetrocknet
 Lufthansa
 Luftig
 Luftmachen
+Luftschloss
 Lufttransportverbande
 Lüftungs
 Luftwaffenoberstleutnant

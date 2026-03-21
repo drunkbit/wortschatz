@@ -6,6 +6,7 @@ maastricht
 maastrichter
 maasuebergang
 mac
+mach
 machart
 machbarkeit
 machbarkeitsstudie
@@ -109,6 +110,7 @@ maghrebinisch
 magie
 magier
 magisch
+magische
 magister
 magistrat
 magistratsbeamte
@@ -219,6 +221,7 @@ malta
 malteser
 maltesisch
 maltraetieren
+malu
 malus
 malve
 malweise
@@ -232,6 +235,7 @@ man
 management
 managen
 manager
+manc
 manch
 manchenorts
 mancherlei
@@ -430,6 +434,7 @@ marshallplan
 marsmensch
 marssonde
 marter
+marterbauer
 martern
 martialisch
 martin
@@ -521,6 +526,8 @@ massieren
 massig
 massiv
 masslos
+massnahme
+massnahmen
 massnahmenkatalog
 massname
 massstabsgetreu
@@ -763,6 +770,7 @@ meistbeguenstigungsklausel
 meistbesucht
 meistbietend
 meistdiskutiert
+meiste
 meistens
 meistenteils
 meister
@@ -783,6 +791,7 @@ mekong
 mekonggebiet
 melancholie
 melancholisch
+melancholisches
 melanie
 melanom
 melde
@@ -873,6 +882,7 @@ merkwuerdigerweise
 merkwuerdigkeit
 merlin
 merowinger
+merz
 meschugge
 mesner
 mesolithikum
@@ -890,6 +900,7 @@ messina
 messing
 messner
 messtechnisch
+messungen
 metabol
 metabolisch
 metabolismus
@@ -1112,6 +1123,7 @@ mindest
 mindeste
 mindestens
 mindestreservepflichtig
+mindestsaetze
 mine
 minen
 minenverseucht
@@ -1119,6 +1131,7 @@ mineral
 mineralien
 mineralisch
 mineraloel
+mineraloelsteuer
 mineraloelsteuern
 mineraloelunternehmen
 ming
@@ -1140,6 +1153,8 @@ ministerien
 ministerium
 ministeriumsmitarbeiter
 ministeriumssprecher
+ministerpraesidenten
+ministerpraesidentenamt
 ministrant
 minnesaenger
 minoisch
@@ -1403,6 +1418,7 @@ mitnichten
 mitprotokollieren
 mitrechnen
 mitreden
+mitregiert
 mitreisen
 mitreissen
 mitsamt
@@ -1430,6 +1446,7 @@ mittag
 mittagessen
 mittags
 mittagslaeuten
+mittagspause
 mittdreissiger
 mitte
 mitteilen
@@ -1637,11 +1654,14 @@ moebel
 moebiusband
 moeblieren
 moebliert
+moechte
 moechtegern
 moechten
 moege
 moegen
 moeglich
+moegliche
+moeglichen
 moeglicherweise
 moeglichkeit
 moeglichkeitsform
@@ -1927,6 +1947,7 @@ muesli
 muessen
 muessig
 muessiggang
+muesste
 muetter
 muettergenesungswerk
 muetterlich
@@ -2012,6 +2033,7 @@ muskulatur
 muskuloes
 muslim
 muslimisch
+muss
 musse
 musselin
 musselinkleid

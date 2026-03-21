@@ -369,6 +369,7 @@ gedaempft
 gedampft
 gedanke
 gedanken
+gedankenkarussell
 gedankenlos
 gedankenreich
 gedankenverloren
@@ -591,6 +592,7 @@ gefuehlsduselei
 gefuehlsduslig
 gefuehlsmaessig
 gefuehlsvoll
+gefuehlswelt
 gefuehlt
 gefuehlvoll
 gefuehrt
@@ -617,6 +619,7 @@ gegenanklage
 gegend
 gegeneinander
 gegeneinanderwirken
+gegenfinanzierung
 gegengewichtslos
 gegengezeichnet
 gegenlaeufig
@@ -631,6 +634,7 @@ gegenstaendlichkeit
 gegenstandsbereich
 gegenstandslos
 gegensteuern
+gegenteil
 gegenteilig
 gegenueber
 gegenuebergestanden
@@ -650,6 +654,7 @@ gegenueberzusitzen
 gegenueberzustehen
 gegenwaertig
 gegenwarts
+gegenwindes
 gegenzeichnen
 gegenzurechnen
 gegenzusteuern
@@ -657,6 +662,7 @@ gegessen
 geglaenzt
 geglaettet
 geglaubt
+geglaubten
 geglichen
 gegliedert
 geglotzt
@@ -759,12 +765,14 @@ gehirnpsychologisch
 gehisst
 gehobelt
 gehoben
+gehobene
 gehoeft
 gehoehnt
 gehoelz
 gehoer
 gehoeren
 gehoerig
+gehoerige
 gehoerlos
 gehoert
 gehofft
@@ -775,6 +783,7 @@ gehorsam
 gehorsamkeit
 gehortet
 gehsteig
+geht
 gehuellt
 gehuetet
 gehuldigt
@@ -1007,6 +1016,7 @@ gelee
 geleert
 gelegen
 gelegenheit
+gelegenheiten
 gelegenheits
 gelegt
 gelehnt
@@ -1096,6 +1106,7 @@ gemeckert
 gemein
 gemeinde
 gemeindeeigen
+gemeinden
 gemeindlich
 gemeinerweise
 gemeinfrei
@@ -1364,6 +1375,7 @@ gepolt
 gepolter
 gepraege
 gepraegt
+gepraegten
 geprahlt
 geprallt
 geprasst
@@ -1523,6 +1535,7 @@ germanistik
 germanistisch
 germanium
 gern
+gerne
 gernegross
 gerochen
 gerodet
@@ -1586,6 +1599,8 @@ gesammelt
 gesamt
 gesamtaktiv
 gesamtdeutsch
+gesamte
+gesamten
 gesamteuropaeisch
 gesamtgesellschaftlich
 gesamtheit
@@ -1656,6 +1671,7 @@ geschehnis
 gescheit
 gescheitelt
 gescheitert
+gescheiterten
 gescheitsein
 geschellt
 geschenk
@@ -1910,6 +1926,7 @@ gesetzgeberisch
 gesetzgebung
 gesetzgebungs
 gesetzlich
+gesetzlichen
 gesetzlichkeit
 gesetzlos
 gesetzlosigkeit
@@ -2419,6 +2436,7 @@ gewohnheitsmaessig
 gewohnt
 gewollt
 gewonnen
+gewonnenen
 geworben
 geworden
 geworfen
@@ -2719,7 +2737,9 @@ glueckauf
 glueckbringend
 gluecken
 gluecklich
+glueckliche
 gluecklicherweise
+gluecklichmacherwoerter
 gluecklichsein
 gluecklos
 gluecks
@@ -2727,6 +2747,7 @@ gluecksache
 glueckselig
 glueckseligkeit
 glueckstrahlend
+glueckswoerter
 glueckswunsch
 glueckwuensche
 glueckwunsch
@@ -2892,6 +2913,7 @@ grafiker
 grafikfaehig
 grafikprozessor
 grafisch
+grafischen
 grafit
 grafologe
 grafologisch
@@ -3064,6 +3086,7 @@ groessen
 groessenordnungsmaessig
 groessenwahnsinnig
 groesser
+groessere
 groesste
 groesstenteils
 groesstmoeglich
@@ -3081,6 +3104,7 @@ grossartig
 grossbaeuerlich
 grossbritannien
 grossbuergerlich
+grosse
 grossenteils
 grossflaechig
 grossformatig
@@ -3151,6 +3175,7 @@ grundierung
 grundkapitalien
 grundlegend
 grundlos
+grundrechenarten
 grundrechtlich
 grundsaetzlich
 grundsaetzlichkeit
@@ -3234,6 +3259,8 @@ gutartigkeit
 gutbetucht
 gutbuergerlich
 gutduenken
+gute
+guten
 gutenberg
 gutfundiert
 gutgegangen

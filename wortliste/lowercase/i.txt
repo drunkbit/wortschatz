@@ -21,6 +21,7 @@ ide
 ideal
 idealerweise
 idealisieren
+idealisierten
 idealismus
 idealist
 idealistisch
@@ -47,6 +48,7 @@ ideologe
 ideologie
 ideologieanfällig
 ideologisch
+ideologische
 idiomatik
 idiomatisch
 idiome
@@ -71,6 +73,8 @@ ihk
 ihm
 ihn
 ihr
+ihre
+ihrer
 ihrerseits
 ihresgleichen
 ihrethalben
@@ -374,6 +378,7 @@ informationsverarbeitend
 informativ
 informatorisch
 informell
+informeller
 informieren
 infrage
 infrarot
@@ -403,11 +408,14 @@ inhalieren
 inhalt
 inhalteanbieter
 inhaltlich
+inhaltlichen
+inhaltlicher
 inhalts
 inhaltsabhängig
 inhaltslos
 inhaltsorientiert
 inhaltsreich
+inhaltsverzeichnis
 inhärent
 inhomogen
 inhomogenität
@@ -486,6 +494,7 @@ innehat
 innehatte
 innen
 innenleben
+innenministeriums
 innenpolitisch
 innensechskant
 innensechskantschlüssel
@@ -529,6 +538,7 @@ inputparser
 inquisition
 inquisitor
 inquisitorisch
+ins
 insasse
 insassenversicherung
 insbesondere
@@ -570,6 +580,9 @@ inspektionszyklen
 inspektor
 inspiration
 inspirieren
+inspirierende
+inspirierendeausdrucksform
+inspirierender
 inspizient
 inspizieren
 inst
@@ -786,6 +799,7 @@ intrigieren
 introvertiert
 intuition
 intuitiv
+intuitive
 intus
 inuit
 invalide

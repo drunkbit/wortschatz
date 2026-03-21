@@ -44,6 +44,7 @@ ueberblaettern
 ueberbleibsel
 ueberblendeffekt
 ueberblenden
+ueberblick
 ueberblicken
 ueberboten
 ueberbracht
@@ -413,6 +414,7 @@ ueberzugehen
 ueberzugreifen
 ueberzuwechseln
 ueblich
+ueblichen
 ueblicherweise
 ueblichkeitsnachweis
 uebrig
@@ -456,6 +458,7 @@ uhrzustand
 uhu
 ukas
 ukraine
+ukrainehilfen
 ukrainekrise
 ukrainer
 ukrainisch
@@ -541,6 +544,7 @@ umformer
 umformulieren
 umformungs
 umfrage
+umfragen
 umfuellen
 umfunktionieren
 umgab
@@ -897,6 +901,7 @@ umwechseln
 umweg
 umwelt
 umweltbedingt
+umweltbereich
 umweltbewusst
 umweltfreundlich
 umweltgerecht
@@ -1007,6 +1012,7 @@ unbedarft
 unbedenklichkeit
 unbedenklichkeits
 unbedeutsamkeit
+unbedingt
 unbedingtheit
 unbedraengt
 unbedruckbar
@@ -1195,6 +1201,7 @@ unfassbar
 unfehlbar
 unfehlbarkeit
 unfest
+unfinanzierbar
 unflektierbar
 unflektiert
 unfoermig
@@ -1233,6 +1240,7 @@ ungekuenstelt
 ungeladen
 ungelenk
 ungelernt
+ungeliebte
 ungelogen
 ungemach
 ungemuetlichkeit
@@ -1260,6 +1268,7 @@ ungestuem
 ungetrimmt
 ungetuem
 ungewissheit
+ungewoehnliche
 ungewoehnlichkeit
 ungeziefer
 ungeziemend
@@ -1384,6 +1393,7 @@ unnennbar
 unnoetigerweise
 unnuetz
 uno
+unordentliche
 unordentlichkeit
 unordnung
 unpaarig
@@ -1402,6 +1412,7 @@ unqualifizierbar
 unquantifizierbar
 unrast
 unrat
+unrealistische
 unrecht
 unrechtmaessigkeit
 unrechts
@@ -1440,6 +1451,7 @@ unsegen
 unselbstaendigkeit
 unselbststaendigkeit
 unser
+unsere
 unsereiner
 unsereins
 unsererseits
@@ -1697,6 +1709,7 @@ untugend
 unueberbietbar
 unueberbrueckbar
 unueberlegt
+unueberlegte
 unueberpruefbar
 unuebersehbar
 unuebersetzbar
@@ -1773,6 +1786,8 @@ unvorhersehbar
 unvorsichtigkeit
 unwaegbarkeit
 unwahrheit
+unwahrscheinlich
+unwahrscheinliche
 unwahrscheinlichkeit
 unwartbarkeit
 unwegsam

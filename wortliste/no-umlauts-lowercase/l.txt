@@ -1,4 +1,5 @@
 l
+la
 laben
 labertasche
 labil
@@ -39,6 +40,7 @@ ladungs
 lady
 laecheln
 laecherlich
+laecherliche
 laecherlichkeit
 laeden
 laedieren
@@ -55,9 +57,11 @@ laenderspezifisch
 laenderuebergreifend
 laendler
 laendlich
+laendlichen
 laenge
 laengen
 laenger
+laengere
 laengerfristig
 laenglich
 laengs
@@ -164,11 +168,14 @@ landes
 landesbedingt
 landescup
 landeseigen
+landesparlament
 landesplanerisch
 landespolitisch
 landesprache
 landesueblich
 landesweit
+landete
+landeten
 landgebunden
 landlaeufig
 landlaeufigkeit
@@ -182,8 +189,12 @@ landsmaennin
 landsmann
 landsmannschaft
 landstreicherei
+landtag
 landtags
+landtagswahl
+landtagswahlen
 landungs
+landwirtschaft
 landwirtschaftlich
 lang
 langaermelig
@@ -192,6 +203,7 @@ langarmig
 langatmig
 langatmigkeit
 langbeinig
+lange
 langen
 langenscheidt
 langeoog
@@ -296,6 +308,7 @@ lauern
 lauerstellung
 lauf
 laufen
+laufende
 laufens
 lauffaehig
 laugen
@@ -316,6 +329,8 @@ lausitz
 laut
 lauten
 lautenklang
+lauter
+lautet
 lautfolge
 lauthals
 lautlos
@@ -493,6 +508,7 @@ leichenblass
 leichnam
 leicht
 leichtathletisch
+leichte
 leichtfertig
 leichtfuessig
 leichtfuessigkeit
@@ -514,6 +530,7 @@ leidenschaftlichkeit
 leidensgenosse
 leidensweg
 leider
+leidet
 leidgeprueft
 leidig
 leidlich
@@ -583,6 +600,7 @@ lenk
 lenken
 lenker
 lennon
+lenny
 lenovo
 lenz
 leonardo
@@ -632,6 +650,7 @@ lettisch
 lettland
 letzt
 letzte
+letzten
 letztendlich
 letztens
 letztere
@@ -679,6 +698,7 @@ libanesisch
 libanon
 libelle
 liberal
+liberalen
 liberalisieren
 liberalisierungsansatz
 liberalismus
@@ -716,6 +736,7 @@ liebaeugeln
 liebe
 liebelei
 lieben
+liebende
 liebenswert
 liebenswuerdig
 liebenswuerdigkeit
@@ -723,8 +744,10 @@ liebes
 liebesbezeigung
 liebeshaendeln
 liebeskrank
+liebesroman
 liebestoeter
 liebevoll
+liebevolle
 liebgeworden
 liebhaber
 liebhaberei
@@ -735,6 +758,8 @@ lieblichkeit
 liebling
 lieblings
 lieblingsspeise
+lieblingstiere
+lieblingswoerter
 lieblos
 lieblosigkeit
 liebreiz
@@ -767,9 +792,11 @@ liegen
 liegenbleiben
 liegenblieb
 liegenschaft
+liegt
 lieh
 lies
 liess
+liesse
 liest
 lift
 liften
@@ -837,6 +864,7 @@ linkslastigkeit
 linksliberal
 linksliegen
 linksorientiert
+linkspartei
 linksradikal
 linksrheinisch
 linksseitig
@@ -870,6 +898,7 @@ lispeln
 lissabon
 list
 listbefehl
+liste
 listen
 listenreich
 listig
@@ -968,6 +997,7 @@ loet
 loeten
 loewe
 loewen
+loewenstern
 lofoten
 log
 logarithmieren
@@ -1163,6 +1193,7 @@ luftgetrocknet
 lufthansa
 luftig
 luftmachen
+luftschloss
 lufttransportverbande
 luftwaffenoberstleutnant
 lug

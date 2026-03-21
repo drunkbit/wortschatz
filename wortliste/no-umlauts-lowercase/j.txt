@@ -24,6 +24,7 @@ jaehrlich
 jaehzorn
 jaehzornig
 jaemmerlich
+jaenner
 jaeten
 jaffa
 jagd
@@ -36,8 +37,10 @@ jahr
 jahraus
 jahrbuch
 jahrbuecher
+jahre
 jahrein
 jahrelang
+jahren
 jahres
 jahresunterlagen
 jahreswettbewerb
@@ -95,7 +98,10 @@ jeansindustrie
 jeanstraeger
 jeanstyp
 jede
+jedem
+jeden
 jedenfalls
+jeder
 jederart
 jederlei
 jedermann
@@ -110,6 +116,7 @@ jelzin
 jemals
 jemand
 jemandem
+jemanden
 jemen
 jena
 jene
@@ -216,6 +223,7 @@ judoverband
 juedin
 juedisch
 juenger
+juengeren
 juengling
 juenglingsalter
 juengst
@@ -245,6 +253,7 @@ jungenbeine
 jungenhaft
 jungens
 jungenschaft
+junger
 jungfer
 jungfernfahrt
 jungfernflug

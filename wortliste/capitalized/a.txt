@@ -27471,6 +27471,7 @@ Agrarflugzeuge
 Agrarflugzeugen
 Agrarflugzeuges
 Agrarflugzeugs
+Agrarförderungen
 Agrargeschichte
 Agrargesellschaft
 Agrargesellschaften
@@ -46567,6 +46568,7 @@ Apostrophieren
 Apotheke
 Apotheken
 Apotheker
+App
 Appalachen
 Apparat
 Apparateglasbläser
@@ -46643,13 +46645,17 @@ Arbeitsgeber
 Arbeitsintensiv
 Arbeitslos
 Arbeitslosen
+Arbeitslosigkeit
 Arbeitsmarktpolitisch
+Arbeitsmarktprojekte
 Arbeitsnehmer
 Arbeitspädagogisch
 Arbeitsrechtlich
 Arbeitsreich
 Arbeitsscheu
 Arbeitssparend
+Arbeitstag
+Arbeitstags
 Arbeitstechnisch
 Arbeitsüberlastung
 Arbeitsunfähig
@@ -46837,6 +46843,7 @@ Assistent
 Assistenz
 Assistieren
 Assoziation
+Assoziationen
 Assoziations
 Assoziativ
 Assoziativität
@@ -46866,6 +46873,7 @@ Astronomisch
 Asyl
 Asylant
 Asylrechtlich
+Asylwerber
 Asymmetrie
 Asymmetrisch
 Asymptote
@@ -47324,6 +47332,7 @@ Aufhielt
 Aufhob
 Aufholbedarf
 Aufholen
+Aufholjagd
 Aufhorchen
 Aufhören
 Aufkam
@@ -47441,6 +47450,7 @@ Aufrechtstehen
 Aufrechtzuerhalten
 Aufregen
 Aufregend
+Aufregung
 Aufreiben
 Aufreibend
 Aufreihen
@@ -47560,6 +47570,7 @@ Aufstößt
 Aufstreben
 Aufstreichen
 Aufstrich
+Aufstrichen
 Aufstützen
 Aufsuchen
 Aufsummieren
@@ -47761,6 +47772,7 @@ Aufzwingen
 Aug
 Augapfel
 Augen
+Augenblick
 Augenblicklich
 Augenfällig
 Augenlied
@@ -47854,6 +47866,7 @@ Ausdrücklich
 Ausdrucks
 Ausdrucksfähig
 Ausdruckslos
+Ausdrucksmöglichkeiten
 Ausdrucksstark
 Ausdrucksstärker
 Ausdrucksvoll
@@ -48511,6 +48524,7 @@ Aussteige
 Aussteigen
 Aussteigens
 Aussteiger
+Aussteigt
 Ausstell
 Ausstellen
 Aussteller
@@ -48564,6 +48578,7 @@ Austüfteln
 Ausüben
 Ausübungs
 Ausufern
+Ausufernden
 Ausverkauf
 Ausverkaufen
 Ausverkaufs
@@ -48748,6 +48763,7 @@ Autochthon
 Autodidakt
 Autodidaktisch
 Autodrom
+Autofahrer
 Autogen
 Autogramm
 Autograph

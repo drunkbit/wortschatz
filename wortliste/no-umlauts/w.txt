@@ -84,12 +84,16 @@ waehlbar
 waehlbarkeit
 Waehlbarkeit
 waehlen
+Waehlenden
 waehler
 Waehler
 waehlerisch
+Waehlern
+Waehlerschaft
 waehlfaehig
 waehnen
 waehren
+waehrend
 waehrenddessen
 waehrung
 Waehrung
@@ -107,6 +111,7 @@ waemser
 Waemser
 waende
 Waende
+waere
 waeren
 waerm
 Waerm
@@ -178,8 +183,10 @@ wagon
 Wagon
 wahl
 Wahl
+Wahlanalysten
 wahlberechtigt
 wahlentscheidend
+Wahlergebnisses
 wahlfaehig
 Wahlfaenge
 Wahlfaenger
@@ -189,6 +196,7 @@ wahlfrei
 wahlheimat
 Wahlheimat
 wahllos
+Wahlsieg
 wahlweise
 wahn
 Wahn
@@ -227,6 +235,7 @@ wahrnehmbarkeit
 Wahrnehmbarkeit
 wahrnehmen
 Wahrnehmen
+Wahrnehmung
 wahrnehmungs
 Wahrnehmungs
 wahrnimmt
@@ -268,6 +277,7 @@ waldaermer
 waldaermste
 waldarm
 waldbedeckt
+Waldeinsamkeit
 waldig
 waldorflehrer
 Waldorflehrer
@@ -382,6 +392,7 @@ wanderer
 Wanderer
 wanderheuschrecke
 Wanderheuschrecke
+Wanderlust
 wandern
 Wandern
 wanderschaft
@@ -484,16 +495,19 @@ warteliste
 Warteliste
 warten
 Warten
+wartet
 wartungs
 Wartungs
 wartungsarm
 wartungsfrei
 wartungsfreundlich
 warum
+Warum
 warze
 Warze
 warzig
 was
+Was
 wasch
 Wasch
 waschecht
@@ -1166,12 +1180,14 @@ weltmeisterelf
 Weltmeisterelf
 weltoffen
 weltpolitisch
+Weltschmerz
 weltumfassend
 weltumkrempelnd
 weltumsegler
 Weltumsegler
 weltumspannend
 weltweit
+Weltwirtschaft
 weltwirtschaftlich
 wem
 Wembleystadion
@@ -1194,6 +1210,8 @@ wenigkeit
 Wenigkeit
 wenigst
 wenigstens
+wenn
+Wenn
 wenngleich
 wennschon
 wer
@@ -1212,6 +1230,7 @@ werbewirksam
 werblich
 werbungskosten
 Werbungskosten
+werde
 werdegang
 Werdegang
 werden
@@ -1237,12 +1256,14 @@ werkstaette
 Werkstaette
 werkstatt
 Werkstatt
+Werkstattbericht
 Werksvertrag
 werktaetig
 werktags
 werkvertraglich
 werkzeug
 Werkzeug
+Werkzeuge
 wermut
 Wermut
 wermutstropfen
@@ -1301,6 +1322,7 @@ westantarktisch
 westberliner
 Westberliner
 westdeutsch
+westdeutschen
 weste
 Weste
 westen
@@ -1543,6 +1565,7 @@ widrigenfalls
 widrigkeit
 Widrigkeit
 wie
+Wie
 wiedehopf
 Wiedehopf
 wieder
@@ -1589,6 +1612,7 @@ wiedereinmal
 wiedereinnehmen
 wiedereinsetzen
 wiedereinstellen
+Wiedereinzug
 wiederergreifen
 wiederergriffen
 wiedererkannt
@@ -1751,6 +1775,7 @@ Wildschweingulasch
 Wilhelm
 wilhelmshaven
 Wilhelmshaven
+will
 wille
 Wille
 willen
@@ -1864,6 +1889,7 @@ wipfel
 Wipfel
 wippen
 wir
+Wir
 wirbel
 Wirbel
 wirbellos
@@ -1928,6 +1954,7 @@ wirtschaftlichkeit
 Wirtschaftlichkeit
 wirtschafts
 Wirtschafts
+Wirtschaftsfoerderung
 wirtschaftsgeografie
 Wirtschaftsgeografie
 wirtschaftsgeographie
@@ -2005,6 +2032,7 @@ witzelei
 Witzelei
 witzeln
 witzig
+witzige
 witzigkeit
 Witzigkeit
 wizard
@@ -2021,6 +2049,7 @@ woche
 Woche
 wochen
 Wochen
+Wochenende
 wochenlang
 wochentags
 wochenweise
@@ -2043,6 +2072,8 @@ woertchen
 Woertchen
 woerter
 Woerter
+Woertern
+Woertersammler
 woertlich
 wofern
 wofuer
@@ -2077,6 +2108,7 @@ wohlfahrts
 Wohlfahrts
 wohlfeil
 wohlfuehlen
+Wohlfuehlwoerter
 wohlgefaellig
 wohlgefuehlt
 wohlgemerkt
@@ -2094,6 +2126,7 @@ wohlhabenheit
 Wohlhabenheit
 wohlig
 wohlklingend
+wohlklingende
 wohlmeinend
 wohlorganisiert
 wohlriechend
@@ -2123,6 +2156,7 @@ wohnhaft
 wohnlich
 wohnmobil
 Wohnmobil
+wohnt
 wohnungs
 Wohnungs
 wohnungseigentuemergemeinschaft
@@ -2158,6 +2192,7 @@ Wolkenkuckuckslaender
 wolkenkuckucksland
 Wolkenkuckucksland
 wolkenlos
+Wolkenschaukeln
 wolkig
 woll
 Woll
@@ -2206,6 +2241,7 @@ wortaermer
 wortaermste
 wortarm
 wortbruechig
+WortEntdeckungsreise
 wortfuegungslehren
 Wortfuegungslehren
 wortgetreu
@@ -2217,6 +2253,7 @@ wortklauberei
 Wortklauberei
 wortlos
 wortreich
+Wortschoenheiten
 wortschwall
 Wortschwall
 Wortschwatz
@@ -2348,6 +2385,7 @@ wunder
 Wunder
 wunderbar
 wunderbarerweise
+wunderfrohe
 wundergenommen
 wunderhuebsch
 wunderhuebscheste
@@ -2385,6 +2423,7 @@ Wuppertal
 wuppertaler
 Wuppertaler
 wurde
+wurden
 wurf
 Wurf
 wurm
