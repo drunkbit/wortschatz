@@ -97,8 +97,6 @@ Wortliste komplett neu erstellen:
 npm run rebuild-wordlist
 ```
 
-Ohne `--rebuild` werden nur Wörter hinzugefügt, die noch nicht in der bestehenden Liste enthalten sind. Existiert noch keine Wortliste, wird sie automatisch neu erstellt.
-
 ## Quellen
 
 | Quelle | Beschreibung |
