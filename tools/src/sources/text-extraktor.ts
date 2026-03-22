@@ -1,5 +1,6 @@
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
+import { isValidWordMinLength } from "../utils/validation.js";
 
 const INPUT_DIR = new URL("../../input/", import.meta.url).pathname;
 
@@ -37,7 +38,7 @@ export async function extractFromTexts(): Promise<string[]> {
         const tokens = tokenize(content);
 
         for (const token of tokens) {
-            if (isValidWord(token)) {
+            if (isValidWordMinLength(token)) {
                 wordSet.add(token);
             }
         }
@@ -73,10 +74,7 @@ function tokenize(text: string): string[] {
  * "WarHeute" → ["War", "Heute"]
  */
 function splitCamelCase(word: string): string[] {
-    return word.split(/(?<=[a-zäöüß])(?=[A-ZÄÖÜ])/).filter((t) => t.length > 0);
-}
-
-function isValidWord(word: string): boolean {
-    // Mindestens 2 Zeichen, nur deutsche Buchstaben
-    return word.length >= 2 && /^[a-zA-ZäöüÄÖÜß]+$/.test(word);
+    return word
+        .split(/(?<=[a-zäöüßẞ])(?=[A-ZÄÖÜẞ])/)
+        .filter((t) => t.length > 0);
 }

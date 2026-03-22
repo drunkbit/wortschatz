@@ -1,4 +1,5 @@
 import dictionary from "dictionary-de";
+import { isValidWord } from "../utils/validation.js";
 
 /**
  * Extrahiert deutsche Wörter aus dem Hunspell-Wörterbuch (dictionary-de).
@@ -34,9 +35,4 @@ export async function fetchHunspell(): Promise<string[]> {
 
     console.log(`[hunspell] ${words.length} Wörter extrahiert.`);
     return words;
-}
-
-function isValidWord(word: string): boolean {
-    // Nur Wörter mit deutschen Buchstaben (inkl. Umlaute, ß)
-    return /^[a-zA-ZäöüÄÖÜß]+$/.test(word);
 }

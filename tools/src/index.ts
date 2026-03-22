@@ -1,9 +1,20 @@
 import { Command } from "commander";
 import { execFile } from "node:child_process";
-import { mkdir, readFile, stat, writeFile } from "node:fs/promises";
+import {
+    mkdir,
+    readdir,
+    readFile,
+    rm,
+    stat,
+    writeFile,
+} from "node:fs/promises";
 import { join } from "node:path";
 import { promisify } from "node:util";
-import { exportWordlist } from "./pipeline/export.js";
+import {
+    type ExportStats,
+    type ExportVariant,
+    exportWordlist,
+} from "./pipeline/export.js";
 import { filterWordlist } from "./pipeline/filter.js";
 import { mergeWordlists } from "./pipeline/merge.js";
 import {
@@ -21,6 +32,7 @@ import { extractFromTexts } from "./sources/text-extraktor.js";
 import { fetchWiktionary } from "./sources/wiktionary.js";
 
 const CACHE_DIR = new URL("../cache/", import.meta.url).pathname;
+const CACHE_MAX_AGE_DAYS = 30;
 
 const program = new Command();
 
@@ -36,24 +48,43 @@ program
     .option("--hunspell", "Nur Hunspell-Quelle")
     .option("--wiktionary", "Nur Wiktionary-Quelle")
     .option("--dwds", "Nur DWDS-Quelle")
+    .option("--force", "Cache neu erstellen, auch wenn er aktuell ist")
     .action(async (options) => {
         await mkdir(CACHE_DIR, { recursive: true });
 
         const specific = options.hunspell || options.wiktionary || options.dwds;
 
         if (!specific || options.hunspell) {
-            const words = await fetchHunspell();
-            await saveCacheFile("hunspell.json", words);
+            if (!options.force && (await isCacheFresh("hunspell.json"))) {
+                console.log(
+                    "  hunspell: Cache ist aktuell (übersprungen, --force zum Erzwingen)",
+                );
+            } else {
+                const words = await fetchHunspell();
+                await saveCacheFile("hunspell.json", words);
+            }
         }
 
         if (!specific || options.wiktionary) {
-            const words = await fetchWiktionary();
-            await saveCacheFile("wiktionary.json", words);
+            if (!options.force && (await isCacheFresh("wiktionary.json"))) {
+                console.log(
+                    "  wiktionary: Cache ist aktuell (übersprungen, --force zum Erzwingen)",
+                );
+            } else {
+                const words = await fetchWiktionary();
+                await saveCacheFile("wiktionary.json", words);
+            }
         }
 
         if (!specific || options.dwds) {
-            const words = await fetchDwds();
-            await saveCacheFile("dwds.json", words);
+            if (!options.force && (await isCacheFresh("dwds.json"))) {
+                console.log(
+                    "  dwds: Cache ist aktuell (übersprungen, --force zum Erzwingen)",
+                );
+            } else {
+                const words = await fetchDwds();
+                await saveCacheFile("dwds.json", words);
+            }
         }
 
         console.log("\n✓ Fetch abgeschlossen. Daten im Cache gespeichert.");
@@ -84,8 +115,15 @@ program
         "--rebuild",
         "Wortliste komplett neu erstellen (statt nur zu ergänzen)",
     )
+    .option("--dry-run", "Zeigt was passieren würde, ohne Dateien zu schreiben")
     .action(async (options) => {
         const rebuild = !!options.rebuild;
+        const dryRun = !!options.dryRun;
+
+        if (dryRun)
+            console.log(
+                "[dry-run] Trockenlauf — keine Dateien werden geschrieben.\n",
+            );
 
         console.log(
             rebuild
@@ -148,27 +186,19 @@ program
             console.log(`\n  +${newWords} neue Wörter gefunden.`);
         }
 
-        // Varianten erstellen
-        const lowercased = normalizeToLowercase(filtered);
-        const uppercased = normalizeToUppercase(filtered);
-        const noUmlauts = normalizeNoUmlauts(filtered);
-        const noUmlautsLower = normalizeNoUmlautsLowercase(filtered);
-        const noUmlautsCap = normalizeNoUmlautsCapitalized(filtered);
-        const noUmlautsUpper = normalizeNoUmlautsUppercase(filtered);
-        const capitalized = normalizeCapitalized(filtered);
+        if (dryRun) {
+            console.log(
+                `\n[dry-run] ${filtered.length} Wörter würden exportiert.`,
+            );
+            if (!rebuild && existing.length > 0) {
+                console.log(`[dry-run] Davon +${newWords} neue Wörter.`);
+            }
+            console.log("[dry-run] Keine Dateien geschrieben.\n");
+            return;
+        }
 
-        // Exportieren
-        console.log("");
-        const allStats = [
-            await exportWordlist(filtered, "original"),
-            await exportWordlist(lowercased, "lowercase"),
-            await exportWordlist(uppercased, "uppercase"),
-            await exportWordlist(noUmlauts, "no-umlauts"),
-            await exportWordlist(noUmlautsLower, "no-umlauts-lowercase"),
-            await exportWordlist(noUmlautsCap, "no-umlauts-capitalized"),
-            await exportWordlist(noUmlautsUpper, "no-umlauts-uppercase"),
-            await exportWordlist(capitalized, "capitalized"),
-        ];
+        // Varianten erstellen und exportieren
+        const allStats = await createVariantsAndExport(filtered);
 
         console.log("\n========================================");
         console.log(
@@ -177,12 +207,7 @@ program
                 : "  Wortschatz — Aktualisierung abgeschlossen",
         );
         console.log("========================================");
-        for (const stats of allStats) {
-            const label = stats.variant.padEnd(22);
-            console.log(
-                `  ${label} ${stats.totalWords} Wörter in ${stats.files} Dateien`,
-            );
-        }
+        printExportStats(allStats);
         if (!rebuild && existing.length > 0) {
             console.log(`  Neu hinzugefügt: +${newWords} Wörter`);
         }
@@ -196,7 +221,9 @@ program
         "Bestehende Wortliste filtern: Entfernt Wörter die den Kriterien nicht entsprechen\n" +
             "(nur Großbuchstaben, ≤2 Zeichen, Zahlen, Sonderzeichen) und exportiert neu.",
     )
-    .action(async () => {
+    .option("--dry-run", "Zeigt was passieren würde, ohne Dateien zu schreiben")
+    .action(async (options) => {
+        const dryRun = !!options.dryRun;
         const existing = await loadExistingWordlist();
 
         if (existing.length === 0) {
@@ -205,6 +232,11 @@ program
             );
             process.exit(1);
         }
+
+        if (dryRun)
+            console.log(
+                "[dry-run] Trockenlauf — keine Dateien werden geschrieben.\n",
+            );
 
         console.log(
             `[filter] Bestehende Wortliste: ${existing.length} Wörter\n`,
@@ -220,37 +252,21 @@ program
             return;
         }
 
-        // Varianten erstellen
-        const lowercased = normalizeToLowercase(filtered);
-        const uppercased = normalizeToUppercase(filtered);
-        const noUmlauts = normalizeNoUmlauts(filtered);
-        const noUmlautsLower = normalizeNoUmlautsLowercase(filtered);
-        const noUmlautsCap = normalizeNoUmlautsCapitalized(filtered);
-        const noUmlautsUpper = normalizeNoUmlautsUppercase(filtered);
-        const capitalized = normalizeCapitalized(filtered);
+        if (dryRun) {
+            console.log(
+                `\n[dry-run] ${removed} Wörter würden entfernt, ${filtered.length} behalten.`,
+            );
+            console.log("[dry-run] Keine Dateien geschrieben.\n");
+            return;
+        }
 
-        // Exportieren
-        console.log("");
-        const allStats = [
-            await exportWordlist(filtered, "original"),
-            await exportWordlist(lowercased, "lowercase"),
-            await exportWordlist(uppercased, "uppercase"),
-            await exportWordlist(noUmlauts, "no-umlauts"),
-            await exportWordlist(noUmlautsLower, "no-umlauts-lowercase"),
-            await exportWordlist(noUmlautsCap, "no-umlauts-capitalized"),
-            await exportWordlist(noUmlautsUpper, "no-umlauts-uppercase"),
-            await exportWordlist(capitalized, "capitalized"),
-        ];
+        // Varianten erstellen und exportieren
+        const allStats = await createVariantsAndExport(filtered);
 
         console.log("\n========================================");
         console.log("  Wortschatz — Filter abgeschlossen");
         console.log("========================================");
-        for (const stats of allStats) {
-            const label = stats.variant.padEnd(22);
-            console.log(
-                `  ${label} ${stats.totalWords} Wörter in ${stats.files} Dateien`,
-            );
-        }
+        printExportStats(allStats);
         console.log(`  Entfernt: ${removed} Wörter`);
         console.log("========================================\n");
     });
@@ -382,6 +398,41 @@ program
         console.log("\n========================================\n");
     });
 
+// --- cache: Cache verwalten ---
+program
+    .command("cache")
+    .description("Cache-Verzeichnis verwalten")
+    .argument("<action>", "Aktion: 'clean' (alle Cache-Dateien löschen)")
+    .action(async (action: string) => {
+        if (action === "clean") {
+            try {
+                const files = await readdir(CACHE_DIR);
+                const jsonFiles = files.filter((f) => f.endsWith(".json"));
+
+                if (jsonFiles.length === 0) {
+                    console.log("\n  Cache ist bereits leer.\n");
+                    return;
+                }
+
+                for (const file of jsonFiles) {
+                    await rm(join(CACHE_DIR, file));
+                    console.log(`  Gelöscht: ${file}`);
+                }
+
+                console.log(
+                    `\n✓ ${jsonFiles.length} Cache-Dateien gelöscht.\n`,
+                );
+            } catch {
+                console.log("\n  Cache-Verzeichnis nicht vorhanden.\n");
+            }
+        } else {
+            console.error(
+                `\nUnbekannte Aktion: '${action}'. Verfügbar: clean\n`,
+            );
+            process.exit(1);
+        }
+    });
+
 interface HistoryEntry {
     date: string;
     count: number;
@@ -465,6 +516,50 @@ async function getCacheAge(filename: string): Promise<string> {
 
 const WORDLIST_DIR = new URL("../../wortliste/", import.meta.url).pathname;
 
+/**
+ * Erstellt alle Varianten einer Wortliste und exportiert sie.
+ * Wird von build und filter gemeinsam genutzt.
+ */
+async function createVariantsAndExport(
+    filtered: string[],
+): Promise<ExportStats[]> {
+    const variants: Array<{ words: string[]; name: ExportVariant }> = [
+        { words: filtered, name: "original" },
+        { words: normalizeToLowercase(filtered), name: "lowercase" },
+        { words: normalizeToUppercase(filtered), name: "uppercase" },
+        { words: normalizeNoUmlauts(filtered), name: "no-umlauts" },
+        {
+            words: normalizeNoUmlautsLowercase(filtered),
+            name: "no-umlauts-lowercase",
+        },
+        {
+            words: normalizeNoUmlautsCapitalized(filtered),
+            name: "no-umlauts-capitalized",
+        },
+        {
+            words: normalizeNoUmlautsUppercase(filtered),
+            name: "no-umlauts-uppercase",
+        },
+        { words: normalizeCapitalized(filtered), name: "capitalized" },
+    ];
+
+    console.log("");
+    const allStats: ExportStats[] = [];
+    for (const { words, name } of variants) {
+        allStats.push(await exportWordlist(words, name));
+    }
+    return allStats;
+}
+
+function printExportStats(allStats: ExportStats[]): void {
+    for (const stats of allStats) {
+        const label = stats.variant.padEnd(22);
+        console.log(
+            `  ${label} ${stats.totalWords} Wörter in ${stats.files} Dateien`,
+        );
+    }
+}
+
 async function loadExistingWordlist(): Promise<string[]> {
     try {
         const path = join(WORDLIST_DIR, "original", "_alle.txt");
@@ -482,12 +577,37 @@ async function saveCacheFile(filename: string, data: string[]): Promise<void> {
 }
 
 async function loadCacheFile(filename: string): Promise<string[] | null> {
+    const path = join(CACHE_DIR, filename);
+    try {
+        const content = await readFile(path, "utf-8");
+        const parsed = JSON.parse(content);
+        if (!Array.isArray(parsed)) {
+            console.warn(
+                `  ⚠ Cache-Datei ${filename} hat ungültiges Format, wird ignoriert.`,
+            );
+            return null;
+        }
+        return parsed as string[];
+    } catch (error) {
+        if (error instanceof SyntaxError) {
+            console.warn(
+                `  ⚠ Cache-Datei ${filename} ist korrupt (ungültiges JSON), wird ignoriert.`,
+            );
+            return null;
+        }
+        return null;
+    }
+}
+
+async function isCacheFresh(filename: string): Promise<boolean> {
     try {
         const path = join(CACHE_DIR, filename);
-        const content = await readFile(path, "utf-8");
-        return JSON.parse(content) as string[];
+        const info = await stat(path);
+        const ageMs = Date.now() - info.mtimeMs;
+        const ageDays = ageMs / (1000 * 60 * 60 * 24);
+        return ageDays < CACHE_MAX_AGE_DAYS;
     } catch {
-        return null;
+        return false;
     }
 }
 

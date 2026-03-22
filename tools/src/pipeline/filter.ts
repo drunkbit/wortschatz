@@ -1,15 +1,16 @@
+import { isValidWord } from "../utils/validation.js";
+
 /**
  * Filtert ungültige Wörter aus der Wortliste.
  *
  * Regeln:
  * - Muss länger als 2 Zeichen sein
  * - Darf nicht nur aus Großbuchstaben bestehen
- * - Nur Buchstaben a-z, A-Z, ä, ö, ü, Ä, Ö, Ü, ß erlaubt
+ * - Nur Buchstaben a-z, A-Z, ä, ö, ü, Ä, Ö, Ü, ß, ẞ erlaubt
  *   (keine Zahlen, Bindestriche, Punkte oder sonstige Zeichen)
  */
 
-const VALID_WORD = /^[a-zA-ZäöüÄÖÜß]+$/;
-const ALL_UPPERCASE = /^[A-ZÄÖÜ]+$/;
+const ALL_UPPERCASE = /^[A-ZÄÖÜẞ]+$/;
 
 export function filterWordlist(words: string[]): string[] {
     console.log(`[filter] Filtere Wortliste (${words.length} Wörter) ...`);
@@ -28,7 +29,7 @@ export function filterWordlist(words: string[]): string[] {
             continue;
         }
 
-        if (!VALID_WORD.test(word)) {
+        if (!isValidWord(word)) {
             removed++;
             continue;
         }

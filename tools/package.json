@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Tools zum Erstellen und Verwalten der deutschen Wortliste",
   "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "fetch": "tsx src/index.ts fetch",
     "extract": "tsx src/index.ts extract",
@@ -10,7 +13,10 @@
     "rebuild-wordlist": "tsx src/index.ts build --rebuild",
     "filter": "tsx src/index.ts filter",
     "stats": "tsx src/index.ts stats",
-    "start": "tsx src/index.ts"
+    "cache-clean": "tsx src/index.ts cache clean",
+    "start": "tsx src/index.ts",
+    "test": "vitest run",
+    "test:watch": "vitest"
   },
   "dependencies": {
     "cheerio": "^1.2.0",
@@ -20,6 +26,7 @@
   "devDependencies": {
     "@types/node": "^22.19.15",
     "tsx": "^4.21.0",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.0"
   }
 }

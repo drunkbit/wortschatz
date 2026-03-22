@@ -1,4 +1,10 @@
+import { sleep } from "../utils/async.js";
+import { isValidWord } from "../utils/validation.js";
+
 const WIKTIONARY_API = "https://de.wiktionary.org/w/api.php";
+const USER_AGENT =
+    "wortschatz-tools/1.0 (https://github.com/drunkbit/wortschatz)";
+const MAX_RETRIES = 3;
 
 /**
  * Extrahiert deutsche Wörter aus dem deutschsprachigen Wiktionary
@@ -31,13 +37,30 @@ export async function fetchWiktionary(): Promise<string[]> {
         }
 
         const url = `${WIKTIONARY_API}?${params}`;
-        const response = await fetch(url);
 
-        if (!response.ok) {
+        let response: Response | null = null;
+        for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+            try {
+                response = await fetch(url, {
+                    headers: { "User-Agent": USER_AGENT },
+                });
+                if (response.ok) break;
+                console.warn(
+                    `[wiktionary] HTTP ${response.status} bei Batch ${batch} (Versuch ${attempt}/${MAX_RETRIES})`,
+                );
+            } catch (error) {
+                console.warn(
+                    `[wiktionary] Fehler bei Batch ${batch} (Versuch ${attempt}/${MAX_RETRIES}): ${error}`,
+                );
+            }
+            if (attempt < MAX_RETRIES) await sleep(1000 * attempt);
+        }
+
+        if (!response?.ok) {
             console.warn(
-                `[wiktionary] HTTP ${response.status} bei Batch ${batch}, überspringe...`,
+                `[wiktionary] Batch ${batch} fehlgeschlagen nach ${MAX_RETRIES} Versuchen, überspringe...`,
             );
-            break;
+            continue;
         }
 
         const data = (await response.json()) as WiktionaryResponse;
@@ -73,13 +96,4 @@ interface WiktionaryResponse {
     continue?: {
         cmcontinue?: string;
     };
-}
-
-function isValidWord(word: string): boolean {
-    // Nur einzelne Wörter mit deutschen Buchstaben
-    return /^[a-zA-ZäöüÄÖÜß]+$/.test(word);
-}
-
-function sleep(ms: number): Promise<void> {
-    return new Promise((resolve) => setTimeout(resolve, ms));
 }

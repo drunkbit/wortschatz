@@ -39,15 +39,19 @@ export async function exportWordlist(
     // Gesamtdatei
     await writeFile(join(dir, "_alle.txt"), words.join("\n") + "\n", "utf-8");
 
-    // Nach Buchstabe aufgeteilt
+    // Nach Buchstabe aufgeteilt (parallel schreiben)
     const buckets = splitByLetter(words);
     let fileCount = 1; // _alle.txt
 
-    for (const [key, list] of buckets) {
-        const filename = `${key}.txt`;
-        await writeFile(join(dir, filename), list.join("\n") + "\n", "utf-8");
+    const writes = [...buckets].map(([key, list]) => {
         fileCount++;
-    }
+        return writeFile(
+            join(dir, `${key}.txt`),
+            list.join("\n") + "\n",
+            "utf-8",
+        );
+    });
+    await Promise.all(writes);
 
     console.log(
         `[export] ${variant}: ${words.length} Wörter in ${fileCount} Dateien geschrieben.`,

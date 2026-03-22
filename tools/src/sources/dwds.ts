@@ -1,3 +1,6 @@
+import { parallelMap, sleep } from "../utils/async.js";
+import { isValidWord } from "../utils/validation.js";
+
 /**
  * Extrahiert Wörter aus den öffentlich verfügbaren DWDS-Wortlisten.
  *
@@ -8,12 +11,16 @@
 
 const DWDS_WORDLIST_URL =
     "https://www.dwds.de/lemma/list?corpus=kern&limit=0&format=text";
+const USER_AGENT =
+    "wortschatz-tools/1.0 (https://github.com/drunkbit/wortschatz)";
 
 export async function fetchDwds(): Promise<string[]> {
     console.log("[dwds] Lade DWDS-Wortliste ...");
 
     try {
-        const response = await fetch(DWDS_WORDLIST_URL);
+        const response = await fetch(DWDS_WORDLIST_URL, {
+            headers: { "User-Agent": USER_AGENT },
+        });
 
         if (!response.ok) {
             console.warn(
@@ -40,42 +47,35 @@ export async function fetchDwds(): Promise<string[]> {
 /**
  * Alternative Methode: DWDS-Wörterbuch-API mit alphabetischer Abfrage.
  * Falls die direkte Wortliste nicht verfügbar ist.
+ * Nutzt begrenzte Parallelität (3 gleichzeitige Requests).
  */
 async function fetchDwdsAlternative(): Promise<string[]> {
-    console.log("[dwds] Verwende DWDS-API (alphabetisch) ...");
+    console.log("[dwds] Verwende DWDS-API (alphabetisch, parallel) ...");
 
-    const allWords: string[] = [];
     const prefixes = "abcdefghijklmnopqrstuvwxyzäöü".split("");
 
-    for (const prefix of prefixes) {
+    const results = await parallelMap(prefixes, 3, async (prefix) => {
         try {
             const url = `https://www.dwds.de/api/wb/list?q=${encodeURIComponent(prefix)}*&limit=10000`;
-            const response = await fetch(url);
+            const response = await fetch(url, {
+                headers: { "User-Agent": USER_AGENT },
+            });
 
-            if (!response.ok) continue;
+            if (!response.ok) return [];
 
             const data = (await response.json()) as string[];
-            for (const word of data) {
-                if (isValidWord(word)) {
-                    allWords.push(word);
-                }
-            }
+            const valid = data.filter((word) => isValidWord(word));
 
             console.log(`[dwds]   ${prefix}: ${data.length} Einträge`);
-            await sleep(200);
+            await sleep(100);
+            return valid;
         } catch {
             console.warn(`[dwds]   ${prefix}: Fehler, überspringe...`);
+            return [];
         }
-    }
+    });
 
+    const allWords = results.flat();
     console.log(`[dwds] ${allWords.length} Wörter extrahiert (alternativ).`);
     return allWords;
-}
-
-function isValidWord(word: string): boolean {
-    return /^[a-zA-ZäöüÄÖÜß]+$/.test(word);
-}
-
-function sleep(ms: number): Promise<void> {
-    return new Promise((resolve) => setTimeout(resolve, ms));
 }

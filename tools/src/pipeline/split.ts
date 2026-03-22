@@ -37,6 +37,9 @@ function getBucketKey(word: string): string {
             return "oe";
         case "ü":
             return "ue";
+        case "ß":
+        case "ẞ":
+            return "s";
         default:
             return first;
     }

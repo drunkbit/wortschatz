@@ -2,16 +2,18 @@
 
 Eine umfassende deutsche Wortliste zur freien Weiterverarbeitung.
 
-Die Wörter stammen aus [mehreren Quellen](#quellen) und werden in sechs Varianten bereitgestellt:
+Die Wörter stammen aus [mehreren Quellen](#quellen) und werden in acht Varianten bereitgestellt:
 
 | Variante | Verzeichnis | Beschreibung | Beispiel |
 |----------|-------------|--------------|----------|
 | **Original** | `original/` | Groß-/Kleinschreibung wie im Wörterbuch | Übermütig |
 | **Lowercase** | `lowercase/` | Alles kleingeschrieben | übermütig |
 | **Uppercase** | `uppercase/` | Alles großgeschrieben | ÜBERMÜTIG |
+| **Capitalized** | `capitalized/` | Erster Buchstabe groß, Rest klein | Übermütig |
 | **No-Umlauts** | `no-umlauts/` | Umlaute ersetzt (ä→ae, ö→oe, ü→ue, ß→ss) | Uebermutig |
 | **No-Umlauts-Lowercase** | `no-umlauts-lowercase/` | Umlaute ersetzt + lowercase | uebermutig |
-| **Capitalized** | `capitalized/` | Erster Buchstabe groß, Rest klein | Übermütig |
+| **No-Umlauts-Uppercase** | `no-umlauts-uppercase/` | Umlaute ersetzt + uppercase | UEBERMUTIG |
+| **No-Umlauts-Capitalized** | `no-umlauts-capitalized/` | Umlaute ersetzt + erster Buchstabe groß | Uebermutig |
 
 Alle Varianten gibt es als **eine Gesamtdatei** (`_alle.txt`) und **aufgeteilt nach Anfangsbuchstabe** (a–z + ae, oe, ue für Umlaute).
 
@@ -75,6 +77,12 @@ npm run fetch -- --wiktionary
 npm run fetch -- --dwds
 ```
 
+Cache neu erstellen, auch wenn er aktuell ist:
+
+```bash
+npm run fetch -- --force
+```
+
 ### Eigene Texte hinzufügen
 
 Eigene Textdateien (`.txt`) im Verzeichnis `tools/input/` ablegen. Der Text-Extraktor tokenisiert den Fließtext und extrahiert einzelne Wörter automatisch.
@@ -95,6 +103,29 @@ Wortliste komplett neu erstellen:
 
 ```bash
 npm run rebuild-wordlist
+```
+
+### Trockenlauf
+
+Zeigt was passieren würde, ohne Dateien zu schreiben:
+
+```bash
+npm run build-wordlist -- --dry-run
+npm run filter -- --dry-run
+```
+
+### Cache verwalten
+
+Statistiken und Cache-Alter anzeigen:
+
+```bash
+npm run stats
+```
+
+Alle Cache-Dateien löschen:
+
+```bash
+npm run cache-clean
 ```
 
 ## Quellen
