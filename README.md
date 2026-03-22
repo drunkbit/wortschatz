@@ -5,7 +5,7 @@ Eine umfassende deutsche Wortliste zur freien Weiterverarbeitung.
 Die Wörter stammen aus [mehreren Quellen](#quellen) und werden in acht Varianten bereitgestellt:
 
 | Variante | Verzeichnis | Beschreibung | Beispiel |
-|----------|-------------|--------------|----------|
+| --- | --- | --- | --- |
 | **Original** | `original/` | Groß-/Kleinschreibung wie im Wörterbuch | Übermütig |
 | **Lowercase** | `lowercase/` | Alles kleingeschrieben | übermütig |
 | **Uppercase** | `uppercase/` | Alles großgeschrieben | ÜBERMÜTIG |
@@ -131,7 +131,7 @@ npm run cache-clean
 ## Quellen
 
 | Quelle | Beschreibung |
-|--------|-------------|
+| --- | --- |
 | [Hunspell de_DE](https://github.com/wooorm/dictionaries/tree/main/dictionaries/de) | Deutsches Hunspell-Wörterbuch |
 | [Wiktionary](https://de.wiktionary.org/) | Deutschsprachiges Wiktionary (Kategorie: Deutsch) |
 | [DWDS](https://www.dwds.de/) | Digitales Wörterbuch der deutschen Sprache |
