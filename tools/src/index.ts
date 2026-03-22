@@ -4,6 +4,7 @@ import { mkdir, readFile, stat, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { promisify } from "node:util";
 import { exportWordlist } from "./pipeline/export.js";
+import { filterWordlist } from "./pipeline/filter.js";
 import { mergeWordlists } from "./pipeline/merge.js";
 import {
     normalizeCapitalized,
@@ -132,8 +133,9 @@ program
         const allSources =
             existing.length > 0 ? [existing, ...sources] : sources;
         const merged = mergeWordlists(...allSources);
+        const filtered = filterWordlist(merged);
 
-        const newWords = merged.length - existing.length;
+        const newWords = filtered.length - existing.length;
         if (!rebuild && existing.length > 0) {
             if (newWords === 0) {
                 console.log(
@@ -145,16 +147,16 @@ program
         }
 
         // Varianten erstellen
-        const lowercased = normalizeToLowercase(merged);
-        const uppercased = normalizeToUppercase(merged);
-        const noUmlauts = normalizeNoUmlauts(merged);
-        const noUmlautsLower = normalizeNoUmlautsLowercase(merged);
-        const capitalized = normalizeCapitalized(merged);
+        const lowercased = normalizeToLowercase(filtered);
+        const uppercased = normalizeToUppercase(filtered);
+        const noUmlauts = normalizeNoUmlauts(filtered);
+        const noUmlautsLower = normalizeNoUmlautsLowercase(filtered);
+        const capitalized = normalizeCapitalized(filtered);
 
         // Exportieren
         console.log("");
         const allStats = [
-            await exportWordlist(merged, "original"),
+            await exportWordlist(filtered, "original"),
             await exportWordlist(lowercased, "lowercase"),
             await exportWordlist(uppercased, "uppercase"),
             await exportWordlist(noUmlauts, "no-umlauts"),
