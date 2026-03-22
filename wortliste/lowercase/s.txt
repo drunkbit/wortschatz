@@ -74,6 +74,7 @@ sadistisch
 säen
 safari
 safe
+safiya
 safran
 saft
 säfte
@@ -106,6 +107,7 @@ sahne
 sahnen
 sahnetorte
 sahnig
+said
 saigon
 saison
 saisonal
@@ -139,10 +141,13 @@ saldo
 saldomitteilung
 saldovortrag
 säle
+salih
 salis
 salisbury
 salm
+salma
 salmiakgeist
+salome
 salomoneninseln
 salomonisch
 salon
@@ -178,6 +183,7 @@ salzsäule
 salzsole
 salzstreuer
 sam
+sama
 samariter
 samarkand
 sämaschine
@@ -186,7 +192,10 @@ sambesi
 sambia
 same
 samen
+sami
 sämig
+samir
+samira
 sämling
 sammel
 sammeln
@@ -213,9 +222,12 @@ samtfauteuil
 samthandschuh
 sämtlich
 sämtlicher
+samu
 samuel
 samurai
 san
+sana
+sanad
 sanatorien
 sanatorium
 sand
@@ -266,6 +278,7 @@ sann
 sans
 sansibar
 santa
+santiago
 santorin
 sanyo
 sao
@@ -273,6 +286,7 @@ saphir
 sapperlot
 saps
 saragossa
+sarah
 sarajevo
 saratoga
 sarde
@@ -283,6 +297,7 @@ sardinen
 sardinenbüchse
 sardinenöl
 sardinien
+sare
 sarg
 sargdeckel
 särge
@@ -2668,13 +2683,18 @@ selektionskriterien
 selektionsmechanismen
 selektionsmethode
 selektiv
+selena
 selfie
 selfmademan
 selig
 seligkeit
 seligsprechung
 seligwerden
+selim
+selin
+selina
 sellerie
+selma
 selten
 seltene
 seltener
@@ -2697,6 +2717,7 @@ semesterende
 semesterferien
 semesterschluss
 semiformal
+semih
 semikolon
 semilegal
 seminar
@@ -2706,6 +2727,7 @@ semiotisch
 semisukkulent
 semit
 semmel
+sena
 senat
 senator
 senators
@@ -2955,6 +2977,7 @@ sichverselbstständigen
 sickergrube
 sickern
 sickerwasser
+sidra
 sie
 sieb
 siebdruck
@@ -3053,6 +3076,7 @@ siel
 siemens
 siemensgerät
 siemensnetzteil
+sienna
 siesta
 sievert
 siezen
@@ -3072,6 +3096,8 @@ signifikant
 signifikanz
 sigrid
 sigrun
+sila
+silas
 silbe
 silbenendung
 silbenmaß
@@ -3105,6 +3131,7 @@ simulator
 simulieren
 simultan
 simultanwettkampf
+sina
 sinai
 sinalco
 sinatra
@@ -3240,6 +3267,7 @@ sixtinisch
 sizilianer
 sizilianisch
 sizilien
+skadi
 skagerrak
 skala
 skalen
@@ -3330,6 +3358,7 @@ smart
 smartphone
 smd
 smiley
+smilla
 smog
 smoking
 smolensk
@@ -3358,6 +3387,7 @@ sofapolster
 sofern
 soff
 sofia
+sofija
 sofort
 sofortbeziehbar
 sofortig
@@ -3431,6 +3461,7 @@ söldnertruppe
 soldquelle
 soldzahlung
 sole
+solea
 solei
 soli
 solid
@@ -4641,6 +4672,7 @@ steinzeitlich
 steiß
 steißbein
 stell
+stella
 stellage
 stelldichein
 stelle
@@ -5667,6 +5699,7 @@ süßigkeiten
 süßrahmbutter
 süßsauer
 süßspeise
+svea
 sven
 svenja
 sweatshirt

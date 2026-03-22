@@ -37,6 +37,7 @@ Dagestanden
 Dagewesen
 Dagewesenes
 Dagmar
+Dahab
 Daheim
 Daher
 Dahergekommen
@@ -75,6 +76,7 @@ Dakar
 Dalag
 Dalai
 Dali
+Dalia
 Daliegen
 Daliegst
 Dallas
@@ -90,6 +92,8 @@ Damen
 Damenhaft
 Damenportemonnaie
 Damhirsch
+Damian
+Damir
 Damit
 Dämlich
 Damm
@@ -126,6 +130,7 @@ Dampften
 Dämpfung
 Dämpfungs
 Damwild
+Dana
 Danach
 Dancingstars
 Dandy
@@ -142,6 +147,7 @@ Dänenherrschaft
 Danieder
 Daniel
 Daniela
+Danilo
 Dänisch
 Dank
 Dankbar
@@ -193,7 +199,12 @@ Dargelegt
 Dargereicht
 Dargestellt
 Dargetan
+Daria
+Darian
 Darin
+Dario
+Daris
+Darius
 Darlegen
 Darlehen
 Darlehens
@@ -386,11 +397,13 @@ Dazwischentreten
 Dazwischenwarf
 Dazwischenwerfen
 Dazwischenwirft
+Dea
 Deadline
 Deaktivieren
 Deal
 Dealen
 Dealer
+Dean
 Debakel
 Debatte
 Debattenbeitrag
@@ -458,6 +471,7 @@ Defizitverfahrens
 Deflation
 Deflationär
 Deflations
+Defne
 Deformation
 Deformieren
 Deformiert
@@ -545,6 +559,7 @@ Delektieren
 Delfin
 Delfinschwimmer
 Delhi
+Delia
 Delikat
 Delikatesse
 Delikatessengeschäft
@@ -846,6 +861,7 @@ Devon
 Devot
 Devotionalien
 Devotionalienhändler
+Devran
 Dextrose
 Dezember
 Dezent
@@ -891,6 +907,7 @@ Diamant
 Diamantbesetzt
 Diamanten
 Diametral
+Dian
 Diana
 Diaphragma
 Diapositiv
@@ -940,6 +957,7 @@ Diebessicher
 Diebisch
 Diebstahl
 Diebstähle
+Diego
 Diegrossechance
 Diejenige
 Diejenigen
@@ -1090,6 +1108,7 @@ Diminuendo
 Diminutiv
 Dimmen
 Dimmer
+Dina
 Dinar
 Ding
 Dinge
@@ -1105,6 +1124,7 @@ Dinosaurier
 Diode
 Dioden
 Diogenes
+Dion
 Dionysios
 Dioptrie
 Dioxid
@@ -1256,6 +1276,7 @@ Divisions
 Divisor
 Diwan
 Dixieland
+Diyan
 Dnjepr
 Dobermann
 Doch
@@ -1384,6 +1405,7 @@ Dorfverhöre
 Dorfvorsteher
 Dorfweges
 Dorfwirtshaus
+Dorian
 Doris
 Dormagen
 Dorn
@@ -1749,6 +1771,7 @@ Dschihadismus
 Dschihadist
 Dschingis
 Dschungel
+Dua
 Dual
 Dualismus
 Dualistisch
@@ -1850,6 +1873,7 @@ Dünnflüssig
 Dunst
 Dünsten
 Dunstig
+Dunya
 Duo
 Düpieren
 Duplex

@@ -118,6 +118,7 @@ Palermo
 palette
 Palette
 paletti
+Palina
 palisade
 Palisade
 palladium
@@ -711,6 +712,8 @@ Pauker
 Paul
 Paula
 Paulette
+Paulina
+Pauline
 Paulus
 pausbaeckig
 pauschal
@@ -873,6 +876,7 @@ Penthouse
 Pentium
 Pep
 Pepa
+Pepe
 peperoni
 Peperoni
 Pepi
@@ -1393,6 +1397,7 @@ Phenol
 phenolchemie
 Phenolchemie
 phi
+Phil
 philadelphia
 Philadelphia
 philanthrop
@@ -1408,7 +1413,9 @@ Philharmonie
 philharmoniker
 Philharmoniker
 philharmonisch
+Philine
 Philipp
+Philippa
 philippinen
 Philippinen
 philippinengraben
@@ -1430,6 +1437,7 @@ philologenverband
 Philologenverband
 philologie
 Philologie
+Philomena
 philosoph
 Philosoph
 philosophenschule
@@ -1520,6 +1528,7 @@ Physiotherapeut
 physis
 Physis
 physisch
+Pia
 Piaget
 pianissimo
 pianist
@@ -1549,6 +1558,7 @@ piepste
 piercing
 Piercing
 piesacken
+Piet
 pietaet
 Pietaet
 pietaetvoll
@@ -2521,6 +2531,7 @@ powerpack
 Powerpack
 powerup
 Powerup
+Poyraz
 pracht
 Pracht
 prachtvoll

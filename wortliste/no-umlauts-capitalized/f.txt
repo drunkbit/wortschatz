@@ -3,6 +3,7 @@ Fabelhaft
 Fabelpferd
 Fabelte
 Fabian
+Fabio
 Fabrik
 Fabrikant
 Fabrikat
@@ -499,6 +500,11 @@ Feldueberlegen
 Feldwebel
 Felge
 Felgengroesse
+Felia
+Felicia
+Felicitas
+Felina
+Feline
 Felix
 Fell
 Fellatio
@@ -517,6 +523,7 @@ Feminist
 Feministisch
 Fenchel
 Fenchelstraeucher
+Fenja
 Fenster
 Fensterbank
 Fensterbrett
@@ -796,6 +803,7 @@ Fiel
 Fielen
 Fies
 Fiesling
+Fiete
 Figuerlich
 Figur
 Figuren
@@ -870,6 +878,7 @@ Findiger
 Findigkeit
 Findling
 Findungs
+Fine
 Finesse
 Fing
 Fingen
@@ -886,7 +895,10 @@ Fingerspitzengefuehl
 Fingerzeig
 Fingieren
 Finit
+Finja
 Fink
+Finley
+Finn
 Finne
 Finnisch
 Finnland
@@ -896,6 +908,7 @@ Finstern
 Finsternis
 Finstre
 Finte
+Fiona
 Firefox
 Firewall
 Firlefanz
@@ -1178,6 +1191,8 @@ Floppydisketten
 Floppylaufwerk
 Floppystation
 Flora
+Florentina
+Florentine
 Florenz
 Florett
 Florettartig
@@ -1274,6 +1289,7 @@ Fluten
 Flutete
 Flutschen
 Flyer
+Flynn
 Focht
 Fockmast
 Foederal
@@ -1744,6 +1760,8 @@ Frechen
 Frecher
 Frecherweise
 Frechheit
+Fred
+Frederik
 Freebsd
 Freeclimbing
 Freejazz
@@ -1951,6 +1969,7 @@ Frevel
 Frevelhaft
 Freveln
 Freveltat
+Freya
 Frickelei
 Frieda
 Friedas
@@ -2012,6 +2031,7 @@ Frisur
 Fritteuse
 Frittieren
 Fritz
+Fritzi
 Frivol
 Froehlich
 Froehliche

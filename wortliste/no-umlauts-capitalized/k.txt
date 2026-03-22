@@ -1,4 +1,5 @@
 Kaaba
+Kaan
 Kabarett
 Kabarettist
 Kabarettistisch
@@ -77,6 +78,7 @@ Kaese
 Kaeserei
 Kaestchen
 Kaesten
+Kaethe
 Kaetzchen
 Kaeufe
 Kaeufer
@@ -121,6 +123,7 @@ Kaisers
 Kaiserslautern
 Kaisertuemer
 Kaisertum
+Kaja
 Kajak
 Kajuete
 Kakadu
@@ -144,6 +147,7 @@ Kalbfelle
 Kalbfleisch
 Kalbs
 Kalbshaxe
+Kalea
 Kaledonien
 Kaleidoskop
 Kalendarisch
@@ -181,6 +185,7 @@ Kalkulierbar
 Kalkulieren
 Kalkutta
 Kalla
+Kalle
 Kalligraf
 Kalligrafie
 Kalligraph
@@ -415,9 +420,11 @@ Kapuzinermoench
 Karabiner
 Karaffe
 Karajan
+Karam
 Karambolage
 Karambolieren
 Karamell
+Karan
 Karaoke
 Karat
 Karatekunst
@@ -464,6 +471,7 @@ Karierten
 Karies
 Karikatur
 Karikieren
+Karim
 Karin
 Karioes
 Karitativ
@@ -718,8 +726,10 @@ Kaviar
 Kavitation
 Kavitoes
 Kawasaki
+Kayla
 Kbaud
 Kbyte
+Keanu
 Keck
 Kecken
 Keckes
@@ -802,6 +812,7 @@ Keltern
 Keltisch
 Kelvin
 Kempten
+Kenan
 Kenia
 Kenn
 Kenne
@@ -826,6 +837,7 @@ Kenntnisse
 Kenntnissen
 Kennungen
 Kennzeichnen
+Keno
 Kent
 Kentern
 Kentucky
@@ -840,6 +852,7 @@ Kerbholz
 Kerbnaegel
 Kerbtier
 Kerbwirkung
+Kerem
 Kerker
 Kerkerhaft
 Kerl
@@ -892,15 +905,21 @@ Keulenschlag
 Keusch
 Keuschheit
 Keuschheits
+Kevin
 Keyboard
 Keynes
 Kfz
+Khadija
 Khakifruechte
 Khakistoff
+Khaled
 Khan
 Khmer
 Khomeini
 Khz
+Kian
+Kiana
+Kiano
 Kib
 Kibbuz
 Kibbuzim
@@ -939,6 +958,7 @@ Kiessand
 Kiesweg
 Kieswerk
 Kiew
+Kilian
 Kilimandscharo
 Killen
 Killer
@@ -952,6 +972,7 @@ Kilometerweit
 Kiloware
 Kilowatt
 Kilowattstunde
+Kim
 Kimm
 Kind
 Kindbacken
@@ -1032,6 +1053,7 @@ Kippe
 Kippen
 Kipper
 Kir
+Kira
 Kirch
 Kirche
 Kirchen
@@ -1047,6 +1069,7 @@ Kirchplatz
 Kirchturm
 Kirgisisch
 Kirgistan
+Kirill
 Kirmes
 Kirmesplatz
 Kirsch
@@ -1077,6 +1100,8 @@ Kitzel
 Kitzeln
 Kitzler
 Kitzlig
+Kiyan
+Kjell
 Klaeffen
 Klaeger
 Klaegerisch
@@ -2321,6 +2346,7 @@ Koran
 Koranvers
 Korb
 Korbartig
+Korbinian
 Kord
 Kordel
 Kordon
@@ -3084,6 +3110,7 @@ Kutte
 Kutter
 Kuvert
 Kuwait
+Kuzey
 Kwh
 Kybernetik
 Kybernetiker

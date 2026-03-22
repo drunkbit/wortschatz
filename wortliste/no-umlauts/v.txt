@@ -22,10 +22,17 @@ vakuen
 Vakuen
 vakuum
 Vakuum
+Valea
+Valentin
+Valentina
+Valentino
 valenz
 Valenz
 valenzband
 Valenzband
+Valeria
+Valerie
+Valerio
 Vali
 valide
 validieren
@@ -54,6 +61,7 @@ vandale
 Vandale
 vandalismus
 Vandalismus
+Vanessa
 vanille
 Vanille
 vanilleschote
@@ -185,6 +193,7 @@ venus
 Venus
 venusberg
 Venusberg
+Vera
 verabfolgen
 verabfolgung
 Verabfolgung
@@ -1841,6 +1850,7 @@ verona
 Verona
 veroneser
 Veroneser
+Veronika
 verordnen
 Verordnen
 verordnungs
@@ -3089,6 +3099,7 @@ Vibrator
 vibrieren
 vice
 Victor
+Victoria
 victoriasee
 Victoriasee
 video
@@ -3300,6 +3311,7 @@ vignettierung
 Vignettierung
 vikar
 Vikar
+Viktor
 Viktoria
 viktorianisch
 viktualien
@@ -3312,6 +3324,8 @@ villeneuve
 Villeneuve
 vilnius
 Vilnius
+Vince
+Vincent
 Viola
 violett
 violetter
@@ -3408,11 +3422,14 @@ vitaminarm
 vitaminhaltig
 vitaminisieren
 vitaminreich
+Vito
 vitrine
 Vitrine
 vitrinentuer
 Vitrinentuer
+Vitus
 vivendi
+Vivien
 vize
 Vize
 Vizekanzler

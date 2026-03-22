@@ -670,6 +670,7 @@ umarmt
 umarmte
 umarmung
 umarmungen
+umay
 umband
 umbau
 umbauen
@@ -1131,6 +1132,7 @@ umtrieb
 umtrunk
 umtuend
 umtun
+umut
 umverteilen
 umverteilungsmechanismen
 umwaelzen
@@ -1217,6 +1219,7 @@ umzuwenden
 umzuwerfen
 umzuwidmen
 umzuziehen
+una
 unabaenderlich
 unabaenderliche
 unabdingbar

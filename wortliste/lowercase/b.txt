@@ -187,6 +187,7 @@ bär
 baracke
 baracken
 barak
+baran
 barbados
 barbar
 barbara
@@ -270,6 +271,7 @@ bastard
 bastel
 bastelei
 basteln
+bastian
 bastille
 bastion
 bastler
@@ -1186,6 +1188,7 @@ bekümmert
 bekümmerte
 bekümmerten
 bekunden
+bela
 belabern
 belächeln
 belade
@@ -1295,6 +1298,7 @@ beliegen
 beliehen
 beließ
 belize
+bella
 bellen
 belletristik
 belletristisch
@@ -1363,6 +1367,7 @@ benannten
 benchmark
 benchnine
 bendelmayer
+bene
 benebeln
 benedikt
 benediktiner
@@ -1383,6 +1388,8 @@ bengels
 benimm
 benimmt
 benjamin
+bennet
+benno
 benommen
 benommenheit
 benoten
@@ -2480,6 +2487,7 @@ bezwinger
 bezwungen
 bghst
 biafra
+bianca
 biarritz
 bias
 biathlet
@@ -2536,6 +2544,7 @@ bijektiv
 bijektivität
 biker
 bikini
+bilal
 bilanz
 bilanzieren
 bilanziert
@@ -2739,6 +2748,7 @@ biwak
 bizarr
 bizeps
 bizonal
+bjarne
 björn
 blackbox
 blackjack
@@ -2990,6 +3000,7 @@ bodenständig
 bodyguard
 boeing
 bog
+bogdan
 bogen
 bögen
 bogenförmig
@@ -3082,6 +3093,7 @@ bootprompt
 boots
 bootsmeister
 bootstrapping
+bora
 bord
 börde
 bordeaux
@@ -3140,6 +3152,7 @@ bosnisch
 boson
 bosporus
 boss
+bosse
 boston
 böswillig
 böswilligkeit
@@ -3374,6 +3387,7 @@ bretton
 breughel
 brevier
 brezel
+brian
 bricht
 brie
 brief

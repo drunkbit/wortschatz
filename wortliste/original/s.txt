@@ -117,6 +117,7 @@ safari
 Safari
 safe
 Safe
+Safiya
 safran
 Safran
 saft
@@ -166,6 +167,7 @@ sahnen
 sahnetorte
 Sahnetorte
 sahnig
+Said
 saigon
 Saigon
 saison
@@ -222,13 +224,16 @@ saldovortrag
 Saldovortrag
 säle
 Säle
+Salih
 salis
 salisbury
 Salisbury
 salm
 Salm
+Salma
 salmiakgeist
 Salmiakgeist
+Salome
 salomoneninseln
 Salomoneninseln
 salomonisch
@@ -282,6 +287,7 @@ Salzsole
 salzstreuer
 Salzstreuer
 Sam
+Sama
 samariter
 Samariter
 samarkand
@@ -298,7 +304,10 @@ same
 Same
 samen
 Samen
+Sami
 sämig
+Samir
+Samira
 sämling
 Sämling
 sammel
@@ -339,11 +348,14 @@ samthandschuh
 Samthandschuh
 sämtlich
 sämtlicher
+Samu
 Samuel
 samurai
 Samurai
 san
 San
+Sana
+Sanad
 sanatorien
 Sanatorien
 sanatorium
@@ -420,6 +432,7 @@ sansibar
 Sansibar
 santa
 Santa
+Santiago
 santorin
 Santorin
 Sanyo
@@ -431,6 +444,7 @@ sapperlot
 SAPs
 saragossa
 Saragossa
+Sarah
 sarajevo
 Sarajevo
 saratoga
@@ -448,6 +462,7 @@ Sardinenbüchse
 Sardinenöl
 sardinien
 Sardinien
+Sare
 sarg
 Sarg
 Sargdeckel
@@ -3942,6 +3957,7 @@ Selektionsmechanismen
 selektionsmethode
 Selektionsmethode
 selektiv
+Selena
 selfie
 Selfie
 selfmademan
@@ -3952,8 +3968,12 @@ Seligkeit
 seligsprechung
 Seligsprechung
 Seligwerden
+Selim
+Selin
+Selina
 sellerie
 Sellerie
+Selma
 selten
 Selten
 seltene
@@ -3990,6 +4010,7 @@ Semesterferien
 semesterschluss
 Semesterschluss
 semiformal
+Semih
 semikolon
 Semikolon
 semilegal
@@ -4005,6 +4026,7 @@ semit
 Semit
 semmel
 Semmel
+Sena
 senat
 Senat
 senator
@@ -4399,6 +4421,7 @@ Sickergrube
 sickern
 sickerwasser
 Sickerwasser
+Sidra
 sie
 Sie
 sieb
@@ -4534,6 +4557,7 @@ siemensgerät
 Siemensgerät
 siemensnetzteil
 Siemensnetzteil
+Sienna
 siesta
 Siesta
 sievert
@@ -4562,6 +4586,8 @@ signifikanz
 Signifikanz
 Sigrid
 Sigrun
+Sila
+Silas
 silbe
 Silbe
 silbenendung
@@ -4620,6 +4646,7 @@ simulieren
 simultan
 simultanwettkampf
 Simultanwettkampf
+Sina
 sinai
 Sinai
 Sinalco
@@ -4819,6 +4846,7 @@ Sizilianer
 sizilianisch
 sizilien
 Sizilien
+Skadi
 skagerrak
 Skagerrak
 skala
@@ -4977,6 +5005,7 @@ Smartphone
 sMD
 smiley
 Smiley
+Smilla
 smog
 Smog
 smoking
@@ -5025,6 +5054,7 @@ Sofern
 soff
 sofia
 Sofia
+Sofija
 sofort
 Sofort
 sofortbeziehbar
@@ -5140,6 +5170,7 @@ soldzahlung
 Soldzahlung
 sole
 Sole
+Solea
 solei
 Solei
 soli
@@ -6963,6 +6994,7 @@ steißbein
 Steißbein
 stell
 Stell
+Stella
 stellage
 Stellage
 stelldichein
@@ -8547,6 +8579,7 @@ Süßrahmbutter
 süßsauer
 süßspeise
 Süßspeise
+Svea
 Sven
 Svenja
 sweatshirt

@@ -68,6 +68,7 @@ Palavern
 Palermo
 Palette
 Paletti
+Palina
 Palisade
 Palladium
 Pallas
@@ -430,6 +431,8 @@ Pauker
 Paul
 Paula
 Paulette
+Paulina
+Pauline
 Paulus
 Pausbaeckig
 Pauschal
@@ -532,6 +535,7 @@ Penthouse
 Pentium
 Pep
 Pepa
+Pepe
 Peperoni
 Pepi
 Pepis
@@ -858,6 +862,7 @@ Phasenweise
 Phenol
 Phenolchemie
 Phi
+Phil
 Philadelphia
 Philanthrop
 Philanthropie
@@ -868,7 +873,9 @@ Philatelistisch
 Philharmonie
 Philharmoniker
 Philharmonisch
+Philine
 Philipp
+Philippa
 Philippinen
 Philippinengraben
 Philippineninsel
@@ -881,6 +888,7 @@ Philologe
 Philologenschaft
 Philologenverband
 Philologie
+Philomena
 Philosoph
 Philosophenschule
 Philosophentum
@@ -936,6 +944,7 @@ Physiologisch
 Physiotherapeut
 Physis
 Physisch
+Pia
 Piaget
 Pianissimo
 Pianist
@@ -956,6 +965,7 @@ Piepserkontrolle
 Piepste
 Piercing
 Piesacken
+Piet
 Pietaet
 Pietaetvoll
 Pietaetvollste
@@ -1553,6 +1563,7 @@ Poweradapter
 Powerdown
 Powerpack
 Powerup
+Poyraz
 Pracht
 Prachtvoll
 Prachtvolles

@@ -173,6 +173,7 @@ Oelportrait
 Oels
 Oelverbrauchend
 Oelverschmiert
+Oemer
 Oertlich
 Oertlichkeit
 Oertlichkeiten
@@ -294,6 +295,7 @@ Olaf
 Oldenburg
 Oldenburger
 Oldtimer
+Ole
 Oleg
 Olga
 Olgas
@@ -307,6 +309,7 @@ Olivetti
 Olivfarben
 Olivfarbig
 Olivgruen
+Olivia
 Olymp
 Olympia
 Olympiade
@@ -317,6 +320,7 @@ Olympisch
 Olympus
 Oma
 Oman
+Omar
 Ombudsfrau
 Ombudsleute
 Ombudsmaenner
@@ -370,6 +374,7 @@ Opfern
 Opferreich
 Opfert
 Opferte
+Ophelia
 Opiate
 Opisthotonus
 Opium
@@ -549,6 +554,7 @@ Oscar
 Osiris
 Oskar
 Oslo
+Osman
 Osmane
 Osmanenreich
 Osmanisch
@@ -611,6 +617,7 @@ Oszillographieren
 Oszillographisch
 Oszilloskop
 Othmar
+Otis
 Otmar
 Otter
 Ottla

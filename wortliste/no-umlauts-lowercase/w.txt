@@ -469,8 +469,10 @@ wasserstrasse
 wassersuechtig
 wassertrinken
 wasserversorgung
+wateen
 waten
 waterloo
+watin
 watsche
 watscheln
 watt
@@ -1673,6 +1675,7 @@ willkuerlich
 willkuerlichkeit
 willst
 willy
+wilma
 wilmersdorf
 wim
 wimbledon

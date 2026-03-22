@@ -67,6 +67,7 @@ Hafenplätzen
 Hafens
 Hafenviertel
 Hafer
+Hafsa
 Haft
 Haften
 Haftet
@@ -94,6 +95,7 @@ Haifa
 Haifisch
 Haifischbecken
 Haiku
+Hailey
 Hain
 Hainbuche
 Haiti
@@ -176,6 +178,7 @@ Hälfte
 Halfter
 Halftern
 Hälftig
+Halima
 Hall
 Halle
 Halleluja
@@ -251,6 +254,7 @@ Hampshire
 Hampton
 Hamster
 Hamsterkäufe
+Hamza
 Hanau
 Hand
 Handballer
@@ -360,8 +364,12 @@ Hängt
 Hängte
 Hängten
 Haniel
+Hannah
 Hanne
 Hannelore
+Hannes
+Hanni
+Hanno
 Hannover
 Hannoveraner
 Hannovermesse
@@ -446,10 +454,12 @@ Hartnäckige
 Hartnäckigen
 Hartnäckigkeit
 Härtst
+Harun
 Harvard
 Harvey
 Harz
 Harzig
+Hasan
 Hasardeur
 Haschen
 Häschen
@@ -646,10 +656,12 @@ Havarie
 Havarieren
 Havarist
 Havel
+Havin
 Hawaii
 Hawaiianer
 Hawaiianisch
 Haydn
+Hazal
 Header
 Headhunter
 Heavymetal
@@ -678,6 +690,7 @@ Hecken
 Hecklautsprecher
 Hecktick
 Hedda
+Hedi
 Hedonistisch
 Hedwig
 Hedy
@@ -865,12 +878,15 @@ Hektarertrag
 Hektik
 Hektisch
 Hektoliter
+Hektor
 Held
 Helden
 Heldenhaft
 Heldenmütig
 Heldentum
 Heldisch
+Helen
+Helena
 Helene
 Helfen
 Helfenwiewir
@@ -881,6 +897,7 @@ Helft
 Helga
 Helgoland
 Helikopter
+Helin
 Heliozentrisch
 Helium
 Hell
@@ -943,6 +960,7 @@ Hemmschuh
 Hemmschwelle
 Hemmungslos
 Hemmungslosen
+Hendrik
 Hengst
 Henkel
 Henker
@@ -951,6 +969,7 @@ Henne
 Henning
 Henriette
 Henriettes
+Henrik
 Henry
 Hepatitis
 Her
@@ -1468,6 +1487,7 @@ Hermaphrodit
 Hermelin
 Hermes
 Hermetisch
+Hermine
 Hernach
 Hernehmen
 Hernieder
@@ -1982,7 +2002,9 @@ Highheels
 Highlight
 Highsociety
 Hightech
+Hilal
 Hilbertsch
+Hilda
 Hilde
 Hildebrand
 Hildegard
@@ -2703,6 +2725,7 @@ Hiobsbotschaft
 Hiobsgestalt
 Hippie
 Hippodrom
+Hira
 Hirn
 Hirngespinst
 Hirnrissig
@@ -3074,6 +3097,7 @@ Höllen
 Höllenwurz
 Höllisch
 Höllische
+Holly
 Hollywood
 Hollywoodstar
 Hollywoodzauber

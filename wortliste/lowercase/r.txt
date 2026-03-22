@@ -94,6 +94,7 @@ ragen
 ragout
 ragte
 ragten
+rahel
 rahm
 rahmen
 raiffeisenbank
@@ -148,6 +149,7 @@ ranghohe
 ranghöher
 rangieren
 rangunterschiede
+rania
 ränke
 ranken
 rann
@@ -354,6 +356,9 @@ ravensburg
 ravensburger
 raver
 ravioli
+raya
+rayan
+rayyan
 razzia
 razzien
 reagan
@@ -395,6 +400,7 @@ realschule
 reanimieren
 reanimierungsversuch
 rebe
+rebecca
 rebell
 rebellen
 rebellieren
@@ -899,6 +905,7 @@ reizte
 reizung
 reizvoll
 reizvollster
+rejan
 rekapitalisieren
 rekapitulieren
 reklamation
@@ -1251,7 +1258,9 @@ rhythmik
 rhythmisch
 rhythmisches
 rhythmus
+ria
 riad
+rian
 ribbentrop
 richard
 richelieu
@@ -1296,6 +1305,7 @@ riegeln
 riegels
 rieger
 riegle
+rieke
 riemann
 riemannsch
 riemen
@@ -1377,6 +1387,7 @@ rissen
 rissfest
 rissig
 rissige
+rita
 riten
 ritt
 ritter
@@ -1489,24 +1500,30 @@ romantiker
 romantisch
 romantische
 romanze
+romeo
 römer
 römerzug
+romina
 römisch
 rommel
 roms
+romy
 ronald
 rondo
+ronja
 röntgen
 roosevelt
 rosa
 rosafarben
 rosafarbig
+rosalie
 rosarot
 röschen
 rose
 rosen
 rosenheimer
 rosette
+rosi
 rosig
 rosine
 rosinen
@@ -1582,6 +1599,7 @@ rubbeln
 rübe
 rubel
 rubelmillionär
+ruben
 rubens
 rüberspielen
 rübezahl
@@ -1589,6 +1607,7 @@ rubin
 rubinglasfenster
 rubinrot
 rubrik
+ruby
 ruchbar
 ruck
 rück
@@ -1794,6 +1813,7 @@ rumprobieren
 rumpsteak
 rumspielen
 run
+runa
 rund
 rundbau
 runde
@@ -1848,6 +1868,7 @@ rustikal
 rüstungs
 rüstzeug
 rute
+ruth
 ruthenium
 rutsch
 rutschbahn
@@ -1859,4 +1880,6 @@ rüttelfest
 rüttelfestigkeit
 rütteln
 rüttgers
+rüya
 rwes
+ryan

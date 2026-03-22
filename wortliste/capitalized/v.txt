@@ -10,8 +10,15 @@ Vakant
 Vakanz
 Vakuen
 Vakuum
+Valea
+Valentin
+Valentina
+Valentino
 Valenz
 Valenzband
+Valeria
+Valerie
+Valerio
 Vali
 Valide
 Validieren
@@ -30,6 +37,7 @@ Vanadium
 Vancouver
 Vandale
 Vandalismus
+Vanessa
 Vanille
 Vanilleschote
 Variabel
@@ -110,6 +118,7 @@ Ventilatoren
 Ventilieren
 Venus
 Venusberg
+Vera
 Verabfolgen
 Verabfolgung
 Verabreden
@@ -1308,6 +1317,7 @@ Veröffentlichten
 Veröffentlichungs
 Verona
 Veroneser
+Veronika
 Verordnen
 Verordnungs
 Verpachten
@@ -2221,6 +2231,7 @@ Vibrator
 Vibrieren
 Vice
 Victor
+Victoria
 Victoriasee
 Video
 Videoclip
@@ -2382,6 +2393,7 @@ Vietnamsoldat
 Vignette
 Vignettierung
 Vikar
+Viktor
 Viktoria
 Viktorianisch
 Viktualien
@@ -2389,6 +2401,8 @@ Villa
 Villen
 Villeneuve
 Vilnius
+Vince
+Vincent
 Viola
 Violett
 Violetter
@@ -2447,9 +2461,12 @@ Vitaminarm
 Vitaminhaltig
 Vitaminisieren
 Vitaminreich
+Vito
 Vitrine
 Vitrinentür
+Vitus
 Vivendi
+Vivien
 Vize
 Vizekanzler
 Vlies

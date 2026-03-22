@@ -15,6 +15,7 @@ gabler
 Gabler
 gablig
 Gabriel
+Gabriela
 gabst
 gabun
 Gabun
@@ -3987,6 +3988,8 @@ Gitterstangen
 gitterstruktur
 Gitterstruktur
 Gittertuer
+Giulia
+Giuliano
 gizeh
 Gizeh
 glaceehandschuh
@@ -4829,6 +4832,7 @@ grenzt
 grenzte
 grenzueberschreitend
 grenzwertig
+Greta
 Gretchen
 gretchenfrage
 Gretchenfrage
@@ -5241,6 +5245,7 @@ Guru
 guss
 Guss
 gusseisern
+Gustav
 gusto
 Gusto
 gut

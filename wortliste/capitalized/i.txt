@@ -1,7 +1,9 @@
+Ian
 Ibbenbüren
 Iberer
 Iberien
 Iberisch
+Ibrahim
 Ich
 Ichbewusst
 Ichbewusstsein
@@ -10,6 +12,7 @@ Ichbezogenheit
 Ichform
 Ichsucht
 Icon
+Ida
 Ideal
 Idealerweise
 Idealisieren
@@ -53,6 +56,7 @@ Idiotie
 Idiotisch
 Idiotischerweise
 Idol
+Idris
 Idyll
 Idyllisch
 Igel
@@ -79,6 +83,12 @@ Ihretwillen
 Ihrige
 Ikarus
 Ikone
+Ikra
+Ilay
+Ilayda
+Ilian
+Iliana
+Ilja
 Illegal
 Illegalität
 Illegitim
@@ -106,6 +116,7 @@ Illyrier
 Ilmenau
 Ilmensee
 Iltis
+Ilyas
 Image
 Imagepflege
 Imaginär
@@ -113,6 +124,8 @@ Imaginärteil
 Imagination
 Imaginativ
 Imam
+Iman
+Imani
 Imbiss
 Imbisstube
 Imitation
@@ -213,7 +226,9 @@ Impulsartig
 Impulsiv
 Imputation
 Imputieren
+Imran
 Imstande
+Ina
 Inadäquat
 Inaktiv
 Inaktivieren
@@ -221,7 +236,9 @@ Inaktivität
 Inakzeptabel
 Inanspruchnahme
 Inappellabel
+Inara
 Inauguralvorlesung
+Inaya
 Inbegriff
 Inbegriffen
 Inbesitznahme
@@ -321,6 +338,7 @@ Ineffizienz
 Ineinander
 Ineinandergefahren
 Ineinandergestreute
+Ines
 Inessentiell
 Inessenziell
 Inexistent
@@ -974,12 +992,17 @@ Irrtümlich
 Irrtümlicherweise
 Irrweg
 Irrwitzig
+Isa
 Isaac
 Isaak
+Isabell
+Isabella
+Isaiah
 Isar
 Isbary
 Ischias
 Ischiasnerv
+Ishak
 Isidor
 Isis
 Islam
@@ -999,6 +1022,7 @@ Island
 Isländer
 Isländisch
 Islandpony
+Ismail
 Isobar
 Isolation
 Isolationismus
@@ -1019,6 +1043,7 @@ Isopropanol
 Isotop
 Isotrop
 Isotropie
+Isra
 Israel
 Israeli
 Israelisch
@@ -1027,6 +1052,7 @@ Israelischen
 Israelischer
 Israelitisch
 Israels
+Issa
 Isst
 Ist
 Istanbul
@@ -1042,4 +1068,8 @@ Iteration
 Iterativ
 Iterieren
 Itzehoe
+Iva
 Ivan
+Ivana
+Ivar
+Ivy

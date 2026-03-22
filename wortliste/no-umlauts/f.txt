@@ -5,6 +5,7 @@ fabelpferd
 Fabelpferd
 fabelte
 Fabian
+Fabio
 fabrik
 Fabrik
 fabrikant
@@ -732,6 +733,11 @@ felge
 Felge
 felgengroesse
 Felgengroesse
+Felia
+Felicia
+Felicitas
+Felina
+Feline
 Felix
 fell
 Fell
@@ -760,6 +766,7 @@ fenchel
 Fenchel
 fenchelstraeucher
 Fenchelstraeucher
+Fenja
 fenster
 Fenster
 Fensterbank
@@ -1123,6 +1130,7 @@ fielen
 fies
 fiesling
 Fiesling
+Fiete
 figuerlich
 figur
 Figur
@@ -1241,6 +1249,7 @@ findling
 Findling
 findungs
 Findungs
+Fine
 finesse
 Finesse
 fing
@@ -1261,8 +1270,11 @@ fingerzeig
 Fingerzeig
 fingieren
 finit
+Finja
 fink
 Fink
+Finley
+Finn
 finne
 Finne
 finnisch
@@ -1276,6 +1288,7 @@ Finsternis
 finstre
 finte
 Finte
+Fiona
 firefox
 Firefox
 firewall
@@ -1730,6 +1743,8 @@ floppystation
 Floppystation
 flora
 Flora
+Florentina
+Florentine
 florenz
 Florenz
 florett
@@ -1871,6 +1886,7 @@ flutete
 flutschen
 flyer
 Flyer
+Flynn
 focht
 fockmast
 Fockmast
@@ -2543,6 +2559,8 @@ frecher
 frecherweise
 frechheit
 Frechheit
+Fred
+Frederik
 freeBSD
 FreeBSD
 freeclimbing
@@ -2817,6 +2835,7 @@ frevelhaft
 freveln
 freveltat
 Freveltat
+Freya
 Frickelei
 Frieda
 Friedas
@@ -2909,6 +2928,7 @@ fritteuse
 Fritteuse
 frittieren
 Fritz
+Fritzi
 frivol
 froehlich
 froehliche

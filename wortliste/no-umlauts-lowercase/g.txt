@@ -9,6 +9,7 @@ gabentisch
 gabler
 gablig
 gabriel
+gabriela
 gabst
 gabun
 gackern
@@ -3136,6 +3137,8 @@ gitterstange
 gitterstangen
 gitterstruktur
 gittertuer
+giulia
+giuliano
 gizeh
 glaceehandschuh
 gladiator
@@ -3717,6 +3720,7 @@ grenzt
 grenzte
 grenzueberschreitend
 grenzwertig
+greta
 gretchen
 gretchenfrage
 grete
@@ -4019,6 +4023,7 @@ gurt
 guru
 guss
 gusseisern
+gustav
 gusto
 gut
 gutachten
