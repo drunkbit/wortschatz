@@ -541,6 +541,7 @@ Näherungsweise
 Näherzukommen
 Nahes
 Nahestehend
+Nahestehende
 Nahezu
 Nahezubringen
 Nahezulegen

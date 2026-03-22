@@ -730,6 +730,7 @@ näherungsweise
 näherzukommen
 Nahes
 nahestehend
+nahestehende
 nahezu
 nahezubringen
 nahezulegen

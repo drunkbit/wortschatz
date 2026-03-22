@@ -105,7 +105,9 @@ Räkeln
 Räkelt
 Rakete
 Raketen
+Raketenangriffe
 Raketenprogramm
+Raketenstellungen
 Ralf
 Rallye
 Rallyefahrer
@@ -1453,6 +1455,7 @@ Rohheit
 Rohkakaomarkt
 Rohling
 Rohölpreis
+Rohölpreise
 Rohölpreisen
 Rohr
 Röhre

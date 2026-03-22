@@ -316,6 +316,7 @@ olympionik
 olympisch
 olympus
 oma
+oman
 ombudsfrau
 ombudsleute
 ombudsmaenner
@@ -338,6 +339,7 @@ ontologie
 ooe
 opa
 opel
+open
 openbsd
 opendocument
 opengl

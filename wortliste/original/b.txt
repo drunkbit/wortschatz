@@ -1072,6 +1072,7 @@ beging
 beginn
 Beginn
 beginnen
+beginnend
 beginnenden
 beginnender
 beginnst
@@ -1118,6 +1119,7 @@ begonie
 Begonie
 begonnen
 Begonnen
+begonnene
 begonnener
 begoß
 begossen
@@ -4006,6 +4008,7 @@ blockfrei
 blockieren
 Blockieren
 blockiert
+blockierte
 Blocks
 blockweise
 blöd

@@ -3524,6 +3524,7 @@ sonntaeglich
 sonntag
 sonntagabend
 sonntagabends
+sonntagfrueh
 sonntagmorgen
 sonntagmorgens
 sonntagnachts
@@ -5171,6 +5172,7 @@ streckt
 streckte
 streckten
 strecktest
+street
 streich
 streicheln
 streichelnd

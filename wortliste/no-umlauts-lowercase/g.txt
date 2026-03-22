@@ -763,6 +763,7 @@ gegenbeweis
 gegend
 gegendemonstration
 gegenden
+gegendrohung
 gegeneinander
 gegeneinanderstroemende
 gegeneinanderwirken
@@ -3320,6 +3321,7 @@ glitten
 glitzer
 glitzern
 global
+globalen
 globalisieren
 globalisierungs
 globetrotter
@@ -3463,6 +3465,7 @@ goldwaescherei
 goldwaeschereien
 golf
 golfer
+golfregion
 golfstaaten
 golgatha
 gomorrha

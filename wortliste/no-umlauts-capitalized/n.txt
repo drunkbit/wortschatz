@@ -558,6 +558,7 @@ Naher
 Naherholungsgebiet
 Nahes
 Nahestehend
+Nahestehende
 Nahezu
 Nahezubringen
 Nahezulegen

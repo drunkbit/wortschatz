@@ -290,6 +290,7 @@ farmland
 farn
 farngebuesch
 farnkraut
+fars
 fasan
 fasanenhaehne
 fasching
@@ -1226,6 +1227,7 @@ fluegellos
 fluegeln
 fluegge
 fluessig
+fluessiggas
 fluessiggases
 fluessigkeit
 fluessigkeits

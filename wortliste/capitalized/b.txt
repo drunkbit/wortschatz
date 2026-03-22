@@ -736,6 +736,7 @@ Begießen
 Beging
 Beginn
 Beginnen
+Beginnend
 Beginnenden
 Beginnender
 Beginnst
@@ -771,6 +772,7 @@ Begnügt
 Begnügte
 Begonie
 Begonnen
+Begonnene
 Begonnener
 Begoß
 Begossen
@@ -2877,6 +2879,7 @@ Blocken
 Blockfrei
 Blockieren
 Blockiert
+Blockierte
 Blocks
 Blockweise
 Blöd

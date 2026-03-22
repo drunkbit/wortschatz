@@ -465,6 +465,7 @@ olympisch
 Olympus
 oma
 Oma
+Oman
 ombudsfrau
 Ombudsfrau
 ombudsleute
@@ -502,6 +503,7 @@ ooe
 opa
 Opa
 Opel
+Open
 openBSD
 OpenBSD
 openDocument

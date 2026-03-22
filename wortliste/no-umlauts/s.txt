@@ -5288,6 +5288,7 @@ sonntag
 Sonntag
 Sonntagabend
 sonntagabends
+Sonntagfrueh
 sonntagmorgen
 Sonntagmorgen
 sonntagmorgens
@@ -7779,6 +7780,7 @@ streckt
 streckte
 streckten
 strecktest
+Street
 streich
 Streich
 streicheln

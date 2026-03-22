@@ -48517,6 +48517,7 @@ Arabeske
 arabien
 Arabien
 arabisch
+Arabischen
 arabischsprachig
 Arafat
 Araktschi
@@ -51682,6 +51683,7 @@ auswichen
 auswirft
 auswirken
 Auswirken
+Auswirkungen
 auswischen
 auswuchs
 Auswuchs

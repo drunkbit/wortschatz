@@ -176,7 +176,9 @@ rakete
 Rakete
 raketen
 Raketen
+Raketenangriffe
 Raketenprogramm
+Raketenstellungen
 Ralf
 rallye
 Rallye
@@ -2215,6 +2217,7 @@ Rohkakaomarkt
 rohling
 Rohling
 Rohölpreis
+Rohölpreise
 Rohölpreisen
 rohr
 Rohr

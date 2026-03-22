@@ -432,6 +432,7 @@ farngebuesch
 Farngebuesch
 farnkraut
 Farnkraut
+Fars
 fasan
 Fasan
 fasanenhaehne
@@ -1802,6 +1803,7 @@ Fluegeln
 fluegge
 fluessig
 Fluessig
+Fluessiggas
 Fluessiggases
 fluessigkeit
 Fluessigkeit

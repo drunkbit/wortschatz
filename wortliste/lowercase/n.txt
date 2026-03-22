@@ -541,6 +541,7 @@ näherungsweise
 näherzukommen
 nahes
 nahestehend
+nahestehende
 nahezu
 nahezubringen
 nahezulegen

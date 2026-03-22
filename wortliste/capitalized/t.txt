@@ -1248,6 +1248,7 @@ Transit
 Transitionssystem
 Transitiv
 Transitivität
+Transitstrecken
 Transjordanien
 Transkontinental
 Transkribieren
@@ -1380,6 +1381,7 @@ Treibertransistoren
 Treibstoff
 Treibstoffe
 Treibstoffindustrie
+Treibstoffpreise
 Treibt
 Treideln
 Treidelpfad

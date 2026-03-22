@@ -3526,6 +3526,7 @@ sonnige
 sonntag
 sonntagabend
 sonntagabends
+sonntagfrüh
 sonntäglich
 sonntagmorgen
 sonntagmorgens
@@ -5175,6 +5176,7 @@ streckt
 streckte
 streckten
 strecktest
+street
 streich
 streicheln
 streichelnd

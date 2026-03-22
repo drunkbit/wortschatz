@@ -97,6 +97,7 @@ maerkchen
 maerker
 maerkisch
 maerklin
+maerkte
 maersche
 maertyrer
 maertyrertum
@@ -396,6 +397,7 @@ manz
 mao
 maoistisch
 maori
+map
 mappe
 mappen
 maraschino
@@ -736,6 +738,7 @@ mediathek
 mediator
 medici
 medien
+medienberichten
 medienforschung
 medienschaffende
 medienwirksam

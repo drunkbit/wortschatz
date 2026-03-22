@@ -1608,6 +1608,7 @@ emilie
 eminent
 eminenz
 emirat
+emirate
 emission
 emissions
 emittent
@@ -1767,6 +1768,7 @@ energiebewusst
 energieeffizient
 energiefressend
 energiegeladen
+energieinfrastruktur
 energielos
 energiemärkte
 energieminister
@@ -1828,6 +1830,7 @@ enkelin
 enkeln
 enklave
 enorm
+enorme
 enormen
 enquete
 ensemble
@@ -2153,6 +2156,7 @@ entrüstet
 entsagen
 entsagt
 entsalzungs
+entsalzungsanlagen
 entsandt
 entsandte
 entsann

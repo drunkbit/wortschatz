@@ -803,6 +803,7 @@ kartellrechtlich
 karten
 Karten
 Kartenbestellungen
+Kartendaten
 Kartenspiel
 kartesisch
 karthager
@@ -3911,7 +3912,9 @@ kräftigen
 kräftiger
 kraftlos
 kraftraubend
+Kraftstoff
 kraftvoll
+Kraftwerke
 kragen
 Kragen
 krägen
@@ -4218,6 +4221,7 @@ kriegslüstern
 Kriegsparteien
 Kriegsplan
 Kriegspläne
+Kriegsschiffe
 Kriegsschiffen
 kriegstagebuch
 Kriegstagebuch

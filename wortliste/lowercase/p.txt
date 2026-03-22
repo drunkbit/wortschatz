@@ -588,6 +588,7 @@ persiflage
 persiflieren
 persilschein
 persisch
+persischen
 persistent
 persistenz
 person

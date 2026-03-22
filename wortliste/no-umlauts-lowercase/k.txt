@@ -511,6 +511,7 @@ kartell
 kartellrechtlich
 karten
 kartenbestellungen
+kartendaten
 kartenspiel
 kartesisch
 karthager
@@ -2486,7 +2487,9 @@ kraft
 kraftanstrengung
 kraftlos
 kraftraubend
+kraftstoff
 kraftvoll
+kraftwerke
 kragen
 krakau
 krake
@@ -2669,6 +2672,7 @@ kriegsluestern
 kriegsparteien
 kriegsplaene
 kriegsplan
+kriegsschiffe
 kriegsschiffen
 kriegstagebuch
 kriegstagebuecher

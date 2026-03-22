@@ -1018,6 +1018,7 @@ gegend
 Gegend
 Gegendemonstration
 Gegenden
+Gegendrohung
 gegeneinander
 gegeneinanderströmende
 gegeneinanderwirken
@@ -4244,6 +4245,7 @@ Glitzer
 glitzern
 global
 Global
+globalen
 globalisieren
 Globalisieren
 globalisierungs
@@ -4421,6 +4423,7 @@ golf
 Golf
 golfer
 Golfer
+Golfregion
 Golfstaaten
 golgatha
 Golgatha

@@ -46771,6 +46771,7 @@ araber
 arabeske
 arabien
 arabisch
+arabischen
 arabischsprachig
 arafat
 araktschi
@@ -49278,6 +49279,7 @@ auswich
 auswichen
 auswirft
 auswirken
+auswirkungen
 auswischen
 auswuchs
 auswüchse
@@ -50252,6 +50254,7 @@ begießen
 beging
 beginn
 beginnen
+beginnend
 beginnenden
 beginnender
 beginnst
@@ -50287,6 +50290,7 @@ begnügt
 begnügte
 begonie
 begonnen
+begonnene
 begonnener
 begoß
 begossen
@@ -52393,6 +52397,7 @@ blocken
 blockfrei
 blockieren
 blockiert
+blockierte
 blocks
 blockweise
 blöd
@@ -57673,6 +57678,7 @@ emilie
 eminent
 eminenz
 emirat
+emirate
 emission
 emissions
 emittent
@@ -57832,6 +57838,7 @@ energiebewusst
 energieeffizient
 energiefressend
 energiegeladen
+energieinfrastruktur
 energielos
 energiemärkte
 energieminister
@@ -57893,6 +57900,7 @@ enkelin
 enkeln
 enklave
 enorm
+enorme
 enormen
 enquete
 ensemble
@@ -58218,6 +58226,7 @@ entrüstet
 entsagen
 entsagt
 entsalzungs
+entsalzungsanlagen
 entsandt
 entsandte
 entsann
@@ -60105,6 +60114,7 @@ farmland
 farn
 farngebüsch
 farnkraut
+fars
 fasan
 fasanenhähne
 fasching
@@ -61082,6 +61092,7 @@ fluß
 flussabwärts
 flussaufwärts
 flüssig
+flüssiggas
 flüssiggases
 flüssigkeit
 flüssigkeits
@@ -63011,6 +63022,7 @@ gegenbeweis
 gegend
 gegendemonstration
 gegenden
+gegendrohung
 gegeneinander
 gegeneinanderströmende
 gegeneinanderwirken
@@ -65576,6 +65588,7 @@ glitten
 glitzer
 glitzern
 global
+globalen
 globalisieren
 globalisierungs
 globetrotter
@@ -65699,6 +65712,7 @@ goldwäscherei
 goldwäschereien
 golf
 golfer
+golfregion
 golfstaaten
 golgatha
 gomorrha
@@ -71729,6 +71743,7 @@ kartell
 kartellrechtlich
 karten
 kartenbestellungen
+kartendaten
 kartenspiel
 kartesisch
 karthager
@@ -73691,7 +73706,9 @@ kräftigen
 kräftiger
 kraftlos
 kraftraubend
+kraftstoff
 kraftvoll
+kraftwerke
 kragen
 krägen
 krähe
@@ -73898,6 +73915,7 @@ kriegslüstern
 kriegsparteien
 kriegsplan
 kriegspläne
+kriegsschiffe
 kriegsschiffen
 kriegstagebuch
 kriegstagebücher
@@ -76357,6 +76375,7 @@ manz
 mao
 maoistisch
 maori
+map
 mappe
 mappen
 maraschino
@@ -76419,6 +76438,7 @@ markstücke
 markt
 marktangelegenheiten
 marktbeherrschend
+märkte
 marktfähig
 marktführend
 marktgerecht
@@ -76723,6 +76743,7 @@ mediathek
 mediator
 medici
 medien
+medienberichten
 medienforschung
 medienschaffende
 medienwirksam
@@ -78982,6 +79003,7 @@ näherungsweise
 näherzukommen
 nahes
 nahestehend
+nahestehende
 nahezu
 nahezubringen
 nahezulegen
@@ -80317,6 +80339,7 @@ olympionik
 olympisch
 olympus
 oma
+oman
 ombudsfrau
 ombudsleute
 ombudsmann
@@ -80339,6 +80362,7 @@ ontologie
 ooe
 opa
 opel
+open
 openbsd
 opendocument
 opengl
@@ -81253,6 +81277,7 @@ persiflage
 persiflieren
 persilschein
 persisch
+persischen
 persistent
 persistenz
 person
@@ -83212,7 +83237,9 @@ räkeln
 räkelt
 rakete
 raketen
+raketenangriffe
 raketenprogramm
+raketenstellungen
 ralf
 rallye
 rallyefahrer
@@ -84560,6 +84587,7 @@ rohheit
 rohkakaomarkt
 rohling
 rohölpreis
+rohölpreise
 rohölpreisen
 rohr
 röhre
@@ -88492,6 +88520,7 @@ sonnige
 sonntag
 sonntagabend
 sonntagabends
+sonntagfrüh
 sonntäglich
 sonntagmorgen
 sonntagmorgens
@@ -90141,6 +90170,7 @@ streckt
 streckte
 streckten
 strecktest
+street
 streich
 streicheln
 streichelnd
@@ -91985,6 +92015,7 @@ transit
 transitionssystem
 transitiv
 transitivität
+transitstrecken
 transjordanien
 transkontinental
 transkribieren
@@ -92117,6 +92148,7 @@ treibertransistoren
 treibstoff
 treibstoffe
 treibstoffindustrie
+treibstoffpreise
 treibt
 treideln
 treidelpfad
@@ -93842,6 +93874,7 @@ unabhängigkeits
 unablässig
 unabsehbar
 unabsehbare
+unabsehbaren
 unabsehbares
 unabsichtlich
 unabsichtlichen

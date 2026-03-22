@@ -142,7 +142,9 @@ Rain
 Rainer
 Rakete
 Raketen
+Raketenangriffe
 Raketenprogramm
+Raketenstellungen
 Ralf
 Rallye
 Rallyefahrer
@@ -1469,6 +1471,7 @@ Rohheit
 Rohkakaomarkt
 Rohling
 Rohoelpreis
+Rohoelpreise
 Rohoelpreisen
 Rohr
 Rohrstab

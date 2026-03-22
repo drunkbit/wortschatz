@@ -141,6 +141,7 @@ maerker
 Maerker
 maerkisch
 Maerklin
+Maerkte
 maersche
 Maersche
 maertyrer
@@ -652,6 +653,7 @@ Mao
 maoistisch
 maori
 Maori
+Map
 mappe
 Mappe
 mappen
@@ -1179,6 +1181,7 @@ Mediator
 Medici
 medien
 Medien
+Medienberichten
 medienforschung
 medienschaffende
 Medienschaffende

@@ -753,6 +753,7 @@ naherholungsgebiet
 Naherholungsgebiet
 Nahes
 nahestehend
+nahestehende
 nahezu
 nahezubringen
 nahezulegen

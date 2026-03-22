@@ -2115,6 +2115,7 @@ eminenz
 Eminenz
 emirat
 Emirat
+Emirate
 emission
 Emission
 emissions
@@ -2321,6 +2322,7 @@ energiebewusst
 energieeffizient
 energiefressend
 energiegeladen
+Energieinfrastruktur
 energielos
 Energiemärkte
 Energieminister
@@ -2399,6 +2401,7 @@ Enkeln
 enklave
 Enklave
 enorm
+enorme
 enormen
 enquete
 Enquete
@@ -2829,6 +2832,7 @@ Entsagen
 entsagt
 entsalzungs
 Entsalzungs
+Entsalzungsanlagen
 entsandt
 entsandte
 entsann

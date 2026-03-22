@@ -611,6 +611,7 @@ Mao
 maoistisch
 maori
 Maori
+Map
 mappe
 Mappe
 mappen
@@ -709,6 +710,7 @@ markt
 Markt
 Marktangelegenheiten
 marktbeherrschend
+Märkte
 marktfähig
 marktführend
 marktgerecht
@@ -1180,6 +1182,7 @@ Mediator
 Medici
 medien
 Medien
+Medienberichten
 medienforschung
 medienschaffende
 Medienschaffende

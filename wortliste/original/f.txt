@@ -417,6 +417,7 @@ farngebüsch
 Farngebüsch
 farnkraut
 Farnkraut
+Fars
 fasan
 Fasan
 fasanenhähne
@@ -1848,6 +1849,7 @@ flussabwärts
 flussaufwärts
 flüssig
 Flüssig
+Flüssiggas
 Flüssiggases
 flüssigkeit
 Flüssigkeit
