@@ -14,7 +14,6 @@
     "filter": "tsx src/index.ts filter",
     "stats": "tsx src/index.ts stats",
     "cache-clean": "tsx src/index.ts cache clean",
-    "start": "tsx src/index.ts",
     "test": "vitest run",
     "test:watch": "vitest"
   },

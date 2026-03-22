@@ -55,7 +55,7 @@ Im Verzeichnis `tools/` befinden sich alle Skripte, um die Wortliste aus verschi
 
 ### `npm run fetch`
 
-```
+```bash
 NAME
     fetch — Wörter aus Online-Quellen abrufen
 
@@ -77,7 +77,7 @@ OPTIONS
 
 ### `npm run extract`
 
-```
+```bash
 NAME
     extract — Wörter aus eigenen Texten extrahieren
 
@@ -94,7 +94,7 @@ DESCRIPTION
 
 ### `npm run build-wordlist`
 
-```
+```bash
 NAME
     build-wordlist — Wortliste inkrementell aktualisieren
 
@@ -113,7 +113,7 @@ OPTIONS
 
 ### `npm run rebuild-wordlist`
 
-```
+```bash
 NAME
     rebuild-wordlist — Wortliste komplett neu erstellen
 
@@ -129,7 +129,7 @@ DESCRIPTION
 
 ### `npm run filter`
 
-```
+```bash
 NAME
     filter — Wortliste filtern
 
@@ -144,7 +144,7 @@ OPTIONS
 
 ### `npm run stats`
 
-```
+```bash
 NAME
     stats — Cache-Statistiken anzeigen
 
@@ -159,7 +159,7 @@ DESCRIPTION
 
 ### `npm run cache-clean`
 
-```
+```bash
 NAME
     cache-clean — Cache löschen
 
