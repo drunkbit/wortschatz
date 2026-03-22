@@ -1,4 +1,3 @@
-k
 kaaba
 kabarett
 kabarettist
@@ -716,10 +715,8 @@ kaviar
 kavitation
 kavitös
 kawasaki
-kb
 kbaud
 kbyte
-kde
 keck
 kecken
 keckes
@@ -895,15 +892,12 @@ keuschheits
 keyboard
 keynes
 kfz
-kg
-kgb
 khakifrüchte
 khakistoff
 khan
 khmer
 khomeini
 khz
-ki
 kib
 kibbuz
 kibbuzim
@@ -1345,7 +1339,6 @@ klischieren
 klitoris
 klitschnass
 klitzeklein
-klm
 klo
 klöckner
 klonen
@@ -1385,7 +1378,6 @@ klugscheißer
 klügste
 klumpen
 klumpig
-km
 knabbern
 knabe
 knaben
@@ -2438,11 +2430,7 @@ köter
 kotflügel
 kotzen
 kovarianz
-kp
-kpd
 kpdsu
-kpj
-kpö
 krabbe
 krabbeln
 krabbeltier
@@ -2794,8 +2782,6 @@ kryptografie
 kryptografisch
 kryptographie
 kryptographisch
-ksze
-kt
 kuba
 kubakrise
 kubaner
@@ -3085,9 +3071,7 @@ kutte
 kutter
 kuvert
 kuwait
-kw
 kwh
-kwu
 kybernetik
 kybernetiker
 kybernetisch
@@ -3095,4 +3079,3 @@ kyjiw
 kyodo
 kyphose
 kyrillisch
-kz

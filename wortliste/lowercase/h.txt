@@ -1,4 +1,3 @@
-h
 haag
 haar
 haarausfalls
@@ -650,9 +649,6 @@ hawaii
 hawaiianer
 hawaiianisch
 haydn
-hblfa
-hd
-he
 header
 headhunter
 heavymetal
@@ -1924,7 +1920,6 @@ hexe
 hexen
 hexer
 hexerei
-hi
 hie
 hieb
 hiebei
@@ -2756,7 +2751,6 @@ hitzig
 hitzkopf
 hitzköpfe
 hitzschlag
-hiv
 hiwi
 hoare
 hob
@@ -3266,10 +3260,8 @@ hotelzimmer
 hotline
 hotspot
 hotzenplotz
-hp
 hpa
 hps
-html
 http
 huawei
 hub
@@ -3475,4 +3467,3 @@ hysterese
 hysterie
 hysteriker
 hysterisch
-hz

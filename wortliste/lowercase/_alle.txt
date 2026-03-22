@@ -1,11 +1,6 @@
-a
-ä
-aa
-aaa
 aab
 aabenraa
 aabenraas
-aabg
 aabs
 aach
 aachen
@@ -19,7 +14,6 @@ aacher
 aachs
 aad
 aaden
-aag
 aah
 aak
 aake
@@ -280,7 +274,6 @@ aalwels
 aalwelse
 aalwelsen
 aalwelses
-aam
 aaners
 aao
 aap
@@ -450,9 +443,6 @@ aasvogel
 aasvögel
 aasvögeln
 aasvogels
-aaüg
-aav
-ab
 aba
 abaase
 abaasen
@@ -3819,7 +3809,6 @@ abduzierter
 abduziertes
 abduziertest
 abduziertet
-abe
 abebbe
 abebben
 abebbend
@@ -5120,7 +5109,6 @@ abessivs
 abesst
 abeßt
 abeter
-abf
 abfackel
 abfackele
 abfackelest
@@ -7177,7 +7165,6 @@ abfüttertet
 abfütterung
 abfütterungen
 abfüttre
-abg
 abgab
 abgabe
 abgäbe
@@ -7671,7 +7658,6 @@ abgaunerten
 abgaunertest
 abgaunertet
 abgaunre
-abgb
 abgeaast
 abgeachelt
 abgeacht
@@ -13523,7 +13509,6 @@ abluftreinigungen
 ablution
 ablutionen
 ablutschen
-abm
 abmache
 abmachen
 abmachend
@@ -13732,7 +13717,6 @@ abmesst
 abmeßt
 abmessung
 abmessungen
-abmg
 abmilder
 abmildere
 abmildern
@@ -19231,7 +19215,6 @@ abusivstes
 abusus
 abutilon
 abutilons
-abv
 abverdienen
 abverkauf
 abverkaufe
@@ -23078,11 +23061,7 @@ abzym
 abzyme
 abzymen
 abzyms
-ac
-aca
-acab
 academie
-acag
 acajounuss
 acajounuß
 acajounüsse
@@ -23135,7 +23114,6 @@ accusativ
 accusative
 accusativen
 accusativs
-acd
 acehisch
 acehische
 acehischen
@@ -24324,7 +24302,6 @@ ackusativ
 ackusative
 ackusativen
 ackusativs
-acl
 acls
 acne
 acnen
@@ -24338,7 +24315,6 @@ aconitinen
 aconitins
 aconitsäure
 aconitsäuren
-acpi
 acquacotta
 acquacotte
 acquedolci
@@ -24463,9 +24439,7 @@ acylreste
 acylresten
 acylrestes
 acyls
-ad
 ada
-adac
 adacs
 adagio
 adairsville
@@ -24689,14 +24663,12 @@ adäquatestes
 adäquatheit
 adar
 adas
-adav
 adaxial
 adaxiale
 adaxialem
 adaxialen
 adaxialer
 adaxiales
-adc
 add
 adda
 addax
@@ -25053,8 +25025,6 @@ adessiv
 adessive
 adessiven
 adessivs
-adf
-adfc
 adg
 adhärenz
 adhärenzen
@@ -25107,7 +25077,6 @@ adhortativ
 adhortative
 adhortativen
 adhortativs
-adhs
 adi
 adiabat
 adiabatisch
@@ -25482,7 +25451,6 @@ admund
 admunde
 admunden
 admunds
-adn
 adner
 adners
 adnex
@@ -25623,7 +25591,6 @@ adorno
 ados
 adour
 adours
-adp
 adposition
 adpositionen
 adram
@@ -25762,12 +25729,10 @@ adrianopel
 adrianopels
 adrians
 adrias
-ads
 adscharien
 adschariens
 adschman
 adschmans
-adsl
 adsorbens
 adsorbentia
 adsorbenzien
@@ -25843,7 +25808,6 @@ adulteras
 adultern
 adulters
 adultes
-adv
 advantage
 advantages
 advektion
@@ -26101,12 +26065,9 @@ adygejas
 adynata
 adynaton
 adynatons
-ae
-aed
 aedil
 aedilen
 aedils
-aeg
 aegipan
 aegipane
 aegipanen
@@ -26114,8 +26075,6 @@ aegipanes
 aegipans
 aegypten
 aeltern
-aelv
-aemr
 aenne
 aennes
 aentg
@@ -26239,17 +26198,13 @@ aetits
 aetosaurier
 aetosauriern
 aetosaurus
-af
 afa
 afaa
-afaik
 afar
 afarbsoz
 afarit
 afars
 afbft
-afbg
-afc
 afd
 afebril
 afebrile
@@ -26257,7 +26212,6 @@ afebrilem
 afebrilen
 afebriler
 afebriles
-afet
 afeu
 affabel
 affabelste
@@ -26672,7 +26626,6 @@ affrösestes
 affsfj
 affstätt
 affstätts
-afg
 afghan
 afghane
 afghanen
@@ -26699,21 +26652,18 @@ afghanischstes
 afghanistan
 afghanistanpolitik
 afghanistans
-afis
 afk
 afkult
 aflatoxin
 aflatoxine
 aflatoxinen
 aflatoxins
-afp
 afra
 afras
 afrasiab
 afrasiabs
 afrasien
 afrasiens
-afrg
 africa
 africaner
 africanerin
@@ -26907,7 +26857,6 @@ afvel
 afwirtscha
 afwog
 afzelia
-ag
 aga
 agade
 agaden
@@ -26961,7 +26910,6 @@ agavenschnäpse
 agavenschnäpsen
 agavenschnapses
 agaw
-agb
 agbald
 agbalde
 agbalden
@@ -26970,7 +26918,6 @@ agbert
 agberte
 agberten
 agberts
-agbg
 agehard
 ageharde
 ageharden
@@ -27053,7 +27000,6 @@ agerich
 ageriche
 agerichen
 agerichs
-ages
 ageusie
 ageusien
 agfa
@@ -27425,8 +27371,6 @@ agobard
 agobarde
 agobarden
 agobards
-agof
-agöf
 agogik
 agogisch
 agogische
@@ -27454,7 +27398,6 @@ agoraphobien
 agoras
 agoren
 agos
-agp
 agra
 agraffe
 agraffen
@@ -27676,7 +27619,6 @@ agvwgo
 ägypten
 ägypter
 ägyptisch
-ah
 aha
 ahaerlebnis
 ahaerlebnisse
@@ -27688,10 +27630,8 @@ ahasveros
 ahasverosse
 ahasverossen
 ahaus
-ahb
 ahern
 aherns
-ahg
 ahimsa
 ahistorisch
 ahistorische
@@ -27925,16 +27865,12 @@ ahrweine
 ahrweinen
 ahrweines
 ahrweins
-ahs
 ahvaz
-ai
-aib
 aibi
 aibling
 aiblinger
 aiblingers
 aiblings
-aic
 aichach
 aichachs
 aichele
@@ -27969,7 +27905,6 @@ aidsverseuchter
 aidsverseuchtes
 aidsviren
 aidsvirus
-aig
 aigen
 aigens
 aigner
@@ -27994,7 +27929,6 @@ ains
 ainu
 ainus
 aioli
-aipac
 aipi
 aiping
 air
@@ -28052,7 +27986,6 @@ aitions
 aitutaki
 aitutakis
 aix
-aiz
 aja
 ajaccio
 ajaccios
@@ -28065,7 +27998,6 @@ ajmer
 ajmers
 ajvar
 ajvars
-ak
 akaba
 akabas
 akademie
@@ -28188,8 +28120,6 @@ akephaler
 akephales
 akephalie
 akephalien
-akg
-akh
 akhisar
 akhisars
 akhs
@@ -28616,7 +28546,6 @@ akonitine
 akonitinen
 akonitins
 akontozahlung
-akp
 akpeteshie
 akquirier
 akquiriere
@@ -29272,7 +29201,6 @@ akutkrankenhäuser
 akutkrankenhäusern
 akutkrankenhauses
 akuts
-akw
 akws
 akyn
 akyndichtung
@@ -29531,7 +29459,6 @@ alants
 alanus
 alanusse
 alanussen
-alara
 alarich
 alariche
 alarichen
@@ -29613,7 +29540,6 @@ alarmstufe
 alarmstufen
 alarmübung
 alarmübungen
-alarp
 alasani
 alasanis
 alaska
@@ -32400,7 +32326,6 @@ alptraumhaftesten
 alptraumhaftester
 alptraumhaftestes
 alptraums
-alr
 alraune
 alraunen
 alrich
@@ -34095,7 +34020,6 @@ alutöpfe
 alutöpfen
 alutopfes
 alutopfs
-alv
 alveolar
 alveolare
 alveolarem
@@ -34128,7 +34052,6 @@ alzheimerkrankheit
 alzheimers
 alzingen
 alzingens
-am
 amadeus
 amadeusse
 amadeussen
@@ -34548,8 +34471,6 @@ ambulierter
 ambuliertes
 ambuliertest
 ambuliertet
-amd
-amdar
 ameise
 ameisen
 ameisenart
@@ -34749,7 +34670,6 @@ amethysttäublingen
 amethysttäublings
 ametropie
 ametropien
-amg
 amhare
 amharen
 amharisch
@@ -35009,7 +34929,6 @@ amöbenbefällen
 amöbenbefalles
 amöbenbefalls
 amöbenruhr
-amoc
 amoibaia
 amoibaion
 amoibaions
@@ -35113,7 +35032,6 @@ amourösen
 amouröser
 amouröses
 amp
-ampa
 ampel
 ampelanlage
 ampelanlagen
@@ -35789,7 +35707,6 @@ amüsiertheit
 amusisch
 amuzgo
 amuzgos
-amvo
 amyda
 amygdala
 amygdalae
@@ -35837,7 +35754,6 @@ amylopektins
 amylose
 amylum
 amylums
-an
 ana
 anabar
 anabarplateau
@@ -37262,7 +37178,6 @@ anbumste
 anbumsten
 anbumstest
 anbumstet
-anc
 anch
 anchorage
 anchorages
@@ -39592,7 +39507,6 @@ anfuttre
 anfüttre
 anfuttrest
 anfuttret
-ang
 angab
 angabe
 angäbe
@@ -44160,7 +44074,6 @@ anjuscha
 anjuschas
 anjuta
 anjutas
-ank
 ankam
 ankäme
 ankamen
@@ -46319,7 +46232,6 @@ ansehnlichkeit
 anseilen
 ansengen
 ansetzen
-ansi
 ansicht
 ansichten
 ansichts
@@ -46757,11 +46669,8 @@ anzuziehen
 anzuziehn
 anzuzünden
 anzweifeln
-aok
-aol
 äon
 aorten
-ap
 apache
 apart
 apartheid
@@ -46783,7 +46692,6 @@ aphoristisch
 aphrodisiaka
 aphrodisiakum
 aphrodite
-api
 apis
 apodiktisch
 apokalypse
@@ -46856,7 +46764,6 @@ aquitanien
 äquivalent
 äquivalents
 äquivalenz
-ar
 ära
 araber
 arabeske
@@ -46958,7 +46865,6 @@ archivalien
 archivar
 archivieren
 archivierungs
-ard
 areal
 areligiös
 arena
@@ -47127,7 +47033,6 @@ aschenbrödel
 aschenputtel
 aschermittwoch
 aschfahl
-ascii
 ascona
 äsen
 aseptisch
@@ -47149,7 +47054,6 @@ aspirant
 aspiration
 aspirin
 ass
-aß
 äße
 assecurazioni
 assekuranz
@@ -47176,7 +47080,6 @@ assoziieren
 assuanstaudamm
 assyrien
 ast
-asta
 äste
 aster
 asterblüte
@@ -47209,7 +47112,6 @@ asymptote
 asymptotisch
 asynchron
 asynchronmotor
-at
 atari
 atavistisch
 atelier
@@ -47250,7 +47152,6 @@ atlantis
 atlantisch
 atlas
 atlasgebirge
-atm
 atme
 atmen
 atmend
@@ -47298,7 +47199,6 @@ attributiv
 atü
 atypisch
 ätzen
-au
 aubergine
 auch
 audi
@@ -49608,7 +49508,6 @@ aztekenreich
 azur
 azurblau
 azyklisch
-b
 babel
 baby
 babylon
@@ -49860,7 +49759,6 @@ basar
 base
 baseball
 basel
-basf
 basic
 basieren
 basiert
@@ -49967,7 +49865,6 @@ bayreuth
 bayrisch
 bazillen
 bazillus
-bbc
 bde
 bea
 beabsichtige
@@ -52074,11 +51971,7 @@ bezwingen
 bezwingend
 bezwinger
 bezwungen
-bgb
-bgh
 bghst
-bgs
-bh
 biafra
 biarritz
 bias
@@ -52097,7 +51990,6 @@ bibliothek
 bibliothekar
 bibliotheks
 biblisch
-bic
 bidirektional
 biedenkopf
 bieder
@@ -52246,11 +52138,9 @@ biometrie
 biometrisch
 biopsie
 biorhythmus
-bios
 biotechnisch
 biotechnologisch
 biotop
-bip
 biplot
 birgit
 birgt
@@ -52343,7 +52233,6 @@ bizarr
 bizeps
 bizonal
 björn
-bka
 blackbox
 blackjack
 blacklist
@@ -52569,10 +52458,6 @@ blutsverwandter
 blutsverwandtschaft
 blutunterlaufen
 blutverschmiert
-blz
-bmw
-bnd
-bö
 boa
 bob
 böblingen
@@ -52807,7 +52692,6 @@ boykott
 boykottieren
 bozen
 bozener
-bp
 brabant
 brach
 brachen
@@ -52913,7 +52797,6 @@ bravourstück
 bravourstückchen
 bravur
 bravurös
-brd
 breakcontroller
 breaksignal
 brech
@@ -53124,9 +53007,7 @@ brüten
 brüter
 brutto
 bryan
-bse
 bsp
-btx
 bub
 buben
 bübisch
@@ -53401,19 +53282,16 @@ button
 butze
 butzenscheibe
 buxtehude
-bvg
 bypass
 byte
 byzantiner
 byzantinisch
 byzanz
 bzw
-c
 cabaret
 cabrio
 cabriolet
 cache
-cad
 cadillac
 cadiz
 caen
@@ -53471,10 +53349,8 @@ castro
 catcherveranstaltung
 cathy
 cayenne
-cd
 cdc
 cds
-cdu
 cebit
 celle
 celli
@@ -53497,7 +53373,6 @@ centronics
 cervelatwurst
 cetera
 ceylon
-ch
 chalet
 chamäleon
 chamenei
@@ -53590,7 +53465,6 @@ cheops
 cheopspyramide
 cherusker
 cheyenne
-chf
 chi
 chiapas
 chic
@@ -53688,7 +53562,6 @@ chrysantheme
 chrysler
 chur
 churchill
-cia
 cineast
 cineastisch
 cinemascope
@@ -53733,10 +53606,7 @@ clownsfigur
 club
 cluny
 cluster
-cm
 cmos
-cnn
-co
 coaten
 coatingmaß
 coats
@@ -53836,7 +53706,6 @@ couture
 coventry
 cover
 cowboy
-cpu
 cpus
 crash
 crayon
@@ -53855,8 +53724,6 @@ croupier
 crowdfunding
 crux
 cruz
-csfr
-csu
 ctrl
 cum
 cunnilingus
@@ -53879,8 +53746,6 @@ cursorsteuerungsbefehl
 cuxhaven
 cyber
 cyberspace
-d
-da
 dabei
 dabeibleiben
 dabeigeblieben
@@ -54209,7 +54074,6 @@ davonzustehlen
 davonzutragen
 davor
 davos
-dax
 dazu
 dazuführen
 dazugeben
@@ -54256,9 +54120,6 @@ dazwischentreten
 dazwischenwarf
 dazwischenwerfen
 dazwischenwirft
-db
-ddr
-de
 deadline
 deaktivieren
 deal
@@ -54297,7 +54158,6 @@ deckungspflichtig
 decoder
 decodier
 decodieren
-dect
 dediziert
 deduktion
 deduktionsmethode
@@ -54732,11 +54592,7 @@ dezibel
 dezidieren
 dezimal
 dezimieren
-dfb
-dfü
-dgb
 dhabi
-dhcp
 dia
 diabetes
 diabeteserkrankung
@@ -54932,7 +54788,6 @@ digital
 digitalen
 digitalisieren
 digitalisierungsbericht
-dihk
 dikanjka
 diktafon
 diktaphon
@@ -54968,7 +54823,6 @@ diminuendo
 diminutiv
 dimmen
 dimmer
-din
 dinar
 ding
 dinge
@@ -55135,13 +54989,7 @@ divisions
 divisor
 diwan
 dixieland
-dkp
-dm
-dna
 dnjepr
-dns
-dnvp
-dö
 dobermann
 doch
 docht
@@ -55291,7 +55139,6 @@ dortigen
 dortmund
 dortmunder
 dortseits
-dos
 döschen
 dose
 dosen
@@ -55323,9 +55170,7 @@ downsyndrom
 downzugraden
 dozent
 dozieren
-dpa
 dpi
-dr
 drache
 drachen
 drachenähnlich
@@ -55544,7 +55389,6 @@ drittletzte
 drittmittel
 drittplatziert
 drittstärkste
-drk
 droben
 droge
 dröge
@@ -55637,9 +55481,6 @@ dschihadismus
 dschihadist
 dschingis
 dschungel
-dsl
-dtp
-du
 dual
 dualismus
 dualistisch
@@ -56161,7 +56002,6 @@ dutzend
 dutzende
 dutzendweise
 duzen
-dvd
 dvds
 dynamik
 dynamisch
@@ -56175,8 +56015,6 @@ dynastisch
 dyslexie
 dysprosium
 dystopisch
-e
-eads
 east
 ebay
 ebbe
@@ -56266,7 +56104,6 @@ edukation
 edukativ
 edukt
 eduscho
-edv
 edward
 efeu
 effeff
@@ -56282,8 +56119,6 @@ effizient
 effizienz
 effizienzmindernd
 effizienzverbessernd
-efta
-eg
 egal
 egalisieren
 egalitär
@@ -56299,7 +56134,6 @@ egon
 egozentrik
 egozentriker
 egozentrisch
-eh
 ehe
 ehebett
 ehebrechen
@@ -56363,7 +56197,6 @@ ehrungsliste
 ehrwürdig
 ehrwürdige
 ehrwürdigen
-ei
 eiabstoßung
 eibe
 eich
@@ -57639,7 +57472,6 @@ ekelerregend
 ekelhaft
 ekeln
 ekelten
-ekg
 eklat
 eklatant
 eklektizismus
@@ -57763,7 +57595,6 @@ elster
 elterlich
 eltern
 elternlos
-em
 emanuel
 emanuela
 emanze
@@ -58562,7 +58393,6 @@ enzyklopädie
 enzyklopädisch
 enzym
 enzymbiotechnologie
-eo
 epen
 epidemie
 epidemiologie
@@ -58597,7 +58427,6 @@ epson
 equalizer
 equipe
 equipment
-er
 erachten
 erachtens
 erachtet
@@ -59566,7 +59395,6 @@ erzürnt
 erzwang
 erzwingen
 erzwungen
-es
 esc
 escapesequenz
 eschatologisch
@@ -59624,7 +59452,6 @@ estland
 estländisch
 estnisch
 estrade
-et
 etablieren
 etablissement
 etage
@@ -59636,7 +59463,6 @@ etappenweise
 etat
 etatmäßig
 etc
-eth
 ethanol
 ethernet
 ethernetadapter
@@ -59669,7 +59495,6 @@ etwaig
 etwas
 etymologie
 etymologisch
-eu
 euch
 eudämonie
 euer
@@ -59698,7 +59523,6 @@ euphemistisch
 euphorie
 euphorisch
 euphrat
-eur
 eurasien
 eurasisch
 euratom
@@ -59767,15 +59591,12 @@ evolution
 evolutionär
 evolutions
 evolutionsbiologisch
-ewg
 ewig
 ewige
 ewigen
 ewiggestrig
 ewigkeit
 ews
-ewu
-ex
 exabyte
 exakt
 exaktheit
@@ -59950,8 +59771,6 @@ exzerpt
 exzess
 exzessiv
 eye
-ezb
-f
 fabel
 fabelhaft
 fabelpferd
@@ -60188,7 +60007,6 @@ fantasievoll
 fantasievolle
 fantast
 fantastisch
-faq
 faraday
 farb
 farbe
@@ -60325,14 +60143,7 @@ faxen
 faxenmacher
 faxgerät
 faxnummer
-faz
 fazit
-fbi
-fc
-fckw
-fdgb
-fdj
-fdp
 feature
 februar
 fecht
@@ -60724,9 +60535,7 @@ feuerwerker
 feuilleton
 feurig
 fez
-ff
 ffr
-fg
 fiasko
 fiat
 fibel
@@ -60907,7 +60716,6 @@ fixkosten
 fixpunkt
 fixstern
 fjord
-fkk
 fkt
 flach
 flachbrettscanner
@@ -61113,7 +60921,6 @@ flitterwerk
 flitterwochen
 flitzen
 flitzer
-fln
 flocht
 flocke
 flocken
@@ -61579,9 +61386,6 @@ fourieranalyse
 fouriertransformation
 foxtrott
 foyer
-fp
-fpö
-fr
 fracht
 frachtenindex
 frachtenkartell
@@ -62383,7 +62187,6 @@ fütterung
 futur
 futuristisch
 futurologie
-g
 gab
 gäb
 gabe
@@ -62596,13 +62399,11 @@ gastzimmer
 gastzimmern
 gateleitung
 gateway
-gatt
 gatte
 gattenmörder
 gatter
 gattung
 gattungs
-gau
 gaucho
 gauda
 gaudeamus
@@ -62629,7 +62430,6 @@ gazeschleier
 gazette
 gazevorhang
 gazprom
-gb
 gbit
 gbr
 gbyte
@@ -63751,7 +63551,6 @@ gelungenes
 gelüste
 gelüsten
 gelyncht
-gema
 gemach
 gemächer
 gemächlich
@@ -65164,7 +64963,6 @@ geurteilt
 gevatter
 gevierteilt
 gevögelt
-gew
 gewächs
 gewächsanlage
 gewachsen
@@ -65396,7 +65194,6 @@ gewusst
 gewußt
 gewütet
 geysir
-gez
 gezahlt
 gezählt
 gezähmt
@@ -65467,7 +65264,6 @@ ghettobildung
 ghettoisierung
 ghostwriter
 ghz
-gi
 giacomo
 giacomos
 gib
@@ -65788,7 +65584,6 @@ gluthitze
 glykol
 glyzerin
 gmbh
-gmt
 gnade
 gnaden
 gnadenakt
@@ -65916,8 +65711,6 @@ gouverneur
 gouverneursamt
 gouverneurspalast
 goya
-gpl
-gps
 grab
 grabbeln
 graben
@@ -66411,7 +66204,6 @@ gurken
 gurt
 gürtel
 guru
-gus
 guss
 gusseisern
 gusto
@@ -66494,7 +66286,6 @@ gynäkologe
 gynäkologie
 gynäkologisch
 gysi
-h
 haag
 haar
 haarausfalls
@@ -67146,9 +66937,6 @@ hawaii
 hawaiianer
 hawaiianisch
 haydn
-hblfa
-hd
-he
 header
 headhunter
 heavymetal
@@ -68420,7 +68208,6 @@ hexe
 hexen
 hexer
 hexerei
-hi
 hie
 hieb
 hiebei
@@ -69252,7 +69039,6 @@ hitzig
 hitzkopf
 hitzköpfe
 hitzschlag
-hiv
 hiwi
 hoare
 hob
@@ -69762,10 +69548,8 @@ hotelzimmer
 hotline
 hotspot
 hotzenplotz
-hp
 hpa
 hps
-html
 http
 huawei
 hub
@@ -69971,18 +69755,10 @@ hysterese
 hysterie
 hysteriker
 hysterisch
-hz
-i
-iaea
-iaeo
-iata
-iban
 ibbenbüren
 iberer
 iberien
 iberisch
-ibm
-ice
 ich
 ichbewusst
 ichbewusstsein
@@ -69990,10 +69766,7 @@ ichbezogen
 ichbezogenheit
 ichform
 ichsucht
-ici
 icon
-icq
-ide
 ideal
 idealerweise
 idealisieren
@@ -70039,14 +69812,12 @@ idiotischerweise
 idol
 idyll
 idyllisch
-ig
 igel
 igeln
 igelstellung
 ignorant
 ignoranz
 ignorieren
-ihk
 ihm
 ihmgehören
 ihn
@@ -70063,8 +69834,6 @@ ihrethalben
 ihretwegen
 ihretwillen
 ihrige
-ii
-iii
 ikarus
 ikone
 illegal
@@ -70094,7 +69863,6 @@ illyrier
 ilmenau
 ilmensee
 iltis
-im
 image
 imagepflege
 imaginär
@@ -70102,7 +69870,6 @@ imaginärteil
 imagination
 imaginativ
 imam
-imap
 imbiss
 imbisstube
 imitation
@@ -70204,7 +69971,6 @@ impulsiv
 imputation
 imputieren
 imstande
-in
 inadäquat
 inaktiv
 inaktivieren
@@ -70863,10 +70629,7 @@ ionisation
 ionisieren
 ionisierungs
 iota
-ip
 ipso
-iq
-ira
 irak
 iraker
 irakisch
@@ -70877,7 +70640,6 @@ iranische
 iranischem
 iranischen
 iranisches
-irc
 irden
 irdisch
 irdischen
@@ -70919,7 +70681,6 @@ ironisch
 ironischen
 ironisches
 ironisieren
-irq
 irr
 irrational
 irrationalismus
@@ -70971,10 +70732,8 @@ isaac
 isaak
 isar
 isbary
-isbn
 ischias
 ischiasnerv
-isdn
 isidor
 isis
 islam
@@ -70994,7 +70753,6 @@ island
 isländer
 isländisch
 islandpony
-iso
 isobar
 isolation
 isolationismus
@@ -71015,7 +70773,6 @@ isopropanol
 isotop
 isotrop
 isotropie
-isp
 israel
 israeli
 israelisch
@@ -71024,12 +70781,10 @@ israelischen
 israelischer
 israelitisch
 israels
-iß
 isst
 ist
 istanbul
 istanbuler
-it
 italic
 italien
 italienaufenthalt
@@ -71040,14 +70795,8 @@ italienreise
 iteration
 iterativ
 iterieren
-itt
 itzehoe
-iv
 ivan
-iwf
-ix
-j
-ja
 jacht
 jachtklub
 jack
@@ -71159,7 +70908,6 @@ javasee
 jawohl
 jawort
 jazz
-je
 jean
 jeans
 jeansindustrie
@@ -71406,7 +71154,6 @@ juwel
 juwelen
 juwelier
 jux
-k
 kaaba
 kabarett
 kabarettist
@@ -72124,10 +71871,8 @@ kaviar
 kavitation
 kavitös
 kawasaki
-kb
 kbaud
 kbyte
-kde
 keck
 kecken
 keckes
@@ -72303,15 +72048,12 @@ keuschheits
 keyboard
 keynes
 kfz
-kg
-kgb
 khakifrüchte
 khakistoff
 khan
 khmer
 khomeini
 khz
-ki
 kib
 kibbuz
 kibbuzim
@@ -72753,7 +72495,6 @@ klischieren
 klitoris
 klitschnass
 klitzeklein
-klm
 klo
 klöckner
 klonen
@@ -72793,7 +72534,6 @@ klugscheißer
 klügste
 klumpen
 klumpig
-km
 knabbern
 knabe
 knaben
@@ -73846,11 +73586,7 @@ köter
 kotflügel
 kotzen
 kovarianz
-kp
-kpd
 kpdsu
-kpj
-kpö
 krabbe
 krabbeln
 krabbeltier
@@ -74202,8 +73938,6 @@ kryptografie
 kryptografisch
 kryptographie
 kryptographisch
-ksze
-kt
 kuba
 kubakrise
 kubaner
@@ -74493,9 +74227,7 @@ kutte
 kutter
 kuvert
 kuwait
-kw
 kwh
-kwu
 kybernetik
 kybernetiker
 kybernetisch
@@ -74503,9 +74235,6 @@ kyjiw
 kyodo
 kyphose
 kyrillisch
-kz
-l
-la
 laben
 labertasche
 labil
@@ -74656,7 +74385,6 @@ lampedusa
 lampen
 lampentragenden
 lampions
-lan
 lancaster
 lancieren
 land
@@ -74990,9 +74718,7 @@ lax
 layout
 lazarett
 lazarettschiff
-lcd
 lcr
-ldap
 lear
 leasen
 leasing
@@ -75472,7 +75198,6 @@ lexikografisch
 lexikograph
 lexikographisch
 lexikon
-lgpl
 liaison
 liane
 libanese
@@ -76046,7 +75771,6 @@ loyalitätsfrage
 loyalitätskonflikt
 loyalitätspflicht
 loyalitätstelegramm
-lsd
 lsi
 lübeck
 lübecker
@@ -76170,9 +75894,6 @@ lyrikband
 lyriker
 lyrisch
 lyzeum
-lzw
-m
-ma
 mäander
 mäanderartig
 mäanderfahrt
@@ -76880,14 +76601,10 @@ mazedonien
 mazedonisch
 mäzen
 mazurka
-mb
-mbb
 mbit
 mbyte
 mccarthy
 mcdonald
-md
-mdr
 mechanik
 mechaniker
 mechanikerlehrling
@@ -77311,7 +77028,6 @@ mickrig
 microsoft
 midas
 middle
-midi
 midlands
 midlifecrisis
 midterm
@@ -77804,7 +77520,6 @@ mithilfe
 mithin
 mithören
 mithras
-miti
 mitisst
 mitjubeln
 mitkam
@@ -78042,7 +77757,6 @@ mixstab
 mixtur
 mizzi
 mizzis
-mm
 mnemonik
 mnemoniker
 mnemonisch
@@ -78396,10 +78110,6 @@ möwe
 mozart
 mozilla
 mozzarella
-mpeg
-mr
-ms
-msdos
 msec
 mubarak
 mücke
@@ -78631,8 +78341,6 @@ mythisch
 mythologie
 mythologisch
 mythos
-n
-na
 nabe
 nabel
 nabelhöhe
@@ -79264,7 +78972,6 @@ narziss
 narzissenfelder
 narzissmus
 narzisstisch
-nasa
 naschen
 näschen
 nasdaq
@@ -79359,8 +79066,6 @@ navigations
 navigator
 navigieren
 nazi
-ndp
-ndr
 neandertal
 neandertaler
 neapel
@@ -79403,7 +79108,6 @@ nebraska
 nebst
 nebukadnezar
 nebulös
-nec
 neckar
 neckarwestheim
 necken
@@ -79668,8 +79372,6 @@ newslettern
 newsserver
 newton
 newtonsche
-nfs
-ngo
 ngos
 niagarafälle
 nibbleoperation
@@ -79958,7 +79660,6 @@ nivellieren
 nixdorf
 nixe
 nizza
-nl
 noah
 nobel
 nobelpreis
@@ -80137,16 +79838,7 @@ novellist
 november
 novität
 novum
-npd
-nrw
-ns
-nsa
-nsdap
 nsec
-nsu
-nt
-ntt
-nu
 nuance
 nuancen
 nuancenreichtum
@@ -80213,7 +79905,6 @@ nutzten
 nutzung
 nutzungs
 nutzungsgerecht
-nva
 nvidia
 nylon
 nylonfäden
@@ -80223,12 +79914,8 @@ nylonstrumpfhose
 nymphe
 nymphomanie
 nymphomanin
-o
-ö
-öamtc
 oase
 oasenländer
-ob
 obacht
 obama
 obdach
@@ -80351,8 +80038,6 @@ ocker
 ockerfarben
 ockerfarbig
 ockergelb
-ocr
-öd
 ode
 öde
 odem
@@ -80362,8 +80047,6 @@ oder
 odessa
 odium
 odyssee
-oecd
-oem
 ofen
 öfen
 ofenbank
@@ -80443,7 +80126,6 @@ oft
 öftesten
 oftmalig
 oftmals
-oh
 oheim
 ohio
 ohm
@@ -80498,7 +80180,6 @@ okular
 okzident
 okzidental
 okzidentalisch
-öl
 olaf
 oldenburg
 oldenburger
@@ -80545,7 +80226,6 @@ omnibus
 omnilaser
 omnipotenzfunktionen
 omnipotenzgefühl
-omv
 onanie
 onanieren
 onkel
@@ -80554,7 +80234,6 @@ onkels
 online
 ontologie
 opa
-opec
 opel
 openbsd
 opendocument
@@ -80681,7 +80360,6 @@ ordonanz
 ordonnanz
 ordonnanzen
 oregon
-orf
 organ
 organe
 organigramm
@@ -80763,7 +80441,6 @@ ortsungebunden
 ortszeit
 ortungs
 orwell
-os
 oscar
 öse
 osiris
@@ -80829,7 +80506,6 @@ ostsibirien
 ostwärts
 ostwestfalen
 oswald
-osze
 oszillation
 oszillator
 oszillieren
@@ -80851,7 +80527,6 @@ ottomane
 ottomar
 ottomars
 ottomotor
-ötv
 output
 outputfile
 outsider
@@ -80863,7 +80538,6 @@ overall
 overdressed
 overheadfolie
 overkill
-övp
 ovulationshemmend
 oxford
 oxid
@@ -80881,7 +80555,6 @@ ozeanisch
 ozeanografisch
 ozeanographisch
 ozon
-p
 paar
 paarbildung
 paaren
@@ -81338,11 +81011,7 @@ pazifisch
 pazifismus
 pazifist
 pazifistisch
-pc
-pci
 pcs
-pdf
-pds
 peak
 pech
 pechschwarz
@@ -81701,8 +81370,6 @@ pfusch
 pfuschen
 pfütze
 pfützen
-pgp
-ph
 phalanx
 phänomen
 phänomenal
@@ -81826,7 +81493,6 @@ physiologisch
 physiotherapeut
 physis
 physisch
-pi
 piaget
 pianissimo
 pianist
@@ -81944,7 +81610,6 @@ pizzen
 pizzeria
 pizzerien
 pjöngjang
-pkk
 pkw
 placebo
 plackerei
@@ -82097,7 +81762,6 @@ plenum
 pleonasmen
 pleonasmus
 plexiglas
-plo
 plombieren
 plot
 plotten
@@ -82140,12 +81804,10 @@ plutonium
 plutoniumstäbe
 plutoniumwerke
 plymouth
-plz
 pneu
 pneumatik
 pneumatikplänen
 pneumatisch
-po
 pöbel
 pöbelei
 pochen
@@ -82446,9 +82108,6 @@ poweradapter
 powerdown
 powerpack
 powerup
-ppp
-pps
-pr
 präambel
 pracht
 prächtig
@@ -83025,7 +82684,6 @@ prunksitzung
 prunkstück
 prunkvoll
 prusteten
-ps
 psalm
 psalter
 pseudo
@@ -83060,10 +82718,8 @@ psychotherapeut
 psychotherapeutisch
 psychotherapie
 psychotisch
-pt
 ptolemaios
 ptolemäus
-ptt
 pub
 pubertär
 pubertät
@@ -83194,8 +82850,6 @@ pyrrhus
 pythagoras
 pythia
 python
-q
-qm
 qmm
 quacksalber
 quader
@@ -83336,7 +82990,6 @@ quote
 quoten
 quotient
 quotieren
-r
 rabat
 rabatt
 rabbiner
@@ -83419,7 +83072,6 @@ radler
 radnabe
 radnarbe
 radon
-raf
 rafael
 raffen
 raffgierig
@@ -83434,7 +83086,6 @@ ragte
 ragten
 rahm
 rahmen
-raid
 raiffeisenbank
 raiffeisenkassen
 raimund
@@ -83449,7 +83100,6 @@ ralf
 rallye
 rallyefahrer
 ralph
-ram
 ramdisk
 rammbock
 rammeln
@@ -83694,7 +83344,6 @@ raver
 ravioli
 razzia
 razzien
-rbb
 reagan
 reagenzglas
 reagenzgläser
@@ -84541,7 +84190,6 @@ rezitation
 rezitator
 rezitieren
 rezitiert
-rfc
 rfcs
 rhabarber
 rhapsodie
@@ -84585,7 +84233,6 @@ rhythmisch
 rhythmisches
 rhythmus
 riad
-rias
 ribbentrop
 richard
 richelieu
@@ -84909,9 +84556,6 @@ rowdy
 rowdytum
 royal
 royalist
-rpm
-rtc
-rtl
 ruanda
 rubbeln
 rübe
@@ -85192,9 +84836,7 @@ rüttelfest
 rüttelfestigkeit
 rütteln
 rüttgers
-rwe
 rwes
-s
 saal
 saalboden
 saale
@@ -85466,7 +85108,6 @@ santa
 santorin
 sanyo
 sao
-sap
 saphir
 sapperlot
 saps
@@ -85490,7 +85131,6 @@ sarkom
 sarkoma
 sarkomatose
 sarkophag
-sas
 sascha
 saß
 säße
@@ -87521,9 +87161,7 @@ scratchpad
 screenshot
 script
 scrollen
-scsi
 seagate
-seato
 seattle
 sebastian
 sechs
@@ -87581,7 +87219,6 @@ sechzig
 sechziger
 sechzigjährig
 sechzigste
-sed
 sederabend
 sediment
 sedimentieren
@@ -88080,10 +87717,7 @@ sezessionskrieg
 sezieren
 seziermesser
 sfr
-sgi
 sgis
-sgml
-sh
 shakespeare
 shampoo
 shareware
@@ -88531,12 +88165,9 @@ smiley
 smog
 smoking
 smolensk
-sms
-smtp
 smyrna
 snackbar
 snob
-so
 sobald
 social
 socke
@@ -88795,7 +88426,6 @@ sortimentsbuchhändler
 sortini
 sortinis
 sortinischen
-sos
 sosehr
 soße
 soßen
@@ -88919,7 +88549,6 @@ spanplatte
 spant
 spar
 sparbedarf
-sparc
 sparen
 sparer
 spareribs
@@ -88976,7 +88605,6 @@ spaziergang
 spaziergänge
 spazierstock
 spazierte
-spd
 spe
 specht
 speck
@@ -89198,7 +88826,6 @@ splitterfrei
 splitterig
 splittern
 splitternackt
-spö
 sponsern
 sponsor
 sponsoring
@@ -89367,7 +88994,6 @@ spürte
 spurten
 sputen
 sputnik
-sql
 srebrenica
 srebrenicas
 sri
@@ -90868,10 +90494,8 @@ süßigkeiten
 süßrahmbutter
 süßsauer
 süßspeise
-sv
 sven
 svenja
-swapo
 sweatshirt
 swimmingpool
 swing
@@ -90974,7 +90598,6 @@ szenerie
 szenerien
 szenisch
 szintigramm
-t
 tabak
 tabakpfeifen
 tabaks
@@ -91337,7 +90960,6 @@ taylor
 taylorisieren
 taylorismus
 tbyte
-tcp
 team
 teamarbeit
 teamfähig
@@ -91671,7 +91293,6 @@ textlich
 textlinguistisch
 textur
 textvorlage
-tft
 thailand
 thailändisch
 thatcher
@@ -91890,7 +91511,6 @@ titulatur
 titulieren
 titulierte
 tivoli
-tnt
 toast
 toastbrot
 toasten
@@ -92698,7 +92318,6 @@ tugendbold
 tugenden
 tugendhaft
 tugendreich
-tui
 tuis
 tüll
 tulpe
@@ -92810,9 +92429,6 @@ tutorial
 tutorien
 tutorium
 tutu
-tüv
-tv
-twa
 tweedanzug
 twitter
 twittern
@@ -92854,8 +92470,6 @@ tyrannenmord
 tyrannisch
 tyrannischen
 tyrannisieren
-u
-ü
 uart
 übel
 übelbefinden
@@ -93460,7 +93074,6 @@ udo
 udssr
 ufer
 uferlos
-ufo
 ufos
 uganda
 uhr
@@ -93498,7 +93111,6 @@ ukrainekrise
 ukrainer
 ukrainisch
 ukulele
-ukw
 ulan
 ulk
 ulken
@@ -93519,7 +93131,6 @@ ultralangfristig
 ultramarin
 ultraviolett
 ultraviolettstrahlung
-um
 umadressieren
 umändern
 umarbeiten
@@ -93987,7 +93598,6 @@ umtausch
 umtauschen
 umtrieb
 umtrunk
-umts
 umtuend
 umtun
 umverteilen
@@ -94076,7 +93686,6 @@ umzuwenden
 umzuwerfen
 umzuwidmen
 umzuziehen
-un
 unabänderlich
 unabänderliche
 unabdingbar
@@ -94461,7 +94070,6 @@ unerwarteten
 unerwarteterweise
 unerwidert
 unerziehbar
-unesco
 unfähig
 unfähiger
 unfähigkeit
@@ -94675,7 +94283,6 @@ unhörbaren
 unhörbarkeit
 unhübsches
 uni
-unicef
 unicode
 unidirektional
 unifikation
@@ -94698,7 +94305,6 @@ unionist
 unions
 unipolar
 unisono
-unita
 universal
 universalist
 universalistisch
@@ -94801,7 +94407,6 @@ unnötigsten
 unnütz
 unnütze
 unnützen
-uno
 unordentlich
 unordentliche
 unordentlichkeit
@@ -95546,7 +95151,6 @@ urkräfte
 urkunde
 urkunden
 urkundlich
-url
 urlandschaft
 urlaub
 urlauber
@@ -95597,16 +95201,11 @@ urzeit
 urzeitliches
 urzustand
 urzustände
-us
-usa
-usb
 usbekisch
 usbekistan
-usd
 usenet
 user
 userport
-uss
 ustg
 usurpator
 usus
@@ -95621,9 +95220,7 @@ utopisch
 utopist
 utopistisch
 utrecht
-uv
 uwe
-v
 vabanquespiel
 vag
 vagabund
@@ -95693,8 +95290,6 @@ vati
 vatikan
 vatikanisch
 vattenfall
-vde
-vdi
 vegan
 veganer
 veganismus
@@ -97835,9 +97430,6 @@ vetter
 vetternwirtschaft
 vexier
 vfb
-vga
-vhs
-vi
 via
 viadukt
 viadukten
@@ -98008,8 +97600,6 @@ vietnamkrieg
 vietnamsoldat
 vignette
 vignettierung
-vii
-viii
 vikar
 viktoria
 viktorianisch
@@ -98976,7 +98566,6 @@ votieren
 votum
 voyeur
 voyeurismus
-vpn
 vulgär
 vulgärapostel
 vulgärsprache
@@ -98985,9 +98574,7 @@ vulkanisch
 vulkanismus
 vulva
 vulven
-vw
 vws
-w
 waage
 waagerecht
 waagerechter
@@ -99471,8 +99058,6 @@ wattieren
 wattleistung
 watvogel
 watvögel
-wc
-wdr
 web
 webangebots
 webbasiert
@@ -100309,7 +99894,6 @@ whirlpool
 whisky
 whistleblower
 whitelist
-who
 whoopy
 wich
 wichse
@@ -100603,7 +100187,6 @@ wieviel
 wievielerlei
 wievielt
 wieweit
-wifo
 wiki
 wikinger
 wikingerschiff
@@ -100877,9 +100460,6 @@ witzigkeit
 wizard
 wladimir
 wladiwostok
-wlan
-wm
-wo
 woanders
 wobei
 woche
@@ -101267,7 +100847,6 @@ wütete
 wutgeheul
 wutschäumend
 wutschnaubend
-x
 xanten
 xanthippe
 xenix
@@ -101276,18 +100855,11 @@ xenophobie
 xerographieren
 xerox
 xerxes
-xi
-xii
-xiii
-xiv
-xml
 xoff
 xon
-xp
 xylofon
 xylograph
 xylophon
-y
 yacht
 yahoo
 yallah
@@ -101309,7 +100881,6 @@ ytterbium
 yttrium
 yuppie
 yvonne
-z
 zacken
 zackenbarsch
 zackenfunktion
@@ -101424,7 +100995,6 @@ zaumzeug
 zaun
 zäune
 zaunzeug
-zdf
 zebra
 zebrastreifen
 zeche
@@ -102013,7 +101583,6 @@ zivilisieren
 zivilisiert
 zivilist
 zivilrechtlich
-zk
 zobel
 zobelfell
 zobelpelz
@@ -102067,7 +101636,6 @@ zote
 zotenreißer
 zotig
 zottig
-zu
 zuallerallererst
 zuallerallerletzt
 zuallererst

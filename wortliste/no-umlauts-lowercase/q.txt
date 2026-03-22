@@ -1,5 +1,3 @@
-q
-qm
 qmm
 quacksalber
 quader

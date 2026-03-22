@@ -1,4 +1,3 @@
-v
 vabanquespiel
 Vabanquespiel
 vaeter
@@ -114,8 +113,6 @@ vatikan
 Vatikan
 vatikanisch
 Vattenfall
-VDE
-VDI
 vegan
 veganer
 Veganer
@@ -3073,9 +3070,6 @@ Vetternwirtschaft
 vexier
 Vexier
 VfB
-VGA
-VHS
-VI
 via
 viadukt
 Viadukt
@@ -3300,8 +3294,6 @@ vignette
 Vignette
 vignettierung
 Vignettierung
-VII
-VIII
 vikar
 Vikar
 Viktoria
@@ -3423,9 +3415,7 @@ Vizekanzler
 vlies
 Vlies
 vLSI
-VLSI
 vMOS
-VMOS
 vMware
 VMware
 Vodafone
@@ -4479,7 +4469,6 @@ voyeur
 Voyeur
 voyeurismus
 Voyeurismus
-VPN
 vulgaer
 vulgaerapostel
 Vulgaerapostel
@@ -4494,5 +4483,4 @@ vulva
 Vulva
 vulven
 Vulven
-VW
 VWs

@@ -1,4 +1,3 @@
-s
 saal
 Saal
 Saalboden
@@ -481,7 +480,6 @@ Santorin
 Sanyo
 sao
 Sao
-SAP
 saphir
 Saphir
 sapperlot
@@ -519,7 +517,6 @@ sarkomatose
 Sarkomatose
 sarkophag
 Sarkophag
-SAS
 Sascha
 sass
 sassen
@@ -3487,9 +3484,7 @@ Screenshot
 script
 Script
 scrollen
-SCSI
 Seagate
-SEATO
 seattle
 Seattle
 Sebastian
@@ -3558,7 +3553,6 @@ sechziger
 Sechziger
 sechzigjaehrig
 sechzigste
-SED
 Sederabend
 sediment
 Sediment
@@ -4290,10 +4284,7 @@ sezieren
 seziermesser
 Seziermesser
 SFr
-SGI
 SGIs
-SGML
-Sh
 Shakespeare
 shampoo
 Shampoo
@@ -4973,7 +4964,6 @@ smart
 smartphone
 Smartphone
 sMD
-SMD
 smiley
 Smiley
 smog
@@ -4982,16 +4972,12 @@ smoking
 Smoking
 smolensk
 Smolensk
-SMS
-SMTP
 smyrna
 Smyrna
 snackbar
 Snackbar
 snob
 Snob
-so
-So
 sobald
 Sobald
 Social
@@ -5386,7 +5372,6 @@ Sortimentsbuchhaendler
 Sortini
 Sortinis
 Sortinischen
-SOS
 sosehr
 sosse
 Sosse
@@ -5604,7 +5589,6 @@ Spant
 spar
 Spar
 Sparbedarf
-SPARC
 sparen
 Sparen
 sparer
@@ -5663,7 +5647,6 @@ Spaziergaenge
 Spaziergang
 Spazierstock
 spazierte
-SPD
 spe
 specht
 Specht
@@ -6009,7 +5992,6 @@ splitterfrei
 splitterig
 splittern
 splitternackt
-SPOe
 spoettelei
 Spoettelei
 spoetteln
@@ -6262,7 +6244,6 @@ Spurt
 spurten
 sputen
 Sputnik
-SQL
 Srebrenica
 Srebrenicas
 sri
@@ -8548,10 +8529,8 @@ suspensorium
 Suspensorium
 sussex
 Sussex
-SV
 Sven
 Svenja
-SWAPO
 sweatshirt
 Sweatshirt
 swimmingpool

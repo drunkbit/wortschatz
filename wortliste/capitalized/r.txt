@@ -1,4 +1,3 @@
-R
 Rabat
 Rabatt
 Rabbiner
@@ -81,7 +80,6 @@ Radler
 Radnabe
 Radnarbe
 Radon
-Raf
 Rafael
 Raffen
 Raffgierig
@@ -96,7 +94,6 @@ Ragte
 Ragten
 Rahm
 Rahmen
-Raid
 Raiffeisenbank
 Raiffeisenkassen
 Raimund
@@ -111,7 +108,6 @@ Ralf
 Rallye
 Rallyefahrer
 Ralph
-Ram
 Ramdisk
 Rammbock
 Rammeln
@@ -356,7 +352,6 @@ Raver
 Ravioli
 Razzia
 Razzien
-Rbb
 Reagan
 Reagenzglas
 Reagenzgläser
@@ -1203,7 +1198,6 @@ Rezitation
 Rezitator
 Rezitieren
 Rezitiert
-Rfc
 Rfcs
 Rhabarber
 Rhapsodie
@@ -1247,7 +1241,6 @@ Rhythmisch
 Rhythmisches
 Rhythmus
 Riad
-Rias
 Ribbentrop
 Richard
 Richelieu
@@ -1571,9 +1564,6 @@ Rowdy
 Rowdytum
 Royal
 Royalist
-Rpm
-Rtc
-Rtl
 Ruanda
 Rubbeln
 Rübe
@@ -1854,5 +1844,4 @@ Rüttelfest
 Rüttelfestigkeit
 Rütteln
 Rüttgers
-Rwe
 Rwes

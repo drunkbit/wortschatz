@@ -1,4 +1,3 @@
-t
 tabak
 Tabak
 tabakpfeifen
@@ -561,7 +560,6 @@ taylorisieren
 taylorismus
 Taylorismus
 TByte
-TCP
 team
 Team
 teamarbeit
@@ -1106,7 +1104,6 @@ textur
 Textur
 textvorlage
 Textvorlage
-TFT
 thailaendisch
 thailand
 Thailand
@@ -1445,7 +1442,6 @@ Titulieren
 titulierte
 tivoli
 Tivoli
-TNT
 toast
 Toast
 toastbrot
@@ -2732,7 +2728,6 @@ Tuerstein
 Tuervorhang
 tuete
 Tuete
-TUeV
 tuff
 Tuff
 tuffstein
@@ -2744,7 +2739,6 @@ Tugendbold
 Tugenden
 tugendhaft
 tugendreich
-TUI
 TUIs
 tulpe
 Tulpe
@@ -2865,8 +2859,6 @@ Tutorien
 tutorium
 Tutorium
 Tutu
-TV
-TWA
 tweedanzug
 Tweedanzug
 Twitter

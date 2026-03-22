@@ -1,5 +1,3 @@
-d
-da
 dabei
 dabeibleiben
 dabeigeblieben
@@ -327,7 +325,6 @@ davonzustehlen
 davonzutragen
 davor
 davos
-dax
 dazu
 dazufuehren
 dazugeben
@@ -374,9 +371,6 @@ dazwischentreten
 dazwischenwarf
 dazwischenwerfen
 dazwischenwirft
-db
-ddr
-de
 deadline
 deaktivieren
 deal
@@ -415,7 +409,6 @@ deckungspflichtig
 decoder
 decodier
 decodieren
-dect
 dediziert
 deduktion
 deduktionsmethode
@@ -850,11 +843,7 @@ dezibel
 dezidieren
 dezimal
 dezimieren
-dfb
-dfue
-dgb
 dhabi
-dhcp
 dia
 diabetes
 diabeteserkrankung
@@ -1050,7 +1039,6 @@ digital
 digitalen
 digitalisieren
 digitalisierungsbericht
-dihk
 dikanjka
 diktafon
 diktaphon
@@ -1086,7 +1074,6 @@ diminuendo
 diminutiv
 dimmen
 dimmer
-din
 dinar
 ding
 dinge
@@ -1253,19 +1240,13 @@ divisions
 divisor
 diwan
 dixieland
-dkp
-dm
-dna
 dnjepr
-dns
-dnvp
 dobermann
 doch
 docht
 dock
 dockbetrieb
 documenta
-doe
 doener
 doerfchen
 doerfer
@@ -1411,7 +1392,6 @@ dortigen
 dortmund
 dortmunder
 dortseits
-dos
 dose
 dosen
 dosier
@@ -1441,9 +1421,7 @@ downsyndrom
 downzugraden
 dozent
 dozieren
-dpa
 dpi
-dr
 drache
 drachen
 drachenaehnlich
@@ -1662,7 +1640,6 @@ drittletzte
 drittmittel
 drittplatziert
 drittstaerkste
-drk
 droben
 droege
 droehnen
@@ -1755,9 +1732,6 @@ dschihadismus
 dschihadist
 dschingis
 dschungel
-dsl
-dtp
-du
 dual
 dualismus
 dualistisch
@@ -2279,7 +2253,6 @@ dutzend
 dutzende
 dutzendweise
 duzen
-dvd
 dvds
 dynamik
 dynamisch

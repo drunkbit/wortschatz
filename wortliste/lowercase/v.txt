@@ -1,4 +1,3 @@
-v
 vabanquespiel
 vag
 vagabund
@@ -68,8 +67,6 @@ vati
 vatikan
 vatikanisch
 vattenfall
-vde
-vdi
 vegan
 veganer
 veganismus
@@ -2210,9 +2207,6 @@ vetter
 vetternwirtschaft
 vexier
 vfb
-vga
-vhs
-vi
 via
 viadukt
 viadukten
@@ -2383,8 +2377,6 @@ vietnamkrieg
 vietnamsoldat
 vignette
 vignettierung
-vii
-viii
 vikar
 viktoria
 viktorianisch
@@ -3351,7 +3343,6 @@ votieren
 votum
 voyeur
 voyeurismus
-vpn
 vulgär
 vulgärapostel
 vulgärsprache
@@ -3360,5 +3351,4 @@ vulkanisch
 vulkanismus
 vulva
 vulven
-vw
 vws

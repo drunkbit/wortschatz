@@ -1,5 +1,3 @@
-n
-Na
 Nabe
 nabel
 Nabel
@@ -882,10 +880,8 @@ Narzissenfelder
 narzissmus
 Narzissmus
 narzisstisch
-NASA
 naschen
 Nasdaq
-NASDAQ
 nase
 Nase
 naselang
@@ -947,7 +943,6 @@ nationenpreis
 Nationenpreis
 nativ
 Nato
-NATO
 natomitglieder
 Natomitglieder
 natrium
@@ -1014,8 +1009,6 @@ Navigator
 navigieren
 nazi
 Nazi
-NDP
-NDR
 neandertal
 Neandertal
 neandertaler
@@ -1070,7 +1063,6 @@ Nebraska
 nebst
 Nebukadnezar
 nebuloes
-NEC
 neckar
 Neckar
 neckarwestheim
@@ -1447,8 +1439,6 @@ newsserver
 Newsserver
 Newton
 newtonsche
-NFS
-NGO
 NGOs
 niagarafaelle
 Niagarafaelle
@@ -1824,7 +1814,6 @@ nixe
 Nixe
 nizza
 Nizza
-NL
 Noah
 nobel
 Nobel
@@ -2111,16 +2100,7 @@ novitaet
 Novitaet
 novum
 Novum
-NPD
-NRW
-NS
-NSA
-NSDAP
 nsec
-NSU
-NT
-NTT
-Nu
 nuance
 Nuance
 Nuancen
@@ -2221,7 +2201,6 @@ Nutzung
 nutzungs
 Nutzungs
 nutzungsgerecht
-NVA
 Nvidia
 nylon
 Nylon

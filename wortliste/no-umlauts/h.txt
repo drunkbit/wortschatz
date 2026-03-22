@@ -1,4 +1,3 @@
-h
 haag
 Haag
 haar
@@ -915,9 +914,6 @@ hawaiianer
 Hawaiianer
 hawaiianisch
 Haydn
-HBLFA
-Hd
-He
 header
 Header
 headhunter
@@ -2446,8 +2442,6 @@ hexer
 Hexer
 hexerei
 Hexerei
-hi
-Hi
 hie
 Hie
 hieb
@@ -3395,7 +3389,6 @@ hitzkopf
 Hitzkopf
 hitzschlag
 Hitzschlag
-HIV
 Hiwi
 hoare
 Hoare
@@ -4052,10 +4045,8 @@ Hotline
 hotspot
 Hotspot
 Hotzenplotz
-HP
 hPa
 HPs
-HTML
 http
 Huawei
 hub
@@ -4371,4 +4362,3 @@ Hysterie
 hysteriker
 Hysteriker
 hysterisch
-Hz

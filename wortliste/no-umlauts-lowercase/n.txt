@@ -1,5 +1,3 @@
-n
-na
 nabe
 nabel
 nabelhoehe
@@ -635,7 +633,6 @@ narziss
 narzissenfelder
 narzissmus
 narzisstisch
-nasa
 naschen
 nasdaq
 nase
@@ -725,8 +722,6 @@ navigations
 navigator
 navigieren
 nazi
-ndp
-ndr
 neandertal
 neandertaler
 neapel
@@ -769,7 +764,6 @@ nebraska
 nebst
 nebukadnezar
 nebuloes
-nec
 neckar
 neckarwestheim
 necken
@@ -1034,8 +1028,6 @@ newslettern
 newsserver
 newton
 newtonsche
-nfs
-ngo
 ngos
 niagarafaelle
 nibbleoperation
@@ -1324,7 +1316,6 @@ nivellieren
 nixdorf
 nixe
 nizza
-nl
 noah
 nobel
 nobelpreis
@@ -1503,16 +1494,7 @@ novellist
 november
 novitaet
 novum
-npd
-nrw
-ns
-nsa
-nsdap
 nsec
-nsu
-nt
-ntt
-nu
 nuance
 nuancen
 nuancenreichtum
@@ -1579,7 +1561,6 @@ nutzten
 nutzung
 nutzungs
 nutzungsgerecht
-nva
 nvidia
 nylon
 nylonfaeden

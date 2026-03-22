@@ -1,10 +1,7 @@
-o
 oase
 Oase
 oasenlaender
 Oasenlaender
-ob
-Ob
 Obacht
 Obama
 obdach
@@ -186,7 +183,6 @@ ocker
 ockerfarben
 ockerfarbig
 ockergelb
-OCR
 ode
 Ode
 odem
@@ -201,10 +197,6 @@ odium
 Odium
 odyssee
 Odyssee
-oe
-OeAMTC
-OECD
-oed
 oede
 oeden
 oefen
@@ -255,8 +247,6 @@ oekonomisch
 oekumene
 Oekumene
 oekumenisch
-oel
-Oel
 oelen
 Oelfleck
 oelig
@@ -266,7 +256,6 @@ Oelportrait
 Oels
 oelverbrauchend
 oelverschmiert
-OEM
 oertlich
 oertlichkeit
 Oertlichkeit
@@ -287,8 +276,6 @@ oestrogen
 Oestrogen
 oestrogenspiegel
 Oestrogenspiegel
-OeTV
-OeVP
 Oezdemir
 ofen
 Ofen
@@ -374,8 +361,6 @@ oft
 Oft
 oftmalig
 oftmals
-oh
-Oh
 oheim
 Oheim
 ohio
@@ -498,7 +483,6 @@ omnipotenzfunktionen
 Omnipotenzfunktionen
 omnipotenzgefuehl
 Omnipotenzgefuehl
-OMV
 onanie
 Onanie
 onanieren
@@ -512,7 +496,6 @@ ontologie
 Ontologie
 opa
 Opa
-OPEC
 Opel
 openBSD
 OpenBSD
@@ -710,7 +693,6 @@ Ordonnanz
 Ordonnanzen
 oregon
 Oregon
-ORF
 organ
 Organ
 Organe
@@ -830,7 +812,6 @@ Ortszeit
 ortungs
 Ortungs
 Orwell
-OS
 Oscar
 Osiris
 Oskar
@@ -917,7 +898,6 @@ ostwaerts
 ostwestfalen
 Ostwestfalen
 Oswald
-OSZE
 oszillation
 Oszillation
 oszillator

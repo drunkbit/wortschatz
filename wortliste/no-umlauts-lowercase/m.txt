@@ -1,5 +1,3 @@
-m
-ma
 maar
 maas
 maastricht
@@ -706,14 +704,10 @@ mazda
 mazedonien
 mazedonisch
 mazurka
-mb
-mbb
 mbit
 mbyte
 mccarthy
 mcdonald
-md
-mdr
 mechanik
 mechaniker
 mechanikerlehrling
@@ -1137,7 +1131,6 @@ mickrig
 microsoft
 midas
 middle
-midi
 midlands
 midlifecrisis
 midterm
@@ -1614,7 +1607,6 @@ mithilfe
 mithin
 mithoeren
 mithras
-miti
 mitisst
 mitjubeln
 mitkaemen
@@ -1852,7 +1844,6 @@ mixstab
 mixtur
 mizzi
 mizzis
-mm
 mnemonik
 mnemoniker
 mnemonisch
@@ -2206,10 +2197,6 @@ mountpoint
 mozart
 mozilla
 mozzarella
-mpeg
-mr
-ms
-msdos
 msec
 mubarak
 mucksmaeuschenstill

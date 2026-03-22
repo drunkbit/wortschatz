@@ -1,4 +1,3 @@
-s
 saal
 saalboden
 saale
@@ -270,7 +269,6 @@ santa
 santorin
 sanyo
 sao
-sap
 saphir
 sapperlot
 saps
@@ -294,7 +292,6 @@ sarkom
 sarkoma
 sarkomatose
 sarkophag
-sas
 sascha
 saß
 säße
@@ -2325,9 +2322,7 @@ scratchpad
 screenshot
 script
 scrollen
-scsi
 seagate
-seato
 seattle
 sebastian
 sechs
@@ -2385,7 +2380,6 @@ sechzig
 sechziger
 sechzigjährig
 sechzigste
-sed
 sederabend
 sediment
 sedimentieren
@@ -2884,10 +2878,7 @@ sezessionskrieg
 sezieren
 seziermesser
 sfr
-sgi
 sgis
-sgml
-sh
 shakespeare
 shampoo
 shareware
@@ -3335,12 +3326,9 @@ smiley
 smog
 smoking
 smolensk
-sms
-smtp
 smyrna
 snackbar
 snob
-so
 sobald
 social
 socke
@@ -3599,7 +3587,6 @@ sortimentsbuchhändler
 sortini
 sortinis
 sortinischen
-sos
 sosehr
 soße
 soßen
@@ -3723,7 +3710,6 @@ spanplatte
 spant
 spar
 sparbedarf
-sparc
 sparen
 sparer
 spareribs
@@ -3780,7 +3766,6 @@ spaziergang
 spaziergänge
 spazierstock
 spazierte
-spd
 spe
 specht
 speck
@@ -4002,7 +3987,6 @@ splitterfrei
 splitterig
 splittern
 splitternackt
-spö
 sponsern
 sponsor
 sponsoring
@@ -4171,7 +4155,6 @@ spürte
 spurten
 sputen
 sputnik
-sql
 srebrenica
 srebrenicas
 sri
@@ -5672,10 +5655,8 @@ süßigkeiten
 süßrahmbutter
 süßsauer
 süßspeise
-sv
 sven
 svenja
-swapo
 sweatshirt
 swimmingpool
 swing

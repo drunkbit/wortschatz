@@ -1,6 +1,3 @@
-j
-ja
-Ja
 jacht
 Jacht
 jachtklub
@@ -165,8 +162,6 @@ jawort
 Jawort
 jazz
 Jazz
-je
-Je
 Jean
 jeans
 Jeans

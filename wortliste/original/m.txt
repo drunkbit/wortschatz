@@ -1,6 +1,3 @@
-m
-mA
-MA
 mäander
 Mäander
 mäanderartig
@@ -74,7 +71,6 @@ macker
 Macker
 Macks
 Mad
-MAD
 madagaskar
 Madagaskar
 Madame
@@ -1133,15 +1129,11 @@ mäzen
 Mäzen
 mazurka
 Mazurka
-MB
-MBB
 MBit
 MByte
 mcCarthy
 McCarthy
 McDonald
-Md
-MDR
 mechanik
 Mechanik
 mechaniker
@@ -1770,7 +1762,6 @@ mickrig
 Microsoft
 Midas
 Middle
-MIDI
 Midlands
 midlifecrisis
 Midlifecrisis
@@ -2465,7 +2456,6 @@ Mithilfe
 mithin
 mithören
 Mithras
-MITI
 mitisst
 mitjubeln
 mitkam
@@ -2759,7 +2749,6 @@ mixtur
 Mixtur
 Mizzi
 Mizzis
-mm
 Mnemonik
 Mnemoniker
 mnemonisch
@@ -3324,10 +3313,6 @@ mozilla
 Mozilla
 mozzarella
 Mozzarella
-MPEG
-Mr
-ms
-MSDOS
 msec
 Mubarak
 mücke

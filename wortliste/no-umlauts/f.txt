@@ -1,4 +1,3 @@
-f
 fabel
 Fabel
 fabelhaft
@@ -365,7 +364,6 @@ fantasievolle
 fantast
 Fantast
 fantastisch
-FAQ
 Faraday
 farb
 Farb
@@ -560,15 +558,8 @@ faxgeraet
 Faxgeraet
 faxnummer
 Faxnummer
-FAZ
 fazit
 Fazit
-FBI
-FC
-FCKW
-FDGB
-FDJ
-FDP
 feature
 Feature
 februar
@@ -1085,9 +1076,7 @@ Feuilleton
 feurig
 fez
 Fez
-FF
 FFr
-FG
 fiasko
 Fiasko
 Fiat
@@ -1367,7 +1356,6 @@ fixstern
 Fixstern
 fjord
 Fjord
-FKK
 Fkt
 flach
 Flach
@@ -1691,7 +1679,6 @@ Flitterwochen
 flitzen
 flitzer
 Flitzer
-FLN
 flocht
 flocke
 Flocke
@@ -2369,9 +2356,6 @@ foxtrott
 Foxtrott
 foyer
 Foyer
-FP
-FPOe
-Fr
 fracht
 Fracht
 frachtenindex

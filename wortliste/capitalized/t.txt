@@ -1,4 +1,3 @@
-T
 Tabak
 Tabakpfeifen
 Tabaks
@@ -361,7 +360,6 @@ Taylor
 Taylorisieren
 Taylorismus
 Tbyte
-Tcp
 Team
 Teamarbeit
 Teamfähig
@@ -695,7 +693,6 @@ Textlich
 Textlinguistisch
 Textur
 Textvorlage
-Tft
 Thailand
 Thailändisch
 Thatcher
@@ -914,7 +911,6 @@ Titulatur
 Titulieren
 Titulierte
 Tivoli
-Tnt
 Toast
 Toastbrot
 Toasten
@@ -1722,7 +1718,6 @@ Tugendbold
 Tugenden
 Tugendhaft
 Tugendreich
-Tui
 Tuis
 Tüll
 Tulpe
@@ -1834,9 +1829,6 @@ Tutorial
 Tutorien
 Tutorium
 Tutu
-Tüv
-Tv
-Twa
 Tweedanzug
 Twitter
 Twittern

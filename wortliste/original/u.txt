@@ -1,6 +1,4 @@
-u
 uART
-UART
 ubiquitär
 Ubuntu
 Ude
@@ -10,7 +8,6 @@ UdSSR
 ufer
 Ufer
 uferlos
-UFO
 UFOs
 uganda
 Uganda
@@ -62,7 +59,6 @@ Ukrainer
 ukrainisch
 ukulele
 Ukulele
-UKW
 ulan
 Ulan
 ulk
@@ -92,8 +88,6 @@ ultramarin
 ultraviolett
 ultraviolettstrahlung
 Ultraviolettstrahlung
-um
-Um
 umadressieren
 umändern
 umarbeiten
@@ -705,7 +699,6 @@ umtrieb
 Umtrieb
 umtrunk
 Umtrunk
-UMTS
 umtuend
 umtun
 umverteilen
@@ -808,7 +801,6 @@ umzuwenden
 umzuwerfen
 umzuwidmen
 umzuziehen
-UN
 unabänderlich
 Unabänderliche
 unabdingbar
@@ -1274,7 +1266,6 @@ unerwarteten
 unerwarteterweise
 unerwidert
 unerziehbar
-UNESCO
 unfähig
 unfähiger
 unfähigkeit
@@ -1553,7 +1544,6 @@ unhörbaren
 Unhörbarkeit
 unhübsches
 Uni
-UNICEF
 unicode
 Unicode
 unidirektional
@@ -1589,7 +1579,6 @@ unions
 Unions
 unipolar
 unisono
-UNITA
 universal
 Universal
 universalist
@@ -1611,7 +1600,6 @@ universum
 Universum
 unix
 Unix
-UNIX
 unke
 Unke
 unken
@@ -1735,7 +1723,6 @@ unnütz
 unnütze
 Unnütze
 unnützen
-UNO
 unordentlich
 unordentliche
 unordentlichkeit
@@ -2685,7 +2672,6 @@ Urkunde
 urkunden
 Urkunden
 urkundlich
-URL
 urlandschaft
 Urlandschaft
 urlaub
@@ -2770,21 +2756,15 @@ urzustand
 Urzustand
 urzustände
 Urzustände
-us
-US
-USA
-USB
 usbekisch
 usbekistan
 Usbekistan
-USD
 usenet
 Usenet
 user
 User
 userport
 Userport
-USS
 UStG
 usurpator
 Usurpator
@@ -2806,5 +2786,4 @@ Utopist
 utopistisch
 utrecht
 Utrecht
-UV
 Uwe

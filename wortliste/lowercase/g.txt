@@ -1,4 +1,3 @@
-g
 gab
 gäb
 gabe
@@ -211,13 +210,11 @@ gastzimmer
 gastzimmern
 gateleitung
 gateway
-gatt
 gatte
 gattenmörder
 gatter
 gattung
 gattungs
-gau
 gaucho
 gauda
 gaudeamus
@@ -244,7 +241,6 @@ gazeschleier
 gazette
 gazevorhang
 gazprom
-gb
 gbit
 gbr
 gbyte
@@ -1366,7 +1362,6 @@ gelungenes
 gelüste
 gelüsten
 gelyncht
-gema
 gemach
 gemächer
 gemächlich
@@ -2779,7 +2774,6 @@ geurteilt
 gevatter
 gevierteilt
 gevögelt
-gew
 gewächs
 gewächsanlage
 gewachsen
@@ -3011,7 +3005,6 @@ gewusst
 gewußt
 gewütet
 geysir
-gez
 gezahlt
 gezählt
 gezähmt
@@ -3082,7 +3075,6 @@ ghettobildung
 ghettoisierung
 ghostwriter
 ghz
-gi
 giacomo
 giacomos
 gib
@@ -3403,7 +3395,6 @@ gluthitze
 glykol
 glyzerin
 gmbh
-gmt
 gnade
 gnaden
 gnadenakt
@@ -3531,8 +3522,6 @@ gouverneur
 gouverneursamt
 gouverneurspalast
 goya
-gpl
-gps
 grab
 grabbeln
 graben
@@ -4026,7 +4015,6 @@ gurken
 gurt
 gürtel
 guru
-gus
 guss
 gusseisern
 gusto

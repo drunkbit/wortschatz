@@ -1,7 +1,5 @@
-o
 oase
 oasenländer
-ob
 obacht
 obama
 obdach
@@ -124,7 +122,6 @@ ocker
 ockerfarben
 ockerfarbig
 ockergelb
-ocr
 ode
 odem
 odenwald
@@ -132,8 +129,6 @@ oder
 odessa
 odium
 odyssee
-oecd
-oem
 ofen
 ofenbank
 ofens
@@ -191,7 +186,6 @@ offsetwert
 oft
 oftmalig
 oftmals
-oh
 oheim
 ohio
 ohm
@@ -272,7 +266,6 @@ omnibus
 omnilaser
 omnipotenzfunktionen
 omnipotenzgefühl
-omv
 onanie
 onanieren
 onkel
@@ -281,7 +274,6 @@ onkels
 online
 ontologie
 opa
-opec
 opel
 openbsd
 opendocument
@@ -408,7 +400,6 @@ ordonanz
 ordonnanz
 ordonnanzen
 oregon
-orf
 organ
 organe
 organigramm
@@ -487,7 +478,6 @@ ortsungebunden
 ortszeit
 ortungs
 orwell
-os
 oscar
 osiris
 oskar
@@ -542,7 +532,6 @@ ostsibirien
 ostwärts
 ostwestfalen
 oswald
-osze
 oszillation
 oszillator
 oszillieren

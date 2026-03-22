@@ -1,4 +1,3 @@
-z
 zacken
 Zacken
 zackenbarsch
@@ -162,7 +161,6 @@ Zaun
 zäune
 Zäune
 Zaunzeug
-ZDF
 zebra
 Zebra
 zebrastreifen
@@ -987,7 +985,6 @@ zivilisiert
 zivilist
 Zivilist
 zivilrechtlich
-ZK
 zobel
 Zobel
 zobelfell
@@ -1065,8 +1062,6 @@ zotenreißer
 Zotenreißer
 zotig
 zottig
-zu
-Zu
 zuallerallererst
 zuallerallerletzt
 zuallererst

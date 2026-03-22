@@ -1,14 +1,7 @@
-i
-iaea
-iaeo
-iata
-iban
 ibbenbueren
 iberer
 iberien
 iberisch
-ibm
-ice
 ich
 ichbewusst
 ichbewusstsein
@@ -16,10 +9,7 @@ ichbezogen
 ichbezogenheit
 ichform
 ichsucht
-ici
 icon
-icq
-ide
 ideal
 idealerweise
 idealisieren
@@ -65,14 +55,12 @@ idiotischerweise
 idol
 idyll
 idyllisch
-ig
 igel
 igeln
 igelstellung
 ignorant
 ignoranz
 ignorieren
-ihk
 ihm
 ihmgehoeren
 ihn
@@ -89,8 +77,6 @@ ihrethalben
 ihretwegen
 ihretwillen
 ihrige
-ii
-iii
 ikarus
 ikone
 illegal
@@ -120,7 +106,6 @@ illyrier
 ilmenau
 ilmensee
 iltis
-im
 image
 imagepflege
 imaginaer
@@ -128,7 +113,6 @@ imaginaerteil
 imagination
 imaginativ
 imam
-imap
 imbiss
 imbisstube
 imitation
@@ -230,7 +214,6 @@ impulsiv
 imputation
 imputieren
 imstande
-in
 inadaequat
 inaktiv
 inaktivieren
@@ -889,10 +872,7 @@ ionisation
 ionisieren
 ionisierungs
 iota
-ip
 ipso
-iq
-ira
 irak
 iraker
 irakisch
@@ -903,7 +883,6 @@ iranische
 iranischem
 iranischen
 iranisches
-irc
 irden
 irdisch
 irdischen
@@ -945,7 +924,6 @@ ironisch
 ironischen
 ironisches
 ironisieren
-irq
 irr
 irrational
 irrationalismus
@@ -997,10 +975,8 @@ isaac
 isaak
 isar
 isbary
-isbn
 ischias
 ischiasnerv
-isdn
 isidor
 isis
 islaender
@@ -1020,7 +996,6 @@ islamophob
 islamophobie
 island
 islandpony
-iso
 isobar
 isolation
 isolationismus
@@ -1041,7 +1016,6 @@ isopropanol
 isotop
 isotrop
 isotropie
-isp
 israel
 israeli
 israelisch
@@ -1050,12 +1024,10 @@ israelischen
 israelischer
 israelitisch
 israels
-iss
 isst
 ist
 istanbul
 istanbuler
-it
 italic
 italien
 italienaufenthalt
@@ -1066,9 +1038,5 @@ italienreise
 iteration
 iterativ
 iterieren
-itt
 itzehoe
-iv
 ivan
-iwf
-ix

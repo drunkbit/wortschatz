@@ -1,5 +1,3 @@
-m
-ma
 mäander
 mäanderartig
 mäanderfahrt
@@ -707,14 +705,10 @@ mazedonien
 mazedonisch
 mäzen
 mazurka
-mb
-mbb
 mbit
 mbyte
 mccarthy
 mcdonald
-md
-mdr
 mechanik
 mechaniker
 mechanikerlehrling
@@ -1138,7 +1132,6 @@ mickrig
 microsoft
 midas
 middle
-midi
 midlands
 midlifecrisis
 midterm
@@ -1631,7 +1624,6 @@ mithilfe
 mithin
 mithören
 mithras
-miti
 mitisst
 mitjubeln
 mitkam
@@ -1869,7 +1861,6 @@ mixstab
 mixtur
 mizzi
 mizzis
-mm
 mnemonik
 mnemoniker
 mnemonisch
@@ -2223,10 +2214,6 @@ möwe
 mozart
 mozilla
 mozzarella
-mpeg
-mr
-ms
-msdos
 msec
 mubarak
 mücke

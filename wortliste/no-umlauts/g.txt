@@ -1,4 +1,3 @@
-g
 gab
 gabe
 Gabe
@@ -323,7 +322,6 @@ gateleitung
 Gateleitung
 gateway
 Gateway
-GATT
 gatte
 Gatte
 gattenmoerder
@@ -334,7 +332,6 @@ gattung
 Gattung
 gattungs
 Gattungs
-GAU
 gaucho
 Gaucho
 gauda
@@ -381,7 +378,6 @@ Gazette
 gazevorhang
 Gazevorhang
 Gazprom
-GB
 GBit
 GbR
 GByte
@@ -1757,7 +1753,6 @@ gelumpt
 gelungen
 Gelungenes
 gelyncht
-GEMA
 gemach
 Gemach
 gemacht
@@ -3514,7 +3509,6 @@ geurteilt
 Gevatter
 gevierteilt
 gevoegelt
-GEW
 gewachsen
 gewachst
 gewacht
@@ -3801,7 +3795,6 @@ gewurzelt
 gewusst
 geysir
 Geysir
-GEZ
 gezaehlt
 gezaehmt
 gezaenk
@@ -3886,7 +3879,6 @@ Ghettoisierung
 ghostwriter
 Ghostwriter
 GHz
-GI
 Giacomo
 Giacomos
 gib
@@ -4338,7 +4330,6 @@ Glykol
 glyzerin
 Glyzerin
 GmbH
-GMT
 gnade
 Gnade
 Gnaden
@@ -4526,8 +4517,6 @@ Gouverneursamt
 gouverneurspalast
 Gouverneurspalast
 Goya
-GPL
-GPS
 grab
 Grab
 grabbeln
@@ -5242,7 +5231,6 @@ gurt
 Gurt
 guru
 Guru
-GUS
 guss
 Guss
 gusseisern

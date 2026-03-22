@@ -1,13 +1,6 @@
-a
-A
-Aa
-AA
-AAA
 Aab
-AAB
 Aabenraa
 Aabenraas
-AABG
 Aabs
 Aach
 aachen
@@ -22,12 +15,9 @@ Aachens
 aacher
 Aachs
 Aad
-AAD
 Aaden
-AAG
 aah
 Aak
-AAK
 Aake
 Aaken
 Aakens
@@ -290,17 +280,14 @@ Aalwels
 Aalwelse
 Aalwelsen
 Aalwelses
-AAM
 Aaners
 aaO
 Aap
-AAP
 Aapen
 Aapes
 AAppO
 Aaps
 Aar
-AAR
 Aarau
 Aaraus
 Aare
@@ -344,7 +331,6 @@ Aarweihe
 Aarweihen
 aas
 Aas
-AAS
 Aasbande
 Aasbanden
 Aasblatter
@@ -469,11 +455,6 @@ Aasvogel
 Aasvögel
 Aasvögeln
 Aasvogels
-AAÜG
-AAV
-ab
-Ab
-AB
 Aba
 abaase
 abaasen
@@ -2969,7 +2950,6 @@ Abbüßung
 Abbüssungen
 Abbüßungen
 Abc
-ABC
 abcashe
 abcashen
 abcashend
@@ -3925,7 +3905,6 @@ abduzierter
 abduziertes
 abduziertest
 abduziertet
-ABE
 abebbe
 abebben
 abebbend
@@ -5247,7 +5226,6 @@ Abessivs
 abesst
 abeßt
 Abeter
-ABF
 abfackel
 abfackele
 abfackelest
@@ -7335,7 +7313,6 @@ abfüttertet
 Abfütterung
 Abfütterungen
 abfüttre
-ABG
 abgab
 abgabe
 Abgabe
@@ -7838,7 +7815,6 @@ abgaunerten
 abgaunertest
 abgaunertet
 abgaunre
-ABGB
 abgeaast
 abgeachelt
 abgeacht
@@ -12223,7 +12199,6 @@ abhustetest
 abhustetet
 abi
 Abi
-ABI
 Abia
 Abialbon
 Abialbone
@@ -13816,7 +13791,6 @@ Abluftreinigungen
 Ablution
 Ablutionen
 ablutschen
-ABM
 abmache
 abmachen
 Abmachen
@@ -14036,7 +14010,6 @@ abmesst
 abmeßt
 Abmessung
 Abmessungen
-ABMG
 abmilder
 abmildere
 abmildern
@@ -15765,7 +15738,6 @@ abrutschtest
 abrutschtet
 Abruzzen
 ABs
-ABS
 absacke
 absacken
 absackend
@@ -19775,7 +19747,6 @@ abusivstes
 Abusus
 Abutilon
 Abutilons
-ABV
 abverdienen
 abverkauf
 Abverkauf
@@ -23676,11 +23647,7 @@ Abzym
 Abzyme
 Abzymen
 Abzyms
-AC
-ACA
-ACAB
 Academie
-ACAG
 Acajounuss
 Acajounuß
 Acajounüsse
@@ -23737,7 +23704,6 @@ Accusativ
 Accusative
 Accusativen
 Accusativs
-ACD
 Acehisch
 Acehische
 Acehischen
@@ -24964,7 +24930,6 @@ Ackusativ
 Ackusative
 Ackusativen
 Ackusativs
-ACL
 ACLs
 Acne
 Acnen
@@ -24978,7 +24943,6 @@ Aconitinen
 Aconitins
 Aconitsäure
 Aconitsäuren
-ACPI
 Acquacotta
 Acquacotte
 Acquedolci
@@ -25105,11 +25069,8 @@ Acylreste
 Acylresten
 Acylrestes
 Acyls
-ad
-AD
 ada
 Ada
-ADAC
 ADACs
 adagio
 Adairsville
@@ -25341,14 +25302,12 @@ adäquatheit
 Adäquatheit
 Adar
 Adas
-ADAV
 adaxial
 adaxiale
 adaxialem
 adaxialen
 adaxialer
 adaxiales
-ADC
 ADd
 Adda
 Addax
@@ -25727,8 +25686,6 @@ Adessiv
 Adessive
 Adessiven
 Adessivs
-ADF
-ADFC
 AdG
 Adhärenz
 Adhärenzen
@@ -25783,7 +25740,6 @@ Adhortativ
 Adhortative
 Adhortativen
 Adhortativs
-ADHS
 Adi
 adiabat
 Adiabat
@@ -26181,7 +26137,6 @@ Admund
 Admunde
 Admunden
 Admunds
-ADN
 Adner
 Adners
 Adnex
@@ -26328,7 +26283,6 @@ Adorno
 Ados
 Adour
 Adours
-ADP
 Adposition
 Adpositionen
 Adram
@@ -26477,12 +26431,10 @@ Adrianopel
 Adrianopels
 Adrians
 Adrias
-ADS
 Adscharien
 Adschariens
 Adschman
 Adschmans
-ADSL
 adsorbens
 Adsorbens
 adsorbentia
@@ -26567,7 +26519,6 @@ Adulteras
 Adultern
 Adulters
 adultes
-ADV
 Advantage
 Advantages
 Advektion
@@ -26838,12 +26789,9 @@ Adygejas
 Adynata
 Adynaton
 Adynatons
-AE
-AED
 Aedil
 Aedilen
 Aedils
-AEG
 Aegipan
 Aegipane
 Aegipanen
@@ -26851,8 +26799,6 @@ Aegipanes
 Aegipans
 Aegypten
 Aeltern
-AELV
-AEMR
 Aenne
 Aennes
 AEntG
@@ -26981,18 +26927,13 @@ Aetits
 Aetosaurier
 Aetosauriern
 Aetosaurus
-af
-aF
 AfA
 AfaA
-AFAIK
 Afar
 AfArbSoz
 Afarit
 Afars
 AfBFT
-AFBG
-AFC
 AfD
 afebril
 afebrile
@@ -27000,7 +26941,6 @@ afebrilem
 afebrilen
 afebriler
 afebriles
-AFET
 AfEU
 affabel
 affabelste
@@ -27424,7 +27364,6 @@ affrösestes
 AfFSFJ
 Affstätt
 Affstätts
-AFG
 Afghan
 afghane
 Afghane
@@ -27453,21 +27392,18 @@ afghanistan
 Afghanistan
 Afghanistanpolitik
 Afghanistans
-AFIS
 AfK
 AfKult
 Aflatoxin
 Aflatoxine
 Aflatoxinen
 Aflatoxins
-AFP
 Afra
 Afras
 Afrasiab
 Afrasiabs
 Afrasien
 Afrasiens
-AFRG
 Africa
 Africaner
 Africanerin
@@ -27674,7 +27610,6 @@ AfVEL
 AfWirtschA
 AFWoG
 Afzelia
-AG
 Aga
 Agade
 Agaden
@@ -27729,7 +27664,6 @@ Agavenschnäpse
 Agavenschnäpsen
 Agavenschnapses
 Agaw
-AGB
 Agbald
 Agbalde
 Agbalden
@@ -27738,7 +27672,6 @@ Agbert
 Agberte
 Agberten
 Agberts
-AGBG
 Agehard
 Ageharde
 Ageharden
@@ -27826,7 +27759,6 @@ Agerich
 Ageriche
 Agerichen
 Agerichs
-AGES
 Ageusie
 Ageusien
 Agfa
@@ -28215,8 +28147,6 @@ Agobard
 Agobarde
 Agobarden
 Agobards
-AGOF
-AGÖF
 Agogik
 agogisch
 agogische
@@ -28245,7 +28175,6 @@ Agoraphobien
 Agoras
 Agoren
 Agos
-AGP
 Agra
 Agraffe
 Agraffen
@@ -28467,8 +28396,6 @@ Aguascalientes
 Aguti
 Agutis
 AGVwGO
-Ah
-AH
 aha
 Ahaerlebnis
 Ahaerlebnisse
@@ -28480,10 +28407,8 @@ Ahasveros
 Ahasverosse
 Ahasverossen
 Ahaus
-AHB
 Ahern
 Aherns
-AHG
 Ahimsa
 ahistorisch
 ahistorische
@@ -28698,7 +28623,6 @@ Ahornsirupe
 Ahornsirupen
 Ahornsirups
 Ahr
-AHR
 Ahreifel
 Ahrens
 Ahrensburg
@@ -28718,17 +28642,12 @@ Ahrweine
 Ahrweinen
 Ahrweines
 Ahrweins
-AHS
 Ahvaz
-Ai
-AI
-AIB
 Aibi
 Aibling
 Aiblinger
 Aiblingers
 Aiblings
-AIC
 Aichach
 Aichachs
 Aichele
@@ -28741,7 +28660,6 @@ Aidlingen
 Aidlingens
 aids
 Aids
-AIDS
 aidskrank
 aidskranke
 Aidskranke
@@ -28769,7 +28687,6 @@ aidsverseuchter
 aidsverseuchtes
 Aidsviren
 Aidsvirus
-AIG
 Aigen
 Aigens
 Aigner
@@ -28790,12 +28707,10 @@ Ailuromantie
 Ailurophobie
 Ailurophobien
 Ain
-AIN
 Ains
 Ainu
 Ainus
 Aioli
-AIPAC
 Aipi
 Aiping
 Air
@@ -28837,7 +28752,6 @@ Airport
 Airports
 Airs
 Ais
-AIS
 Aisch
 Aischbach
 Aischbachs
@@ -28857,8 +28771,6 @@ Aitions
 Aitutaki
 Aitutakis
 aIX
-AIX
-AIZ
 Aja
 Ajaccio
 Ajaccios
@@ -28872,7 +28784,6 @@ Ajmer
 Ajmers
 Ajvar
 Ajvars
-AK
 Akaba
 Akabas
 akademie
@@ -28999,8 +28910,6 @@ akephaler
 akephales
 Akephalie
 Akephalien
-AKG
-AKH
 Akhisar
 Akhisars
 AKHs
@@ -29450,7 +29359,6 @@ Akonitinen
 Akonitins
 akontozahlung
 Akontozahlung
-AKP
 Akpeteshie
 akquirier
 akquiriere
@@ -30157,7 +30065,6 @@ Akutkrankenhäuser
 Akutkrankenhäusern
 Akutkrankenhauses
 Akuts
-AKW
 AKWs
 Akyn
 Akyndichtung
@@ -30425,7 +30332,6 @@ Alants
 Alanus
 Alanusse
 Alanussen
-ALARA
 Alarich
 Alariche
 Alarichen
@@ -30511,7 +30417,6 @@ Alarmstufe
 Alarmstufen
 Alarmübung
 Alarmübungen
-ALARP
 Alasani
 Alasanis
 alaska
@@ -31109,7 +31014,6 @@ alezithalen
 alezithaler
 alezithales
 Alf
-ALF
 Alfa
 Alfagras
 Alfagräser
@@ -31198,7 +31102,6 @@ Alfuine
 Alfuinen
 Alfuins
 Alg
-ALG
 Algarve
 alge
 Alge
@@ -31440,7 +31343,6 @@ Alix
 Alizarin
 Alizarins
 Alk
-ALK
 Alkadien
 Alkadiene
 Alkadienen
@@ -31522,7 +31424,6 @@ Alkine
 Alkinen
 Alkins
 Alkis
-ALKIS
 Alkmaar
 Alkmaars
 Alkmund
@@ -31839,7 +31740,6 @@ Alkuinen
 Alkuins
 all
 All
-ALL
 allabendlich
 allabendliche
 allabendlichem
@@ -33455,7 +33355,6 @@ alptraumhaftesten
 alptraumhaftester
 alptraumhaftestes
 Alptraums
-ALR
 Alraune
 Alraunen
 Alrich
@@ -33464,7 +33363,6 @@ Alrichen
 Alrichs
 als
 Als
-ALS
 alsbald
 alsbaldig
 alsdann
@@ -33745,7 +33643,6 @@ Altdorfers
 Altdorfs
 alte
 Alte
-ALTE
 Altefähr
 Altefährs
 altehrwürdig
@@ -35233,7 +35130,6 @@ Alutöpfe
 Alutöpfen
 Alutopfes
 Alutopfs
-ALV
 alveolar
 Alveolar
 alveolare
@@ -35257,7 +35153,6 @@ Alwin
 Alwins
 Alwis
 Alz
-ALZ
 Alzenau
 Alzenaus
 Alzerl
@@ -35270,9 +35165,6 @@ Alzheimerkrankheit
 Alzheimers
 Alzingen
 Alzingens
-am
-Am
-AM
 Amadeus
 Amadeusse
 Amadeussen
@@ -35708,8 +35600,6 @@ ambulierter
 ambuliertes
 ambuliertest
 ambuliertet
-AMD
-AMDAR
 ameise
 Ameise
 ameisen
@@ -35921,7 +35811,6 @@ Amethysttäublingen
 Amethysttäublings
 Ametropie
 Ametropien
-AMG
 Amhare
 Amharen
 amharisch
@@ -36197,7 +36086,6 @@ Amöbenbefällen
 Amöbenbefalles
 Amöbenbefalls
 Amöbenruhr
-AMOC
 Amoibaia
 Amoibaion
 Amoibaions
@@ -36304,8 +36192,6 @@ amourösen
 amouröser
 amouröses
 Amp
-AMP
-AMPA
 ampel
 Ampel
 Ampelanlage
@@ -36551,7 +36437,6 @@ amrum
 Amrum
 Amrums
 Ams
-AMS
 amsel
 Amsel
 Amselfeld
@@ -37015,7 +36900,6 @@ Amüsiertheit
 amusisch
 Amuzgo
 Amuzgos
-AMVO
 Amyda
 Amygdala
 Amygdalae
@@ -37066,11 +36950,7 @@ Amylopektins
 Amylose
 Amylum
 Amylums
-an
-An
-AN
 Ana
-ANA
 Anabar
 Anabarplateau
 Anabarplateaus
@@ -38559,7 +38439,6 @@ anbumste
 anbumsten
 anbumstest
 anbumstet
-ANC
 Anch
 Anchorage
 Anchorages
@@ -40955,7 +40834,6 @@ anfuttre
 anfüttre
 anfuttrest
 anfuttret
-ANG
 angab
 angabe
 Angabe
@@ -45624,7 +45502,6 @@ Anjuscha
 Anjuschas
 Anjuta
 Anjutas
-ANK
 ankam
 ankäme
 ankamen
@@ -47918,7 +47795,6 @@ Ansehnlichkeit
 anseilen
 ansengen
 ansetzen
-ANSI
 ansicht
 Ansicht
 Ansichten
@@ -48495,11 +48371,8 @@ anzuziehen
 anzuziehn
 anzuzünden
 anzweifeln
-AOK
-AOL
 aorten
 Aorten
-AP
 apache
 Apache
 apart
@@ -48534,7 +48407,6 @@ Aphrodisiaka
 aphrodisiakum
 Aphrodisiakum
 Aphrodite
-API
 APIs
 apodiktisch
 apokalypse
@@ -48633,7 +48505,6 @@ aquarium
 Aquarium
 aquitanien
 Aquitanien
-Ar
 araber
 Araber
 arabeske
@@ -48765,7 +48636,6 @@ archivieren
 Archivieren
 archivierungs
 Archivierungs
-ARD
 areal
 Areal
 areligiös
@@ -48984,7 +48854,6 @@ Aschenputtel
 aschermittwoch
 Aschermittwoch
 aschfahl
-ASCII
 ascona
 Ascona
 aseptisch
@@ -49018,7 +48887,6 @@ Aspiration
 Aspirin
 ass
 Ass
-aß
 Assecurazioni
 assekuranz
 Assekuranz
@@ -49058,7 +48926,6 @@ assyrien
 Assyrien
 ast
 Ast
-ASTA
 aster
 Aster
 asterblüte
@@ -49106,8 +48973,6 @@ asymptotisch
 asynchron
 asynchronmotor
 Asynchronmotor
-at
-AT
 Atari
 atavistisch
 atelier
@@ -49159,7 +49024,6 @@ atlas
 Atlas
 atlasgebirge
 Atlasgebirge
-ATM
 atme
 atmen
 Atmen
@@ -49226,8 +49090,6 @@ Attribut
 attributiv
 Atü
 atypisch
-au
-Au
 aubergine
 Aubergine
 auch

@@ -1,4 +1,3 @@
-z
 zacken
 zackenbarsch
 zackenfunktion
@@ -113,7 +112,6 @@ zaum
 zaumzeug
 zaun
 zaunzeug
-zdf
 zebra
 zebrastreifen
 zeche
@@ -699,7 +697,6 @@ zivilisieren
 zivilisiert
 zivilist
 zivilrechtlich
-zk
 zobel
 zobelfell
 zobelpelz
@@ -753,7 +750,6 @@ zote
 zotenreisser
 zotig
 zottig
-zu
 zuallerallererst
 zuallerallerletzt
 zuallererst

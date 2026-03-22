@@ -1,4 +1,3 @@
-P
 Paar
 Paarbildung
 Paaren
@@ -455,11 +454,7 @@ Pazifisch
 Pazifismus
 Pazifist
 Pazifistisch
-Pc
-Pci
 Pcs
-Pdf
-Pds
 Peak
 Pech
 Pechschwarz
@@ -818,8 +813,6 @@ Pfusch
 Pfuschen
 Pfütze
 Pfützen
-Pgp
-Ph
 Phalanx
 Phänomen
 Phänomenal
@@ -943,7 +936,6 @@ Physiologisch
 Physiotherapeut
 Physis
 Physisch
-Pi
 Piaget
 Pianissimo
 Pianist
@@ -1061,7 +1053,6 @@ Pizzen
 Pizzeria
 Pizzerien
 Pjöngjang
-Pkk
 Pkw
 Placebo
 Plackerei
@@ -1214,7 +1205,6 @@ Plenum
 Pleonasmen
 Pleonasmus
 Plexiglas
-Plo
 Plombieren
 Plot
 Plotten
@@ -1257,12 +1247,10 @@ Plutonium
 Plutoniumstäbe
 Plutoniumwerke
 Plymouth
-Plz
 Pneu
 Pneumatik
 Pneumatikplänen
 Pneumatisch
-Po
 Pöbel
 Pöbelei
 Pochen
@@ -1563,9 +1551,6 @@ Poweradapter
 Powerdown
 Powerpack
 Powerup
-Ppp
-Pps
-Pr
 Präambel
 Pracht
 Prächtig
@@ -2142,7 +2127,6 @@ Prunksitzung
 Prunkstück
 Prunkvoll
 Prusteten
-Ps
 Psalm
 Psalter
 Pseudo
@@ -2177,10 +2161,8 @@ Psychotherapeut
 Psychotherapeutisch
 Psychotherapie
 Psychotisch
-Pt
 Ptolemaios
 Ptolemäus
-Ptt
 Pub
 Pubertär
 Pubertät

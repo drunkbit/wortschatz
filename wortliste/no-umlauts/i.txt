@@ -1,8 +1,3 @@
-i
-IAEA
-IAEO
-IATA
-IBAN
 ibbenbueren
 Ibbenbueren
 iberer
@@ -10,8 +5,6 @@ Iberer
 iberien
 Iberien
 iberisch
-IBM
-ICE
 ich
 Ich
 ichbewusst
@@ -24,11 +17,8 @@ ichform
 Ichform
 ichsucht
 Ichsucht
-ICI
 icon
 Icon
-ICQ
-IDE
 ideal
 Ideal
 idealerweise
@@ -100,7 +90,6 @@ Idol
 idyll
 Idyll
 idyllisch
-IG
 igel
 Igel
 igeln
@@ -111,7 +100,6 @@ ignoranz
 Ignoranz
 ignorieren
 Ignorieren
-IHK
 ihm
 Ihm
 Ihmgehoeren
@@ -138,8 +126,6 @@ ihretwegen
 Ihretwegen
 ihretwillen
 ihrige
-II
-III
 Ikarus
 ikone
 Ikone
@@ -185,8 +171,6 @@ ilmensee
 Ilmensee
 iltis
 Iltis
-im
-Im
 image
 Image
 imagepflege
@@ -198,7 +182,6 @@ imagination
 Imagination
 imaginativ
 Imam
-IMAP
 imbiss
 Imbiss
 Imbisstube
@@ -363,8 +346,6 @@ imputation
 Imputation
 imputieren
 imstande
-in
-In
 inadaequat
 inaktiv
 inaktivieren
@@ -1406,10 +1387,7 @@ ionisieren
 ionisierungs
 Ionisierungs
 iota
-IP
 ipso
-IQ
-IRA
 irak
 Irak
 iraker
@@ -1425,7 +1403,6 @@ Iranische
 iranischem
 iranischen
 iranisches
-IRC
 irden
 irdisch
 irdischen
@@ -1478,7 +1455,6 @@ ironisch
 ironischen
 ironisches
 ironisieren
-IRQ
 irr
 irrational
 irrationalismus
@@ -1553,12 +1529,10 @@ Isaak
 isar
 Isar
 Isbary
-ISBN
 ischias
 Ischias
 ischiasnerv
 Ischiasnerv
-ISDN
 Isidor
 Isis
 islaender
@@ -1587,7 +1561,6 @@ island
 Island
 islandpony
 Islandpony
-ISO
 isobar
 Isobar
 isolation
@@ -1624,7 +1597,6 @@ Isotop
 isotrop
 isotropie
 Isotropie
-ISP
 israel
 Israel
 israeli
@@ -1635,7 +1607,6 @@ israelischen
 israelischer
 israelitisch
 Israels
-iss
 isst
 ist
 Ist
@@ -1643,7 +1614,6 @@ istanbul
 Istanbul
 istanbuler
 Istanbuler
-IT
 italic
 italien
 Italien
@@ -1660,10 +1630,6 @@ iteration
 Iteration
 iterativ
 iterieren
-ITT
 itzehoe
 Itzehoe
-IV
 Ivan
-IWF
-IX

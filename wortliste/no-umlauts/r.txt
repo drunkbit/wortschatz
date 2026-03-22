@@ -1,4 +1,3 @@
-r
 Rabat
 rabatt
 Rabatt
@@ -204,7 +203,6 @@ raeumten
 raeumungs
 Raeumungs
 raeuspern
-RAF
 Rafael
 raffen
 raffgierig
@@ -224,7 +222,6 @@ rahm
 Rahm
 rahmen
 Rahmen
-RAID
 raiffeisenbank
 Raiffeisenbank
 raiffeisenkassen
@@ -244,7 +241,6 @@ Rallye
 rallyefahrer
 Rallyefahrer
 Ralph
-RAM
 ramdisk
 Ramdisk
 rammbock
@@ -549,7 +545,6 @@ razzia
 Razzia
 razzien
 Razzien
-RBB
 Reagan
 reagenzglaeser
 Reagenzglaeser
@@ -1840,7 +1835,6 @@ Rezitator
 rezitieren
 Rezitieren
 rezitiert
-RFC
 RFCs
 rhabarber
 Rhabarber
@@ -1918,7 +1912,6 @@ rhythmus
 Rhythmus
 riad
 Riad
-RIAS
 Ribbentrop
 Richard
 Richelieu
@@ -2266,7 +2259,6 @@ rollte
 rollten
 rom
 Rom
-ROM
 Roma
 roman
 Roman
@@ -2395,9 +2387,6 @@ Rowdytum
 royal
 royalist
 Royalist
-RPM
-RTC
-RTL
 Ruanda
 rubbeln
 rubel
@@ -2777,5 +2766,4 @@ rutschig
 rutschpartie
 Rutschpartie
 rutschte
-RWE
 RWEs

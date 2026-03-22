@@ -1,4 +1,3 @@
-w
 waage
 waagerecht
 waagerechter
@@ -482,8 +481,6 @@ wattieren
 wattleistung
 watvogel
 watvögel
-wc
-wdr
 web
 webangebots
 webbasiert
@@ -1320,7 +1317,6 @@ whirlpool
 whisky
 whistleblower
 whitelist
-who
 whoopy
 wich
 wichse
@@ -1614,7 +1610,6 @@ wieviel
 wievielerlei
 wievielt
 wieweit
-wifo
 wiki
 wikinger
 wikingerschiff
@@ -1888,9 +1883,6 @@ witzigkeit
 wizard
 wladimir
 wladiwostok
-wlan
-wm
-wo
 woanders
 wobei
 woche

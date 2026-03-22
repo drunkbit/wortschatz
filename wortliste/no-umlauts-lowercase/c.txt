@@ -1,9 +1,7 @@
-c
 cabaret
 cabrio
 cabriolet
 cache
-cad
 cadillac
 cadiz
 caen
@@ -61,10 +59,8 @@ castro
 catcherveranstaltung
 cathy
 cayenne
-cd
 cdc
 cds
-cdu
 cebit
 celle
 celli
@@ -87,7 +83,6 @@ centronics
 cervelatwurst
 cetera
 ceylon
-ch
 chalet
 chamaeleon
 chamenei
@@ -180,7 +175,6 @@ cheops
 cheopspyramide
 cherusker
 cheyenne
-chf
 chi
 chiapas
 chic
@@ -278,7 +272,6 @@ chrysantheme
 chrysler
 chur
 churchill
-cia
 cineast
 cineastisch
 cinemascope
@@ -323,10 +316,7 @@ clownsfigur
 club
 cluny
 cluster
-cm
 cmos
-cnn
-co
 coaten
 coatingmass
 coats
@@ -426,7 +416,6 @@ couture
 coventry
 cover
 cowboy
-cpu
 cpus
 crash
 crayon
@@ -445,8 +434,6 @@ croupier
 crowdfunding
 crux
 cruz
-csfr
-csu
 ctrl
 cum
 cunnilingus
