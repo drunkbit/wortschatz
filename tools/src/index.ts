@@ -183,6 +183,68 @@ program
         console.log("========================================\n");
     });
 
+// --- filter: Bestehende Wortliste filtern ---
+program
+    .command("filter")
+    .description(
+        "Bestehende Wortliste filtern: Entfernt Wörter die den Kriterien nicht entsprechen\n" +
+            "(nur Großbuchstaben, ≤2 Zeichen, Zahlen, Sonderzeichen) und exportiert neu.",
+    )
+    .action(async () => {
+        const existing = await loadExistingWordlist();
+
+        if (existing.length === 0) {
+            console.error(
+                "\nKeine bestehende Wortliste gefunden. Bitte zuerst 'build' ausführen.",
+            );
+            process.exit(1);
+        }
+
+        console.log(
+            `[filter] Bestehende Wortliste: ${existing.length} Wörter\n`,
+        );
+
+        const filtered = filterWordlist(existing);
+
+        const removed = existing.length - filtered.length;
+        if (removed === 0) {
+            console.log(
+                "\n✓ Keine ungültigen Wörter gefunden. Wortliste ist sauber.\n",
+            );
+            return;
+        }
+
+        // Varianten erstellen
+        const lowercased = normalizeToLowercase(filtered);
+        const uppercased = normalizeToUppercase(filtered);
+        const noUmlauts = normalizeNoUmlauts(filtered);
+        const noUmlautsLower = normalizeNoUmlautsLowercase(filtered);
+        const capitalized = normalizeCapitalized(filtered);
+
+        // Exportieren
+        console.log("");
+        const allStats = [
+            await exportWordlist(filtered, "original"),
+            await exportWordlist(lowercased, "lowercase"),
+            await exportWordlist(uppercased, "uppercase"),
+            await exportWordlist(noUmlauts, "no-umlauts"),
+            await exportWordlist(noUmlautsLower, "no-umlauts-lowercase"),
+            await exportWordlist(capitalized, "capitalized"),
+        ];
+
+        console.log("\n========================================");
+        console.log("  Wortschatz — Filter abgeschlossen");
+        console.log("========================================");
+        for (const stats of allStats) {
+            const label = stats.variant.padEnd(22);
+            console.log(
+                `  ${label} ${stats.totalWords} Wörter in ${stats.files} Dateien`,
+            );
+        }
+        console.log(`  Entfernt: ${removed} Wörter`);
+        console.log("========================================\n");
+    });
+
 // --- stats: Statistiken anzeigen ---
 program
     .command("stats")

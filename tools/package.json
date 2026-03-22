@@ -8,6 +8,7 @@
     "extract": "tsx src/index.ts extract",
     "build-wordlist": "tsx src/index.ts build",
     "rebuild-wordlist": "tsx src/index.ts build --rebuild",
+    "filter": "tsx src/index.ts filter",
     "stats": "tsx src/index.ts stats",
     "start": "tsx src/index.ts"
   },
