@@ -9,7 +9,9 @@ import { mergeWordlists } from "./pipeline/merge.js";
 import {
     normalizeCapitalized,
     normalizeNoUmlauts,
+    normalizeNoUmlautsCapitalized,
     normalizeNoUmlautsLowercase,
+    normalizeNoUmlautsUppercase,
     normalizeToLowercase,
     normalizeToUppercase,
 } from "./pipeline/normalize.js";
@@ -151,6 +153,8 @@ program
         const uppercased = normalizeToUppercase(filtered);
         const noUmlauts = normalizeNoUmlauts(filtered);
         const noUmlautsLower = normalizeNoUmlautsLowercase(filtered);
+        const noUmlautsCap = normalizeNoUmlautsCapitalized(filtered);
+        const noUmlautsUpper = normalizeNoUmlautsUppercase(filtered);
         const capitalized = normalizeCapitalized(filtered);
 
         // Exportieren
@@ -161,6 +165,8 @@ program
             await exportWordlist(uppercased, "uppercase"),
             await exportWordlist(noUmlauts, "no-umlauts"),
             await exportWordlist(noUmlautsLower, "no-umlauts-lowercase"),
+            await exportWordlist(noUmlautsCap, "no-umlauts-capitalized"),
+            await exportWordlist(noUmlautsUpper, "no-umlauts-uppercase"),
             await exportWordlist(capitalized, "capitalized"),
         ];
 
@@ -219,6 +225,8 @@ program
         const uppercased = normalizeToUppercase(filtered);
         const noUmlauts = normalizeNoUmlauts(filtered);
         const noUmlautsLower = normalizeNoUmlautsLowercase(filtered);
+        const noUmlautsCap = normalizeNoUmlautsCapitalized(filtered);
+        const noUmlautsUpper = normalizeNoUmlautsUppercase(filtered);
         const capitalized = normalizeCapitalized(filtered);
 
         // Exportieren
@@ -229,6 +237,8 @@ program
             await exportWordlist(uppercased, "uppercase"),
             await exportWordlist(noUmlauts, "no-umlauts"),
             await exportWordlist(noUmlautsLower, "no-umlauts-lowercase"),
+            await exportWordlist(noUmlautsCap, "no-umlauts-capitalized"),
+            await exportWordlist(noUmlautsUpper, "no-umlauts-uppercase"),
             await exportWordlist(capitalized, "capitalized"),
         ];
 

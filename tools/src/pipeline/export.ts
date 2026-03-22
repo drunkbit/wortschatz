@@ -23,6 +23,8 @@ export type ExportVariant =
     | "uppercase"
     | "no-umlauts"
     | "no-umlauts-lowercase"
+    | "no-umlauts-capitalized"
+    | "no-umlauts-uppercase"
     | "capitalized";
 
 export async function exportWordlist(

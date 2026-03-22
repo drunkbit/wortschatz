@@ -35,6 +35,32 @@ export function normalizeNoUmlautsLowercase(words: string[]): string[] {
 }
 
 /**
+ * Erstellt eine Variante ohne Umlaute + erster Buchstabe groß, Rest klein.
+ */
+export function normalizeNoUmlautsCapitalized(words: string[]): string[] {
+    return deduplicateAndSort(
+        "[normalize:no-umlauts-capitalized]",
+        words,
+        (w) => {
+            const replaced = replaceUmlauts(w);
+            return (
+                replaced.charAt(0).toUpperCase() +
+                replaced.slice(1).toLowerCase()
+            );
+        },
+    );
+}
+
+/**
+ * Erstellt eine Variante ohne Umlaute + uppercase.
+ */
+export function normalizeNoUmlautsUppercase(words: string[]): string[] {
+    return deduplicateAndSort("[normalize:no-umlauts-uppercase]", words, (w) =>
+        replaceUmlauts(w).toUpperCase(),
+    );
+}
+
+/**
  * Erstellt eine Variante mit erstem Buchstaben groß, Rest klein.
  */
 export function normalizeCapitalized(words: string[]): string[] {
