@@ -3540,6 +3540,7 @@ hochqualifiziert
 hochqualitativ
 hochradioaktiv
 hochrangig
+hochrangige
 hochrechenbar
 hochrechnen
 hochrein
@@ -3892,6 +3893,7 @@ hopfensack
 Hopfensack
 hopfenstange
 Hopfenstange
+Hopkins
 hoppeln
 hopsen
 hör

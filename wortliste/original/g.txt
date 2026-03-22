@@ -788,6 +788,7 @@ gefälle
 Gefälle
 gefallen
 Gefallen
+gefallene
 gefallenenehrung
 Gefallenenehrung
 gefallenenfriedhöfe
@@ -1385,6 +1386,7 @@ geistigen
 geistigkeit
 Geistigkeit
 geistlich
+geistlichen
 geistlichkeit
 Geistlichkeit
 geistlos
@@ -1617,6 +1619,7 @@ Geldbeschaffung
 Gelde
 Gelderwerb
 Geldes
+Geldflüsse
 geldgebend
 geldgierig
 geldheirat
@@ -1933,6 +1936,7 @@ Genauigkeitsgrad
 genauigkeitsklasse
 Genauigkeitsklasse
 genauso
+Genauso
 gendarm
 Gendarm
 gendarmenmarkt
@@ -1940,6 +1944,7 @@ Gendarmenmarkt
 Gendarmerie
 geneckt
 genehm
+genehmere
 genehmigen
 Genehmigen
 genehmigt
@@ -2129,6 +2134,7 @@ Geograf
 geografie
 Geografie
 geografisch
+geografischen
 geograph
 Geograph
 geographie
@@ -4405,6 +4411,7 @@ golf
 Golf
 golfer
 Golfer
+Golfstaaten
 golgatha
 Golgatha
 Gomorrha

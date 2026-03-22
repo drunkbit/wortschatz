@@ -265,6 +265,7 @@ basel
 basf
 basic
 basieren
+basiert
 basilika
 basilikum
 basis
@@ -866,6 +867,7 @@ behaviorist
 beheben
 behebungs
 beheimaten
+beheimateten
 beheizen
 behelf
 behelfen
@@ -996,6 +998,7 @@ beinamen
 beinchen
 beine
 beinen
+beinhalte
 beinhalten
 beinhaltet
 beinhart
@@ -2105,6 +2108,7 @@ betrachtung
 betrachtungen
 betrachtungs
 betraechtlich
+betraechtlichen
 betraefe
 betraegt
 betraf
@@ -3039,6 +3043,7 @@ bolzplatz
 bombardement
 bombardieren
 bombardiert
+bombardierten
 bombastisch
 bombay
 bombe
@@ -3486,6 +3491,7 @@ brusttaschen
 brusttief
 brut
 brutal
+brutalen
 brutalitaet
 brutto
 bryan

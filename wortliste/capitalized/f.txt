@@ -847,6 +847,7 @@ Final
 Finale
 Finalisieren
 Finalspiel
+Financial
 Finanz
 Finanziell
 Finanzier
@@ -1380,6 +1381,7 @@ Förderungs
 Förderungsbedürftig
 Förderungswettbewerb
 Förderverträge
+Foreign
 Forelle
 Forellenblau
 Forellenfilet
@@ -1421,6 +1423,7 @@ Förmchen
 Formel
 Formell
 Formelle
+Formellen
 Formelmäßig
 Formen
 Formenbau
@@ -2044,6 +2047,7 @@ Fronleichnam
 Fronleichnamsfest
 Front
 Frontal
+Fronten
 Frontend
 Frontendprozessor
 Frontnah
@@ -2168,6 +2172,7 @@ Führende
 Führenden
 Führer
 Führerlos
+Führers
 Fuhrgeld
 Fuhrmann
 Fuhrpark
@@ -2177,6 +2182,7 @@ Führte
 Führten
 Führung
 Führungs
+Führungsfiguren
 Führungslos
 Fuhrunternehmen
 Fuhrunternehmer
@@ -2299,6 +2305,7 @@ Funktional
 Funktionalistisch
 Funktionalität
 Funktionär
+Funktionäre
 Funktionell
 Funktionieren
 Funktionierens

@@ -2402,6 +2402,7 @@ Kosten
 Kostenfrei
 Kostengerecht
 Kostengünstig
+Kostengünstigen
 Kostenintensiv
 Kostenlos
 Kostenmäßig
@@ -2638,6 +2639,7 @@ Kriechen
 Kriechspur
 Kriechwasser
 Krieg
+Kriege
 Kriegen
 Krieger
 Kriegerdenkmal
@@ -2652,6 +2654,7 @@ Kriegsbereit
 Kriegsbeschädigt
 Kriegsblind
 Kriegsdienstverweigerer
+Kriegsende
 Kriegsfeindlich
 Kriegsfreiwillige
 Kriegsführend
@@ -2660,6 +2663,7 @@ Kriegsgeschädigt
 Kriegslüstern
 Kriegsparteien
 Kriegsplan
+Kriegspläne
 Kriegsschiffen
 Kriegstagebuch
 Kriegstagebücher

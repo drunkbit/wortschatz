@@ -27,9 +27,11 @@ Zahlentheoretisch
 Zahler
 Zähler
 Zahllos
+Zahllose
 Zahlloser
 Zahlreich
 Zahlreiche
+Zahlreicher
 Zahlt
 Zählt
 Zahltag
@@ -293,6 +295,7 @@ Zerbiss
 Zerbiß
 Zerbissen
 Zerbomben
+Zerbombtes
 Zerborsten
 Zerbrach
 Zerbrachen
@@ -690,6 +693,7 @@ Zittrige
 Zitze
 Zivil
 Zivildienstleistend
+Zivile
 Zivilisation
 Zivilisationskrankheit
 Zivilisatorisch
@@ -1179,6 +1183,7 @@ Zündhölzer
 Zündstoffgeladen
 Zündungsmechanismus
 Zunehmen
+Zunehmend
 Zuneigen
 Zuneigte
 Zuneigung

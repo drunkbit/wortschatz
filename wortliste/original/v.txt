@@ -23,6 +23,7 @@ valenz
 Valenz
 valenzband
 Valenzband
+Vali
 valide
 validieren
 validität
@@ -1233,6 +1234,7 @@ verheiraten
 Verheiraten
 verheißen
 Verheißen
+verheißt
 verheißungsvoll
 verheizen
 verhelfe
@@ -1444,6 +1446,7 @@ Verkünden
 verkünder
 Verkünder
 verkündet
+verkündete
 verkündeten
 verkündigen
 Verkündigen
@@ -2179,6 +2182,7 @@ verschonten
 verschossen
 verschränken
 Verschränken
+verschränkt
 verschränkten
 verschrauben
 Verschrauben
@@ -3465,6 +3469,7 @@ völkisch
 volkreich
 volks
 Volks
+Volksaufstand
 Volksbank
 volksdeutschen
 Volksdeutschen

@@ -101,6 +101,7 @@ Wählbar
 Wählbaren
 Wählbarkeit
 Wahlberechtigt
+Wahlen
 Wählen
 Wählenden
 Wahlentscheidend
@@ -118,6 +119,7 @@ Wahlfisch
 Wahlfrei
 Wahlheimat
 Wahlkampagne
+Wahlkampf
 Wahlkandidaten
 Wahllos
 Wahlsieg
@@ -1404,6 +1406,7 @@ Widerstände
 Widerstands
 Widerstandsfähig
 Widerstandsfähigen
+Widerstandsfähigkeit
 Widerstandslos
 Widerstehen
 Widersteht
@@ -1479,6 +1482,7 @@ Wiedererkannt
 Wiedererkennen
 Wiedererkennung
 Wiedererlangen
+Wiedereröffnung
 Wiedererscheinen
 Wiedererstatten
 Wiedererstehen

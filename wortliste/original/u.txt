@@ -1605,6 +1605,7 @@ Universität
 Universitäten
 universitäts
 Universitäts
+University
 universum
 Universum
 unix

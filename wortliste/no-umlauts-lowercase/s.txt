@@ -1599,6 +1599,7 @@ schocken
 schockfarben
 schockieren
 schockschwerenot
+schockwellen
 schoeffe
 schoeffengericht
 schoen
@@ -1863,6 +1864,7 @@ schuetzt
 schuetzte
 schuetztest
 schuf
+schufen
 schuft
 schuften
 schufterei
@@ -2909,9 +2911,12 @@ sichergestellt
 sicherheben
 sicherheit
 sicherheits
+sicherheitsapparat
 sicherheitsbewusst
+sicherheitschef
 sicherheitsgerichtet
 sicherheitshalber
+sicherheitskraefte
 sicherheitskritisch
 sicherheitspolitisch
 sicherheitsrelevant
@@ -5115,6 +5120,8 @@ strassenverhaeltnissen
 stratege
 strategie
 strategisch
+strategische
+strategischen
 stratosphaere
 stratosphaerenkreuzer
 strauch
@@ -5726,6 +5733,7 @@ systematisch
 systematisieren
 systembedingt
 systemdefiniert
+systemen
 systemimmanent
 systemisch
 systemlos

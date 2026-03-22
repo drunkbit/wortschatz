@@ -90,6 +90,7 @@ ceylon
 ch
 chalet
 chamäleon
+chamenei
 champagner
 champagnerglas
 champagnerkorken

@@ -642,6 +642,7 @@ tegernsee
 Tegernsee
 teheran
 Teheran
+Teherans
 teibm
 teich
 Teich
@@ -1739,6 +1740,7 @@ Totschlagversuch
 totschweigen
 Totsein
 totstechen
+Tötung
 tötungsdelikt
 Tötungsdelikt
 tötungsverbot
@@ -2578,6 +2580,7 @@ Trumpf
 trümpfe
 Trümpfe
 trumpfen
+Trumps
 trunk
 Trunk
 trunken
@@ -2786,6 +2789,7 @@ Türken
 türkis
 Türkis
 türkisch
+türkischen
 türkischstämmig
 türkisfarben
 Türklinke

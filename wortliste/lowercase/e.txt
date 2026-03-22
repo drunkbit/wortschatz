@@ -1006,6 +1006,7 @@ einscannen
 einschalt
 einschalten
 einschätzen
+einschätzung
 einschenken
 einschicken
 einschieben
@@ -1037,6 +1038,7 @@ einschneiden
 einschnitt
 einschnüren
 einschränken
+einschränkung
 einschränkungs
 einschreibe
 einschreiben
@@ -1772,6 +1774,7 @@ energielos
 energiemärkte
 energieminister
 energiepolitisch
+energiepreise
 energiereich
 energiesparend
 energietechnisch
@@ -1827,6 +1830,7 @@ enkelin
 enkeln
 enklave
 enorm
+enormen
 enquete
 ensemble
 entarten
@@ -2162,6 +2166,7 @@ entschärfen
 entscheid
 entscheidbar
 entscheidbarkeit
+entscheide
 entscheiden
 entscheidend
 entscheidende
@@ -2695,6 +2700,7 @@ erhaschen
 erheben
 erhebender
 erheblich
+erhebliche
 erheblichkeit
 erhebt
 erhebungen
@@ -3634,6 +3640,7 @@ existiere
 existieren
 exit
 exitcode
+exitszenario
 exkaiser
 exkanzler
 exklave
@@ -3752,4 +3759,5 @@ exzerpierten
 exzerpt
 exzess
 exzessiv
+eye
 ezb

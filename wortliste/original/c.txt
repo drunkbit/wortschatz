@@ -150,6 +150,7 @@ chalet
 Chalet
 chamäleon
 Chamäleon
+Chamenei
 champagner
 Champagner
 Champagnerglas

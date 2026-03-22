@@ -3834,6 +3834,7 @@ Kosten
 kostenfrei
 kostengerecht
 kostenguenstig
+kostenguenstigen
 kostenintensiv
 kostenlos
 kostenmaessig
@@ -4178,6 +4179,7 @@ kriechwasser
 Kriechwasser
 krieg
 Krieg
+Kriege
 kriegen
 krieger
 Krieger
@@ -4198,6 +4200,7 @@ kriegsbeschaedigt
 kriegsblind
 kriegsdienstverweigerer
 Kriegsdienstverweigerer
+Kriegsende
 kriegsfeindlich
 kriegsfreiwillige
 Kriegsfreiwillige
@@ -4206,6 +4209,7 @@ kriegsgerichtlich
 kriegsgeschaedigt
 kriegsluestern
 Kriegsparteien
+Kriegsplaene
 Kriegsplan
 Kriegsschiffen
 kriegstagebuch

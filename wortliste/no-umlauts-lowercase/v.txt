@@ -16,6 +16,7 @@ vakuen
 vakuum
 valenz
 valenzband
+vali
 valide
 validieren
 validitaet
@@ -861,6 +862,7 @@ verheimliche
 verheimlichen
 verheiraten
 verheissen
+verheisst
 verheissungsvoll
 verheizen
 verhelfe
@@ -1013,6 +1015,7 @@ verkuemmern
 verkuenden
 verkuender
 verkuendet
+verkuendete
 verkuendeten
 verkuendigen
 verkuendiger
@@ -1554,6 +1557,7 @@ verschont
 verschonten
 verschossen
 verschraenken
+verschraenkt
 verschraenkten
 verschrauben
 verschrecken
@@ -2477,6 +2481,7 @@ volk
 volker
 volkreich
 volks
+volksaufstand
 volksbank
 volksdeutschen
 volksetymologisch

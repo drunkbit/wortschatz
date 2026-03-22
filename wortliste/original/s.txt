@@ -2428,6 +2428,7 @@ schocken
 schockfarben
 schockieren
 Schockschwerenot
+Schockwellen
 schöffe
 Schöffe
 schöffengericht
@@ -2777,6 +2778,7 @@ Schüchternen
 schüchternheit
 Schüchternheit
 schuf
+schufen
 schuft
 Schuft
 schuften
@@ -4344,9 +4346,12 @@ sicherheit
 Sicherheit
 sicherheits
 Sicherheits
+Sicherheitsapparat
 sicherheitsbewusst
+Sicherheitschef
 sicherheitsgerichtet
 sicherheitshalber
+Sicherheitskräfte
 sicherheitskritisch
 sicherheitspolitisch
 sicherheitsrelevant
@@ -7701,6 +7706,8 @@ Stratege
 strategie
 Strategie
 strategisch
+strategische
+strategischen
 stratosphäre
 Stratosphäre
 stratosphärenkreuzer
@@ -8664,6 +8671,7 @@ systematisch
 systematisieren
 systembedingt
 systemdefiniert
+Systemen
 systemimmanent
 systemisch
 systemlos

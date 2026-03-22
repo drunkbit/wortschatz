@@ -265,6 +265,7 @@ Nachrichten
 Nachrichtenagentur
 Nachrichtendienstlich
 Nachrichtenportal
+Nachrichtenseite
 Nachrichtentechnisch
 Nachrichtlich
 Nachrief
@@ -639,6 +640,7 @@ Nasenwurzel
 Nashorn
 Nashörner
 Naslang
+Nasr
 Nass
 Naß
 Nassau
@@ -813,6 +815,7 @@ Nenndurchfluss
 Nenne
 Nennen
 Nennenswert
+Nennenswerte
 Nenner
 Nennst
 Nennt
@@ -1186,6 +1189,7 @@ Niederschlagen
 Niederschlags
 Niederschlagsfrei
 Niederschlägt
+Niederschlagung
 Niederschlesien
 Niederschlug
 Niederschmettern

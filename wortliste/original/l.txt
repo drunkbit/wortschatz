@@ -417,6 +417,7 @@ langweilig
 langweilt
 langwellig
 langwierig
+langwierigen
 langwierigkeit
 Langwierigkeit
 langzeit
@@ -455,6 +456,7 @@ laptop
 Laptop
 lärche
 Lärche
+Laridschani
 lärm
 Lärm
 lärmen
@@ -2129,6 +2131,7 @@ lößbedeckt
 losschicken
 losschlagen
 losschreienden
+löst
 löste
 lösten
 lostrat
@@ -2244,6 +2247,7 @@ ludwigshafen
 Ludwigshafen
 luft
 Luft
+Luftabwehr
 Luftangriff
 lüftchen
 Lüftchen

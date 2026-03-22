@@ -288,6 +288,7 @@ langweilig
 langweilt
 langwellig
 langwierig
+langwierigen
 langwierigkeit
 langzeit
 langzeitbetrieb
@@ -310,6 +311,7 @@ läppische
 lappland
 laptop
 lärche
+laridschani
 lärm
 lärmen
 lärmend
@@ -1470,6 +1472,7 @@ lößbedeckt
 losschicken
 losschlagen
 losschreienden
+löst
 löste
 lösten
 lostrat
@@ -1545,6 +1548,7 @@ ludwigsburg
 ludwigsfelde
 ludwigshafen
 luft
+luftabwehr
 luftangriff
 lüftchen
 luftdicht

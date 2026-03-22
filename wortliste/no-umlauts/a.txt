@@ -14052,6 +14052,7 @@ abnutzungs
 Abnutzungs
 Abnutzungserscheinung
 Abnutzungserscheinungen
+Abnutzungskrieg
 Abnutzungsspur
 Abnutzungsspuren
 Abo
@@ -47187,6 +47188,7 @@ ansteckende
 ansteckungs
 Ansteckungs
 anstehen
+anstehenden
 ansteigen
 ansteigend
 ansteigende
@@ -47668,6 +47670,7 @@ AOK
 AOL
 aorten
 Aorten
+AP
 apache
 Apache
 apart
@@ -48021,6 +48024,7 @@ Arme
 Armeausstrecken
 armee
 Armee
+Armeen
 armen
 Armen
 armenien
@@ -50683,6 +50687,7 @@ aussenden
 Aussenden
 Aussendung
 Aussenminister
+Aussenministeriums
 aussenpolitisch
 aussenseiter
 Aussenseiter

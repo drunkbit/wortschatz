@@ -1203,6 +1203,7 @@ Finale
 finalisieren
 finalspiel
 Finalspiel
+Financial
 finanz
 Finanz
 finanziell
@@ -2046,6 +2047,7 @@ Forderung
 Forderungen
 forderungs
 Forderungs
+Foreign
 forelle
 Forelle
 forellenblau
@@ -2114,6 +2116,7 @@ formel
 Formel
 formell
 formelle
+formellen
 formelmaessig
 formen
 Formen
@@ -2953,6 +2956,7 @@ front
 Front
 frontal
 Frontal
+Fronten
 frontend
 Frontend
 frontendprozessor
@@ -3109,6 +3113,7 @@ fuehrenden
 fuehrer
 Fuehrer
 fuehrerlos
+Fuehrers
 fuehrst
 fuehrt
 fuehrte
@@ -3116,6 +3121,7 @@ fuehrten
 Fuehrung
 fuehrungs
 Fuehrungs
+Fuehrungsfiguren
 fuehrungslos
 fuell
 Fuell
@@ -3355,6 +3361,7 @@ funktion
 Funktion
 funktionaer
 Funktionaer
+Funktionaere
 funktional
 funktionalistisch
 funktionalitaet

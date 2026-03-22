@@ -461,6 +461,7 @@ langweilig
 langweilt
 langwellig
 langwierig
+langwierigen
 langwierigkeit
 Langwierigkeit
 langzeit
@@ -496,6 +497,7 @@ lappland
 Lappland
 laptop
 Laptop
+Laridschani
 Lars
 larve
 Larve
@@ -1947,6 +1949,7 @@ Loeslichkeit
 loess
 Loess
 loessbedeckt
+loest
 loeste
 loesten
 Loesung
@@ -2283,6 +2286,7 @@ luettich
 Luettich
 luft
 Luft
+Luftabwehr
 Luftangriff
 luftdicht
 luftfahrtindustrielle

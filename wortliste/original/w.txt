@@ -156,6 +156,7 @@ wählbaren
 wählbarkeit
 Wählbarkeit
 wahlberechtigt
+Wahlen
 wählen
 Wählenden
 wahlentscheidend
@@ -175,6 +176,7 @@ wahlfrei
 wahlheimat
 Wahlheimat
 Wahlkampagne
+Wahlkampf
 Wahlkandidaten
 wahllos
 Wahlsieg
@@ -1186,6 +1188,7 @@ Weissager
 weißbuch
 Weißbuch
 weiße
+Weiße
 weißem
 weißen
 Weißen
@@ -1894,6 +1897,7 @@ widerstands
 Widerstands
 widerstandsfähig
 widerstandsfähigen
+Widerstandsfähigkeit
 widerstandslos
 widerstehen
 widersteht
@@ -1981,6 +1985,7 @@ wiedererkannt
 wiedererkennen
 Wiedererkennung
 wiedererlangen
+Wiedereröffnung
 Wiedererscheinen
 wiedererstatten
 wiedererstehen

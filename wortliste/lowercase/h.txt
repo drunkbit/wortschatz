@@ -2890,6 +2890,7 @@ hochqualifiziert
 hochqualitativ
 hochradioaktiv
 hochrangig
+hochrangige
 hochrechenbar
 hochrechnen
 hochrein
@@ -3158,6 +3159,7 @@ hopfenhandel
 hopfenpflanzer
 hopfensack
 hopfenstange
+hopkins
 hoppeln
 hopsen
 hör

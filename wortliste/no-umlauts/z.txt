@@ -59,9 +59,11 @@ zahlentheoretisch
 zahler
 Zahler
 zahllos
+zahllose
 zahlloser
 zahlreich
 zahlreiche
+zahlreicher
 zahlt
 zahltag
 Zahltag
@@ -414,6 +416,7 @@ zerbirst
 zerbiss
 zerbissen
 zerbomben
+zerbombtes
 zerborsten
 zerbrach
 zerbrachen
@@ -969,6 +972,7 @@ Zitze
 zivil
 Zivil
 zivildienstleistend
+zivile
 zivilisation
 Zivilisation
 zivilisationskrankheit
@@ -1117,6 +1121,7 @@ zuckten
 Zuckungen
 zudecken
 zudem
+Zudem
 zudrang
 Zudrang
 zudrehen
@@ -1595,6 +1600,7 @@ Zunamen
 zunder
 Zunder
 zunehmen
+zunehmend
 zuneigen
 Zuneigen
 zuneigte

@@ -288,6 +288,7 @@ Langweilig
 Langweilt
 Langwellig
 Langwierig
+Langwierigen
 Langwierigkeit
 Langzeit
 Langzeitbetrieb
@@ -310,6 +311,7 @@ Läppische
 Lappland
 Laptop
 Lärche
+Laridschani
 Lärm
 Lärmen
 Lärmend
@@ -1470,6 +1472,7 @@ Lößbedeckt
 Losschicken
 Losschlagen
 Losschreienden
+Löst
 Löste
 Lösten
 Lostrat
@@ -1545,6 +1548,7 @@ Ludwigsburg
 Ludwigsfelde
 Ludwigshafen
 Luft
+Luftabwehr
 Luftangriff
 Lüftchen
 Luftdicht

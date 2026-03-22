@@ -14068,6 +14068,7 @@ abnutzungserscheinung
 abnützungserscheinung
 abnutzungserscheinungen
 abnützungserscheinungen
+abnutzungskrieg
 abnutzungsspur
 abnutzungsspuren
 abo
@@ -46334,6 +46335,7 @@ anstecken
 ansteckende
 ansteckungs
 anstehen
+anstehenden
 ansteigen
 ansteigend
 ansteigende
@@ -46703,6 +46705,7 @@ anzweifeln
 aok
 aol
 aorten
+ap
 apache
 apart
 apartheid
@@ -46944,6 +46947,7 @@ armbrüste
 arme
 armeausstrecken
 armee
+armeen
 armen
 armenien
 armenier
@@ -49031,6 +49035,7 @@ außenborder
 aussenden
 aussendung
 außenminister
+außenministeriums
 außenpolitisch
 außenseiter
 außenstehende

@@ -231,6 +231,7 @@ wahl
 Wahl
 Wahlanalysten
 wahlberechtigt
+Wahlen
 wahlentscheidend
 Wahlergebnisses
 wahlfaehig
@@ -242,6 +243,7 @@ wahlfrei
 wahlheimat
 Wahlheimat
 Wahlkampagne
+Wahlkampf
 Wahlkandidaten
 wahllos
 Wahlsieg
@@ -1186,6 +1188,7 @@ Weissager
 weissbuch
 Weissbuch
 weisse
+Weisse
 weissem
 weissen
 Weissen
@@ -1894,6 +1897,7 @@ widerstands
 Widerstands
 widerstandsfaehig
 widerstandsfaehigen
+Widerstandsfaehigkeit
 widerstandslos
 widerstehen
 widersteht
@@ -1981,6 +1985,7 @@ wiedererkannt
 wiedererkennen
 Wiedererkennung
 wiedererlangen
+Wiedereroeffnung
 Wiedererscheinen
 wiedererstatten
 wiedererstehen

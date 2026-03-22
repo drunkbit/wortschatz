@@ -879,6 +879,7 @@ demütigst
 Demütigung
 Demütigungsmittel
 demzufolge
+Demzufolge
 den
 Den
 denen
@@ -920,6 +921,7 @@ denn
 Denn
 Dennis
 dennoch
+Dennoch
 dennschon
 denominieren
 denotativ

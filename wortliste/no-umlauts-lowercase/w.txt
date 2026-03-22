@@ -157,6 +157,7 @@ wagten
 wahl
 wahlanalysten
 wahlberechtigt
+wahlen
 wahlentscheidend
 wahlergebnisses
 wahlfaehig
@@ -167,6 +168,7 @@ wahlfisch
 wahlfrei
 wahlheimat
 wahlkampagne
+wahlkampf
 wahlkandidaten
 wahllos
 wahlsieg
@@ -1404,6 +1406,7 @@ widerstand
 widerstands
 widerstandsfaehig
 widerstandsfaehigen
+widerstandsfaehigkeit
 widerstandslos
 widerstehen
 widersteht
@@ -1479,6 +1482,7 @@ wiedererkannt
 wiedererkennen
 wiedererkennung
 wiedererlangen
+wiedereroeffnung
 wiedererscheinen
 wiedererstatten
 wiedererstehen

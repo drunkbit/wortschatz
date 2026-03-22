@@ -13738,6 +13738,7 @@ abnutzungen
 abnutzungs
 abnutzungserscheinung
 abnutzungserscheinungen
+abnutzungskrieg
 abnutzungsspur
 abnutzungsspuren
 abo
@@ -45455,6 +45456,7 @@ anstecken
 ansteckende
 ansteckungs
 anstehen
+anstehenden
 ansteigen
 ansteigend
 ansteigende
@@ -45824,6 +45826,7 @@ anzweifeln
 aok
 aol
 aorten
+ap
 apache
 apart
 apartheid
@@ -46065,6 +46068,7 @@ armbrueste
 arme
 armeausstrecken
 armee
+armeen
 armen
 armenien
 armenier
@@ -48150,6 +48154,7 @@ aussenborder
 aussenden
 aussendung
 aussenminister
+aussenministeriums
 aussenpolitisch
 aussenseiter
 aussenstehende
@@ -48848,6 +48853,7 @@ basel
 basf
 basic
 basieren
+basiert
 basilika
 basilikum
 basis
@@ -49449,6 +49455,7 @@ behaviorist
 beheben
 behebungs
 beheimaten
+beheimateten
 beheizen
 behelf
 behelfen
@@ -49579,6 +49586,7 @@ beinamen
 beinchen
 beine
 beinen
+beinhalte
 beinhalten
 beinhaltet
 beinhart
@@ -50688,6 +50696,7 @@ betrachtung
 betrachtungen
 betrachtungs
 betraechtlich
+betraechtlichen
 betraefe
 betraegt
 betraf
@@ -51622,6 +51631,7 @@ bolzplatz
 bombardement
 bombardieren
 bombardiert
+bombardierten
 bombastisch
 bombay
 bombe
@@ -52069,6 +52079,7 @@ brusttaschen
 brusttief
 brut
 brutal
+brutalen
 brutalitaet
 brutto
 bryan
@@ -52446,6 +52457,7 @@ ceylon
 ch
 chalet
 chamaeleon
+chamenei
 champagner
 champagnerglas
 champagnerkorken
@@ -56109,6 +56121,7 @@ einsatzfreudig
 einsatzsicher
 einscannen
 einschaetzen
+einschaetzung
 einschalt
 einschalten
 einschenken
@@ -56141,6 +56154,7 @@ einschneiden
 einschnitt
 einschnueren
 einschraenken
+einschraenkung
 einschraenkungs
 einschreibe
 einschreiben
@@ -56876,6 +56890,7 @@ energielos
 energiemaerkte
 energieminister
 energiepolitisch
+energiepreise
 energiereich
 energiesparend
 energietechnisch
@@ -56931,6 +56946,7 @@ enkelin
 enkeln
 enklave
 enorm
+enormen
 enquete
 ensemble
 entaeussern
@@ -57265,6 +57281,7 @@ entschaerfen
 entscheid
 entscheidbar
 entscheidbarkeit
+entscheide
 entscheiden
 entscheidend
 entscheidende
@@ -57794,6 +57811,7 @@ erhaschen
 erheben
 erhebender
 erheblich
+erhebliche
 erheblichkeit
 erhebt
 erhebungen
@@ -58732,6 +58750,7 @@ existiere
 existieren
 exit
 exitcode
+exitszenario
 exkaiser
 exkanzler
 exklave
@@ -58850,6 +58869,7 @@ exzerpierten
 exzerpt
 exzess
 exzessiv
+eye
 ezb
 f
 fabel
@@ -59699,6 +59719,7 @@ final
 finale
 finalisieren
 finalspiel
+financial
 finanz
 finanziell
 finanzier
@@ -60239,6 +60260,7 @@ forderte
 forderung
 forderungen
 forderungs
+foreign
 forelle
 forellenblau
 forellenfilet
@@ -60279,6 +60301,7 @@ formatvorlage
 formel
 formell
 formelle
+formellen
 formelmaessig
 formen
 formenbau
@@ -60897,6 +60920,7 @@ fronleichnam
 fronleichnamsfest
 front
 frontal
+fronten
 frontend
 frontendprozessor
 frontnah
@@ -61011,12 +61035,14 @@ fuehrende
 fuehrenden
 fuehrer
 fuehrerlos
+fuehrers
 fuehrst
 fuehrt
 fuehrte
 fuehrten
 fuehrung
 fuehrungs
+fuehrungsfiguren
 fuehrungslos
 fuell
 fuelle
@@ -61186,6 +61212,7 @@ funkferngesteuert
 funktechnisch
 funktion
 funktionaer
+funktionaere
 funktional
 funktionalistisch
 funktionalitaet
@@ -61854,6 +61881,7 @@ gefahrstoff
 gefahrvoll
 gefalle
 gefallen
+gefallene
 gefallenenehrung
 gefallenenfriedhoefe
 gefallsucht
@@ -62321,6 +62349,7 @@ geistige
 geistigen
 geistigkeit
 geistlich
+geistlichen
 geistlichkeit
 geistlos
 geistlosigkeit
@@ -62513,6 +62542,7 @@ geldbeschaffung
 gelde
 gelderwerb
 geldes
+geldfluesse
 geldgebend
 geldgierig
 geldheirat
@@ -62767,6 +62797,7 @@ gendarmenmarkt
 gendarmerie
 geneckt
 genehm
+genehmere
 genehmigen
 genehmigt
 genehmigungs
@@ -62895,6 +62926,7 @@ geoelt
 geograf
 geografie
 geografisch
+geografischen
 geograph
 geographie
 geographisch
@@ -64714,6 +64746,7 @@ goldwaescherei
 goldwaeschereien
 golf
 golfer
+golfstaaten
 golgatha
 gomorrha
 gomulka
@@ -68227,6 +68260,7 @@ hochqualifiziert
 hochqualitativ
 hochradioaktiv
 hochrangig
+hochrangige
 hochrechenbar
 hochrechnen
 hochrein
@@ -68515,6 +68549,7 @@ hopfenhandel
 hopfenpflanzer
 hopfensack
 hopfenstange
+hopkins
 hoppeln
 hopsen
 horche
@@ -69810,6 +69845,7 @@ islamabad
 islamfeindlich
 islamhasser
 islamisch
+islamische
 islamischen
 islamismus
 islamist
@@ -70078,6 +70114,7 @@ johannisbrot
 johanniskraut
 johanniter
 john
+johns
 johnson
 jointventure
 joker
@@ -72636,6 +72673,7 @@ kosten
 kostenfrei
 kostengerecht
 kostenguenstig
+kostenguenstigen
 kostenintensiv
 kostenlos
 kostenmaessig
@@ -72868,6 +72906,7 @@ kriechen
 kriechspur
 kriechwasser
 krieg
+kriege
 kriegen
 krieger
 kriegerdenkmal
@@ -72882,6 +72921,7 @@ kriegsbereit
 kriegsbeschaedigt
 kriegsblind
 kriegsdienstverweigerer
+kriegsende
 kriegsfeindlich
 kriegsfreiwillige
 kriegsfuehrend
@@ -72889,6 +72929,7 @@ kriegsgerichtlich
 kriegsgeschaedigt
 kriegsluestern
 kriegsparteien
+kriegsplaene
 kriegsplan
 kriegsschiffen
 kriegstagebuch
@@ -73633,6 +73674,7 @@ langweilig
 langweilt
 langwellig
 langwierig
+langwierigen
 langwierigkeit
 langzeit
 langzeitbetrieb
@@ -73653,6 +73695,7 @@ lappalie
 lappen
 lappland
 laptop
+laridschani
 lars
 larve
 las
@@ -74649,6 +74692,7 @@ loeslich
 loeslichkeit
 loess
 loessbedeckt
+loest
 loeste
 loesten
 loesung
@@ -74880,6 +74924,7 @@ luesternes
 luesternheit
 luettich
 luft
+luftabwehr
 luftangriff
 luftdicht
 luftfahrtindustrielle
@@ -75940,6 +75985,7 @@ menschlich
 menschliche
 menschlichen
 menschlicher
+menschliches
 menschlichkeit
 menschwerden
 menstrual
@@ -76093,9 +76139,11 @@ mickerig
 mickrig
 microsoft
 midas
+middle
 midi
 midlands
 midlifecrisis
+midterm
 mied
 mieder
 miederfabrik
@@ -76170,6 +76218,7 @@ milieustudie
 militaer
 militaeraehnlich
 militaereinsatz
+militaerhistoriker
 militaerisch
 militaerische
 militaerischen
@@ -77653,6 +77702,7 @@ nachrichten
 nachrichtenagentur
 nachrichtendienstlich
 nachrichtenportal
+nachrichtenseite
 nachrichtentechnisch
 nachrichtlich
 nachrief
@@ -78029,6 +78079,7 @@ nasenwurzel
 nashoerner
 nashorn
 naslang
+nasr
 nass
 nassau
 nasse
@@ -78200,6 +78251,7 @@ nenndurchfluss
 nenne
 nennen
 nennenswert
+nennenswerte
 nenner
 nennst
 nennt
@@ -78573,6 +78625,7 @@ niederschlag
 niederschlagen
 niederschlags
 niederschlagsfrei
+niederschlagung
 niederschlesien
 niederschlug
 niederschmettern
@@ -80488,6 +80541,7 @@ philippinisch
 philippsburg
 philips
 philister
+phillips
 philologe
 philologenschaft
 philologenverband
@@ -81384,6 +81438,7 @@ preschen
 press
 presse
 pressefritzen
+pressekonferenz
 pressen
 pressieren
 pressiert
@@ -81634,6 +81689,7 @@ protest
 protestant
 protestantisch
 protestantismus
+proteste
 protestieren
 prothese
 protokoll
@@ -82430,6 +82486,7 @@ realismus
 realist
 realistisch
 realistischerweise
+realistisches
 realitaet
 realitaets
 realitaetsfern
@@ -82702,6 +82759,7 @@ regime
 regimegegner
 regimekritisch
 regiment
+regimes
 region
 regional
 regionale
@@ -83017,6 +83075,7 @@ rennplatz
 renntier
 renommee
 renommiert
+renommierte
 renovieren
 renovierungsarbeiten
 rentabel
@@ -83699,6 +83758,7 @@ ruecksichtsvoller
 rueckstaendig
 rueckstand
 rueckstauklappe
+rueckt
 rueckte
 rueckten
 ruecktrittsangebot
@@ -85489,6 +85549,7 @@ schocken
 schockfarben
 schockieren
 schockschwerenot
+schockwellen
 schoeffe
 schoeffengericht
 schoen
@@ -85753,6 +85814,7 @@ schuetzt
 schuetzte
 schuetztest
 schuf
+schufen
 schuft
 schuften
 schufterei
@@ -86799,9 +86861,12 @@ sichergestellt
 sicherheben
 sicherheit
 sicherheits
+sicherheitsapparat
 sicherheitsbewusst
+sicherheitschef
 sicherheitsgerichtet
 sicherheitshalber
+sicherheitskraefte
 sicherheitskritisch
 sicherheitspolitisch
 sicherheitsrelevant
@@ -89005,6 +89070,8 @@ strassenverhaeltnissen
 stratege
 strategie
 strategisch
+strategische
+strategischen
 stratosphaere
 stratosphaerenkreuzer
 strauch
@@ -89616,6 +89683,7 @@ systematisch
 systematisieren
 systembedingt
 systemdefiniert
+systemen
 systemimmanent
 systemisch
 systemlos
@@ -90043,6 +90111,7 @@ teflonpfanne
 tegel
 tegernsee
 teheran
+teherans
 teibm
 teich
 teig
@@ -90596,6 +90665,7 @@ toericht
 toerichte
 toerin
 toeten
+toetung
 toetungsdelikt
 toetungsverbot
 toetungsvideo
@@ -91275,6 +91345,7 @@ truhe
 trump
 trumpf
 trumpfen
+trumps
 trunk
 trunken
 trunkenbold
@@ -91355,6 +91426,7 @@ tuerkei
 tuerken
 tuerkis
 tuerkisch
+tuerkischen
 tuerkischstaemmig
 tuerkisfarben
 tuerklinke
@@ -91547,6 +91619,7 @@ ueberbetonen
 ueberbevoelkert
 ueberbewerten
 ueberbezahlt
+ueberbietbaren
 ueberbieten
 ueberblaettern
 ueberbleibsel
@@ -93352,6 +93425,7 @@ universitaer
 universitaet
 universitaeten
 universitaets
+university
 universum
 unix
 unke
@@ -94279,6 +94353,7 @@ vakuen
 vakuum
 valenz
 valenzband
+vali
 valide
 validieren
 validitaet
@@ -95124,6 +95199,7 @@ verheimliche
 verheimlichen
 verheiraten
 verheissen
+verheisst
 verheissungsvoll
 verheizen
 verhelfe
@@ -95276,6 +95352,7 @@ verkuemmern
 verkuenden
 verkuender
 verkuendet
+verkuendete
 verkuendeten
 verkuendigen
 verkuendiger
@@ -95817,6 +95894,7 @@ verschont
 verschonten
 verschossen
 verschraenken
+verschraenkt
 verschraenkten
 verschrauben
 verschrecken
@@ -96740,6 +96818,7 @@ volk
 volker
 volkreich
 volks
+volksaufstand
 volksbank
 volksdeutschen
 volksetymologisch
@@ -97759,6 +97838,7 @@ wagten
 wahl
 wahlanalysten
 wahlberechtigt
+wahlen
 wahlentscheidend
 wahlergebnisses
 wahlfaehig
@@ -97769,6 +97849,7 @@ wahlfisch
 wahlfrei
 wahlheimat
 wahlkampagne
+wahlkampf
 wahlkandidaten
 wahllos
 wahlsieg
@@ -99006,6 +99087,7 @@ widerstand
 widerstands
 widerstandsfaehig
 widerstandsfaehigen
+widerstandsfaehigkeit
 widerstandslos
 widerstehen
 widersteht
@@ -99081,6 +99163,7 @@ wiedererkannt
 wiedererkennen
 wiedererkennung
 wiedererlangen
+wiedereroeffnung
 wiedererscheinen
 wiedererstatten
 wiedererstehen
@@ -99939,9 +100022,11 @@ zahlenmaessiges
 zahlentheoretisch
 zahler
 zahllos
+zahllose
 zahlloser
 zahlreich
 zahlreiche
+zahlreicher
 zahlt
 zahltag
 zahlte
@@ -100191,6 +100276,7 @@ zerbirst
 zerbiss
 zerbissen
 zerbomben
+zerbombtes
 zerborsten
 zerbrach
 zerbrachen
@@ -100586,6 +100672,7 @@ zittrige
 zitze
 zivil
 zivildienstleistend
+zivile
 zivilisation
 zivilisationskrankheit
 zivilisatorisch
@@ -101083,6 +101170,7 @@ zuname
 zunamen
 zunder
 zunehmen
+zunehmend
 zuneigen
 zuneigte
 zuneigung

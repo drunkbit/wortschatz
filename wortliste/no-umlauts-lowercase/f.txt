@@ -846,6 +846,7 @@ final
 finale
 finalisieren
 finalspiel
+financial
 finanz
 finanziell
 finanzier
@@ -1386,6 +1387,7 @@ forderte
 forderung
 forderungen
 forderungs
+foreign
 forelle
 forellenblau
 forellenfilet
@@ -1426,6 +1428,7 @@ formatvorlage
 formel
 formell
 formelle
+formellen
 formelmaessig
 formen
 formenbau
@@ -2044,6 +2047,7 @@ fronleichnam
 fronleichnamsfest
 front
 frontal
+fronten
 frontend
 frontendprozessor
 frontnah
@@ -2158,12 +2162,14 @@ fuehrende
 fuehrenden
 fuehrer
 fuehrerlos
+fuehrers
 fuehrst
 fuehrt
 fuehrte
 fuehrten
 fuehrung
 fuehrungs
+fuehrungsfiguren
 fuehrungslos
 fuell
 fuelle
@@ -2333,6 +2339,7 @@ funkferngesteuert
 funktechnisch
 funktion
 funktionaer
+funktionaere
 funktional
 funktionalistisch
 funktionalitaet

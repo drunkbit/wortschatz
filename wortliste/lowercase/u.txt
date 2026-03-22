@@ -1255,6 +1255,7 @@ universitär
 universität
 universitäten
 universitäts
+university
 universum
 unix
 unke

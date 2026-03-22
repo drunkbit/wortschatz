@@ -380,6 +380,7 @@ realismus
 realist
 realistisch
 realistischerweise
+realistisches
 realität
 realitäts
 realitätsfern
@@ -652,6 +653,7 @@ regime
 regimegegner
 regimekritisch
 regiment
+regimes
 region
 regional
 regionale
@@ -967,6 +969,7 @@ rennplatz
 renntier
 renommee
 renommiert
+renommierte
 renovieren
 renovierungsarbeiten
 rentabel
@@ -1639,6 +1642,7 @@ rücksichtsvoller
 rückstand
 rückständig
 rückstauklappe
+rückt
 rückte
 rückten
 rücktrittsangebot

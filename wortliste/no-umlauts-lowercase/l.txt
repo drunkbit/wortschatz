@@ -322,6 +322,7 @@ langweilig
 langweilt
 langwellig
 langwierig
+langwierigen
 langwierigkeit
 langzeit
 langzeitbetrieb
@@ -342,6 +343,7 @@ lappalie
 lappen
 lappland
 laptop
+laridschani
 lars
 larve
 las
@@ -1338,6 +1340,7 @@ loeslich
 loeslichkeit
 loess
 loessbedeckt
+loest
 loeste
 loesten
 loesung
@@ -1569,6 +1572,7 @@ luesternes
 luesternheit
 luettich
 luft
+luftabwehr
 luftangriff
 luftdicht
 luftfahrtindustrielle

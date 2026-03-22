@@ -40,9 +40,11 @@ zahlenmaessiges
 zahlentheoretisch
 zahler
 zahllos
+zahllose
 zahlloser
 zahlreich
 zahlreiche
+zahlreicher
 zahlt
 zahltag
 zahlte
@@ -292,6 +294,7 @@ zerbirst
 zerbiss
 zerbissen
 zerbomben
+zerbombtes
 zerborsten
 zerbrach
 zerbrachen
@@ -687,6 +690,7 @@ zittrige
 zitze
 zivil
 zivildienstleistend
+zivile
 zivilisation
 zivilisationskrankheit
 zivilisatorisch
@@ -1184,6 +1188,7 @@ zuname
 zunamen
 zunder
 zunehmen
+zunehmend
 zuneigen
 zuneigte
 zuneigung

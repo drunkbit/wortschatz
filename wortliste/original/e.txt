@@ -1298,6 +1298,7 @@ einschalten
 Einschalten
 einschätzen
 Einschätzen
+Einschätzung
 einschenken
 einschicken
 einschieben
@@ -1339,6 +1340,7 @@ einschnüren
 Einschnüren
 einschränken
 Einschränken
+Einschränkung
 einschränkungs
 Einschränkungs
 einschreibe
@@ -2329,6 +2331,7 @@ energielos
 Energiemärkte
 Energieminister
 energiepolitisch
+Energiepreise
 energiereich
 energiesparend
 energietechnisch
@@ -2401,6 +2404,7 @@ Enkeln
 enklave
 Enklave
 enorm
+enormen
 enquete
 Enquete
 ensemble
@@ -2845,6 +2849,7 @@ Entscheid
 entscheidbar
 entscheidbarkeit
 Entscheidbarkeit
+entscheide
 entscheiden
 Entscheiden
 entscheidend
@@ -3570,6 +3575,7 @@ erheben
 Erheben
 erhebender
 erheblich
+erhebliche
 erheblichkeit
 Erheblichkeit
 erhebt
@@ -4680,6 +4686,7 @@ Euratom
 eure
 eurem
 euren
+eurer
 Eurer
 euresgleichen
 eurigen
@@ -4872,6 +4879,7 @@ existieren
 Exit
 exitcode
 Exitcode
+Exitszenario
 exkaiser
 Exkaiser
 exkanzler
@@ -5058,4 +5066,5 @@ Exzerpt
 exzess
 Exzess
 exzessiv
+Eye
 EZB

@@ -408,6 +408,7 @@ BASF
 basic
 Basic
 basieren
+basiert
 basilika
 Basilika
 basilikum
@@ -1247,6 +1248,7 @@ Beheben
 behebungs
 Behebungs
 beheimaten
+beheimateten
 beheizen
 Beheizen
 behelf
@@ -1417,6 +1419,7 @@ Beinamen
 Beinchen
 Beine
 Beinen
+beinhalte
 beinhalten
 beinhaltet
 beinhart
@@ -2906,6 +2909,7 @@ betrachtet
 betrachtete
 betrachteten
 beträchtlich
+beträchtlichen
 Betrachtung
 Betrachtungen
 betrachtungs
@@ -4224,6 +4228,7 @@ Bombardement
 bombardieren
 Bombardieren
 bombardiert
+bombardierten
 bombastisch
 bombay
 Bombay
@@ -4947,6 +4952,7 @@ Brüstung
 brut
 Brut
 brutal
+brutalen
 brutalität
 Brutalität
 brüten

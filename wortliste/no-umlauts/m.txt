@@ -1525,6 +1525,7 @@ menschliche
 Menschliche
 menschlichen
 menschlicher
+menschliches
 menschlichkeit
 Menschlichkeit
 menschwerden
@@ -1763,10 +1764,12 @@ mickerig
 mickrig
 Microsoft
 Midas
+Middle
 MIDI
 Midlands
 midlifecrisis
 Midlifecrisis
+Midterm
 mied
 mieder
 Mieder
@@ -1888,6 +1891,7 @@ militaer
 Militaer
 militaeraehnlich
 Militaereinsatz
+Militaerhistoriker
 militaerisch
 militaerische
 militaerischen

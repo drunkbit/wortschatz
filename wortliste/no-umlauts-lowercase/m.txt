@@ -979,6 +979,7 @@ menschlich
 menschliche
 menschlichen
 menschlicher
+menschliches
 menschlichkeit
 menschwerden
 menstrual
@@ -1132,9 +1133,11 @@ mickerig
 mickrig
 microsoft
 midas
+middle
 midi
 midlands
 midlifecrisis
+midterm
 mied
 mieder
 miederfabrik
@@ -1209,6 +1212,7 @@ milieustudie
 militaer
 militaeraehnlich
 militaereinsatz
+militaerhistoriker
 militaerisch
 militaerische
 militaerischen

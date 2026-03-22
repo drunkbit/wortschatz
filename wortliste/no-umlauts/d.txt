@@ -877,6 +877,7 @@ Demuetigungsmittel
 demut
 Demut
 demzufolge
+Demzufolge
 den
 Den
 denen
@@ -918,6 +919,7 @@ denn
 Denn
 Dennis
 dennoch
+Dennoch
 dennschon
 denominieren
 denotativ

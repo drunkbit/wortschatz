@@ -39,9 +39,11 @@ Zahler
 zähler
 Zähler
 zahllos
+zahllose
 zahlloser
 zahlreich
 zahlreiche
+zahlreicher
 zahlt
 zählt
 zahltag
@@ -415,6 +417,7 @@ zerbiss
 zerbiß
 zerbissen
 zerbomben
+zerbombtes
 zerborsten
 zerbrach
 zerbrachen
@@ -972,6 +975,7 @@ Zitze
 zivil
 Zivil
 zivildienstleistend
+zivile
 zivilisation
 Zivilisation
 zivilisationskrankheit
@@ -1130,6 +1134,7 @@ zuckten
 Zuckungen
 zudecken
 zudem
+Zudem
 zudrang
 Zudrang
 zudrehen
@@ -1587,6 +1592,7 @@ zündstoffgeladen
 zündungsmechanismus
 Zündungsmechanismus
 zunehmen
+zunehmend
 zuneigen
 Zuneigen
 zuneigte

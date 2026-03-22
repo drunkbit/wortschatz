@@ -980,6 +980,7 @@ Menschlich
 Menschliche
 Menschlichen
 Menschlicher
+Menschliches
 Menschlichkeit
 Menschwerden
 Menstrual
@@ -1133,9 +1134,11 @@ Mickerig
 Mickrig
 Microsoft
 Midas
+Middle
 Midi
 Midlands
 Midlifecrisis
+Midterm
 Mied
 Mieder
 Miederfabrik
@@ -1211,6 +1214,7 @@ Militant
 Militär
 Militärähnlich
 Militäreinsatz
+Militärhistoriker
 Militärisch
 Militärische
 Militärischen

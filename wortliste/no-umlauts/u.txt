@@ -59,6 +59,7 @@ ueberbetonen
 ueberbevoelkert
 ueberbewerten
 ueberbezahlt
+ueberbietbaren
 ueberbieten
 ueberblaettern
 ueberbleibsel
@@ -676,6 +677,7 @@ ueblicherweise
 ueblichkeitsnachweis
 Ueblichkeitsnachweis
 uebrig
+Uebrig
 uebrigbleiben
 uebrigbleibt
 uebrigblieb
@@ -2295,6 +2297,7 @@ Universitaet
 Universitaeten
 universitaets
 Universitaets
+University
 universum
 Universum
 unix

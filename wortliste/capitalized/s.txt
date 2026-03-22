@@ -1601,6 +1601,7 @@ Schocken
 Schockfarben
 Schockieren
 Schockschwerenot
+Schockwellen
 Schöffe
 Schöffengericht
 Schokolade
@@ -1833,6 +1834,7 @@ Schüchterne
 Schüchternen
 Schüchternheit
 Schuf
+Schufen
 Schuft
 Schuften
 Schufterei
@@ -2912,9 +2914,12 @@ Sichergestellt
 Sicherheben
 Sicherheit
 Sicherheits
+Sicherheitsapparat
 Sicherheitsbewusst
+Sicherheitschef
 Sicherheitsgerichtet
 Sicherheitshalber
+Sicherheitskräfte
 Sicherheitskritisch
 Sicherheitspolitisch
 Sicherheitsrelevant
@@ -5114,6 +5119,8 @@ Straßenverhältnissen
 Stratege
 Strategie
 Strategisch
+Strategische
+Strategischen
 Stratosphäre
 Stratosphärenkreuzer
 Sträuben
@@ -5730,6 +5737,7 @@ Systematisch
 Systematisieren
 Systembedingt
 Systemdefiniert
+Systemen
 Systemimmanent
 Systemisch
 Systemlos

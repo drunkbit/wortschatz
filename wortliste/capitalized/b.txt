@@ -253,6 +253,7 @@ Basel
 Basf
 Basic
 Basieren
+Basiert
 Basilika
 Basilikum
 Basis
@@ -866,6 +867,7 @@ Behaviorist
 Beheben
 Behebungs
 Beheimaten
+Beheimateten
 Beheizen
 Behelf
 Behelfen
@@ -996,6 +998,7 @@ Beinamen
 Beinchen
 Beine
 Beinen
+Beinhalte
 Beinhalten
 Beinhaltet
 Beinhart
@@ -2103,6 +2106,7 @@ Betrachtet
 Betrachtete
 Betrachteten
 Beträchtlich
+Beträchtlichen
 Betrachtung
 Betrachtungen
 Betrachtungs
@@ -3018,6 +3022,7 @@ Bolzplätze
 Bombardement
 Bombardieren
 Bombardiert
+Bombardierten
 Bombastisch
 Bombay
 Bombe
@@ -3491,6 +3496,7 @@ Brusttief
 Brüstung
 Brut
 Brutal
+Brutalen
 Brutalität
 Brüten
 Brüter

@@ -408,6 +408,7 @@ teflonpfanne
 tegel
 tegernsee
 teheran
+teherans
 teibm
 teich
 teig
@@ -1103,6 +1104,7 @@ totschlagversuch
 totschweigen
 totsein
 totstechen
+tötung
 tötungsdelikt
 tötungsverbot
 tötungsvideo
@@ -1640,6 +1642,7 @@ trump
 trumpf
 trümpfe
 trumpfen
+trumps
 trunk
 trunken
 trunkenbold
@@ -1772,6 +1775,7 @@ türkei
 türken
 türkis
 türkisch
+türkischen
 türkischstämmig
 türkisfarben
 türklinke

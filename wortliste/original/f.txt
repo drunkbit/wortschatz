@@ -1204,6 +1204,7 @@ Finale
 finalisieren
 finalspiel
 Finalspiel
+Financial
 finanz
 Finanz
 finanziell
@@ -2034,6 +2035,7 @@ förderungsbedürftig
 förderungswettbewerb
 Förderungswettbewerb
 Förderverträge
+Foreign
 forelle
 Forelle
 forellenblau
@@ -2104,6 +2106,7 @@ formel
 Formel
 formell
 formelle
+formellen
 formelmäßig
 formen
 Formen
@@ -2952,6 +2955,7 @@ front
 Front
 frontal
 Frontal
+Fronten
 frontend
 Frontend
 frontendprozessor
@@ -3123,6 +3127,7 @@ führenden
 führer
 Führer
 führerlos
+Führers
 fuhrgeld
 Fuhrgeld
 Fuhrmann
@@ -3135,6 +3140,7 @@ führten
 Führung
 führungs
 Führungs
+Führungsfiguren
 führungslos
 fuhrunternehmen
 Fuhrunternehmen
@@ -3301,6 +3307,7 @@ funktionalität
 Funktionalität
 funktionär
 Funktionär
+Funktionäre
 funktionell
 funktionieren
 Funktionierens

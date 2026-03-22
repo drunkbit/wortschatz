@@ -366,6 +366,7 @@ Nachrichten
 Nachrichtenagentur
 nachrichtendienstlich
 Nachrichtenportal
+Nachrichtenseite
 nachrichtentechnisch
 nachrichtlich
 nachrief
@@ -890,6 +891,7 @@ Nashorn
 nashörner
 Nashörner
 naslang
+Nasr
 nass
 naß
 nassau
@@ -1142,6 +1144,7 @@ nenne
 nennen
 Nennen
 nennenswert
+nennenswerte
 nenner
 Nenner
 nennst
@@ -1631,6 +1634,7 @@ niederschlags
 Niederschlags
 niederschlagsfrei
 niederschlägt
+Niederschlagung
 niederschlesien
 Niederschlesien
 niederschlug

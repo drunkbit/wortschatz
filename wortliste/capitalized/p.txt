@@ -878,6 +878,7 @@ Philippinisch
 Philippsburg
 Philips
 Philister
+Phillips
 Philologe
 Philologenschaft
 Philologenverband
@@ -1774,6 +1775,7 @@ Preschen
 Press
 Presse
 Pressefritzen
+Pressekonferenz
 Pressen
 Pressieren
 Pressiert
@@ -2024,6 +2026,7 @@ Protest
 Protestant
 Protestantisch
 Protestantismus
+Proteste
 Protestieren
 Prothese
 Protokoll

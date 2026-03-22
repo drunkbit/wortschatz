@@ -586,7 +586,9 @@ Realismus
 realist
 Realist
 realistisch
+Realistisch
 realistischerweise
+realistisches
 realitaet
 Realitaet
 realitaets
@@ -984,6 +986,7 @@ Regimegegner
 regimekritisch
 regiment
 Regiment
+Regimes
 region
 Region
 regional
@@ -1463,6 +1466,7 @@ Renntier
 renommee
 Renommee
 renommiert
+renommierte
 renovieren
 Renovieren
 renovierungsarbeiten
@@ -2501,6 +2505,7 @@ rueckstaendig
 Rueckstand
 rueckstauklappe
 Rueckstauklappe
+rueckt
 rueckte
 rueckten
 ruecktrittsangebot

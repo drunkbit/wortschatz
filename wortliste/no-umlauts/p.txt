@@ -1421,6 +1421,7 @@ Philippsburg
 Philips
 philister
 Philister
+Phillips
 philologe
 Philologe
 philologenschaft
@@ -2858,6 +2859,7 @@ presse
 Presse
 pressefritzen
 Pressefritzen
+Pressekonferenz
 pressen
 Pressen
 pressieren
@@ -3261,6 +3263,7 @@ Protestant
 protestantisch
 protestantismus
 Protestantismus
+Proteste
 protestieren
 prothese
 Prothese

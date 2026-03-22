@@ -573,6 +573,7 @@ gefahrvoll
 gefalle
 gefälle
 gefallen
+gefallene
 gefallenenehrung
 gefallenenfriedhöfe
 gefällig
@@ -1058,6 +1059,7 @@ geistige
 geistigen
 geistigkeit
 geistlich
+geistlichen
 geistlichkeit
 geistlos
 geistlosigkeit
@@ -1251,6 +1253,7 @@ geldbeschaffung
 gelde
 gelderwerb
 geldes
+geldflüsse
 geldgebend
 geldgierig
 geldheirat
@@ -1505,6 +1508,7 @@ gendarmenmarkt
 gendarmerie
 geneckt
 genehm
+genehmere
 genehmigen
 genehmigt
 genehmigungs
@@ -1634,6 +1638,7 @@ geöffneten
 geograf
 geografie
 geografisch
+geografischen
 geograph
 geographie
 geographisch
@@ -3438,6 +3443,7 @@ goldwäscherei
 goldwäschereien
 golf
 golfer
+golfstaaten
 golgatha
 gomorrha
 gomulka
