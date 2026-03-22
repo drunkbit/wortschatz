@@ -566,6 +566,7 @@ passee
 passen
 Passen
 passend
+Passend
 passende
 passenden
 passender
@@ -1198,6 +1199,7 @@ pflanze
 Pflanze
 pflanzen
 Pflanzen
+Pflanzenwahl
 pflanzer
 Pflanzer
 pflanzgut
@@ -1217,6 +1219,7 @@ Pflaumen
 pflege
 Pflege
 pflegebeduerftig
+pflegeintensiven
 pflegeleicht
 pflegen
 Pflegen
@@ -1593,6 +1596,7 @@ Pilsen
 pilz
 Pilz
 pilzfoermig
+Pilzkrankheiten
 pimmel
 Pimmel
 pimpern
@@ -1853,6 +1857,8 @@ Plasmen
 plastik
 Plastik
 plastikartig
+Plastikgeflecht
+Plastikrasen
 plastisch
 plateau
 Plateau

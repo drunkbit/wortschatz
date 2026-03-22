@@ -362,6 +362,7 @@ zentimeter
 Zentimeter
 zentimeterbereich
 Zentimeterbereich
+Zentimetern
 zentner
 Zentner
 zentnerschwer
@@ -2359,6 +2360,7 @@ Zusprueche
 zustaende
 Zustaende
 zustaendig
+zustaendige
 zustaendigen
 zustaendiger
 zustaendigkeit

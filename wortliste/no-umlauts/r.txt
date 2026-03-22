@@ -383,6 +383,8 @@ rathaus
 Rathaus
 rathausbau
 Rathausbau
+Rathauspark
+Rathausparkbrunnen
 rathenow
 Rathenow
 ratifikation
@@ -418,6 +420,7 @@ Rationalitaetskriterium
 rationell
 rationieren
 Rationieren
+rationiert
 ratlos
 ratlosigkeit
 Ratlosigkeit
@@ -577,6 +580,7 @@ realisierbarkeit
 Realisierbarkeit
 realisieren
 Realisieren
+Realisierung
 realisierungschance
 Realisierungschance
 realisierungsmoeglichkeit
@@ -1615,6 +1619,7 @@ resignation
 Resignation
 resignieren
 resistent
+resistente
 resistenz
 Resistenz
 resolut
@@ -2426,6 +2431,7 @@ rudiment
 Rudiment
 rudimentaer
 Rudolf
+Rudolph
 ruebe
 Ruebe
 rueberspielen

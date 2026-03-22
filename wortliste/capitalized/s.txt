@@ -247,8 +247,11 @@ Sängerfest
 Sängerin
 Sanguinisch
 Sanieren
+Saniert
+Sanierung
 Sanierungen
 Sanierungs
+Sanierungsarbeiten
 Sanitär
 Sanitäter
 Sanitäts
@@ -457,6 +460,7 @@ Schädliche
 Schädlichen
 Schädlichkeit
 Schädling
+Schädlinge
 Schädlings
 Schadlos
 Schadloshaltung
@@ -2092,6 +2096,7 @@ Schwärze
 Schwarzem
 Schwarzen
 Schwärzen
+Schwarzenbergplatz
 Schwarzenegger
 Schwarzer
 Schwarzers
@@ -2954,6 +2959,7 @@ Sickerwasser
 Sie
 Sieb
 Siebdruck
+Siebeck
 Sieben
 Siebenbürgen
 Siebeneinhalb
@@ -3174,6 +3180,7 @@ Sinnsprüche
 Sinnverwandt
 Sinnverwirrend
 Sinnvoll
+Sinnvoller
 Sinnvollerweise
 Sinnwidrig
 Sinter
@@ -3471,6 +3478,7 @@ Somalisch
 Somatisch
 Somit
 Sommer
+Sommerflieder
 Sommerfrische
 Sommerfrischler
 Sommerlich
@@ -3581,6 +3589,7 @@ Sorgsam
 Sorgsame
 Sorgsamsten
 Sorte
+Sorten
 Sortier
 Sortieren
 Sortierer
@@ -4198,6 +4207,7 @@ Stabhochsprung
 Stabhochsprünge
 Stabhochsprungtrainer
 Stabil
+Stabiler
 Stabilisator
 Stabilisieren
 Stabilisierung
@@ -4223,6 +4233,7 @@ Stadien
 Stadion
 Stadium
 Stadt
+Stadtauswärts
 Stadtbahn
 Stadtbekannt
 Städtchen
@@ -4231,6 +4242,8 @@ Städtebaulich
 Stadteigen
 Städten
 Städter
+Stadtgärtner
+Stadtgebiet
 Städtisch
 Städtischen
 Stadtjungen
@@ -4370,6 +4383,7 @@ Starker
 Stärker
 Stärkeren
 Starkes
+Starkl
 Starkregen
 Stärkste
 Stärkstem
@@ -4472,6 +4486,7 @@ Stauchen
 Staudamm
 Staudämme
 Staude
+Staudenmischungen
 Stauen
 Stauer
 Staufenkönig
@@ -4587,6 +4602,7 @@ Steifgespannten
 Steifheit
 Steifigkeit
 Steig
+Steige
 Steigen
 Steigenden
 Steigender
@@ -4607,6 +4623,7 @@ Steilheit
 Steilheitsbegrenzt
 Stein
 Steinalt
+Steinbauer
 Steinboden
 Steinbutt
 Steinen
@@ -5204,6 +5221,7 @@ Strengte
 Strengten
 Stresemann
 Stress
+Stresse
 Stressen
 Stressig
 Streu
@@ -5518,6 +5536,7 @@ Südkoreanisch
 Südländer
 Südländisch
 Südlich
+Südlicheren
 Sudlig
 Sudoku
 Südöstlich

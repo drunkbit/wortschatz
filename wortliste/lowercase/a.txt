@@ -47639,6 +47639,7 @@ aufhebungs
 aufheitern
 aufheiz
 aufheizen
+aufheizt
 aufhelfen
 aufhellen
 aufhetzen
@@ -48693,6 +48694,7 @@ ausgetragen
 ausgetreten
 ausgetrieben
 ausgetrocknet
+ausgetrockneter
 ausgetrotzt
 ausgetrunken
 ausgetüftelt
@@ -48922,6 +48924,7 @@ ausrechnen
 ausrede
 ausreden
 ausreichen
+ausreichend
 ausreichende
 ausreichenden
 ausreifen

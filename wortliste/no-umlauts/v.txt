@@ -363,6 +363,7 @@ verbarg
 verbarrikadieren
 verbauen
 verbauern
+verbaut
 verberge
 verbergen
 verbesserbarkeit
@@ -617,6 +618,7 @@ Verdeutschen
 Verdi
 verdichten
 Verdichten
+Verdichtete
 verdicken
 Verdicken
 verdiene
@@ -647,6 +649,7 @@ verdorben
 verdorbenen
 Verdorbenheit
 verdorren
+verdorrter
 verdraengen
 Verdraengen
 verdrahten
@@ -713,6 +716,7 @@ verdunkelungsgefahr
 Verdunkelungsgefahr
 verdunsten
 Verdunsten
+Verdunstung
 verdursten
 verdurstete
 verdutzen
@@ -931,6 +935,7 @@ verfroren
 verfrueht
 verfuegbar
 verfuegbaren
+verfuegbarer
 verfuegbarkeit
 Verfuegbarkeit
 verfuegbarkeitsanforderungen
@@ -977,6 +982,7 @@ vergangene
 Vergangene
 vergangenen
 vergangenes
+Vergangenes
 vergangenheit
 Vergangenheit
 vergangenheitsbezogen
@@ -1870,6 +1876,7 @@ verplappern
 verplaudern
 verplempern
 verpoent
+verpoenten
 verpolen
 verpolschutz
 Verpolschutz
@@ -2826,6 +2833,7 @@ verweint
 verweis
 Verweis
 verweisen
+verweist
 Verweisung
 verweisungszeichen
 Verweisungszeichen
@@ -3676,6 +3684,7 @@ vorausgeschaetzt
 vorausgeschickt
 vorausgesehen
 vorausgesetzt
+Vorausgesetzt
 vorausgewaehlt
 vorausging
 vorauskasse
@@ -3860,6 +3869,7 @@ Vorgaengen
 vorgaenger
 Vorgaenger
 Vorgaertchen
+Vorgaerten
 Vorgang
 Vorganges
 vorgangs

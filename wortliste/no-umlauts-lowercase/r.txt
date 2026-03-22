@@ -244,6 +244,8 @@ rates
 ratgeber
 rathaus
 rathausbau
+rathauspark
+rathausparkbrunnen
 rathenow
 ratifikation
 ratifizieren
@@ -263,6 +265,7 @@ rationalitaetskriterien
 rationalitaetskriterium
 rationell
 rationieren
+rationiert
 ratlos
 ratlosigkeit
 rats
@@ -374,6 +377,7 @@ realisation
 realisierbar
 realisierbarkeit
 realisieren
+realisierung
 realisierungschance
 realisierungsmoeglichkeit
 realismus
@@ -1056,6 +1060,7 @@ residuum
 resignation
 resignieren
 resistent
+resistente
 resistenz
 resolut
 resolution
@@ -1588,6 +1593,7 @@ rudi
 rudiment
 rudimentaer
 rudolf
+rudolph
 ruebe
 rueberspielen
 ruebezahl

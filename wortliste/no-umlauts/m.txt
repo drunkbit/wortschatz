@@ -1,5 +1,6 @@
 m
 mA
+MA
 maar
 Maar
 maas
@@ -317,6 +318,7 @@ mainz
 Mainz
 mainzer
 Mainzer
+Mais
 maisernte
 Maisernte
 maiskolben
@@ -1200,6 +1202,7 @@ meditation
 Meditation
 meditativ
 mediterran
+mediterranen
 meditieren
 medium
 Medium
@@ -1847,6 +1850,7 @@ Mikrocontroller
 mikroelektronisch
 mikrofon
 Mikrofon
+Mikroklima
 mikrophon
 Mikrophon
 mikroprozessor
@@ -2756,6 +2760,7 @@ mobbingvorwuerfe
 Mobbingvorwuerfe
 mobil
 Mobil
+mobile
 mobilgemacht
 mobiliar
 Mobiliar
@@ -2814,6 +2819,7 @@ moderieren
 moderig
 modern
 moderne
+modernen
 modernisieren
 Modernisieren
 modernisierungs
@@ -3052,6 +3058,7 @@ monographie
 Monographie
 monokultur
 Monokultur
+Monokulturen
 monolithisch
 monolog
 Monolog
@@ -3120,6 +3127,7 @@ Montur
 monument
 Monument
 monumental
+Monumental
 monumentalbauten
 Monumentalbauten
 monumentalen

@@ -1809,6 +1809,7 @@ Englisch
 Englischaufgabe
 Englische
 Englischen
+Englischer
 Englischheit
 Englischprofessor
 Englischprofessors
@@ -2239,6 +2240,7 @@ Entsetzliches
 Entsetzt
 Entseuchungsanstalt
 Entsichern
+Entsiegeln
 Entsinnen
 Entsorgen
 Entsorgungs
@@ -2650,11 +2652,13 @@ Ergebnis
 Ergebnislos
 Ergebnisreich
 Ergebnisse
+Ergebnissen
 Ergebnisses
 Ergebung
 Ergehen
 Ergibt
 Ergiebig
+Ergiebiger
 Ergiebigere
 Ergiebigkeit
 Ergießen
@@ -3042,6 +3046,7 @@ Erretten
 Erretter
 Errettung
 Errichten
+Errichtet
 Errichtung
 Errichtungs
 Erriet
@@ -3422,6 +3427,7 @@ Essenziell
 Esser
 Eßgeschirr
 Essig
+Essigbäumen
 Esslingen
 Esso
 Eßtisch
@@ -3740,6 +3746,7 @@ Extravaganz
 Extravertiert
 Extrem
 Extrema
+Extreme
 Extremismus
 Extremist
 Extremistenführer

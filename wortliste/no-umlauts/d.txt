@@ -908,6 +908,7 @@ Denkmaeler
 Denkmahl
 denkmal
 Denkmal
+Denkmalbrunnen
 denkmalgeschuetzt
 denkmalsschutz
 Denkmalsschutz
@@ -1157,6 +1158,7 @@ deutest
 deutet
 deutete
 deutlich
+deutliche
 deutlichen
 deutlicher
 deutliches
@@ -1837,6 +1839,7 @@ divergenzwinkel
 Divergenzwinkel
 divergieren
 divers
+diverse
 diversifikation
 Diversifikation
 diversifizieren

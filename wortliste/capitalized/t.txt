@@ -783,6 +783,7 @@ Thrombus
 Thron
 Thronen
 Thronfolger
+Thujen
 Thunderbird
 Thunfisch
 Thurgau
@@ -1483,6 +1484,7 @@ Trilogie
 Trimenon
 Trimmen
 Trink
+Trinkbrunnen
 Trinke
 Trinken
 Trinker
@@ -1493,6 +1495,8 @@ Trinkgelder
 Trinkgeldern
 Trinkspruch
 Trinkt
+Trinkwasser
+Trinkwasserbrunnen
 Trio
 Triole
 Trip
@@ -1524,13 +1528,17 @@ Trivialerweise
 Trivialität
 Trivialroman
 Trocken
+Trockenblumenwiesen
 Trockene
 Trockenen
 Trockener
 Trockengelegt
 Trockenheit
+Trockenheitsstress
 Trockenlegen
+Trockenphasen
 Trockenrasierer
+Trockenstresses
 Trocknen
 Trockner
 Trocknete

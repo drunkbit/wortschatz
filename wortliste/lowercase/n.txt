@@ -397,6 +397,7 @@ nachuntersuchung
 nachverbrennung
 nachverfolgen
 nachverhandeln
+nachvollziehbar
 nachvollziehbarkeit
 nachvollziehen
 nachvollzog
@@ -489,7 +490,9 @@ nadel
 nadelbestreifte
 nadelgestreift
 nadelöhr
+nadia
 nadine
+nadja
 nagasaki
 nagel
 nägel
@@ -513,6 +516,7 @@ nahelegen
 naheliegend
 nahen
 nähen
+naher
 näher
 nähere
 näheren
@@ -710,6 +714,7 @@ natürlichkeit
 natürlichste
 natürlichsten
 natürlichzahlig
+naturnaher
 naturrein
 naturtheater
 naturverbunden
@@ -833,6 +838,7 @@ neonazi
 neonazismus
 neonazistisch
 neonlicht
+neophyten
 neoprenanzug
 neos
 nepal
@@ -971,6 +977,7 @@ neunzigste
 neunzigtausendste
 neuordnen
 neuorganisation
+neupflanzungen
 neuphilologisch
 neuralgisch
 neuraltherapie
@@ -1185,6 +1192,7 @@ niedersächsisch
 niedersausen
 niederschießen
 niederschlag
+niederschläge
 niederschlagen
 niederschlags
 niederschlagsfrei
@@ -1545,6 +1553,8 @@ nutzenanalyse
 nutzenfunktion
 nutzer
 nutzerfreundlich
+nutzfläche
+nutzgarten
 nützlich
 nützlicher
 nützlichkeit
@@ -1556,6 +1566,7 @@ nutzlosigkeit
 nutzmachung
 nutznießen
 nutznießer
+nutzpflanzen
 nützt
 nützte
 nutzten

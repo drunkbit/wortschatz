@@ -161,6 +161,7 @@ Mainframe
 Mainstream
 Mainz
 Mainzer
+Mais
 Maisernte
 Maiskolben
 Maisladung
@@ -751,6 +752,7 @@ Medina
 Meditation
 Meditativ
 Mediterran
+Mediterranen
 Meditieren
 Medium
 Medizin
@@ -1184,6 +1186,7 @@ Mikrobiologisch
 Mikrocontroller
 Mikroelektronisch
 Mikrofon
+Mikroklima
 Mikrophon
 Mikroprozessor
 Mikroskop
@@ -1883,6 +1886,7 @@ Möbeldurcheinander
 Möbeln
 Möbelwagen
 Mobil
+Mobile
 Mobilgemacht
 Mobiliar
 Mobilien
@@ -1926,6 +1930,7 @@ Moderieren
 Moderig
 Modern
 Moderne
+Modernen
 Modernisieren
 Modernisierungs
 Modernität
@@ -2056,6 +2061,7 @@ Monografisch
 Monogramm
 Monographie
 Monokultur
+Monokulturen
 Monolithisch
 Monolog
 Monomanie

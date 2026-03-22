@@ -12,6 +12,7 @@ Quadrantenfestlegung
 quadrat
 Quadrat
 quadratisch
+Quadratmeter
 quadratmeterpreis
 Quadratmeterpreis
 quadratur

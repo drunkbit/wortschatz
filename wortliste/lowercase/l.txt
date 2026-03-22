@@ -176,6 +176,7 @@ landesparlament
 landesplanerisch
 landespolitisch
 landesprache
+landesteilen
 landesüblich
 landesweit
 landete
@@ -187,6 +188,7 @@ landhaus
 landhause
 landhäusern
 landläufig
+landläufigen
 landläufigkeit
 ländler
 ländlich
@@ -196,6 +198,7 @@ landmädchen
 landrover
 landschaftlich
 landschafts
+landschaftsgestalters
 landshut
 landsitze
 landsknecht
@@ -242,6 +245,7 @@ langer
 länger
 längere
 längerem
+längeren
 längerer
 längerfristig
 langes
@@ -491,6 +495,7 @@ lebe
 lebedame
 leben
 lebende
+lebenden
 lebendgeboren
 lebendig
 lebendige
@@ -681,6 +686,7 @@ lehrlingsstelle
 lehrplan
 lehrreich
 lehrreiches
+lehrt
 lehrte
 lehrzimmer
 leib
@@ -1004,6 +1010,7 @@ lichtschwach
 lichtschwächer
 lichtschwächste
 lichtstark
+lichtsteuerung
 lichtstreifen
 lichtzone
 lid
@@ -1239,6 +1246,7 @@ literat
 literatur
 literaturhaus
 literaturwissenschaftlich
+litern
 literweise
 litfaßsäule
 lithium
@@ -1479,6 +1487,7 @@ lostrat
 lostreten
 lostrittst
 lösung
+lösungen
 lösungs
 lösungswettbewerb
 losweinen

@@ -515,8 +515,10 @@ Baume
 Bäume
 baumeln
 baumelte
+Bäumen
 Baumes
 Baumgruppe
+Baumkunde
 baumstark
 baumstumpf
 Baumstumpf
@@ -778,6 +780,7 @@ bedingt
 bedingtheit
 Bedingtheit
 Bedingung
+Bedingungen
 bedingungs
 Bedingungs
 bedingungslos
@@ -986,6 +989,8 @@ befühlte
 befuhr
 befüllen
 Befüllen
+befüllt
+Befüllung
 befund
 Befund
 befunden
@@ -1107,6 +1112,7 @@ begnügte
 begonie
 Begonie
 begonnen
+Begonnen
 begonnener
 begoß
 begossen
@@ -1687,6 +1693,7 @@ Belästigen
 belästigt
 Belästigung
 Belastung
+Belastungen
 belastungs
 Belastungs
 belastungsfrei
@@ -1944,6 +1951,7 @@ benutzerorientiert
 benutzt
 benützt
 benützte
+Benutzung
 Benützung
 benutzungs
 Benutzungs
@@ -3156,8 +3164,10 @@ bewarb
 bewarf
 bewässern
 Bewässern
+Bewässerung
 bewässerungs
 Bewässerungs
+Bewässerungsanlagen
 bewegen
 Bewegen
 bewegenden
@@ -4928,6 +4938,7 @@ Brunft
 Brunhild
 brunnen
 Brunnen
+Brunnensaison
 Bruno
 brunst
 Brunst
@@ -5167,6 +5178,7 @@ bundesbevollmächtigte
 Bundesbevollmächtigte
 bundesdeutsch
 Bundesebene
+Bundesgärten
 bundesgesetzblatt
 Bundesgesetzblatt
 bundesgesetzlich
@@ -5388,3 +5400,4 @@ Byzantiner
 byzantinisch
 byzanz
 Byzanz
+bzw

@@ -216,6 +216,8 @@ Rates
 Ratgeber
 Rathaus
 Rathausbau
+Rathauspark
+Rathausparkbrunnen
 Rathenow
 Ratifikation
 Ratifizieren
@@ -235,6 +237,7 @@ Rationalitätskriterien
 Rationalitätskriterium
 Rationell
 Rationieren
+Rationiert
 Ratlos
 Ratlosigkeit
 Rats
@@ -374,6 +377,7 @@ Realisation
 Realisierbar
 Realisierbarkeit
 Realisieren
+Realisierung
 Realisierungschance
 Realisierungsmöglichkeit
 Realismus
@@ -1056,6 +1060,7 @@ Residuum
 Resignation
 Resignieren
 Resistent
+Resistente
 Resistenz
 Resolut
 Resolution
@@ -1681,6 +1686,7 @@ Rüdiger
 Rudiment
 Rudimentär
 Rudolf
+Rudolph
 Ruf
 Rufe
 Rufen

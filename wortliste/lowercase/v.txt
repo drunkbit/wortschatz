@@ -237,6 +237,7 @@ verbarg
 verbarrikadieren
 verbauen
 verbauern
+verbaut
 verberge
 verbergen
 verbesserbarkeit
@@ -428,6 +429,7 @@ verdeutlicht
 verdeutschen
 verdi
 verdichten
+verdichtete
 verdicken
 verdiene
 verdienen
@@ -453,6 +455,7 @@ verdorben
 verdorbenen
 verdorbenheit
 verdorren
+verdorrter
 verdrahten
 verdrahtungskasten
 verdrahtungspläne
@@ -497,6 +500,7 @@ verdünnen
 verdünnisieren
 verdünnt
 verdunsten
+verdunstung
 verdursten
 verdurstete
 verdüstern
@@ -654,6 +658,7 @@ verfroren
 verfrüht
 verfügbar
 verfügbaren
+verfügbarer
 verfügbarkeit
 verfügbarkeitsanforderungen
 verfügen
@@ -1330,6 +1335,7 @@ verpolschutz
 verpolsicher
 verpolungssicher
 verpönt
+verpönten
 verprassen
 verprellen
 verprivatisieren
@@ -2034,6 +2040,7 @@ verweilzeit
 verweint
 verweis
 verweisen
+verweist
 verweisung
 verweisungszeichen
 verwelken
@@ -2820,6 +2827,7 @@ vorgänger
 vorganges
 vorgangs
 vorgärtchen
+vorgärten
 vorgaukeln
 vorgeahnt
 vorgearbeitet

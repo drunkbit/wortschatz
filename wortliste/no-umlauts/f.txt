@@ -870,6 +870,7 @@ Fertigkeit
 fertigmachen
 fertigstellen
 Fertigstellen
+Fertigstellung
 fertigte
 fertigungs
 Fertigungs
@@ -1900,6 +1901,7 @@ foehrenzapfen
 Foehrenzapfen
 foerder
 Foerder
+foerdere
 foerderer
 Foerderer
 foerdererantriebs
@@ -2153,6 +2155,7 @@ forschen
 Forschen
 forscher
 Forscher
+forscht
 forschte
 Forschung
 forschungs
@@ -2740,6 +2743,7 @@ fremdsprachig
 fremdsprachlich
 frenetisch
 frequentieren
+frequentierten
 frequenz
 Frequenz
 frequenzabhaengig
@@ -3030,6 +3034,7 @@ Fruehling
 fruehlings
 Fruehlings
 Fruehlingsadjektive
+Fruehlingsbeginn
 fruehlingshaft
 Fruehlingswoerter
 Fruehlingszitate

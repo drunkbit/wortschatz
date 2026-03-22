@@ -161,6 +161,7 @@ Obsoleszenz
 obsolet
 obst
 Obst
+Obstbäumen
 Obster
 obstruktion
 Obstruktion
@@ -298,6 +299,7 @@ ohmsch
 ohne
 Ohne
 ohnedies
+Ohnedies
 ohneeinander
 ohnegleichen
 ohnehin

@@ -605,6 +605,7 @@ Fertiggestellt
 Fertigkeit
 Fertigmachen
 Fertigstellen
+Fertigstellung
 Fertigte
 Fertigungs
 Fertigungstechnisch
@@ -1356,6 +1357,7 @@ Forcieren
 Ford
 Förder
 Fordere
+Fördere
 Förderer
 Fördererantriebs
 Fördererbewegung
@@ -1450,6 +1452,7 @@ Forsa
 Forsch
 Forschen
 Forscher
+Forscht
 Forschte
 Forschung
 Forschungs
@@ -1898,6 +1901,7 @@ Fremdsprachig
 Fremdsprachlich
 Frenetisch
 Frequentieren
+Frequentierten
 Frequenz
 Frequenzabhängig
 Frequenzmoduliert
@@ -2103,6 +2107,7 @@ Frühkindlich
 Frühling
 Frühlings
 Frühlingsadjektive
+Frühlingsbeginn
 Frühlingshaft
 Frühlingswörter
 Frühlingszitate

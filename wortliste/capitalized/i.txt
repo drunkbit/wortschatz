@@ -516,6 +516,7 @@ Innensechskant
 Innensechskantschlüssel
 Innensechskantschraube
 Innenseite
+Innenstadt
 Innerafrikanisch
 Inneramerikanisch
 Innerbetrieblich
@@ -695,6 +696,7 @@ Intendieren
 Intensität
 Intensitätsschwächung
 Intensiv
+Intensiver
 Intensivieren
 Intensivmedizinisch
 Intensivstation

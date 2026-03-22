@@ -676,6 +676,7 @@ wasserskiern
 Wasserskiern
 wasserspeier
 Wasserspeier
+Wasserspender
 Wasserspritzer
 wasserspruehend
 wasserspuelung
@@ -688,6 +689,7 @@ wasserstoffhaltig
 Wasserstrasse
 wassersuechtig
 Wassertrinken
+Wasserversorgung
 waten
 Waterloo
 watsche
@@ -1470,6 +1472,7 @@ weltumsegler
 Weltumsegler
 weltumspannend
 weltungewandter
+Weltwassertag
 weltweit
 weltweiten
 Weltwirtschaft
@@ -1722,6 +1725,7 @@ Wetten
 wetter
 Wetter
 wetterbestimmend
+Wetterextreme
 wetterfest
 wetterfuehlig
 wetterfuehligkeit
@@ -2115,6 +2119,7 @@ Wiese
 wiesel
 Wiesel
 wieselflink
+Wiesen
 wiesenbluete
 Wiesenbluete
 wiesenlaender
@@ -2249,6 +2254,7 @@ Windeseile
 Windfall
 windgeschuetzt
 windig
+Windisch
 windmuehlenfluegel
 Windmuehlenfluegel
 windows
@@ -2300,6 +2306,7 @@ Winterkleid
 Winterkleider
 Winterkleidung
 winterlich
+Wintermonate
 Wintermorgen
 Wintershall
 wintersport
@@ -2599,6 +2606,7 @@ wohlerzogener
 wohlfahrts
 Wohlfahrts
 wohlfeil
+wohlfuehle
 wohlfuehlen
 Wohlfuehlwoerter
 wohlgefaellig
@@ -2996,6 +3004,7 @@ wunsch
 Wunsch
 Wunsche
 Wunsches
+Wunschgartens
 wunschgemaess
 wunschlos
 wuppertal

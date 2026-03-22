@@ -93,6 +93,7 @@ baeuerlich
 baeumchen
 Baeumchen
 Baeume
+Baeumen
 baeumt
 baeumte
 Baeumten
@@ -522,6 +523,7 @@ baumeln
 baumelte
 Baumes
 Baumgruppe
+Baumkunde
 baumstark
 baumstumpf
 Baumstumpf
@@ -778,6 +780,7 @@ bedingt
 bedingtheit
 Bedingtheit
 Bedingung
+Bedingungen
 bedingungs
 Bedingungs
 bedingungslos
@@ -982,6 +985,8 @@ befuehlen
 befuehlte
 befuellen
 Befuellen
+befuellt
+Befuellung
 befuerchten
 Befuerchten
 befuerchtet
@@ -1107,6 +1112,7 @@ begnuegte
 begonie
 Begonie
 begonnen
+Begonnen
 begonnener
 begoss
 begossen
@@ -1688,6 +1694,7 @@ Belasten
 belastend
 belastet
 Belastung
+Belastungen
 belastungs
 Belastungs
 belastungsfrei
@@ -1944,6 +1951,7 @@ benutzereigen
 benutzerfreundlich
 benutzerorientiert
 benutzt
+Benutzung
 benutzungs
 Benutzungs
 Benz
@@ -3136,8 +3144,10 @@ bewaeltigungsstrategie
 Bewaeltigungsstrategie
 bewaessern
 Bewaessern
+Bewaesserung
 bewaesserungs
 Bewaesserungs
+Bewaesserungsanlagen
 bewaffnen
 Bewaffnen
 bewaffnete
@@ -4933,6 +4943,7 @@ Brunft
 Brunhild
 brunnen
 Brunnen
+Brunnensaison
 Bruno
 brunst
 Brunst
@@ -5239,6 +5250,7 @@ bundesbevollmaechtigte
 Bundesbevollmaechtigte
 bundesdeutsch
 Bundesebene
+Bundesgaerten
 bundesgesetzblatt
 Bundesgesetzblatt
 bundesgesetzlich
@@ -5380,3 +5392,4 @@ Byzantiner
 byzantinisch
 byzanz
 Byzanz
+bzw

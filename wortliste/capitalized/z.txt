@@ -257,6 +257,7 @@ Zensus
 Zentigramm
 Zentimeter
 Zentimeterbereich
+Zentimetern
 Zentner
 Zentnerschwer
 Zentral
@@ -1891,6 +1892,7 @@ Zustandebringen
 Zustandekommen
 Zustandes
 Zuständig
+Zuständige
 Zuständigen
 Zuständiger
 Zuständigkeit

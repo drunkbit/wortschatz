@@ -1248,6 +1248,7 @@ Thron
 thronen
 thronfolger
 Thronfolger
+Thujen
 thunderbird
 Thunderbird
 thunfisch
@@ -2337,6 +2338,7 @@ Trimenon
 trimmen
 trink
 Trink
+Trinkbrunnen
 trinke
 trinken
 Trinken
@@ -2350,6 +2352,8 @@ Trinkgelder
 Trinkgeldern
 Trinkspruch
 trinkt
+Trinkwasser
+Trinkwasserbrunnen
 trio
 Trio
 triole
@@ -2404,15 +2408,19 @@ trivialroman
 Trivialroman
 trocken
 Trocken
+Trockenblumenwiesen
 trockene
 trockenen
 trockener
 trockengelegt
 trockenheit
 Trockenheit
+Trockenheitsstress
 trockenlegen
+Trockenphasen
 trockenrasierer
 Trockenrasierer
+Trockenstresses
 trocknen
 Trocknen
 trockner

@@ -237,6 +237,7 @@ Verbarg
 Verbarrikadieren
 Verbauen
 Verbauern
+Verbaut
 Verberge
 Verbergen
 Verbesserbarkeit
@@ -428,6 +429,7 @@ Verdeutlicht
 Verdeutschen
 Verdi
 Verdichten
+Verdichtete
 Verdicken
 Verdiene
 Verdienen
@@ -453,6 +455,7 @@ Verdorben
 Verdorbenen
 Verdorbenheit
 Verdorren
+Verdorrter
 Verdrahten
 Verdrahtungskasten
 Verdrahtungspläne
@@ -497,6 +500,7 @@ Verdünnen
 Verdünnisieren
 Verdünnt
 Verdunsten
+Verdunstung
 Verdursten
 Verdurstete
 Verdüstern
@@ -654,6 +658,7 @@ Verfroren
 Verfrüht
 Verfügbar
 Verfügbaren
+Verfügbarer
 Verfügbarkeit
 Verfügbarkeitsanforderungen
 Verfügen
@@ -1330,6 +1335,7 @@ Verpolschutz
 Verpolsicher
 Verpolungssicher
 Verpönt
+Verpönten
 Verprassen
 Verprellen
 Verprivatisieren
@@ -2034,6 +2040,7 @@ Verweilzeit
 Verweint
 Verweis
 Verweisen
+Verweist
 Verweisung
 Verweisungszeichen
 Verwelken
@@ -2820,6 +2827,7 @@ Vorgänger
 Vorganges
 Vorgangs
 Vorgärtchen
+Vorgärten
 Vorgaukeln
 Vorgeahnt
 Vorgearbeitet

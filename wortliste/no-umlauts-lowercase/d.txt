@@ -630,6 +630,7 @@ denkkraft
 denkmaeler
 denkmahl
 denkmal
+denkmalbrunnen
 denkmalgeschuetzt
 denkmalsschutz
 denkst
@@ -796,6 +797,7 @@ deutest
 deutet
 deutete
 deutlich
+deutliche
 deutlichen
 deutlicher
 deutliches
@@ -1233,6 +1235,7 @@ divergenz
 divergenzwinkel
 divergieren
 divers
+diverse
 diversifikation
 diversifizieren
 dividend

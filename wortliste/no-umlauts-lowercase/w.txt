@@ -456,6 +456,7 @@ wasserscheu
 wasserschwall
 wasserskiern
 wasserspeier
+wasserspender
 wasserspritzer
 wasserspruehend
 wasserspuelung
@@ -465,6 +466,7 @@ wasserstoffhaltig
 wasserstrasse
 wassersuechtig
 wassertrinken
+wasserversorgung
 waten
 waterloo
 watsche
@@ -1106,6 +1108,7 @@ weltumkrempelnd
 weltumsegler
 weltumspannend
 weltungewandter
+weltwassertag
 weltweit
 weltweiten
 weltwirtschaft
@@ -1280,6 +1283,7 @@ wetteifern
 wetten
 wetter
 wetterbestimmend
+wetterextreme
 wetterfest
 wetterfuehlig
 wetterfuehligkeit
@@ -1590,6 +1594,7 @@ wiesbaden
 wiese
 wiesel
 wieselflink
+wiesen
 wiesenbluete
 wiesenlaender
 wiesenlands
@@ -1682,6 +1687,7 @@ windeseile
 windfall
 windgeschuetzt
 windig
+windisch
 windmuehlenfluegel
 windows
 windreich
@@ -1721,6 +1727,7 @@ winterkleid
 winterkleider
 winterkleidung
 winterlich
+wintermonate
 wintermorgen
 wintershall
 wintersport
@@ -1933,6 +1940,7 @@ wohlerzogen
 wohlerzogener
 wohlfahrts
 wohlfeil
+wohlfuehle
 wohlfuehlen
 wohlfuehlwoerter
 wohlgefaellig
@@ -2224,6 +2232,7 @@ wundstarrkrampf
 wunsch
 wunsche
 wunsches
+wunschgartens
 wunschgemaess
 wunschlos
 wuppertal

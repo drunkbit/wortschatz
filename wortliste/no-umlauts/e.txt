@@ -2373,6 +2373,7 @@ englische
 Englische
 englischen
 Englischen
+englischer
 englischheit
 Englischheit
 Englischprofessor
@@ -2535,6 +2536,7 @@ entfuhr
 Entgang
 entgangen
 entgegen
+Entgegen
 entgegenarbeiten
 entgegenatmet
 entgegenblickt
@@ -2935,6 +2937,7 @@ entsetzt
 entseuchungsanstalt
 Entseuchungsanstalt
 entsichern
+Entsiegeln
 entsinnen
 entsorgen
 Entsorgen
@@ -2963,6 +2966,7 @@ Entsprechen
 entsprechend
 Entsprechend
 entsprechende
+Entsprechende
 entsprechenden
 entsprechender
 Entsprechungen
@@ -3505,11 +3509,13 @@ Ergebnis
 ergebnislos
 ergebnisreich
 Ergebnisse
+Ergebnissen
 Ergebnisses
 Ergebung
 ergehen
 ergibt
 ergiebig
+ergiebiger
 ergiebigere
 ergiebigkeit
 Ergiebigkeit
@@ -4026,6 +4032,7 @@ Erretter
 Errettung
 errichten
 Errichten
+errichtet
 Errichtung
 errichtungs
 Errichtungs
@@ -4194,6 +4201,7 @@ erstellungs
 Erstellungs
 erstemal
 ersten
+Ersten
 erstenmal
 erstens
 Erstens
@@ -4531,6 +4539,7 @@ Esser
 Essgeschirr
 essig
 Essig
+Essigbaeumen
 Esslingen
 Esso
 Esstisch
@@ -5024,6 +5033,7 @@ extrem
 Extrem
 extrema
 Extrema
+extreme
 extremismus
 Extremismus
 extremist

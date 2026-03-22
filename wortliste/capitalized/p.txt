@@ -736,6 +736,7 @@ Pfirsichsaft
 Pfister
 Pflanze
 Pflanzen
+Pflanzenwahl
 Pflanzer
 Pflanzgut
 Pflanzlich
@@ -747,6 +748,7 @@ Pflaume
 Pflaumen
 Pflege
 Pflegebedürftig
+Pflegeintensiven
 Pflegeleicht
 Pflegen
 Pfleger
@@ -987,6 +989,7 @@ Pils
 Pilsen
 Pilz
 Pilzförmig
+Pilzkrankheiten
 Pimmel
 Pimpern
 Pin
@@ -1135,6 +1138,8 @@ Plasmadisplay
 Plasmen
 Plastik
 Plastikartig
+Plastikgeflecht
+Plastikrasen
 Plastisch
 Plateau
 Platin

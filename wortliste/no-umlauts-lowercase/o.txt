@@ -106,6 +106,7 @@ obskur
 obsoleszenz
 obsolet
 obst
+obstbaeumen
 obster
 obstruktion
 obstruktionskurs
@@ -189,6 +190,7 @@ oesterlich
 oesterreich
 oesterreicher
 oesterreichisch
+oesterreichische
 oesterreichischen
 oestlich
 oestlichen

@@ -785,6 +785,7 @@ thronfolger
 thueringen
 thueringer
 thueringisch
+thujen
 thunderbird
 thunfisch
 thurgau
@@ -1482,6 +1483,7 @@ trilogie
 trimenon
 trimmen
 trink
+trinkbrunnen
 trinke
 trinken
 trinker
@@ -1492,6 +1494,8 @@ trinkgelder
 trinkgeldern
 trinkspruch
 trinkt
+trinkwasser
+trinkwasserbrunnen
 trio
 triole
 trip
@@ -1523,13 +1527,17 @@ trivialerweise
 trivialitaet
 trivialroman
 trocken
+trockenblumenwiesen
 trockene
 trockenen
 trockener
 trockengelegt
 trockenheit
+trockenheitsstress
 trockenlegen
+trockenphasen
 trockenrasierer
+trockenstresses
 trocknen
 trockner
 trocknete

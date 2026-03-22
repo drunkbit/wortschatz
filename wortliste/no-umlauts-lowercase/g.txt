@@ -43,6 +43,7 @@ gaerstoff
 gaertchen
 gaerten
 gaertner
+gaertnerbetrieb
 gaertnerei
 gaertnereibesitzer
 gaertnergehilfe
@@ -58,6 +59,7 @@ gaffen
 gag
 gagenerhoehung
 gala
+galand
 galant
 galanterie
 galapagos
@@ -163,9 +165,12 @@ garnpreis
 garstig
 garten
 gartenarbeit
+gartenbau
 gartenbautechnisch
+gartengestaltung
 gartengitters
 gartenlaube
+gartens
 gartentor
 gartenweg
 gas
@@ -641,6 +646,7 @@ gefieder
 gefiedert
 gefiel
 gefilde
+gefilden
 gefilmt
 gefiltert
 gefilzt
@@ -702,6 +708,7 @@ gefrevelt
 gefrickel
 gefrier
 gefrieren
+gefrierendes
 gefristet
 gefroren
 gefruchtet
@@ -1685,6 +1692,7 @@ gepflanzt
 gepflastert
 gepflegt
 gepflegte
+gepflegten
 gepflogenheit
 gepflueckt
 gepfluegt
@@ -1986,6 +1994,7 @@ gesamtgesellschaftlich
 gesamtheit
 gesamtheitlich
 gesamtkoreanisch
+gesamtkosten
 gesamtlage
 gesamtmenschlich
 gesamtskandinavisch
@@ -2029,6 +2038,7 @@ geschaeftsfaehig
 geschaeftsfreund
 geschaeftsfreunde
 geschaeftsfuehrend
+geschaeftsfuehrer
 geschaeftsgebaren
 geschaeftskundig
 geschaeftsleute
@@ -3077,9 +3087,13 @@ gieren
 gierig
 gierwinkel
 giess
+giesse
 giessen
 giesser
 giesserei
+giessintervallen
+giesstaetigkeit
+giessverhalten
 gift
 giften
 giftfrei
@@ -3868,8 +3882,11 @@ gruendlicher
 gruendlichkeit
 gruendungs
 gruenen
+gruener
 gruenlich
 gruenlichbraun
+gruens
+gruenzeug
 gruess
 gruesse
 gruessen
@@ -3913,6 +3930,7 @@ grundsaetzlichkeit
 grundsatz
 grundsolid
 grundstuecks
+grundstuecksgrenzen
 grundterm
 grundueberzeugung
 grundverschieden

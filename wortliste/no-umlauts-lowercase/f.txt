@@ -604,6 +604,7 @@ fertiggestellt
 fertigkeit
 fertigmachen
 fertigstellen
+fertigstellung
 fertigte
 fertigungs
 fertigungstechnisch
@@ -1294,6 +1295,7 @@ foehre
 foehrengehoelz
 foehrenzapfen
 foerder
+foerdere
 foerderer
 foerdererantriebs
 foerdererbewegung
@@ -1451,6 +1453,7 @@ forsa
 forsch
 forschen
 forscher
+forscht
 forschte
 forschung
 forschungs
@@ -1895,6 +1898,7 @@ fremdsprachig
 fremdsprachlich
 frenetisch
 frequentieren
+frequentierten
 frequenz
 frequenzabhaengig
 frequenzmoduliert
@@ -2098,6 +2102,7 @@ fruehkindlich
 fruehling
 fruehlings
 fruehlingsadjektive
+fruehlingsbeginn
 fruehlingshaft
 fruehlingswoerter
 fruehlingszitate

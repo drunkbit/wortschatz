@@ -820,6 +820,7 @@ innensechskantschraube
 Innensechskantschraube
 innenseite
 Innenseite
+Innenstadt
 innerafrikanisch
 inneramerikanisch
 innerbetrieblich
@@ -1100,6 +1101,7 @@ Intensitaet
 intensitaetsschwaechung
 Intensitaetsschwaechung
 intensiv
+intensiver
 intensivieren
 Intensivieren
 intensivmedizinisch

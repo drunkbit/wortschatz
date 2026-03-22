@@ -257,6 +257,7 @@ zensus
 zentigramm
 zentimeter
 zentimeterbereich
+zentimetern
 zentner
 zentnerschwer
 zentral
@@ -1891,6 +1892,7 @@ zustandebringen
 zustandekommen
 zustandes
 zuständig
+zuständige
 zuständigen
 zuständiger
 zuständigkeit

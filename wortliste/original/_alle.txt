@@ -49918,6 +49918,7 @@ aufheiz
 Aufheiz
 aufheizen
 Aufheizen
+aufheizt
 aufhelfen
 aufhellen
 Aufhellen
@@ -51207,6 +51208,7 @@ ausgetragen
 ausgetreten
 ausgetrieben
 ausgetrocknet
+ausgetrockneter
 Ausgetrotzt
 ausgetrunken
 ausgetüftelt
@@ -51519,6 +51521,7 @@ Ausrede
 ausreden
 Ausreden
 ausreichen
+ausreichend
 ausreichende
 ausreichenden
 ausreifen
@@ -52802,8 +52805,10 @@ Baume
 Bäume
 baumeln
 baumelte
+Bäumen
 Baumes
 Baumgruppe
+Baumkunde
 baumstark
 baumstumpf
 Baumstumpf
@@ -53065,6 +53070,7 @@ bedingt
 bedingtheit
 Bedingtheit
 Bedingung
+Bedingungen
 bedingungs
 Bedingungs
 bedingungslos
@@ -53273,6 +53279,8 @@ befühlte
 befuhr
 befüllen
 Befüllen
+befüllt
+Befüllung
 befund
 Befund
 befunden
@@ -53394,6 +53402,7 @@ begnügte
 begonie
 Begonie
 begonnen
+Begonnen
 begonnener
 begoß
 begossen
@@ -53974,6 +53983,7 @@ Belästigen
 belästigt
 Belästigung
 Belastung
+Belastungen
 belastungs
 Belastungs
 belastungsfrei
@@ -54231,6 +54241,7 @@ benutzerorientiert
 benutzt
 benützt
 benützte
+Benutzung
 Benützung
 benutzungs
 Benutzungs
@@ -55443,8 +55454,10 @@ bewarb
 bewarf
 bewässern
 Bewässern
+Bewässerung
 bewässerungs
 Bewässerungs
+Bewässerungsanlagen
 bewegen
 Bewegen
 bewegenden
@@ -57215,6 +57228,7 @@ Brunft
 Brunhild
 brunnen
 Brunnen
+Brunnensaison
 Bruno
 brunst
 Brunst
@@ -57454,6 +57468,7 @@ bundesbevollmächtigte
 Bundesbevollmächtigte
 bundesdeutsch
 Bundesebene
+Bundesgärten
 bundesgesetzblatt
 Bundesgesetzblatt
 bundesgesetzlich
@@ -57675,6 +57690,7 @@ Byzantiner
 byzantinisch
 byzanz
 Byzanz
+bzw
 c
 cabaret
 Cabaret
@@ -59360,6 +59376,7 @@ Denkkraft
 Denkmahl
 denkmal
 Denkmal
+Denkmalbrunnen
 denkmäler
 Denkmäler
 denkmalgeschützt
@@ -59611,6 +59628,7 @@ deutest
 deutet
 deutete
 deutlich
+deutliche
 deutlichen
 deutlicher
 deutliches
@@ -60291,6 +60309,7 @@ divergenzwinkel
 Divergenzwinkel
 divergieren
 divers
+diverse
 diversifikation
 Diversifikation
 diversifizieren
@@ -64097,6 +64116,7 @@ englische
 Englische
 englischen
 Englischen
+englischer
 englischheit
 Englischheit
 Englischprofessor
@@ -64259,6 +64279,7 @@ Entführungs
 Entgang
 entgangen
 entgegen
+Entgegen
 entgegenarbeiten
 entgegenatmet
 entgegenblickt
@@ -64662,6 +64683,7 @@ entsetzt
 entseuchungsanstalt
 Entseuchungsanstalt
 entsichern
+Entsiegeln
 entsinnen
 entsorgen
 Entsorgen
@@ -64690,6 +64712,7 @@ Entsprechen
 entsprechend
 Entsprechend
 entsprechende
+Entsprechende
 entsprechenden
 entsprechender
 Entsprechungen
@@ -65232,11 +65255,13 @@ Ergebnis
 ergebnislos
 ergebnisreich
 Ergebnisse
+Ergebnissen
 Ergebnisses
 Ergebung
 ergehen
 ergibt
 ergiebig
+ergiebiger
 ergiebigere
 ergiebigkeit
 Ergiebigkeit
@@ -65756,6 +65781,7 @@ Erretter
 Errettung
 errichten
 Errichten
+errichtet
 Errichtung
 errichtungs
 Errichtungs
@@ -65924,6 +65950,7 @@ erstellungs
 Erstellungs
 erstemal
 ersten
+Ersten
 erstenmal
 erstens
 Erstens
@@ -66261,6 +66288,7 @@ Esser
 Eßgeschirr
 essig
 Essig
+Essigbäumen
 Esslingen
 Esso
 Eßtisch
@@ -66754,6 +66782,7 @@ extrem
 Extrem
 extrema
 Extrema
+extreme
 extremismus
 Extremismus
 extremist
@@ -67660,6 +67689,7 @@ Fertigkeit
 fertigmachen
 fertigstellen
 Fertigstellen
+Fertigstellung
 fertigte
 fertigungs
 Fertigungs
@@ -68784,6 +68814,7 @@ Ford
 förder
 Förder
 fordere
+fördere
 förderer
 Förderer
 fördererantriebs
@@ -68937,6 +68968,7 @@ forschen
 Forschen
 forscher
 Forscher
+forscht
 forschte
 Forschung
 forschungs
@@ -69532,6 +69564,7 @@ fremdsprachig
 fremdsprachlich
 frenetisch
 frequentieren
+frequentierten
 frequenz
 Frequenz
 frequenzabhängig
@@ -69825,6 +69858,7 @@ Frühling
 frühlings
 Frühlings
 Frühlingsadjektive
+Frühlingsbeginn
 frühlingshaft
 Frühlingswörter
 Frühlingszitate
@@ -70305,6 +70339,7 @@ gähnt
 gähnte
 gala
 Gala
+Galand
 galant
 Galanterie
 galapagos
@@ -70510,13 +70545,17 @@ Garten
 gärten
 Gärten
 Gartenarbeit
+Gartenbau
 gartenbautechnisch
+Gartengestaltung
 Gartengitters
 Gartenlaube
+Gartens
 Gartentor
 Gartenweg
 gärtner
 Gärtner
+Gärtnerbetrieb
 gärtnerei
 Gärtnerei
 gärtnereibesitzer
@@ -71145,6 +71184,7 @@ gefiedert
 gefiel
 gefilde
 Gefilde
+Gefilden
 gefilmt
 gefiltert
 gefilzt
@@ -71216,6 +71256,7 @@ Gefrickel
 gefrier
 Gefrier
 gefrieren
+gefrierendes
 gefristet
 gefroren
 gefruchtet
@@ -72467,6 +72508,7 @@ gepflanzt
 gepflastert
 gepflegt
 gepflegte
+gepflegten
 gepflogenheit
 Gepflogenheit
 gepflückt
@@ -72837,6 +72879,7 @@ gesamtheit
 Gesamtheit
 gesamtheitlich
 gesamtkoreanisch
+Gesamtkosten
 Gesamtlage
 gesamtmenschlich
 gesamtskandinavisch
@@ -72903,6 +72946,7 @@ geschäftsfähig
 Geschäftsfreund
 Geschäftsfreunde
 geschäftsführend
+Geschäftsführer
 geschäftsgebaren
 Geschäftsgebaren
 geschäftskundig
@@ -74179,12 +74223,16 @@ gierwinkel
 Gierwinkel
 gieß
 Gieß
+gieße
 gießen
 Gießen
 gießer
 Gießer
 gießerei
 Gießerei
+Gießintervallen
+Gießtätigkeit
+Gießverhalten
 gift
 Gift
 giften
@@ -75356,6 +75404,7 @@ Grundsätzlichkeit
 grundsolid
 grundstücks
 Grundstücks
+Grundstücksgrenzen
 grundterm
 Grundterm
 Grundüberzeugung
@@ -75367,12 +75416,15 @@ Grundverschiedenes
 Grundzügen
 grünen
 Grünen
+grüner
 Grunewald
 grunge
 Grunge
 grünlich
 grünlichbraun
+Grüns
 grunzen
+Grünzeug
 gruppe
 Gruppe
 gruppen
@@ -76528,6 +76580,7 @@ hawaiianer
 Hawaiianer
 hawaiianisch
 Haydn
+HBLFA
 Hd
 He
 header
@@ -76750,6 +76803,7 @@ heimgezahlt
 heimholen
 heimisch
 heimische
+heimischen
 heimkam
 heimkehr
 Heimkehr
@@ -79148,6 +79202,7 @@ hochprofitabel
 hochprozentig
 hochqualifiziert
 hochqualitativ
+Hochquellenleitung
 hochradioaktiv
 hochrangig
 hochrangige
@@ -79200,6 +79255,7 @@ höchstpersönlich
 höchstplatziert
 Höchstpunkt
 höchstqualifiziert
+Hochstrahlbrunnen
 höchstrichterlich
 Höchststeigerung
 höchstwahrscheinlich
@@ -79905,6 +79961,7 @@ hyäne
 Hyäne
 hybrid
 Hybrid
+Hybridrasen
 hybris
 Hybris
 hydepark
@@ -80803,6 +80860,7 @@ innensechskantschraube
 Innensechskantschraube
 innenseite
 Innenseite
+Innenstadt
 innerafrikanisch
 inneramerikanisch
 innerbetrieblich
@@ -81083,6 +81141,7 @@ Intensität
 intensitätsschwächung
 Intensitätsschwächung
 intensiv
+intensiver
 intensivieren
 Intensivieren
 intensivmedizinisch
@@ -83759,6 +83818,7 @@ Kindererziehung
 kinderfeindlich
 kinderfreundlich
 Kinderfüßen
+Kindergärten
 Kindergedanken
 Kindergeschrei
 Kindergesicht
@@ -84055,6 +84115,7 @@ Klassiker
 klassikerverfilmung
 Klassikerverfilmung
 klassisch
+klassischen
 klassischerweise
 klassizismus
 Klassizismus
@@ -84244,14 +84305,18 @@ Klientelpolitik
 Klienten
 klima
 Klima
+klimafitten
 Klimaförderungen
 klimatisch
+klimatischen
 klimatisieren
 klimatisierung
 Klimatisierung
 klimatologe
 Klimatologe
 Klimavergiftung
+Klimawandel
+Klimawandels
 klimmzug
 Klimmzug
 klimpern
@@ -86038,6 +86103,7 @@ kostengünstig
 kostengünstigen
 kostenintensiv
 kostenlos
+kostenlosem
 kostenmäßig
 kostenneutral
 kostenpflichtig
@@ -86806,6 +86872,7 @@ kündigten
 Kündigung
 kündigungs
 Kündigungs
+Kundinnen
 kundmachen
 Kundmachen
 kundschaft
@@ -86838,6 +86905,7 @@ künstlichem
 künstlichen
 künstlicher
 kunstlos
+Kunstrasen
 Kunstreiterin
 Kunststück
 kunstvoll
@@ -87322,6 +87390,7 @@ Landesparlament
 landesplanerisch
 landespolitisch
 Landesprache
+Landesteilen
 landesüblich
 landesweit
 landete
@@ -87333,6 +87402,7 @@ Landhaus
 Landhause
 Landhäusern
 landläufig
+landläufigen
 landläufigkeit
 Landläufigkeit
 ländler
@@ -87345,6 +87415,7 @@ Landrover
 landschaftlich
 landschafts
 Landschafts
+Landschaftsgestalters
 landshut
 Landshut
 Landsitze
@@ -87406,6 +87477,7 @@ langer
 länger
 längere
 längerem
+längeren
 längerer
 längerfristig
 langes
@@ -87763,6 +87835,7 @@ Lebedame
 leben
 Leben
 lebende
+lebenden
 lebendgeboren
 lebendig
 lebendige
@@ -88025,6 +88098,7 @@ Lehrlingsstelle
 Lehrplan
 lehrreich
 lehrreiches
+lehrt
 lehrte
 Lehrzimmer
 leib
@@ -88498,6 +88572,7 @@ lichtschwach
 lichtschwächer
 lichtschwächste
 lichtstark
+Lichtsteuerung
 Lichtstreifen
 Lichtzone
 lid
@@ -88846,6 +88921,7 @@ literatur
 Literatur
 Literaturhaus
 literaturwissenschaftlich
+Litern
 literweise
 litfaßsäule
 Litfaßsäule
@@ -89187,6 +89263,7 @@ lostrat
 lostreten
 lostrittst
 Lösung
+Lösungen
 lösungs
 Lösungs
 lösungswettbewerb
@@ -89456,6 +89533,7 @@ Lyzeum
 LZW
 m
 mA
+MA
 mäander
 Mäander
 mäanderartig
@@ -89712,6 +89790,7 @@ mainz
 Mainz
 mainzer
 Mainzer
+Mais
 maisernte
 Maisernte
 maiskolben
@@ -90657,6 +90736,7 @@ meditation
 Meditation
 meditativ
 mediterran
+mediterranen
 meditieren
 medium
 Medium
@@ -91304,6 +91384,7 @@ Mikrocontroller
 mikroelektronisch
 mikrofon
 Mikrofon
+Mikroklima
 mikrophon
 Mikrophon
 mikroprozessor
@@ -92235,6 +92316,7 @@ Möbeln
 Möbelwagen
 mobil
 Mobil
+mobile
 mobilgemacht
 mobiliar
 Mobiliar
@@ -92302,6 +92384,7 @@ moderieren
 moderig
 modern
 moderne
+modernen
 modernisieren
 Modernisieren
 modernisierungs
@@ -92509,6 +92592,7 @@ monographie
 Monographie
 monokultur
 Monokultur
+Monokulturen
 monolithisch
 monolog
 Monolog
@@ -92577,6 +92661,7 @@ Montur
 monument
 Monument
 monumental
+Monumental
 monumentalbauten
 Monumentalbauten
 monumentalen
@@ -93667,6 +93752,7 @@ nachverbrennung
 Nachverbrennung
 nachverfolgen
 nachverhandeln
+nachvollziehbar
 nachvollziehbarkeit
 Nachvollziehbarkeit
 nachvollziehen
@@ -93789,7 +93875,9 @@ Nadelbestreifte
 nadelgestreift
 nadelöhr
 Nadelöhr
+Nadia
 Nadine
+Nadja
 nagasaki
 Nagasaki
 nagel
@@ -93824,6 +93912,7 @@ nahen
 Nahen
 nähen
 Nähen
+naher
 näher
 Näher
 nähere
@@ -94122,6 +94211,7 @@ Natürlichkeit
 Natürlichste
 natürlichsten
 natürlichzahlig
+naturnaher
 naturrein
 Naturtheater
 naturverbunden
@@ -94298,6 +94388,7 @@ Neonazismus
 neonazistisch
 neonlicht
 Neonlicht
+Neophyten
 neoprenanzug
 Neoprenanzug
 Neos
@@ -94482,6 +94573,7 @@ neunzigtausendste
 neuordnen
 Neuordnen
 Neuorganisation
+Neupflanzungen
 neuphilologisch
 neuralgisch
 neuraltherapie
@@ -94756,6 +94848,7 @@ niedersausen
 niederschießen
 niederschlag
 Niederschlag
+Niederschläge
 niederschlagen
 niederschlags
 Niederschlags
@@ -95309,6 +95402,8 @@ Nutzenfunktion
 nutzer
 Nutzer
 nutzerfreundlich
+Nutzfläche
+Nutzgarten
 nützlich
 nützlicher
 nützlichkeit
@@ -95324,6 +95419,7 @@ nutznießen
 Nutznießen
 nutznießer
 Nutznießer
+Nutzpflanzen
 nützt
 nützte
 nutzten
@@ -95513,6 +95609,7 @@ Obsoleszenz
 obsolet
 obst
 Obst
+Obstbäumen
 Obster
 obstruktion
 Obstruktion
@@ -95683,6 +95780,7 @@ ohmsch
 ohne
 Ohne
 ohnedies
+Ohnedies
 ohneeinander
 ohnegleichen
 ohnehin
@@ -96213,6 +96311,7 @@ Ostern
 österreicher
 Österreicher
 österreichisch
+Österreichische
 österreichischen
 osteuropa
 Osteuropa
@@ -96909,6 +97008,7 @@ passee
 passen
 Passen
 passend
+Passend
 passende
 passenden
 passender
@@ -97541,6 +97641,7 @@ pflanze
 Pflanze
 pflanzen
 Pflanzen
+Pflanzenwahl
 pflanzer
 Pflanzer
 pflanzgut
@@ -97560,6 +97661,7 @@ Pflaumen
 pflege
 Pflege
 pflegebedürftig
+pflegeintensiven
 pflegeleicht
 pflegen
 Pflegen
@@ -97936,6 +98038,7 @@ Pilsen
 pilz
 Pilz
 pilzförmig
+Pilzkrankheiten
 pimmel
 Pimmel
 pimpern
@@ -98184,6 +98287,8 @@ Plasmen
 plastik
 Plastik
 plastikartig
+Plastikgeflecht
+Plastikrasen
 plastisch
 plateau
 Plateau
@@ -100058,6 +100163,7 @@ Quadrantenfestlegung
 quadrat
 Quadrat
 quadratisch
+Quadratmeter
 quadratmeterpreis
 Quadratmeterpreis
 quadratur
@@ -100609,6 +100715,8 @@ rathaus
 Rathaus
 rathausbau
 Rathausbau
+Rathauspark
+Rathausparkbrunnen
 rathenow
 Rathenow
 ratifikation
@@ -100644,6 +100752,7 @@ Rationalitätskriterium
 rationell
 rationieren
 Rationieren
+rationiert
 ratlos
 ratlosigkeit
 Ratlosigkeit
@@ -100849,6 +100958,7 @@ realisierbarkeit
 Realisierbarkeit
 realisieren
 Realisieren
+Realisierung
 realisierungschance
 Realisierungschance
 realisierungsmöglichkeit
@@ -101887,6 +101997,7 @@ resignation
 Resignation
 resignieren
 resistent
+resistente
 resistenz
 Resistenz
 resolut
@@ -102816,6 +102927,7 @@ rudiment
 Rudiment
 rudimentär
 Rudolf
+Rudolph
 ruf
 Ruf
 Rufe
@@ -103433,9 +103545,12 @@ Sängerin
 sanguinisch
 sanieren
 Sanieren
+saniert
+Sanierung
 Sanierungen
 sanierungs
 Sanierungs
+Sanierungsarbeiten
 sanitär
 Sanitär
 sanitäter
@@ -103765,6 +103880,7 @@ schädlichkeit
 Schädlichkeit
 schädling
 Schädling
+Schädlinge
 schädlings
 Schädlings
 schadlos
@@ -106192,6 +106308,7 @@ schwarzen
 Schwarzen
 schwärzen
 Schwärzen
+Schwarzenbergplatz
 Schwarzenegger
 schwarzer
 Schwarzer
@@ -107444,6 +107561,7 @@ sieb
 Sieb
 siebdruck
 Siebdruck
+Siebeck
 sieben
 Sieben
 siebenbürgen
@@ -107770,6 +107888,7 @@ Sinnsprüche
 sinnverwandt
 sinnverwirrend
 sinnvoll
+sinnvoller
 sinnvollerweise
 sinnwidrig
 sinter
@@ -108256,6 +108375,7 @@ somatisch
 somit
 sommer
 Sommer
+Sommerflieder
 Sommerfrische
 sommerfrischler
 Sommerfrischler
@@ -108410,6 +108530,7 @@ sorgsame
 sorgsamsten
 sorte
 Sorte
+Sorten
 sortier
 Sortier
 sortieren
@@ -109353,6 +109474,7 @@ Stabhochsprünge
 stabhochsprungtrainer
 Stabhochsprungtrainer
 stabil
+stabiler
 stabilisator
 Stabilisator
 stabilisieren
@@ -109396,6 +109518,7 @@ stadium
 Stadium
 stadt
 Stadt
+stadtauswärts
 Stadtbahn
 stadtbekannt
 Städtchen
@@ -109406,6 +109529,8 @@ stadteigen
 Städten
 städter
 Städter
+Stadtgärtner
+Stadtgebiet
 städtisch
 städtischen
 Stadtjungen
@@ -109604,6 +109729,7 @@ starker
 stärker
 stärkeren
 starkes
+Starkl
 starkregen
 Starkregen
 stärkste
@@ -109756,6 +109882,7 @@ staudämme
 Staudämme
 staude
 Staude
+Staudenmischungen
 stauen
 Stauen
 stauer
@@ -109935,6 +110062,7 @@ steifigkeit
 Steifigkeit
 steig
 Steig
+steige
 steigen
 Steigen
 steigenden
@@ -109965,6 +110093,7 @@ steilheitsbegrenzt
 stein
 Stein
 steinalt
+Steinbauer
 Steinboden
 steinbutt
 Steinbutt
@@ -110872,6 +111001,7 @@ strengten
 Stresemann
 stress
 Stress
+stresse
 stressen
 stressig
 streu
@@ -111111,6 +111241,7 @@ stümperei
 Stümperei
 stümperhaft
 stumpf
+Stumpf
 stümpfe
 Stümpfe
 stumpfen
@@ -111363,6 +111494,7 @@ südländer
 Südländer
 südländisch
 südlich
+südlicheren
 sudlig
 Sudoku
 südöstlich
@@ -112992,6 +113124,7 @@ Thron
 thronen
 thronfolger
 Thronfolger
+Thujen
 thunderbird
 Thunderbird
 thunfisch
@@ -114081,6 +114214,7 @@ Trimenon
 trimmen
 trink
 Trink
+Trinkbrunnen
 trinke
 trinken
 Trinken
@@ -114094,6 +114228,8 @@ Trinkgelder
 Trinkgeldern
 Trinkspruch
 trinkt
+Trinkwasser
+Trinkwasserbrunnen
 trio
 Trio
 triole
@@ -114148,15 +114284,19 @@ trivialroman
 Trivialroman
 trocken
 Trocken
+Trockenblumenwiesen
 trockene
 trockenen
 trockener
 trockengelegt
 trockenheit
 Trockenheit
+Trockenheitsstress
 trockenlegen
+Trockenphasen
 trockenrasierer
 Trockenrasierer
+Trockenstresses
 trocknen
 Trocknen
 trockner
@@ -116102,6 +116242,7 @@ Umweltbereich
 umweltbewusst
 umweltfreundlich
 umweltgerecht
+Umweltministeriums
 umweltpolitisch
 umweltschonend
 umweltschützend
@@ -118542,6 +118683,7 @@ verbarg
 verbarrikadieren
 verbauen
 verbauern
+verbaut
 verberge
 verbergen
 verbesserbarkeit
@@ -118796,6 +118938,7 @@ Verdeutschen
 Verdi
 verdichten
 Verdichten
+Verdichtete
 verdicken
 Verdicken
 verdiene
@@ -118826,6 +118969,7 @@ verdorben
 verdorbenen
 Verdorbenheit
 verdorren
+verdorrter
 verdrahten
 Verdrahten
 verdrahtungskasten
@@ -118891,6 +119035,7 @@ verdünnisieren
 verdünnt
 verdunsten
 Verdunsten
+Verdunstung
 verdursten
 verdurstete
 verdüstern
@@ -119111,6 +119256,7 @@ verfroren
 verfrüht
 verfügbar
 verfügbaren
+verfügbarer
 verfügbarkeit
 Verfügbarkeit
 verfügbarkeitsanforderungen
@@ -119154,6 +119300,7 @@ vergangene
 Vergangene
 vergangenen
 vergangenes
+Vergangenes
 vergangenheit
 Vergangenheit
 vergangenheitsbezogen
@@ -120059,6 +120206,7 @@ Verpolschutz
 verpolsicher
 verpolungssicher
 verpönt
+verpönten
 verprassen
 verprellen
 verprivatisieren
@@ -121011,6 +121159,7 @@ verweint
 verweis
 Verweis
 verweisen
+verweist
 Verweisung
 verweisungszeichen
 Verweisungszeichen
@@ -121861,6 +122010,7 @@ vorausgeschätzt
 vorausgeschickt
 vorausgesehen
 vorausgesetzt
+Vorausgesetzt
 vorausgewählt
 vorausging
 vorauskasse
@@ -122049,6 +122199,7 @@ Vorganges
 vorgangs
 Vorgangs
 Vorgärtchen
+Vorgärten
 vorgaukeln
 vorgeahnt
 vorgearbeitet
@@ -123343,6 +123494,7 @@ wasserskiern
 Wasserskiern
 wasserspeier
 Wasserspeier
+Wasserspender
 Wasserspritzer
 wassersprühend
 wasserspülung
@@ -123355,6 +123507,7 @@ wasserstoffhaltig
 Wasserstraße
 wassersüchtig
 Wassertrinken
+Wasserversorgung
 waten
 Waterloo
 watsche
@@ -124137,6 +124290,7 @@ weltumsegler
 Weltumsegler
 weltumspannend
 weltungewandter
+Weltwassertag
 weltweit
 weltweiten
 Weltwirtschaft
@@ -124389,6 +124543,7 @@ Wetten
 wetter
 Wetter
 wetterbestimmend
+Wetterextreme
 wetterfest
 wetterfühlig
 wetterfühligkeit
@@ -124782,6 +124937,7 @@ Wiese
 wiesel
 Wiesel
 wieselflink
+Wiesen
 wiesenblüte
 Wiesenblüte
 wiesenländer
@@ -124916,6 +125072,7 @@ Windeseile
 Windfall
 windgeschützt
 windig
+Windisch
 windmühlenflügel
 Windmühlenflügel
 windows
@@ -124967,6 +125124,7 @@ Winterkleid
 Winterkleider
 Winterkleidung
 winterlich
+Wintermonate
 Wintermorgen
 Wintershall
 wintersport
@@ -125253,6 +125411,7 @@ wohlerzogener
 wohlfahrts
 Wohlfahrts
 wohlfeil
+wohlfühle
 wohlfühlen
 Wohlfühlwörter
 wohlgefällig
@@ -125587,6 +125746,7 @@ wünschen
 Wünschen
 wünschenswert
 Wunsches
+Wunschgartens
 wunschgemäß
 wunschlos
 wünschst
@@ -126132,6 +126292,7 @@ zentimeter
 Zentimeter
 zentimeterbereich
 Zentimeterbereich
+Zentimetern
 zentner
 Zentner
 zentnerschwer
@@ -128141,6 +128302,7 @@ zustandekommen
 Zustandekommen
 Zustandes
 zuständig
+zuständige
 zuständigen
 zuständiger
 zuständigkeit

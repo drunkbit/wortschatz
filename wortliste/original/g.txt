@@ -37,6 +37,7 @@ gähnt
 gähnte
 gala
 Gala
+Galand
 galant
 Galanterie
 galapagos
@@ -242,13 +243,17 @@ Garten
 gärten
 Gärten
 Gartenarbeit
+Gartenbau
 gartenbautechnisch
+Gartengestaltung
 Gartengitters
 Gartenlaube
+Gartens
 Gartentor
 Gartenweg
 gärtner
 Gärtner
+Gärtnerbetrieb
 gärtnerei
 Gärtnerei
 gärtnereibesitzer
@@ -877,6 +882,7 @@ gefiedert
 gefiel
 gefilde
 Gefilde
+Gefilden
 gefilmt
 gefiltert
 gefilzt
@@ -948,6 +954,7 @@ Gefrickel
 gefrier
 Gefrier
 gefrieren
+gefrierendes
 gefristet
 gefroren
 gefruchtet
@@ -2199,6 +2206,7 @@ gepflanzt
 gepflastert
 gepflegt
 gepflegte
+gepflegten
 gepflogenheit
 Gepflogenheit
 gepflückt
@@ -2569,6 +2577,7 @@ gesamtheit
 Gesamtheit
 gesamtheitlich
 gesamtkoreanisch
+Gesamtkosten
 Gesamtlage
 gesamtmenschlich
 gesamtskandinavisch
@@ -2635,6 +2644,7 @@ geschäftsfähig
 Geschäftsfreund
 Geschäftsfreunde
 geschäftsführend
+Geschäftsführer
 geschäftsgebaren
 Geschäftsgebaren
 geschäftskundig
@@ -3911,12 +3921,16 @@ gierwinkel
 Gierwinkel
 gieß
 Gieß
+gieße
 gießen
 Gießen
 gießer
 Gießer
 gießerei
 Gießerei
+Gießintervallen
+Gießtätigkeit
+Gießverhalten
 gift
 Gift
 giften
@@ -5088,6 +5102,7 @@ Grundsätzlichkeit
 grundsolid
 grundstücks
 Grundstücks
+Grundstücksgrenzen
 grundterm
 Grundterm
 Grundüberzeugung
@@ -5099,12 +5114,15 @@ Grundverschiedenes
 Grundzügen
 grünen
 Grünen
+grüner
 Grunewald
 grunge
 Grunge
 grünlich
 grünlichbraun
+Grüns
 grunzen
+Grünzeug
 gruppe
 Gruppe
 gruppen

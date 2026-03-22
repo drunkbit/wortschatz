@@ -650,6 +650,7 @@ hawaii
 hawaiianer
 hawaiianisch
 haydn
+hblfa
 hd
 he
 header
@@ -796,6 +797,7 @@ heimgezahlt
 heimholen
 heimisch
 heimische
+heimischen
 heimkam
 heimkehr
 heimkehren
@@ -2888,6 +2890,7 @@ hochprofitabel
 hochprozentig
 hochqualifiziert
 hochqualitativ
+hochquellenleitung
 hochradioaktiv
 hochrangig
 hochrangige
@@ -2934,6 +2937,7 @@ höchstpersönlich
 höchstplatziert
 höchstpunkt
 höchstqualifiziert
+hochstrahlbrunnen
 höchstrichterlich
 höchststeigerung
 höchstwahrscheinlich
@@ -3427,6 +3431,7 @@ hütte
 hütten
 hyäne
 hybrid
+hybridrasen
 hybris
 hydepark
 hydra

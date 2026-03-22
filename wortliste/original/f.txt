@@ -871,6 +871,7 @@ Fertigkeit
 fertigmachen
 fertigstellen
 Fertigstellen
+Fertigstellung
 fertigte
 fertigungs
 Fertigungs
@@ -1995,6 +1996,7 @@ Ford
 förder
 Förder
 fordere
+fördere
 förderer
 Förderer
 fördererantriebs
@@ -2148,6 +2150,7 @@ forschen
 Forschen
 forscher
 Forscher
+forscht
 forschte
 Forschung
 forschungs
@@ -2743,6 +2746,7 @@ fremdsprachig
 fremdsprachlich
 frenetisch
 frequentieren
+frequentierten
 frequenz
 Frequenz
 frequenzabhängig
@@ -3036,6 +3040,7 @@ Frühling
 frühlings
 Frühlings
 Frühlingsadjektive
+Frühlingsbeginn
 frühlingshaft
 Frühlingswörter
 Frühlingszitate

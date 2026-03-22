@@ -605,6 +605,7 @@ fertiggestellt
 fertigkeit
 fertigmachen
 fertigstellen
+fertigstellung
 fertigte
 fertigungs
 fertigungstechnisch
@@ -1356,6 +1357,7 @@ forcieren
 ford
 förder
 fordere
+fördere
 förderer
 fördererantriebs
 fördererbewegung
@@ -1450,6 +1452,7 @@ forsa
 forsch
 forschen
 forscher
+forscht
 forschte
 forschung
 forschungs
@@ -1898,6 +1901,7 @@ fremdsprachig
 fremdsprachlich
 frenetisch
 frequentieren
+frequentierten
 frequenz
 frequenzabhängig
 frequenzmoduliert
@@ -2103,6 +2107,7 @@ frühkindlich
 frühling
 frühlings
 frühlingsadjektive
+frühlingsbeginn
 frühlingshaft
 frühlingswörter
 frühlingszitate

@@ -257,6 +257,7 @@ zensus
 zentigramm
 zentimeter
 zentimeterbereich
+zentimetern
 zentner
 zentnerschwer
 zentral
@@ -1881,6 +1882,7 @@ zuspruch
 zusprueche
 zustaende
 zustaendig
+zustaendige
 zustaendigen
 zustaendiger
 zustaendigkeit

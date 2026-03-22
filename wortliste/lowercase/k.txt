@@ -969,6 +969,7 @@ kindererziehung
 kinderfeindlich
 kinderfreundlich
 kinderfüßen
+kindergärten
 kindergedanken
 kindergeschrei
 kindergesicht
@@ -1172,6 +1173,7 @@ klassik
 klassiker
 klassikerverfilmung
 klassisch
+klassischen
 klassischerweise
 klassizismus
 klassizistisch
@@ -1301,12 +1303,16 @@ klientel
 klientelpolitik
 klienten
 klima
+klimafitten
 klimaförderungen
 klimatisch
+klimatischen
 klimatisieren
 klimatisierung
 klimatologe
 klimavergiftung
+klimawandel
+klimawandels
 klimmzug
 klimpern
 klimpernd
@@ -2405,6 +2411,7 @@ kostengünstig
 kostengünstigen
 kostenintensiv
 kostenlos
+kostenlosem
 kostenmäßig
 kostenneutral
 kostenpflichtig
@@ -2915,6 +2922,7 @@ kündigte
 kündigten
 kündigung
 kündigungs
+kundinnen
 kundmachen
 kundschaft
 kundschaften
@@ -2941,6 +2949,7 @@ künstlichem
 künstlichen
 künstlicher
 kunstlos
+kunstrasen
 kunstreiterin
 kunststück
 kunstvoll

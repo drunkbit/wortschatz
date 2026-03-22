@@ -161,6 +161,7 @@ Obsoleszenz
 obsolet
 obst
 Obst
+Obstbaeumen
 Obster
 obstruktion
 Obstruktion
@@ -278,6 +279,7 @@ Oesterreich
 oesterreicher
 Oesterreicher
 oesterreichisch
+Oesterreichische
 oesterreichischen
 oestlich
 oestlichen
@@ -384,6 +386,7 @@ ohmsch
 ohne
 Ohne
 ohnedies
+Ohnedies
 ohneeinander
 ohnegleichen
 ohnehin
