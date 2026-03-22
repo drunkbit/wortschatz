@@ -102,6 +102,8 @@ radiogramm
 Radiogramm
 radiographie
 Radiographie
+radiokulturhaus
+Radiokulturhaus
 radiologe
 Radiologe
 radiologie
@@ -111,6 +113,7 @@ radiometrie
 Radiometrie
 radioskop
 Radioskop
+radiothek
 radium
 Radium
 radius
@@ -690,6 +693,7 @@ Rechtmaessigkeit
 rechts
 Rechts
 Rechtsansprueche
+Rechtsanspruechen
 rechtsbuendig
 rechtschaffen
 rechtschaffenheit
@@ -707,6 +711,8 @@ rechtsextremistisch
 rechtsfrei
 rechtsgaengig
 rechtsgerichtet
+Rechtsgrundlage
+Rechtsgrundlagen
 rechtsgueltig
 rechtshaender
 Rechtshaender
@@ -717,6 +723,7 @@ rechtskonservativ
 rechtskraeftig
 rechtskundig
 rechtslastig
+rechtsmaessig
 rechtsnational
 rechtsorientiert
 rechtspolitisch
@@ -1013,6 +1020,7 @@ Registrier
 registrieren
 Registrieren
 Registrierung
+Registrierungen
 registrierungspflichtigen
 reglement
 Reglement
@@ -1108,6 +1116,7 @@ reibungs
 Reibungs
 reibungsfrei
 reibungslos
+reibungslosen
 reich
 Reich
 reiche
@@ -1254,6 +1263,7 @@ reise
 Reise
 reisebeduerftige
 Reisebeduerftige
+Reisebuero
 reisefertig
 Reisehandtasche
 Reisekleid
@@ -2387,6 +2397,7 @@ Rowdytum
 royal
 royalist
 Royalist
+rso
 Ruanda
 rubbeln
 rubel
@@ -2447,6 +2458,7 @@ Rueckenlage
 Rueckenlehne
 rueckenmark
 Rueckenmark
+Rueckfragen
 rueckfuehren
 Rueckgabe
 rueckgaberecht
@@ -2707,6 +2719,7 @@ rundenzeit
 Rundenzeit
 rundes
 Rundfunk
+Rundfunks
 Rundgang
 rundherum
 Rundlehnstuhl

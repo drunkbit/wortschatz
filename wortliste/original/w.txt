@@ -145,6 +145,7 @@ wagon
 Wagon
 wagst
 wagt
+wägt
 wagte
 wagten
 wahl
@@ -1566,6 +1567,7 @@ werft
 Werft
 werftarbeiter
 Werftarbeiter
+werimpftgewinnt
 werk
 Werk
 Werke
@@ -2053,6 +2055,7 @@ Wiederholung
 Wiederholungen
 wiederholungs
 Wiederholungs
+Wiederholungstermine
 wiederkäuen
 wiederkäuer
 Wiederkäuer
@@ -3054,3 +3057,4 @@ wütete
 Wutgeheul
 wutschäumend
 wutschnaubend
+www

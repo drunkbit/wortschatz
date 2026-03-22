@@ -32,6 +32,7 @@ kaderchef
 kaderverband
 kadett
 kadi
+kaernten
 käfer
 kaff
 kaffee
@@ -285,6 +286,7 @@ kandahar
 kandare
 kandidat
 kandidaten
+kandidatin
 kandidatur
 kandidieren
 kandieren
@@ -499,6 +501,7 @@ kartei
 kartell
 kartellrechtlich
 karten
+kartenbestellungen
 kartenspiel
 kartesisch
 karthager
@@ -1300,6 +1303,7 @@ klienten
 klima
 klimafitten
 klimaförderungen
+klimaschutzpreis
 klimatisch
 klimatischen
 klimatisieren
@@ -1464,6 +1468,7 @@ knieweich
 kniff
 kniffen
 knifflig
+knifflige
 knigge
 knilch
 knipsen
@@ -1777,6 +1782,7 @@ kommunikation
 kommunikations
 kommunikationsfähig
 kommunikationstechnisch
+kommunikationsverlauf
 kommunikativ
 kommunikator
 kommunikee
@@ -2100,6 +2106,11 @@ kontagiosität
 kontakt
 kontaktarm
 kontaktaufnahme
+kontaktdaten
+kontaktformular
+kontaktformulare
+kontaktformularen
+kontaktformulars
 kontaktfreudig
 kontaktieren
 kontaktiermöglichkeit
@@ -2895,10 +2906,12 @@ kund
 kunde
 kunden
 künden
+kundendienst
 kundendienstabteilungen
 kundenfreundlich
 kundenorientiertheit
 kundenseitig
+kundenservice
 kundenspezifisch
 künder
 kundgeben

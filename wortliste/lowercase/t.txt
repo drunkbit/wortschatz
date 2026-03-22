@@ -533,6 +533,7 @@ teleskop
 teleskopisch
 teleskopschienen
 teleskopzylinder
+teletext
 television
 telex
 telexdienst
@@ -601,6 +602,7 @@ terminalleitung
 terminalserver
 terminaltreiber
 terminator
+termine
 terminführen
 termingerecht
 termini
@@ -799,6 +801,7 @@ tibetisch
 tick
 ticken
 ticket
+tickets
 tiebreak
 tief
 tiefblau
@@ -924,6 +927,7 @@ tobten
 tochter
 töchter
 tochtergesellschaften
+tochterunternehmen
 tod
 todblass
 todbringend
@@ -1829,6 +1833,7 @@ tutorial
 tutorien
 tutorium
 tutu
+tvthek
 tweedanzug
 twitter
 twittern

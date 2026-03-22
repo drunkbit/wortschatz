@@ -1081,6 +1081,7 @@ schaumig
 Schaumwellen
 schäumwerkzeug
 Schäumwerkzeug
+Schauplatz
 schaurig
 Schauspiel
 Schauspieler
@@ -3477,6 +3478,7 @@ schwüre
 Schwüre
 schwurgericht
 Schwurgericht
+science
 sciencefiction
 Sciencefiction
 Scientology
@@ -4027,6 +4029,10 @@ sendernetz
 Sendernetz
 sendertotzeit
 Sendertotzeit
+Sendung
+Sendungen
+Sendungskopie
+Sendungsteilnehmers
 senegal
 Senegal
 senegalesisch
@@ -4169,6 +4175,7 @@ Server
 service
 Service
 servicefreundlich
+Services
 servierbrett
 Servierbrett
 servieren
@@ -5014,6 +5021,7 @@ sofakissen
 Sofakissen
 Sofapolster
 sofern
+Sofern
 soff
 sofia
 Sofia
@@ -5255,6 +5263,7 @@ sonett
 Sonett
 song
 Song
+songcontest
 Sonja
 sonnabend
 Sonnabend
@@ -5687,6 +5696,7 @@ speicherplatzeffizient
 speicherplatzintensiv
 speicherprogrammierbar
 speicherprogrammiert
+speichert
 Speicherung
 speien
 speise
@@ -6597,6 +6607,7 @@ Starrsucht
 starrt
 starrte
 starrten
+stars
 start
 Start
 startbereit

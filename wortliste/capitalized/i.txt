@@ -368,7 +368,9 @@ Informatik
 Informatiker
 Information
 Informationell
+Informationen
 Informations
+Informationsfreiheit
 Informationsmaterial
 Informationstechnisch
 Informationsverarbeitend
@@ -659,6 +661,7 @@ Integration
 Integrations
 Integrationsfähig
 Integrationsministerin
+Integrationspreis
 Integrativ
 Integre
 Integrer

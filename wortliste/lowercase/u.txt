@@ -188,6 +188,7 @@ umgehalst
 umgehängt
 umgehauen
 umgehen
+umgehend
 umgehört
 umgehungs
 umgekehrt
@@ -1386,6 +1387,7 @@ unreparierbar
 unretouchiert
 unrettbar
 unrichtig
+unrichtige
 unrichtigen
 unrichtiges
 unrichtigkeit

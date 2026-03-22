@@ -118,6 +118,7 @@ Ihren
 ihrer
 Ihrer
 ihrerseits
+Ihrerseits
 ihres
 Ihres
 ihresgleichen
@@ -594,8 +595,10 @@ Informatiker
 information
 Information
 informationell
+Informationen
 informations
 Informations
+Informationsfreiheit
 Informationsmaterial
 informationstechnisch
 informationsverarbeitend
@@ -1049,6 +1052,7 @@ integrations
 Integrations
 integrationsfähig
 Integrationsministerin
+integrationspreis
 integrativ
 integre
 integrer

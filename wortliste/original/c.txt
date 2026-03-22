@@ -62,6 +62,7 @@ canossa
 Canossa
 cappuccino
 Cappuccino
+Captcha
 caravan
 Caravan
 carbonat
@@ -90,6 +91,8 @@ casinoabend
 Casinoabend
 cäsium
 Cäsium
+Casting
+Castings
 Castor
 castortransport
 Castortransport
@@ -584,6 +587,7 @@ colorverglasung
 Colorverglasung
 Colt
 Columbus
+com
 comeback
 Comeback
 Comecon
@@ -696,6 +700,7 @@ CPUs
 crash
 Crash
 Crayon
+Creation
 creme
 Creme
 cremefarben

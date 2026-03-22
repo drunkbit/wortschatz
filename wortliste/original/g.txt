@@ -115,6 +115,7 @@ gänger
 Gänger
 Ganges
 gängig
+gängigen
 Gangseite
 gangster
 Gangster
@@ -2631,6 +2632,7 @@ geschäfts
 Geschäfts
 geschäftsanteil
 Geschäftsanteil
+Geschäftsbedingungen
 Geschäftsbetrieb
 Geschäftsbuch
 Geschäftsdiener
@@ -4339,6 +4341,7 @@ glykol
 Glykol
 glyzerin
 Glyzerin
+Gmb
 GmbH
 gnade
 Gnade
@@ -5070,6 +5073,7 @@ grundierung
 Grundierung
 grundkapitalien
 Grundkapitalien
+Grundlage
 Grundlagen
 grundlegend
 grundlegende
@@ -5261,6 +5265,7 @@ gutem
 guten
 Guten
 Gutenberg
+gutenmorgen
 guter
 güter
 Güter

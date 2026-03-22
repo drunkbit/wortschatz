@@ -56,6 +56,7 @@ waegbarkeit
 waegelchen
 waegelchens
 waegen
+waegt
 waehlbar
 waehlbaren
 waehlbarkeit
@@ -1175,6 +1176,7 @@ werfend
 werfer
 werft
 werftarbeiter
+werimpftgewinnt
 werk
 werke
 werkeln
@@ -1540,6 +1542,7 @@ wiederholten
 wiederholung
 wiederholungen
 wiederholungs
+wiederholungstermine
 wiederkaeuen
 wiederkaeuer
 wiederkehr
@@ -2268,3 +2271,4 @@ wutentbrannt
 wutgeheul
 wutschaeumend
 wutschnaubend
+www

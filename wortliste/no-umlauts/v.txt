@@ -302,6 +302,8 @@ Verantworten
 verantwortlich
 verantwortliche
 Verantwortliche
+Verantwortlichen
+Verantwortlicher
 verantwortlichkeit
 Verantwortlichkeit
 Verantwortung
@@ -1252,6 +1254,7 @@ verhindern
 Verhindern
 verhindernden
 verhindert
+Verhinderung
 verhob
 verhoehnen
 Verhoehnen
@@ -2639,6 +2642,7 @@ vertrags
 Vertrags
 vertragsbruechig
 vertragschliessend
+Vertragserfuellung
 vertragsgemaess
 vertragslos
 vertragsmaessig
@@ -3481,6 +3485,7 @@ volksdeutschen
 Volksdeutschen
 volksetymologisch
 Volksfest
+volksgruppen
 volkskundler
 Volkskundler
 Volksschule

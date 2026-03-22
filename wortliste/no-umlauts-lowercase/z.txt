@@ -209,6 +209,7 @@ zeitraffer
 zeitrafferaufnahme
 zeitraubend
 zeitraubende
+zeitraum
 zeitschrift
 zeitschriften
 zeitschriftenhaendler
@@ -978,6 +979,7 @@ zugeneigten
 zugenickt
 zugenommen
 zugeordnet
+zugeordneten
 zugepackt
 zugepflastert
 zugeraten
@@ -1859,6 +1861,7 @@ zusehends
 zusehn
 zuseiten
 zusenden
+zusendung
 zusetzen
 zusichern
 zusicherte

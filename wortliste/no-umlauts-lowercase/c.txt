@@ -37,6 +37,7 @@ cannes
 canon
 canossa
 cappuccino
+captcha
 caravan
 carbonat
 cardin
@@ -53,6 +54,8 @@ casanova
 casinelli
 casino
 casinoabend
+casting
+castings
 castor
 castortransport
 castro
@@ -350,6 +353,7 @@ colorscheiben
 colorverglasung
 colt
 columbus
+com
 comeback
 comecon
 comic
@@ -419,6 +423,7 @@ cowboy
 cpus
 crash
 crayon
+creation
 creme
 cremefarben
 cremefarbene

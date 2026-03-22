@@ -8557,6 +8557,7 @@ abgegaunerter
 abgegaunertes
 abgegeben
 abgegebene
+Abgegebene
 abgegebenem
 abgegebenen
 abgegebener
@@ -32793,6 +32794,7 @@ Alphorne
 Alphornes
 Alphorns
 alpin
+Alpin
 alpine
 alpinem
 alpinen
@@ -38089,6 +38091,7 @@ andern
 Andernach
 Andernachs
 andernfalls
+Andernfalls
 andernorts
 anderntags
 anders
@@ -46818,6 +46821,7 @@ anreden
 anregen
 Anregen
 Anregung
+Anregungen
 anregungs
 Anregungs
 anreichern
@@ -47363,6 +47367,7 @@ Anwendung
 Anwendungen
 anwendungs
 Anwendungs
+Anwendungsbereich
 anwendungsfreundlich
 anwendungsgerecht
 anwendungsorientiert
@@ -49261,8 +49266,10 @@ Auftragnehmer
 auftrags
 Auftrags
 Auftragsbuch
+Auftragsdatenverarbeiter
 auftragsgemaess
 Auftragsnehmer
+Auftragsverarbeiter
 auftrat
 auftraten
 auftreffen
@@ -49875,6 +49882,7 @@ ausgefuehrt
 ausgefuehrten
 ausgefuehrtes
 ausgefuellt
+ausgefuellten
 ausgegangen
 ausgegeben
 ausgeglichen
@@ -50223,6 +50231,7 @@ Auskunftserteiler
 Auskunftserteilung
 auskunftsfreudig
 auskunftspflichtig
+Auskunftsrechts
 auskuppeln
 auskurieren
 auskuriert

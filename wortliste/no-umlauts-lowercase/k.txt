@@ -304,6 +304,7 @@ kandahar
 kandare
 kandidat
 kandidaten
+kandidatin
 kandidatur
 kandidieren
 kandieren
@@ -509,6 +510,7 @@ kartei
 kartell
 kartellrechtlich
 karten
+kartenbestellungen
 kartenspiel
 kartesisch
 karthager
@@ -1300,6 +1302,7 @@ klienten
 klima
 klimafitten
 klimafoerderungen
+klimaschutzpreis
 klimatisch
 klimatischen
 klimatisieren
@@ -1464,6 +1467,7 @@ knieweich
 kniff
 kniffen
 knifflig
+knifflige
 knigge
 knilch
 knipsen
@@ -1819,6 +1823,7 @@ kommunikation
 kommunikations
 kommunikationsfaehig
 kommunikationstechnisch
+kommunikationsverlauf
 kommunikativ
 kommunikator
 kommunikee
@@ -2123,6 +2128,11 @@ kontagiositaet
 kontakt
 kontaktarm
 kontaktaufnahme
+kontaktdaten
+kontaktformular
+kontaktformulare
+kontaktformularen
+kontaktformulars
 kontaktfreudig
 kontaktieren
 kontaktiermoeglichkeit
@@ -2939,10 +2949,12 @@ kumuluswolke
 kund
 kunde
 kunden
+kundendienst
 kundendienstabteilungen
 kundenfreundlich
 kundenorientiertheit
 kundenseitig
+kundenservice
 kundenspezifisch
 kundgeben
 kundgetan

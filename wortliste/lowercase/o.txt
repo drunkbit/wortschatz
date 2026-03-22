@@ -129,6 +129,7 @@ oder
 odessa
 odium
 odyssee
+oesterreich
 ofen
 ofenbank
 ofens
@@ -211,6 +212,7 @@ ohrläppchen
 ohrringen
 ohrwurm
 okay
+okidoki
 okkult
 okkultismus
 okkupant
@@ -273,6 +275,7 @@ onkelhaft
 onkels
 online
 ontologie
+ooe
 opa
 opel
 openbsd
@@ -400,6 +403,8 @@ ordonanz
 ordonnanz
 ordonnanzen
 oregon
+orf
+orfsportplus
 organ
 organe
 organigramm

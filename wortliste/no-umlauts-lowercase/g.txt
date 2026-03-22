@@ -29,6 +29,7 @@ gaengeln
 gaengen
 gaenger
 gaengig
+gaengigen
 gaenschen
 gaense
 gaenserich
@@ -2025,6 +2026,7 @@ geschaeftliche
 geschaeftlichen
 geschaefts
 geschaeftsanteil
+geschaeftsbedingungen
 geschaeftsbetrieb
 geschaeftsbuch
 geschaeftsdiener
@@ -3384,6 +3386,7 @@ glutenhaltig
 gluthitze
 glykol
 glyzerin
+gmb
 gmbh
 gnade
 gnaden
@@ -3906,6 +3909,7 @@ grundgesetzwidrig
 grundieren
 grundierung
 grundkapitalien
+grundlage
 grundlagen
 grundlegend
 grundlegende
@@ -4026,6 +4030,7 @@ gute
 gutem
 guten
 gutenberg
+gutenmorgen
 guter
 gutes
 gutfundiert

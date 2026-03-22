@@ -165,6 +165,7 @@ Dämpfungs
 damwild
 Damwild
 danach
+dancingstars
 dandy
 Dandy
 däne
@@ -340,6 +341,7 @@ datenbit
 Datenbit
 datenbyte
 Datenbyte
+Datenerhebung
 datenfile
 Datenfile
 datenframe
@@ -348,17 +350,29 @@ datenkanalmultiplexer
 Datenkanalmultiplexer
 datenlink
 Datenlink
+Datenrichtigkeit
+datenschutz
+Datenschutzbeauftragten
+Datenschutzbehörde
+Datenschutzbestimmungen
 Datenschutzeinstellungen
 Datenschutzerklärung
 datenschutzgerecht
+Datenschutzgrundverordnung
+Datenschutzinformation
 Datenschutzinformationen
 datenschutzkonform
+Datenschutzrecht
 datenschutzrechtlich
+datenschutzrechtlichen
 datenserver
 Datenserver
+Datensicherheit
 datentechnisch
+Datenübertragbarkeit
 Datenverarbeiters
 Datenverarbeitung
+Datenverarbeitungen
 Datenverkehr
 datex
 Datex
@@ -1358,6 +1372,7 @@ diebstahl
 Diebstahl
 diebstähle
 Diebstähle
+diegrossechance
 diejenige
 diejenigen
 Diejenigen
@@ -2415,6 +2430,7 @@ dritt
 Dritt
 drittbest
 dritte
+Dritte
 drittel
 Drittel
 dritten
@@ -2555,6 +2571,7 @@ drusen
 Drusen
 drüsen
 Drüsen
+dsb
 Dschibuti
 Dschihad
 dschihadismus
@@ -2815,6 +2832,7 @@ durchführbarkeit
 Durchführbarkeit
 durchführen
 Durchführen
+durchführt
 Durchführung
 durchführungs
 Durchführungs
@@ -3065,6 +3083,7 @@ Durchsetzbarkeit
 durchsetzen
 Durchsetzen
 durchsetzt
+Durchsetzung
 durchsetzungs
 Durchsetzungs
 durchsicht
@@ -3224,6 +3243,7 @@ Dutzend
 dutzende
 dutzendweise
 duzen
+dvb
 DVDs
 dynamik
 Dynamik

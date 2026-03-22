@@ -519,6 +519,7 @@ häufiges
 häufigkeit
 häufigkeits
 häufigste
+häufigsten
 häuflein
 hauklotz
 haupt
@@ -872,6 +873,7 @@ heldentum
 heldisch
 helene
 helfen
+helfenwiewir
 helfer
 helferinnenbrief
 helfershelfer
@@ -918,6 +920,7 @@ helm
 helmpflicht
 helmut
 helot
+help
 helsinki
 helvetisch
 helvetismen
@@ -2741,6 +2744,7 @@ hitlertum
 hitliste
 hitparade
 hitparadenplätze
+hitradio
 hitze
 hitzebeständig
 hitzeempfindlich

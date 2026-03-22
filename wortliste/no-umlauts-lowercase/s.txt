@@ -683,6 +683,7 @@ schaum
 schaumburg
 schaumig
 schaumwellen
+schauplatz
 schaurig
 schauspiel
 schauspieler
@@ -2312,6 +2313,7 @@ schwungvoll
 schwuppdiwupp
 schwur
 schwurgericht
+science
 sciencefiction
 scientology
 scott
@@ -2714,6 +2716,10 @@ sendergehaeuse
 sendergruppe
 sendernetz
 sendertotzeit
+sendung
+sendungen
+sendungskopie
+sendungsteilnehmers
 senegal
 senegalesisch
 senf
@@ -2803,6 +2809,7 @@ serum
 server
 service
 servicefreundlich
+services
 servierbrett
 servieren
 servierendes
@@ -3494,6 +3501,7 @@ sondierungsauftrag
 sondierungsgespraeche
 sonett
 song
+songcontest
 sonja
 sonnabend
 sonnabendmorgen
@@ -3787,6 +3795,7 @@ speicherplatzeffizient
 speicherplatzintensiv
 speicherprogrammierbar
 speicherprogrammiert
+speichert
 speicherung
 speien
 speise
@@ -4397,6 +4406,7 @@ starrsucht
 starrt
 starrte
 starrten
+stars
 start
 startbereit
 startbit

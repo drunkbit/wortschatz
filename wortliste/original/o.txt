@@ -197,6 +197,7 @@ odium
 Odium
 odyssee
 Odyssee
+oesterreich
 ofen
 Ofen
 Ofenbank
@@ -316,6 +317,7 @@ Ohrläppchen
 Ohrringen
 Ohrwurm
 okay
+okidoki
 okkult
 okkultismus
 Okkultismus
@@ -414,6 +416,7 @@ online
 Online
 ontologie
 Ontologie
+ooe
 opa
 Opa
 Opel
@@ -613,6 +616,8 @@ Ordonnanz
 Ordonnanzen
 oregon
 Oregon
+orf
+orfsportplus
 organ
 Organ
 Organe

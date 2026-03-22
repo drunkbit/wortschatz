@@ -89,6 +89,7 @@ Waegelchen
 Waegelchens
 waegen
 Waegen
+waegt
 waehlbar
 waehlbaren
 waehlbarkeit
@@ -1566,6 +1567,7 @@ werft
 Werft
 werftarbeiter
 Werftarbeiter
+werimpftgewinnt
 werk
 Werk
 Werke
@@ -2053,6 +2055,7 @@ Wiederholung
 Wiederholungen
 wiederholungs
 Wiederholungs
+Wiederholungstermine
 wiederkaeuen
 wiederkaeuer
 Wiederkaeuer
@@ -3052,3 +3055,4 @@ wutentbrannt
 Wutgeheul
 wutschaeumend
 wutschnaubend
+www

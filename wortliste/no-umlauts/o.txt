@@ -270,6 +270,9 @@ Oesterreicher
 oesterreichisch
 Oesterreichische
 oesterreichischen
+Oesterreichischen
+Oesterreichischer
+oesterreichisches
 oestlich
 oestlichen
 oestrogen
@@ -396,6 +399,7 @@ Ohrlaeppchen
 Ohrringen
 Ohrwurm
 okay
+okidoki
 okkult
 okkultismus
 Okkultismus
@@ -494,6 +498,7 @@ online
 Online
 ontologie
 Ontologie
+ooe
 opa
 Opa
 Opel
@@ -693,6 +698,8 @@ Ordonnanz
 Ordonnanzen
 oregon
 Oregon
+orf
+orfsportplus
 organ
 Organ
 Organe

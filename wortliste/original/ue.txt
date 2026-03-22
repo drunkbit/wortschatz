@@ -339,6 +339,7 @@
 übermenschlichen
 übermitteln
 übermittelst
+übermittelt
 übermodern
 übermorgen
 Übermorgen
@@ -621,6 +622,7 @@
 überweisen
 überwerfen
 überwiegen
+Überwiegen
 überwiesen
 überwindbar
 überwindbarkeit

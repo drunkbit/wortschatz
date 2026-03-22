@@ -173,6 +173,7 @@ landesparlament
 landesplanerisch
 landespolitisch
 landesprache
+landesstudios
 landesteilen
 landesüblich
 landesweit
@@ -236,6 +237,7 @@ länge
 langem
 langen
 längen
+langenacht
 langenscheidt
 langeoog
 langer
@@ -804,6 +806,7 @@ leistungs
 leistungsbezogen
 leistungsfähig
 leistungsgerecht
+leistungsmessung
 leistungsnormsenkung
 leistungsorientiert
 leistungsschwach
@@ -995,6 +998,7 @@ lichterfest
 lichterkette
 lichterloh
 lichtern
+lichtinsdunkel
 lichtliebende
 lichtmess
 lichtschacht
@@ -1409,10 +1413,12 @@ losbrach
 losbrechen
 losbricht
 lösch
+löschanspruch
 löschen
 löscher
 löscht
 löschte
+löschung
 lose
 lösegeld
 lösegeldsumme

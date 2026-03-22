@@ -214,6 +214,7 @@ Haeufigkeit
 haeufigkeits
 Haeufigkeits
 haeufigste
+haeufigsten
 haeuflein
 Haeuflein
 haeupter
@@ -1237,6 +1238,7 @@ Heldentum
 heldisch
 Helene
 helfen
+helfenwiewir
 helfer
 Helfer
 helferinnenbrief
@@ -1302,6 +1304,7 @@ Helmpflicht
 Helmut
 helot
 Helot
+help
 helsinki
 Helsinki
 helvetisch
@@ -3375,6 +3378,7 @@ hitparade
 Hitparade
 hitparadenplaetze
 Hitparadenplaetze
+Hitradio
 hitze
 Hitze
 hitzebestaendig

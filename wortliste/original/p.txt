@@ -2346,6 +2346,7 @@ Portion
 portionieren
 Portionieren
 portionsweise
+Portisch
 portland
 Portland
 portmonee
@@ -2406,6 +2407,7 @@ Positiv
 positive
 Positive
 positiven
+positiver
 positivismus
 Positivismus
 positivistisch
@@ -3019,6 +3021,7 @@ produktenhandel
 Produktenhandel
 produktion
 Produktion
+Produktionen
 produktions
 Produktions
 produktionsnah
@@ -3035,6 +3038,7 @@ produzent
 Produzent
 Produzenten
 produzieren
+produziert
 profan
 profession
 Profession
@@ -3084,6 +3088,7 @@ prognostizieren
 programm
 Programm
 programmabhängig
+Programmanfrage
 programmatisch
 programmbegleitend
 programmfile
@@ -3102,6 +3107,7 @@ programmiertechnisch
 programmunabhängig
 programmunterlagen
 Programmunterlagen
+Programmwunsch
 progress
 Progress
 progression
@@ -3502,6 +3508,7 @@ publikum
 Publikum
 publikums
 Publikums
+publikumsrat
 publikumswirksam
 publizieren
 publizist

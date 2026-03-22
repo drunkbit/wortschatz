@@ -58,6 +58,7 @@ kadett
 Kadett
 kadi
 Kadi
+kaernten
 käfer
 Käfer
 kaff
@@ -445,6 +446,7 @@ kandidat
 Kandidat
 kandidaten
 Kandidaten
+Kandidatin
 kandidatur
 Kandidatur
 kandidieren
@@ -800,6 +802,7 @@ Kartell
 kartellrechtlich
 karten
 Karten
+Kartenbestellungen
 Kartenspiel
 kartesisch
 karthager
@@ -2036,6 +2039,7 @@ klima
 Klima
 klimafitten
 Klimaförderungen
+klimaschutzpreis
 klimatisch
 klimatischen
 klimatisieren
@@ -2284,6 +2288,7 @@ kniff
 Kniff
 Kniffen
 knifflig
+knifflige
 Knigge
 knilch
 Knilch
@@ -2809,6 +2814,7 @@ kommunikations
 Kommunikations
 kommunikationsfähig
 kommunikationstechnisch
+Kommunikationsverlauf
 kommunikativ
 kommunikator
 Kommunikator
@@ -3161,6 +3167,7 @@ Konklave
 konkordat
 Konkordat
 konkret
+Konkret
 konkrete
 konkretere
 konkreteste
@@ -3349,6 +3356,11 @@ kontakt
 Kontakt
 kontaktarm
 Kontaktaufnahme
+Kontaktdaten
+Kontaktformular
+Kontaktformulare
+Kontaktformularen
+Kontaktformulars
 kontaktfreudig
 kontaktieren
 Kontaktieren
@@ -4573,11 +4585,13 @@ Kunde
 kunden
 Kunden
 künden
+kundendienst
 Kundendienstabteilungen
 kundenfreundlich
 kundenorientiertheit
 Kundenorientiertheit
 kundenseitig
+Kundenservice
 kundenspezifisch
 künder
 Künder

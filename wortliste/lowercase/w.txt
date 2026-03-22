@@ -92,6 +92,7 @@ wagnis
 wagon
 wagst
 wagt
+wägt
 wagte
 wagten
 wahl
@@ -1175,6 +1176,7 @@ werfend
 werfer
 werft
 werftarbeiter
+werimpftgewinnt
 werk
 werke
 werkeln
@@ -1540,6 +1542,7 @@ wiederholten
 wiederholung
 wiederholungen
 wiederholungs
+wiederholungstermine
 wiederkäuen
 wiederkäuer
 wiederkehr
@@ -2270,3 +2273,4 @@ wütete
 wutgeheul
 wutschäumend
 wutschnaubend
+www

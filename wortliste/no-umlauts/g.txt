@@ -43,6 +43,7 @@ Gaengen
 gaenger
 Gaenger
 gaengig
+gaengigen
 gaenschen
 Gaenschen
 gaense
@@ -2622,6 +2623,7 @@ geschaefts
 Geschaefts
 geschaeftsanteil
 Geschaeftsanteil
+Geschaeftsbedingungen
 Geschaeftsbetrieb
 Geschaeftsbuch
 Geschaeftsdiener
@@ -4329,6 +4331,7 @@ glykol
 Glykol
 glyzerin
 Glyzerin
+Gmb
 GmbH
 gnade
 Gnade
@@ -5083,6 +5086,7 @@ grundierung
 Grundierung
 grundkapitalien
 Grundkapitalien
+Grundlage
 Grundlagen
 grundlegend
 grundlegende
@@ -5257,6 +5261,7 @@ gutem
 guten
 Guten
 Gutenberg
+gutenmorgen
 guter
 gutes
 Gutes

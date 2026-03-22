@@ -343,6 +343,7 @@ uebermenschlich
 uebermenschlichen
 uebermitteln
 uebermittelst
+uebermittelt
 uebermodern
 uebermorgen
 Uebermorgen
@@ -625,6 +626,7 @@ Ueberweiden
 ueberweisen
 ueberwerfen
 ueberwiegen
+Ueberwiegen
 ueberwiesen
 ueberwindbar
 ueberwindbarkeit
@@ -942,6 +944,7 @@ umgehalst
 umgehauen
 umgehen
 Umgehen
+umgehend
 umgehoert
 umgehungs
 Umgehungs
@@ -2477,6 +2480,7 @@ unreparierbar
 unretouchiert
 unrettbar
 unrichtig
+unrichtige
 unrichtigen
 Unrichtiges
 unrichtigkeit

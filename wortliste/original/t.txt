@@ -588,6 +588,7 @@ technikum
 Technikum
 technisch
 technische
+Technische
 technischen
 technischer
 Technischer
@@ -832,6 +833,8 @@ teleskopschienen
 Teleskopschienen
 teleskopzylinder
 Teleskopzylinder
+teletext
+Teletext
 television
 Television
 telex
@@ -952,6 +955,7 @@ terminaltreiber
 Terminaltreiber
 terminator
 Terminator
+termine
 terminführen
 termingerecht
 Termini
@@ -1276,6 +1280,7 @@ ticken
 Ticken
 ticket
 Ticket
+tickets
 tiebreak
 Tiebreak
 tief
@@ -1464,6 +1469,7 @@ Tochter
 töchter
 Töchter
 Tochtergesellschaften
+Tochterunternehmen
 tod
 Tod
 todblass
@@ -2860,6 +2866,7 @@ Tutorien
 tutorium
 Tutorium
 Tutu
+TVthek
 tweedanzug
 Tweedanzug
 Twitter

@@ -141,6 +141,7 @@ haeufiges
 haeufigkeit
 haeufigkeits
 haeufigste
+haeufigsten
 haeuflein
 haeupter
 haeuptling
@@ -869,6 +870,7 @@ heldentum
 heldisch
 helene
 helfen
+helfenwiewir
 helfer
 helferinnenbrief
 helfershelfer
@@ -915,6 +917,7 @@ helm
 helmpflicht
 helmut
 helot
+help
 helsinki
 helvetisch
 helvetismen
@@ -2738,6 +2741,7 @@ hitlertum
 hitliste
 hitparade
 hitparadenplaetze
+hitradio
 hitze
 hitzebestaendig
 hitzeempfindlich

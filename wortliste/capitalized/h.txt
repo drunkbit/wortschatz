@@ -519,6 +519,7 @@ Häufiges
 Häufigkeit
 Häufigkeits
 Häufigste
+Häufigsten
 Häuflein
 Hauklotz
 Haupt
@@ -872,6 +873,7 @@ Heldentum
 Heldisch
 Helene
 Helfen
+Helfenwiewir
 Helfer
 Helferinnenbrief
 Helfershelfer
@@ -918,6 +920,7 @@ Helm
 Helmpflicht
 Helmut
 Helot
+Help
 Helsinki
 Helvetisch
 Helvetismen
@@ -2741,6 +2744,7 @@ Hitlertum
 Hitliste
 Hitparade
 Hitparadenplätze
+Hitradio
 Hitze
 Hitzebeständig
 Hitzeempfindlich

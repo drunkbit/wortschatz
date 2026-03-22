@@ -683,6 +683,7 @@ schäumenden
 schaumig
 schaumwellen
 schäumwerkzeug
+schauplatz
 schaurig
 schauspiel
 schauspieler
@@ -2315,6 +2316,7 @@ schwuppdiwupp
 schwur
 schwüre
 schwurgericht
+science
 sciencefiction
 scientology
 scott
@@ -2717,6 +2719,10 @@ sendergehäuse
 sendergruppe
 sendernetz
 sendertotzeit
+sendung
+sendungen
+sendungskopie
+sendungsteilnehmers
 senegal
 senegalesisch
 senf
@@ -2806,6 +2812,7 @@ serum
 server
 service
 servicefreundlich
+services
 servierbrett
 servieren
 servierendes
@@ -3497,6 +3504,7 @@ sondierungsauftrag
 sondierungsgespräche
 sonett
 song
+songcontest
 sonja
 sonnabend
 sonnabendmorgen
@@ -3790,6 +3798,7 @@ speicherplatzeffizient
 speicherplatzintensiv
 speicherprogrammierbar
 speicherprogrammiert
+speichert
 speicherung
 speien
 speise
@@ -4397,6 +4406,7 @@ starrsucht
 starrt
 starrte
 starrten
+stars
 start
 startbereit
 startbit

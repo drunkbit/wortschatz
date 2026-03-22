@@ -533,6 +533,7 @@ Teleskop
 Teleskopisch
 Teleskopschienen
 Teleskopzylinder
+Teletext
 Television
 Telex
 Telexdienst
@@ -601,6 +602,7 @@ Terminalleitung
 Terminalserver
 Terminaltreiber
 Terminator
+Termine
 Terminführen
 Termingerecht
 Termini
@@ -799,6 +801,7 @@ Tibetisch
 Tick
 Ticken
 Ticket
+Tickets
 Tiebreak
 Tief
 Tiefblau
@@ -924,6 +927,7 @@ Tobten
 Tochter
 Töchter
 Tochtergesellschaften
+Tochterunternehmen
 Tod
 Todblass
 Todbringend
@@ -1829,6 +1833,7 @@ Tutorial
 Tutorien
 Tutorium
 Tutu
+Tvthek
 Tweedanzug
 Twitter
 Twittern

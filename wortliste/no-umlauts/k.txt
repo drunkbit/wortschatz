@@ -477,6 +477,7 @@ kandidat
 Kandidat
 kandidaten
 Kandidaten
+Kandidatin
 kandidatur
 Kandidatur
 kandidieren
@@ -818,6 +819,7 @@ Kartell
 kartellrechtlich
 karten
 Karten
+Kartenbestellungen
 Kartenspiel
 kartesisch
 karthager
@@ -2036,6 +2038,7 @@ klima
 Klima
 klimafitten
 Klimafoerderungen
+klimaschutzpreis
 klimatisch
 klimatischen
 klimatisieren
@@ -2284,6 +2287,7 @@ kniff
 Kniff
 Kniffen
 knifflig
+knifflige
 Knigge
 knilch
 Knilch
@@ -2875,6 +2879,7 @@ kommunikations
 Kommunikations
 kommunikationsfaehig
 kommunikationstechnisch
+Kommunikationsverlauf
 kommunikativ
 kommunikator
 Kommunikator
@@ -3210,6 +3215,7 @@ Konklave
 konkordat
 Konkordat
 konkret
+Konkret
 konkrete
 konkretere
 konkreteste
@@ -3383,6 +3389,11 @@ kontakt
 Kontakt
 kontaktarm
 Kontaktaufnahme
+Kontaktdaten
+Kontaktformular
+Kontaktformulare
+Kontaktformularen
+Kontaktformulars
 kontaktfreudig
 kontaktieren
 Kontaktieren
@@ -4636,11 +4647,13 @@ kunde
 Kunde
 kunden
 Kunden
+kundendienst
 Kundendienstabteilungen
 kundenfreundlich
 kundenorientiertheit
 Kundenorientiertheit
 kundenseitig
+Kundenservice
 kundenspezifisch
 kundgeben
 Kundgeben

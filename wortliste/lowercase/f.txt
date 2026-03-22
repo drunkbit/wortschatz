@@ -40,6 +40,7 @@ fachsimpeln
 fachspezifisch
 fachsprachlich
 fachübersetzen
+facingnations
 fackel
 fackelähnlich
 fackeln
@@ -345,6 +346,7 @@ faulenzerei
 faules
 faulheit
 faulig
+faulmanngasse
 fäulnis
 faulpelz
 faultier
@@ -1229,6 +1231,7 @@ flügellos
 flügeln
 flugerfahren
 flügge
+fluggesellschaft
 fluginfos
 flugmedizinisch
 flugs
@@ -1409,6 +1412,7 @@ formatierungs
 formation
 formationsflug
 formatpapier
+formats
 formatvorlage
 förmchen
 formel
@@ -1974,6 +1978,7 @@ friedrichsfelde
 friedrichshafen
 friedrichshain
 friedrichstadt
+friendly
 frieren
 frierend
 friese
@@ -2372,6 +2377,7 @@ fusions
 fuß
 fußabstreicher
 fußabtreter
+fußball
 fußballbegeistert
 fußballbesessene
 fußballeben

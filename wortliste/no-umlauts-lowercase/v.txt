@@ -194,6 +194,8 @@ veranstaltungs
 verantworten
 verantwortlich
 verantwortliche
+verantwortlichen
+verantwortlicher
 verantwortlichkeit
 verantwortung
 verantwortungs
@@ -880,6 +882,7 @@ verhimmeln
 verhindern
 verhindernden
 verhindert
+verhinderung
 verhob
 verhoehnen
 verhoehnt
@@ -1892,6 +1895,7 @@ vertraglich
 vertrags
 vertragsbruechig
 vertragschliessend
+vertragserfuellung
 vertragsgemaess
 vertragslos
 vertragsmaessig
@@ -2489,6 +2493,7 @@ volksbank
 volksdeutschen
 volksetymologisch
 volksfest
+volksgruppen
 volkskundler
 volksschule
 volksschulklasse

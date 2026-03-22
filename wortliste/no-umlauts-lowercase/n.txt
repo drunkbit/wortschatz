@@ -19,6 +19,7 @@ nachbardoerfern
 nachbargarten
 nachbargartens
 nachbarin
+nachbarinnot
 nachbarlich
 nachbarlift
 nachbarn
@@ -230,6 +231,7 @@ nachlauf
 nachlaufen
 nachleben
 nachlegen
+nachlese
 nachlesen
 nachleuchten
 nachlief
@@ -1329,6 +1331,7 @@ nocken
 nockenrad
 nockenscheibe
 nockenwelle
+noe
 noelen
 noerdlich
 noergeln

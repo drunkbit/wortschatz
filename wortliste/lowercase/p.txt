@@ -1443,6 +1443,7 @@ portierungsaufwand
 portion
 portionieren
 portionsweise
+portisch
 portland
 portmonee
 porto
@@ -1477,6 +1478,7 @@ positions
 positiv
 positive
 positiven
+positiver
 positivismus
 positivistisch
 posse
@@ -1876,6 +1878,7 @@ produkt
 produktenbörse
 produktenhandel
 produktion
+produktionen
 produktions
 produktionsnah
 produktionsstillstand
@@ -1886,6 +1889,7 @@ produktspezifisch
 produzent
 produzenten
 produzieren
+produziert
 profan
 profession
 professionalisieren
@@ -1916,6 +1920,7 @@ prognostisch
 prognostizieren
 programm
 programmabhängig
+programmanfrage
 programmatisch
 programmbegleitend
 programmfile
@@ -1928,6 +1933,7 @@ programmierer
 programmiertechnisch
 programmunabhängig
 programmunterlagen
+programmwunsch
 progress
 progression
 progressionsvorbehalt
@@ -2175,6 +2181,7 @@ publikationsliste
 publikmachen
 publikum
 publikums
+publikumsrat
 publikumswirksam
 publizieren
 publizist
