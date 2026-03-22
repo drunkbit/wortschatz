@@ -1912,6 +1912,7 @@ Schluepfer
 schluepfrig
 schluepfte
 schluerfen
+Schluesse
 schluessel
 Schluessel
 Schluesselbuende
@@ -5447,6 +5448,7 @@ Sozialdarwinismus
 Sozialdemokraten
 sozialdemokratisch
 soziale
+Sozialen
 sozialisation
 Sozialisation
 sozialisieren
@@ -5698,6 +5700,7 @@ speicherplatzeffizient
 speicherplatzintensiv
 speicherprogrammierbar
 speicherprogrammiert
+Speicherung
 speien
 speise
 Speise

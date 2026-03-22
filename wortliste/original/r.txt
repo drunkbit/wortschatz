@@ -682,6 +682,7 @@ rechthaberisch
 rechtläufig
 rechtler
 rechtlich
+rechtlichen
 rechtlichkeit
 Rechtlichkeit
 rechtlos
@@ -693,6 +694,7 @@ rechtmäßigkeit
 Rechtmäßigkeit
 rechts
 Rechts
+Rechtsansprüche
 rechtsbündig
 rechtschaffen
 rechtschaffenheit
@@ -819,6 +821,8 @@ Redundanz
 reduzieren
 Reduzieren
 reduziert
+reduzierte
+reduzierten
 reeder
 Reeder
 reederei
@@ -1013,6 +1017,8 @@ registrier
 Registrier
 registrieren
 Registrieren
+Registrierung
+registrierungspflichtigen
 reglement
 Reglement
 reglementieren

@@ -2911,6 +2911,8 @@ gewinnerzielungstrieb
 gewinnmargen
 gewinnmitnahme
 gewinnmitnehmend
+gewinnspiel
+gewinnspiels
 gewinnt
 gewinntraechtig
 gewinnungs

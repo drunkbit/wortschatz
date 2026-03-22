@@ -422,6 +422,7 @@ fehlermöglichkeiten
 fehlern
 fehlerquelle
 fehlertolerant
+fehlerüberwachung
 fehlervariable
 fehlgeleitet
 fehlgeschlagen
@@ -633,6 +634,7 @@ festgehalten
 festgeklebt
 festgeklemmt
 festgelegt
+festgelegten
 festgemacht
 festgenagelt
 festgenommen
@@ -2312,6 +2314,7 @@ funktionalität
 funktionär
 funktionäre
 funktionell
+funktionen
 funktionieren
 funktionierens
 funktioniert

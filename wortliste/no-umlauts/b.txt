@@ -619,6 +619,7 @@ Beantworter
 beantwortet
 beantwortete
 beantworteten
+Beantwortung
 beantwortungs
 Beantwortungs
 bearbeiten
@@ -1951,6 +1952,7 @@ benutzereigen
 benutzerfreundlich
 benutzerorientiert
 benutzt
+benutzte
 Benutzung
 benutzungs
 Benutzungs

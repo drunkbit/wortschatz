@@ -320,6 +320,7 @@ Tauschen
 Täuschen
 Täuschende
 Täuschmanöver
+Tauscht
 Täuscht
 Tauschte
 Täuschte
@@ -926,6 +927,7 @@ Tobsuchtsanfall
 Tobten
 Tochter
 Töchter
+Tochtergesellschaften
 Tod
 Todblass
 Todbringend

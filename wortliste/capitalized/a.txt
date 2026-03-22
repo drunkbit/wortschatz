@@ -46540,6 +46540,8 @@ Anwendbarkeit
 Anwenden
 Anwender
 Anwendet
+Anwendung
+Anwendungen
 Anwendungs
 Anwendungsfreundlich
 Anwendungsgerecht
@@ -46775,6 +46777,7 @@ Approbation
 Approximation
 Approximativ
 Approximieren
+Apps
 Aprikose
 Aprikosen
 April
@@ -47225,6 +47228,7 @@ Aufbewahren
 Aufbewahrt
 Aufbewahrte
 Aufbewahrungs
+Aufbewahrungsfristen
 Aufbiegen
 Aufbieten
 Aufbinden
@@ -49103,6 +49107,7 @@ Aussparen
 Ausspeien
 Aussperren
 Ausspielen
+Ausspielung
 Ausspionieren
 Aussprach
 Aussprache

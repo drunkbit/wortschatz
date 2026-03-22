@@ -1320,6 +1320,7 @@ Kenntnis
 kenntnisreich
 Kenntnisse
 Kenntnissen
+Kennungen
 kennzeichnen
 kent
 Kent
@@ -4651,6 +4652,7 @@ kunde
 Kunde
 kunden
 Kunden
+Kundendienstabteilungen
 kundenfreundlich
 kundenorientiertheit
 Kundenorientiertheit

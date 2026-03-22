@@ -351,12 +351,18 @@ datenkanalmultiplexer
 Datenkanalmultiplexer
 datenlink
 Datenlink
+Datenschutzeinstellungen
+Datenschutzerklärung
 datenschutzgerecht
+Datenschutzinformationen
 datenschutzkonform
 datenschutzrechtlich
 datenserver
 Datenserver
 datentechnisch
+Datenverarbeiters
+Datenverarbeitung
+Datenverkehr
 datex
 Datex
 datexteilnehmer
@@ -1118,6 +1124,7 @@ detailliert
 detaillierungsgrad
 Detaillierungsgrad
 detailreich
+Details
 detektei
 Detektei
 detektieren
@@ -1468,6 +1475,7 @@ Dieses
 diesig
 diesjährig
 diesmal
+Diesmal
 diesseitig
 diesseits
 Dieter

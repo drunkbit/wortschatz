@@ -402,6 +402,7 @@ beantworter
 beantwortet
 beantwortete
 beantworteten
+beantwortung
 beantwortungs
 bearbeiten
 bearbeiter
@@ -1395,6 +1396,7 @@ benutzerfreundlich
 benutzerorientiert
 benutzt
 benützt
+benutzte
 benützte
 benutzung
 benützung

@@ -210,6 +210,7 @@ währen
 während
 Während
 währenddessen
+Währenddessen
 wahrer
 wahrgehabt
 wahrgenommen
@@ -263,6 +264,7 @@ wahrspruch
 Wahrspruch
 wahrsprüche
 Wahrsprüche
+Wahrung
 währung
 Währung
 währungs
@@ -346,6 +348,7 @@ Wallfahrtsort
 wallgefahren
 wallonisch
 Wallraff
+Walls
 walnuss
 Walnuss
 walnussbaum
@@ -715,6 +718,7 @@ WC
 WDR
 web
 Web
+Webangebots
 webbasiert
 Webblog
 webbrowser
@@ -734,6 +738,7 @@ webserver
 Webserver
 website
 Website
+Websites
 wechsel
 Wechsel
 wechselakzept
@@ -1262,6 +1267,7 @@ weiterempfohlen
 weiteren
 Weiteren
 weiterentwickeln
+Weiterentwicklung
 weiterer
 weitererzählen
 weiteres
@@ -1326,6 +1332,7 @@ weiterreden
 weiterregieren
 weiterreichen
 weiterreisen
+Weiters
 weitersagen
 weitersehen
 weiterspielen
@@ -1521,11 +1528,14 @@ wer
 Wer
 werbe
 Werbe
+Werbeaktivitäten
 werbefinanziert
+Werbeformen
 werbefrei
 werbemäßig
 werben
 Werben
+Werbepartner
 werber
 Werber
 werbetrommel
@@ -1534,6 +1544,7 @@ Werbetruppe
 Werbetruppen
 werbewirksam
 werblich
+Werbung
 werbungskosten
 Werbungskosten
 werde

@@ -3692,6 +3692,8 @@ Gewinnmargen
 gewinnmitnahme
 Gewinnmitnahme
 gewinnmitnehmend
+Gewinnspiel
+Gewinnspiels
 gewinnt
 gewinntraechtig
 gewinnungs

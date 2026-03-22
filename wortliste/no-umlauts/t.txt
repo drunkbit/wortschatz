@@ -511,6 +511,7 @@ Taupunkt
 tausch
 Tausch
 tauschen
+tauscht
 tauschte
 tauschten
 tausend
@@ -1463,6 +1464,7 @@ tobsuechtig
 tobten
 tochter
 Tochter
+Tochtergesellschaften
 tod
 Tod
 todblass

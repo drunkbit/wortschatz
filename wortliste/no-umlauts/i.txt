@@ -615,6 +615,7 @@ Information
 informationell
 informations
 Informations
+Informationsmaterial
 informationstechnisch
 informationsverarbeitend
 informativ
@@ -670,8 +671,10 @@ Inhalation
 inhalieren
 inhalt
 Inhalt
+Inhalte
 inhalteanbieter
 Inhalteanbieter
+Inhalten
 inhaltlich
 inhaltlichen
 inhaltlicher
@@ -963,6 +966,7 @@ instabil
 instabilitaet
 Instabilitaet
 instaendig
+Instagram
 installateur
 Installateur
 installateurmeister
@@ -1113,6 +1117,7 @@ interagieren
 interaktion
 Interaktion
 interaktiv
+interaktive
 interaktivitaet
 Interaktivitaet
 interamerikanisch

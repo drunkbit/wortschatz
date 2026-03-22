@@ -824,6 +824,7 @@ Kenntnis
 Kenntnisreich
 Kenntnisse
 Kenntnissen
+Kennungen
 Kennzeichnen
 Kent
 Kentern
@@ -2908,6 +2909,7 @@ Kund
 Kunde
 Kunden
 Künden
+Kundendienstabteilungen
 Kundenfreundlich
 Kundenorientiertheit
 Kundenseitig

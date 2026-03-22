@@ -254,11 +254,17 @@ datenfile
 datenframe
 datenkanalmultiplexer
 datenlink
+datenschutzeinstellungen
+datenschutzerklärung
 datenschutzgerecht
+datenschutzinformationen
 datenschutzkonform
 datenschutzrechtlich
 datenserver
 datentechnisch
+datenverarbeiters
+datenverarbeitung
+datenverkehr
 datex
 datexteilnehmer
 datieren
@@ -770,6 +776,7 @@ detaillieren
 detailliert
 detaillierungsgrad
 detailreich
+details
 detektei
 detektieren
 detektion

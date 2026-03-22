@@ -1934,6 +1934,7 @@ schluss
 Schluss
 Schluß
 Schlusse
+Schlüsse
 schlüssel
 Schlüssel
 Schlüsselbünde
@@ -5451,6 +5452,7 @@ Sozialdarwinismus
 Sozialdemokraten
 sozialdemokratisch
 soziale
+Sozialen
 sozialisation
 Sozialisation
 sozialisieren
@@ -5702,6 +5704,7 @@ speicherplatzeffizient
 speicherplatzintensiv
 speicherprogrammierbar
 speicherprogrammiert
+Speicherung
 speien
 speise
 Speise

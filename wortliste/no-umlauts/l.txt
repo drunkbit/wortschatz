@@ -1168,6 +1168,7 @@ leistungsschwaechste
 leistungsstaerkste
 leistungsstark
 leistungssteigernd
+Leistungsueberwachung
 leit
 Leit
 leiten

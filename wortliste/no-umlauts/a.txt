@@ -47484,6 +47484,8 @@ Anwenden
 anwender
 Anwender
 anwendet
+Anwendung
+Anwendungen
 anwendungs
 Anwendungs
 anwendungsfreundlich
@@ -47777,6 +47779,7 @@ approximation
 Approximation
 approximativ
 approximieren
+Apps
 aprikose
 Aprikose
 aprikosen
@@ -48275,6 +48278,7 @@ asymptotisch
 asynchron
 asynchronmotor
 Asynchronmotor
+at
 AT
 Atari
 atavistisch
@@ -48460,6 +48464,7 @@ aufbewahrt
 aufbewahrte
 aufbewahrungs
 Aufbewahrungs
+Aufbewahrungsfristen
 aufbiegen
 aufbieten
 Aufbieten
@@ -50776,6 +50781,7 @@ aussperren
 Aussperren
 ausspielen
 Ausspielen
+Ausspielung
 ausspionieren
 Ausspionieren
 aussprach

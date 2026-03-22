@@ -1243,9 +1243,13 @@ netzbasiert
 netzpolitisch
 netzüberlast
 Netzüberlast
+Netzwerk
 netzwerkbuffer
 Netzwerkbuffer
+Netzwerke
+Netzwerken
 netzwerkfähig
+Netzwerks
 neu
 Neu
 Neuankömmlinge
@@ -1397,6 +1401,7 @@ Neusprachler
 neusprachlich
 neuss
 Neuss
+Neustart
 neustens
 neutestamentlich
 Neutra
@@ -1438,6 +1443,7 @@ newsgruppe
 Newsgruppe
 newsletter
 Newsletter
+Newslettern
 newsserver
 Newsserver
 Newton
@@ -2190,6 +2196,7 @@ Nutzenfunktion
 nutzer
 Nutzer
 nutzerfreundlich
+Nutzern
 Nutzfläche
 Nutzgarten
 nützlich
@@ -2211,6 +2218,7 @@ Nutzpflanzen
 nützt
 nützte
 nutzten
+Nutzung
 nutzungs
 Nutzungs
 nutzungsgerecht

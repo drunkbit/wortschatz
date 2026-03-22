@@ -824,6 +824,7 @@ kenntnis
 kenntnisreich
 kenntnisse
 kenntnissen
+kennungen
 kennzeichnen
 kent
 kentern
@@ -2908,6 +2909,7 @@ kund
 kunde
 kunden
 künden
+kundendienstabteilungen
 kundenfreundlich
 kundenorientiertheit
 kundenseitig

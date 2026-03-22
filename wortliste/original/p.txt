@@ -990,6 +990,9 @@ personenabhängig
 Personenaufzug
 Personenbeschreibung
 personenbezogen
+Personenbezogene
+personenbezogenen
+personenbezogener
 personengebunden
 personenstandsregister
 Personenstandsregister
@@ -2505,6 +2508,7 @@ Potenzialtrennung
 potenzialverlauf
 Potenzialverlauf
 potenziell
+potenzielle
 potenziellen
 potenzieren
 Potenzieren
@@ -2980,6 +2984,7 @@ Privatkontor
 Privatmann
 Privatpersonen
 privatrechtlich
+Privatsphäre
 Privatvilla
 privatwirtschaftlich
 privileg

@@ -403,6 +403,7 @@ beantworter
 beantwortet
 beantwortete
 beantworteten
+beantwortung
 beantwortungs
 bearbeiten
 bearbeiter
@@ -1396,6 +1397,7 @@ benutzereigen
 benutzerfreundlich
 benutzerorientiert
 benutzt
+benutzte
 benutzung
 benutzungs
 benz

@@ -386,6 +386,7 @@ informatiker
 information
 informationell
 informations
+informationsmaterial
 informationstechnisch
 informationsverarbeitend
 informativ
@@ -421,7 +422,9 @@ inhaftieren
 inhalation
 inhalieren
 inhalt
+inhalte
 inhalteanbieter
+inhalten
 inhaltlich
 inhaltlichen
 inhaltlicher
@@ -612,6 +615,7 @@ inspizieren
 inst
 instabil
 instabilität
+instagram
 installateur
 installateurmeister
 installation
@@ -704,6 +708,7 @@ intention
 interagieren
 interaktion
 interaktiv
+interaktive
 interaktivität
 interamerikanisch
 intercity

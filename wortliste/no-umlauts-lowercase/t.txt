@@ -326,6 +326,7 @@ taunus
 taupunkt
 tausch
 tauschen
+tauscht
 tauschte
 tauschten
 tausend
@@ -924,6 +925,7 @@ tobsuchtsanfall
 tobsuechtig
 tobten
 tochter
+tochtergesellschaften
 tod
 todblass
 todbringend

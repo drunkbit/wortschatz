@@ -45661,6 +45661,8 @@ anwendbarkeit
 anwenden
 anwender
 anwendet
+anwendung
+anwendungen
 anwendungs
 anwendungsfreundlich
 anwendungsgerecht
@@ -45896,6 +45898,7 @@ approbation
 approximation
 approximativ
 approximieren
+apps
 aprikose
 aprikosen
 april
@@ -46345,6 +46348,7 @@ aufbewahren
 aufbewahrt
 aufbewahrte
 aufbewahrungs
+aufbewahrungsfristen
 aufbiegen
 aufbieten
 aufbinden
@@ -48222,6 +48226,7 @@ aussparen
 ausspeien
 aussperren
 ausspielen
+ausspielung
 ausspionieren
 aussprach
 aussprache

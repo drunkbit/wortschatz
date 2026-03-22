@@ -504,6 +504,7 @@ Täuschen
 Täuschende
 täuschmanöver
 Täuschmanöver
+tauscht
 täuscht
 tauschte
 täuschte
@@ -1466,6 +1467,7 @@ tochter
 Tochter
 töchter
 Töchter
+Tochtergesellschaften
 tod
 Tod
 todblass

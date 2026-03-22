@@ -225,6 +225,7 @@ wahrscheinlichste
 wahrscheinlichsten
 wahrspruch
 wahrsprueche
+wahrung
 wahrzeichen
 wahrzunehmen
 waidmaenner
@@ -272,6 +273,7 @@ wallfahrtsort
 wallgefahren
 wallonisch
 wallraff
+walls
 walnuss
 walnussbaum
 walnusskuchen
@@ -483,6 +485,7 @@ watvogel
 wc
 wdr
 web
+webangebots
 webbasiert
 webblog
 webbrowser
@@ -494,6 +497,7 @@ weberknecht
 weberschiffchen
 webserver
 website
+websites
 wechsel
 wechselakzept
 wechselbaelge
@@ -920,6 +924,7 @@ weiterempfiehlt
 weiterempfohlen
 weiteren
 weiterentwickeln
+weiterentwicklung
 weiterer
 weitererzaehlen
 weiteres
@@ -981,6 +986,7 @@ weiterreden
 weiterregieren
 weiterreichen
 weiterreisen
+weiters
 weitersagen
 weitersehen
 weiterspielen
@@ -1143,16 +1149,20 @@ wennschon
 wenzelsplatz
 wer
 werbe
+werbeaktivitaeten
 werbefinanziert
+werbeformen
 werbefrei
 werbemaessig
 werben
+werbepartner
 werber
 werbetrommel
 werbetruppe
 werbetruppen
 werbewirksam
 werblich
+werbung
 werbungskosten
 werde
 werdegang

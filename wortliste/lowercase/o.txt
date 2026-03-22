@@ -348,6 +348,7 @@ optimistisch
 optimum
 option
 optional
+optionale
 options
 optionserfahrene
 optisch

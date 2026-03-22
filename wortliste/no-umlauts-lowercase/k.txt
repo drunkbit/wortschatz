@@ -824,6 +824,7 @@ kenntnis
 kenntnisreich
 kenntnisse
 kenntnissen
+kennungen
 kennzeichnen
 kent
 kentern
@@ -2952,6 +2953,7 @@ kumuluswolke
 kund
 kunde
 kunden
+kundendienstabteilungen
 kundenfreundlich
 kundenorientiertheit
 kundenseitig
