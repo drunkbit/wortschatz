@@ -5,6 +5,9 @@ tools/dist/
 # package-lock.json
 package-lock.json
 
+# MacOS
+.DS_Store
+
 # Logs
 logs
 *.log
