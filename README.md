@@ -49,83 +49,125 @@ curl -O https://raw.githubusercontent.com/drunkbit/wortschatz/main/wortliste/upp
 
 ## Wortliste selbst generieren
 
-### Installation
+Im Verzeichnis `tools/` befinden sich alle Skripte, um die Wortliste aus verschiedenen Quellen neu aufzubauen. Nach der Installation (`cd tools && npm install`) stehen die folgenden Befehle zur Verfügung:
 
-```bash
-cd tools && npm install
+---
+
+### `npm run fetch`
+
+```
+NAME
+    fetch — Wörter aus Online-Quellen abrufen
+
+SYNOPSIS
+    npm run fetch [-- OPTIONS]
+
+DESCRIPTION
+    Ruft Wörter aus den konfigurierten Online-Quellen ab und speichert
+    sie im lokalen Cache. Ohne Optionen werden alle Quellen abgerufen.
+
+OPTIONS
+    --hunspell      Nur aus dem Hunspell-Wörterbuch abrufen
+    --wiktionary    Nur aus Wiktionary abrufen
+    --dwds          Nur aus DWDS abrufen
+    --force         Cache neu erstellen, auch wenn er aktuell ist
 ```
 
-### Wörter aus Quellen abrufen
+---
 
-Alle Quellen:
+### `npm run extract`
 
-```bash
-npm run fetch
+```
+NAME
+    extract — Wörter aus eigenen Texten extrahieren
+
+SYNOPSIS
+    npm run extract
+
+DESCRIPTION
+    Tokenisiert Fließtext aus .txt-Dateien im Verzeichnis tools/input/
+    und extrahiert einzelne Wörter automatisch. Die Dateien müssen vor
+    dem Aufruf manuell in tools/input/ abgelegt werden.
 ```
 
-Nur eine bestimmte Quelle:
+---
 
-```bash
-npm run fetch -- --hunspell
+### `npm run build-wordlist`
+
+```
+NAME
+    build-wordlist — Wortliste inkrementell aktualisieren
+
+SYNOPSIS
+    npm run build-wordlist [-- OPTIONS]
+
+DESCRIPTION
+    Ergänzt nur neue Wörter zur bestehenden Wortliste. Vorhandene
+    Einträge bleiben unverändert.
+
+OPTIONS
+    --dry-run       Zeigt was passieren würde, ohne Dateien zu schreiben
 ```
 
-```bash
-npm run fetch -- --wiktionary
+---
+
+### `npm run rebuild-wordlist`
+
+```
+NAME
+    rebuild-wordlist — Wortliste komplett neu erstellen
+
+SYNOPSIS
+    npm run rebuild-wordlist
+
+DESCRIPTION
+    Verwirft die bestehende Wortliste und erstellt sie vollständig neu
+    aus allen verfügbaren Quellen und dem Cache.
 ```
 
-```bash
-npm run fetch -- --dwds
+---
+
+### `npm run filter`
+
+```
+NAME
+    filter — Wortliste filtern
+
+SYNOPSIS
+    npm run filter [-- OPTIONS]
+
+OPTIONS
+    --dry-run       Zeigt was passieren würde, ohne Dateien zu schreiben
 ```
 
-Cache neu erstellen, auch wenn er aktuell ist:
+---
 
-```bash
-npm run fetch -- --force
+### `npm run stats`
+
+```
+NAME
+    stats — Cache-Statistiken anzeigen
+
+SYNOPSIS
+    npm run stats
+
+DESCRIPTION
+    Zeigt Statistiken und das Alter der Cache-Dateien an.
 ```
 
-### Eigene Texte hinzufügen
+---
 
-Eigene Textdateien (`.txt`) im Verzeichnis `tools/input/` ablegen. Der Text-Extraktor tokenisiert den Fließtext und extrahiert einzelne Wörter automatisch.
+### `npm run cache-clean`
 
-```bash
-npm run extract
 ```
+NAME
+    cache-clean — Cache löschen
 
-### Wortliste generieren
+SYNOPSIS
+    npm run cache-clean
 
-Nur neue Wörter zur bestehenden Liste ergänzen:
-
-```bash
-npm run build-wordlist
-```
-
-Wortliste komplett neu erstellen:
-
-```bash
-npm run rebuild-wordlist
-```
-
-### Trockenlauf
-
-Zeigt was passieren würde, ohne Dateien zu schreiben:
-
-```bash
-npm run build-wordlist -- --dry-run
-npm run filter -- --dry-run
-```
-
-### Cache verwalten
-
-Statistiken und Cache-Alter anzeigen:
-
-```bash
-npm run stats
-```
-
-Alle Cache-Dateien löschen:
-
-```bash
-npm run cache-clean
+DESCRIPTION
+    Löscht alle Cache-Dateien im Verzeichnis tools/cache/.
 ```
 
 ## Quellen
