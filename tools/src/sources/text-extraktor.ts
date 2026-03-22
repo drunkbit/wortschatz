@@ -57,11 +57,23 @@ export async function extractFromTexts(): Promise<string[]> {
 /**
  * Tokenisiert Fließtext in einzelne Wörter.
  * Trennt an Whitespace, Satzzeichen, Klammern, Anführungszeichen etc.
+ * Zusätzlich werden camelCase-Wörter an Großbuchstaben-Grenzen getrennt,
+ * z.B. "warHeute" → ["war", "Heute"].
  */
 function tokenize(text: string): string[] {
     return text
         .split(/[\s,.\-;:!?()[\]{}"'«»„"‚'·/\\|@#$%^&*+=<>~`_0-9]+/)
-        .filter((t) => t.length > 0);
+        .filter((t) => t.length > 0)
+        .flatMap(splitCamelCase);
+}
+
+/**
+ * Trennt ein Wort an camelCase-Grenzen (Kleinbuchstabe gefolgt von Großbuchstabe).
+ * "warHeute" → ["war", "Heute"]
+ * "WarHeute" → ["War", "Heute"]
+ */
+function splitCamelCase(word: string): string[] {
+    return word.split(/(?<=[a-zäöüß])(?=[A-ZÄÖÜ])/).filter((t) => t.length > 0);
 }
 
 function isValidWord(word: string): boolean {
