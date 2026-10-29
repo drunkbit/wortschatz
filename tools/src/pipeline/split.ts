@@ -13,6 +13,7 @@ export function splitByLetter(words: string[]): Map<string, string[]> {
     const buckets = new Map<string, string[]>();
 
     for (const word of words) {
+        if (!word) continue;
         const key = getBucketKey(word);
         if (!buckets.has(key)) {
             buckets.set(key, []);

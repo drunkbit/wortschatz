@@ -1,8 +1,9 @@
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
+import { fileURLToPath } from "node:url";
 import { isValidWordMinLength } from "../utils/validation.js";
 
-const INPUT_DIR = new URL("../../input/", import.meta.url).pathname;
+const INPUT_DIR = fileURLToPath(new URL("../../input/", import.meta.url));
 
 /**
  * Extrahiert einzelne Wörter aus Fließtexten im input/-Verzeichnis.

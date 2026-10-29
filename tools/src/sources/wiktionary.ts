@@ -58,9 +58,11 @@ export async function fetchWiktionary(): Promise<string[]> {
 
         if (!response?.ok) {
             console.warn(
-                `[wiktionary] Batch ${batch} fehlgeschlagen nach ${MAX_RETRIES} Versuchen, überspringe...`,
+                `[wiktionary] Batch ${batch} fehlgeschlagen nach ${MAX_RETRIES} Versuchen, breche ab.`,
             );
-            continue;
+            // Abbrechen statt continue: der cmcontinue-Token bleibt sonst
+            // unverändert und derselbe Batch würde endlos wiederholt.
+            break;
         }
 
         const data = (await response.json()) as WiktionaryResponse;
@@ -73,7 +75,14 @@ export async function fetchWiktionary(): Promise<string[]> {
             }
         }
 
-        cmcontinue = data.continue?.cmcontinue;
+        const nextContinue = data.continue?.cmcontinue;
+        if (nextContinue && nextContinue === cmcontinue) {
+            console.warn(
+                "[wiktionary] API liefert denselben Fortsetzungs-Token erneut, breche ab.",
+            );
+            break;
+        }
+        cmcontinue = nextContinue;
 
         if (batch % 20 === 0) {
             console.log(

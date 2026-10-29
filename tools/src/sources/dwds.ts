@@ -29,6 +29,17 @@ export async function fetchDwds(): Promise<string[]> {
             return await fetchDwdsAlternative();
         }
 
+        // Der Endpunkt liefert inzwischen eine HTML-Seite statt einer
+        // Textliste. Ohne diese Prüfung würden HTML-Token wie "html" oder
+        // "body" als deutsche Wörter in die Wortliste wandern.
+        const contentType = response.headers.get("content-type") ?? "";
+        if (!contentType.includes("text/plain")) {
+            console.warn(
+                `[dwds] Unerwarteter Inhalt (${contentType || "unbekannt"}) — Versuche alternative Methode...`,
+            );
+            return await fetchDwdsAlternative();
+        }
+
         const text = await response.text();
         const words = text
             .split("\n")
@@ -63,8 +74,17 @@ async function fetchDwdsAlternative(): Promise<string[]> {
 
             if (!response.ok) return [];
 
-            const data = (await response.json()) as string[];
-            const valid = data.filter((word) => isValidWord(word));
+            const data: unknown = await response.json();
+            if (!Array.isArray(data)) {
+                console.warn(
+                    `[dwds]   ${prefix}: Unerwartetes Antwortformat, überspringe...`,
+                );
+                return [];
+            }
+
+            const valid = data
+                .filter((word): word is string => typeof word === "string")
+                .filter((word) => isValidWord(word));
 
             console.log(`[dwds]   ${prefix}: ${data.length} Einträge`);
             await sleep(100);

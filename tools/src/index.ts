@@ -9,6 +9,7 @@ import {
     writeFile,
 } from "node:fs/promises";
 import { join } from "node:path";
+import { fileURLToPath } from "node:url";
 import { promisify } from "node:util";
 import {
     type ExportStats,
@@ -16,7 +17,7 @@ import {
     exportWordlist,
 } from "./pipeline/export.js";
 import { filterWordlist } from "./pipeline/filter.js";
-import { mergeWordlists } from "./pipeline/merge.js";
+import { diffWordlists, mergeWordlists } from "./pipeline/merge.js";
 import {
     normalizeCapitalized,
     normalizeNoUmlauts,
@@ -31,7 +32,7 @@ import { fetchHunspell } from "./sources/hunspell.js";
 import { extractFromTexts } from "./sources/text-extraktor.js";
 import { fetchWiktionary } from "./sources/wiktionary.js";
 
-const CACHE_DIR = new URL("../cache/", import.meta.url).pathname;
+const CACHE_DIR = fileURLToPath(new URL("../cache/", import.meta.url));
 const CACHE_MAX_AGE_DAYS = 30;
 
 const program = new Command();
@@ -61,7 +62,7 @@ program
                 );
             } else {
                 const words = await fetchHunspell();
-                await saveCacheFile("hunspell.json", words);
+                await saveCacheFileUnlessEmpty("hunspell.json", words);
             }
         }
 
@@ -72,7 +73,7 @@ program
                 );
             } else {
                 const words = await fetchWiktionary();
-                await saveCacheFile("wiktionary.json", words);
+                await saveCacheFileUnlessEmpty("wiktionary.json", words);
             }
         }
 
@@ -83,7 +84,7 @@ program
                 );
             } else {
                 const words = await fetchDwds();
-                await saveCacheFile("dwds.json", words);
+                await saveCacheFileUnlessEmpty("dwds.json", words);
             }
         }
 
@@ -94,11 +95,35 @@ program
 program
     .command("extract")
     .description("Wörter aus eigenen Texten (tools/input/) extrahieren")
-    .action(async () => {
+    .option(
+        "--reset",
+        "Cache der eigenen Texte neu aufbauen (statt zu ergänzen)",
+    )
+    .action(async (options) => {
         await mkdir(CACHE_DIR, { recursive: true });
 
         const words = await extractFromTexts();
-        await saveCacheFile("custom.json", words);
+
+        if (words.length === 0 && !options.reset) {
+            console.warn(
+                "  ⚠ Keine Wörter extrahiert — vorhandener Cache bleibt unverändert.",
+            );
+            console.log("\n✓ Extraktion abgeschlossen.");
+            return;
+        }
+
+        const previous = options.reset
+            ? []
+            : ((await loadCacheFile("custom.json")) ?? []);
+        const merged = mergeWordlists(previous, words);
+        await saveCacheFile("custom.json", merged);
+
+        if (previous.length > 0 && merged.length !== previous.length) {
+            const delta = merged.length - previous.length;
+            console.log(
+                `  ${delta > 0 ? "+" : ""}${delta} Wörter gegenüber dem vorherigen Cache.`,
+            );
+        }
 
         console.log("\n✓ Extraktion abgeschlossen.");
     });
@@ -175,23 +200,36 @@ program
         const merged = mergeWordlists(...allSources);
         const filtered = filterWordlist(merged);
 
-        const newWords = filtered.length - existing.length;
-        if (!rebuild && existing.length > 0) {
-            if (newWords === 0) {
+        const incremental = !rebuild && existing.length > 0;
+        const { added: newWords, removed: removedWords } = incremental
+            ? diffWordlists(existing, filtered)
+            : { added: filtered, removed: [] as string[] };
+
+        if (incremental) {
+            if (newWords.length === 0 && removedWords.length === 0) {
                 console.log(
-                    "\n✓ Keine neuen Wörter gefunden. Wortliste ist aktuell.\n",
+                    "\n✓ Keine Änderungen gefunden. Wortliste ist aktuell.\n",
                 );
                 return;
             }
-            console.log(`\n  +${newWords} neue Wörter gefunden.`);
+            const changes: string[] = [];
+            if (newWords.length > 0) {
+                changes.push(`+${newWords.length} neue Wörter`);
+            }
+            if (removedWords.length > 0) {
+                changes.push(`-${removedWords.length} ungültige Wörter`);
+            }
+            console.log(`\n  ${changes.join(", ")} gefunden.`);
         }
 
         if (dryRun) {
             console.log(
                 `\n[dry-run] ${filtered.length} Wörter würden exportiert.`,
             );
-            if (!rebuild && existing.length > 0) {
-                console.log(`[dry-run] Davon +${newWords} neue Wörter.`);
+            if (incremental) {
+                console.log(
+                    `[dry-run] +${newWords.length} neu, -${removedWords.length} entfernt.`,
+                );
             }
             console.log("[dry-run] Keine Dateien geschrieben.\n");
             return;
@@ -208,8 +246,13 @@ program
         );
         console.log("========================================");
         printExportStats(allStats);
-        if (!rebuild && existing.length > 0) {
-            console.log(`  Neu hinzugefügt: +${newWords} Wörter`);
+        if (incremental) {
+            console.log(`  Neu hinzugefügt: +${newWords.length} Wörter`);
+            if (removedWords.length > 0) {
+                console.log(
+                    `  Entfernt (ungültig): -${removedWords.length} Wörter`,
+                );
+            }
         }
         console.log("========================================\n");
     });
@@ -442,7 +485,7 @@ interface HistoryEntry {
 const execFileAsync = promisify(execFile);
 
 async function getWordlistHistory(): Promise<HistoryEntry[]> {
-    const repoRoot = new URL("../../", import.meta.url).pathname;
+    const repoRoot = fileURLToPath(new URL("../../", import.meta.url));
     const relPath = "wortliste/original/_alle.txt";
 
     try {
@@ -514,7 +557,7 @@ async function getCacheAge(filename: string): Promise<string> {
 
 // --- Hilfsfunktionen ---
 
-const WORDLIST_DIR = new URL("../../wortliste/", import.meta.url).pathname;
+const WORDLIST_DIR = fileURLToPath(new URL("../../wortliste/", import.meta.url));
 
 /**
  * Erstellt alle Varianten einer Wortliste und exportiert sie.
@@ -576,6 +619,29 @@ async function saveCacheFile(filename: string, data: string[]): Promise<void> {
     console.log(`  → Cache gespeichert: ${filename} (${data.length} Einträge)`);
 }
 
+/**
+ * Speichert eine Quelle nur, wenn sie Wörter geliefert hat. Ein leerer
+ * Abruf (z. B. wegen API-Ausfall) darf einen bestehenden Cache nicht
+ * überschreiben, da sonst Wörter unwiederbringlich verloren gehen.
+ */
+async function saveCacheFileUnlessEmpty(
+    filename: string,
+    data: string[],
+): Promise<void> {
+    if (data.length === 0) {
+        const previous = await loadCacheFile(filename);
+        const hint =
+            previous && previous.length > 0
+                ? ` Vorhandener Cache (${previous.length} Einträge) bleibt erhalten.`
+                : "";
+        console.warn(
+            `  ⚠ ${filename}: Quelle lieferte 0 Wörter — nichts gespeichert.${hint}`,
+        );
+        return;
+    }
+    await saveCacheFile(filename, data);
+}
+
 async function loadCacheFile(filename: string): Promise<string[] | null> {
     const path = join(CACHE_DIR, filename);
     try {
@@ -611,4 +677,11 @@ async function isCacheFresh(filename: string): Promise<boolean> {
     }
 }
 
-program.parse();
+try {
+    await program.parseAsync();
+} catch (error) {
+    console.error(
+        `\nFehler: ${error instanceof Error ? error.message : String(error)}\n`,
+    );
+    process.exitCode = 1;
+}

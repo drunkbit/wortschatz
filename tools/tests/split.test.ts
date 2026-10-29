@@ -25,4 +25,10 @@ describe("splitByLetter", () => {
         const result = splitByLetter([]);
         expect(result.size).toBe(0);
     });
+
+    it("ignoriert leere Wörter statt abzustürzen", () => {
+        const result = splitByLetter(["", "Apfel"]);
+        expect(result.size).toBe(1);
+        expect(result.get("a")).toEqual(["Apfel"]);
+    });
 });

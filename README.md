@@ -22,7 +22,8 @@ Alle Varianten gibt es als **eine Gesamtdatei** (`_alle.txt`) und **aufgeteilt n
 - **Plaintext** (`.txt`), UTF-8
 - Ein Wort pro Zeile
 - Alphabetisch sortiert (deutsche Locale)
-- Keine Duplikate innerhalb einer Datei (nicht case-sensitive)
+- Keine exakten Duplikate innerhalb einer Datei
+- In den normalisierten Varianten (`lowercase`, `uppercase`, `capitalized`, `no-umlauts-*`) zusätzlich keine Duplikate, die sich nur in der Groß-/Kleinschreibung unterscheiden. `original` und `no-umlauts` behalten bewusst beide Schreibweisen (z. B. `Aal` und `aal`)
 
 ## Nutzung der Wortliste
 
@@ -65,6 +66,9 @@ SYNOPSIS
 DESCRIPTION
     Ruft Wörter aus den konfigurierten Online-Quellen ab und speichert
     sie im lokalen Cache. Ohne Optionen werden alle Quellen abgerufen.
+    Liefert eine Quelle keine Wörter (z. B. wegen eines API-Fehlers),
+    bleibt der vorhandene Cache unverändert, damit keine Wörter verloren
+    gehen.
 
 OPTIONS
     --hunspell      Nur aus dem Hunspell-Wörterbuch abrufen
@@ -82,12 +86,15 @@ NAME
     extract — Wörter aus eigenen Texten extrahieren
 
 SYNOPSIS
-    npm run extract
+    npm run extract [-- --reset]
 
 DESCRIPTION
     Tokenisiert Fließtext aus .txt-Dateien im Verzeichnis tools/input/
     und extrahiert einzelne Wörter automatisch. Die Dateien müssen vor
     dem Aufruf manuell in tools/input/ abgelegt werden.
+
+    Die extrahierten Wörter werden zum bestehenden Cache ergänzt.
+    Mit --reset wird der Cache der eigenen Texte neu aufgebaut.
 ```
 
 ---
@@ -123,6 +130,11 @@ SYNOPSIS
 DESCRIPTION
     Verwirft die bestehende Wortliste und erstellt sie vollständig neu
     aus allen verfügbaren Quellen und dem Cache.
+
+    Hinweis: Der Neuaufbau nutzt ausschließlich den lokalen Cache
+    (tools/cache/). Fehlt eine Quelle im Cache oder ist sie leer, fehlen
+    deren Wörter anschließend in der Wortliste. Vor einem Neuaufbau
+    daher mit `npm run stats` prüfen, ob alle Quellen vorhanden sind.
 ```
 
 ---
@@ -169,6 +181,22 @@ SYNOPSIS
 DESCRIPTION
     Löscht alle Cache-Dateien im Verzeichnis tools/cache/.
 ```
+
+---
+
+## Entwicklung
+
+```bash
+cd tools
+npm install
+npm test              # Unit-Tests + Prüfung der eingecheckten Wortliste
+npm run typecheck     # TypeScript ohne Ausgabe prüfen
+```
+
+Die Tests prüfen neben der Pipeline auch die eingecheckten Wortlisten:
+Sortierung, Duplikatfreiheit, gültige Zeichen sowie die Übereinstimmung
+von `_alle.txt` und den Buchstaben-Dateien. Bei jedem Push und Pull
+Request laufen Tests und Typecheck automatisch über GitHub Actions.
 
 ## Quellen
 

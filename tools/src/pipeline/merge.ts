@@ -1,7 +1,8 @@
 /**
  * Führt Wortlisten aus verschiedenen Quellen zusammen.
- * Dedupliziert case-sensitive (Originalschreibung bleibt erhalten).
- * Sortiert alphabetisch mit deutscher Locale.
+ * Normalisiert die Wörter auf Unicode NFC, dedupliziert case-sensitive
+ * (Originalschreibung bleibt erhalten) und sortiert alphabetisch mit
+ * deutscher Locale.
  */
 export function mergeWordlists(...lists: string[][]): string[] {
     console.log("[merge] Führe Wortlisten zusammen ...");
@@ -11,10 +12,12 @@ export function mergeWordlists(...lists: string[][]): string[] {
 
     for (const list of lists) {
         for (const word of list) {
-            if (!seen.has(word)) {
-                seen.add(word);
-                merged.push(word);
-            }
+            // NFC verhindert, dass dieselben Wörter in unterschiedlichen
+            // Unicode-Normalformen (z. B. aus macOS-Texten) doppelt landen.
+            const normalized = word.normalize("NFC");
+            if (!normalized || seen.has(normalized)) continue;
+            seen.add(normalized);
+            merged.push(normalized);
         }
     }
 
@@ -23,4 +26,27 @@ export function mergeWordlists(...lists: string[][]): string[] {
 
     console.log(`[merge] ${merged.length} unique Wörter nach Zusammenführung.`);
     return merged;
+}
+
+export interface WordlistDiff {
+    added: string[];
+    removed: string[];
+}
+
+/**
+ * Vergleicht zwei Wortlisten und liefert die tatsächlich hinzugekommenen
+ * und entfernten Wörter. Ein Vergleich der reinen Wortanzahl reicht nicht,
+ * da sich hinzugefügte und entfernte Wörter gegenseitig aufheben können.
+ */
+export function diffWordlists(
+    before: string[],
+    after: string[],
+): WordlistDiff {
+    const beforeSet = new Set(before);
+    const afterSet = new Set(after);
+
+    return {
+        added: after.filter((word) => !beforeSet.has(word)),
+        removed: before.filter((word) => !afterSet.has(word)),
+    };
 }
