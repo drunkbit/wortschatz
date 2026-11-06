@@ -3,16 +3,16 @@
 Alle Befehle zum Herunterladen, Aufbauen und Pflegen der Wortliste.
 Zurück zur [Übersicht](./README.md).
 
-| Befehl | Zweck |
-| --- | --- |
-| `npm run fetch` | Quellen abrufen und im Cache speichern |
-| `npm run extract` | Wörter aus eigenen Texten in `tools/input/` gewinnen |
-| `npm run build-wordlist` | Neue Wörter inkrementell ergänzen |
-| `npm run rebuild-wordlist` | Wortliste komplett neu aufbauen |
-| `npm run filter` | Zeichenregeln anwenden und neu exportieren |
-| `npm run stats` | Quellen-, Überlappungs- und Cache-Statistik |
-| `npm run cache-clean` | Cache löschen |
-| `npm run quality` | LLM-Qualitätsprüfung, `--clean-output`, `--apply` |
+| Befehl                     | Zweck                                                |
+| -------------------------- | ---------------------------------------------------- |
+| `npm run fetch`            | Quellen abrufen und im Cache speichern               |
+| `npm run extract`          | Wörter aus eigenen Texten in `tools/input/` gewinnen |
+| `npm run build-wordlist`   | Neue Wörter inkrementell ergänzen                    |
+| `npm run rebuild-wordlist` | Wortliste komplett neu aufbauen                      |
+| `npm run filter`           | Zeichenregeln anwenden und neu exportieren           |
+| `npm run stats`            | Quellen-, Überlappungs- und Cache-Statistik          |
+| `npm run cache-clean`      | Cache löschen                                        |
+| `npm run quality`          | LLM-Qualitätsprüfung, `--clean-output`, `--apply`    |
 
 ## Wortliste herunterladen
 
@@ -289,6 +289,10 @@ BEISPIELE
     # Wortliste anwenden: erst Vorschau, dann exportieren
     npm run quality -- --min-score 85 --exclude-proper-nouns --apply --dry-run
     npm run quality -- --min-score 85 --exclude-proper-nouns --apply
+
+    # Verwendete Methode zur Qualitätsprüfung der aktuellen Wortliste:
+    npm run quality -- --batch-size 250 --concurrency 100 --compact --min-score 90 --exclude-proper-nouns --exclude-abbreviations
+    npm run quality -- --min-score 90 --apply
 ```
 
 ## Entwicklung
