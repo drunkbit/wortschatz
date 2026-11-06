@@ -22,15 +22,18 @@ export interface ExportStats {
  *   - {buchstabe}.txt (pro Buchstabe)
  *   - ae.txt, oe.txt, ue.txt (für Umlaute)
  */
-export type ExportVariant =
-    | "original"
-    | "lowercase"
-    | "uppercase"
-    | "no-umlauts"
-    | "no-umlauts-lowercase"
-    | "no-umlauts-capitalized"
-    | "no-umlauts-uppercase"
-    | "capitalized";
+export const EXPORT_VARIANTS = [
+    "original",
+    "lowercase",
+    "uppercase",
+    "capitalized",
+    "no-umlauts",
+    "no-umlauts-lowercase",
+    "no-umlauts-uppercase",
+    "no-umlauts-capitalized",
+] as const;
+
+export type ExportVariant = (typeof EXPORT_VARIANTS)[number];
 
 export async function exportWordlist(
     words: string[],

@@ -14,6 +14,7 @@
     "filter": "tsx src/index.ts filter",
     "stats": "tsx src/index.ts stats",
     "cache-clean": "tsx src/index.ts cache clean",
+    "quality": "tsx src/index.ts quality",
     "test": "vitest run",
     "test:watch": "vitest",
     "typecheck": "tsc --noEmit"
@@ -21,7 +22,8 @@
   "dependencies": {
     "cheerio": "^1.2.0",
     "commander": "^12.1.0",
-    "dictionary-de": "^3.0.0"
+    "dictionary-de": "^3.0.0",
+    "dotenv": "^18.0.9"
   },
   "devDependencies": {
     "@types/node": "^22.19.15",

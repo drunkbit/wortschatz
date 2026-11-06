@@ -8,10 +8,11 @@ import {
     stat,
     writeFile,
 } from "node:fs/promises";
-import { join } from "node:path";
+import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { promisify } from "node:util";
 import {
+    EXPORT_VARIANTS,
     type ExportStats,
     type ExportVariant,
     exportWordlist,
@@ -31,6 +32,29 @@ import { fetchDwds } from "./sources/dwds.js";
 import { fetchHunspell } from "./sources/hunspell.js";
 import { extractFromTexts } from "./sources/text-extraktor.js";
 import { fetchWiktionary } from "./sources/wiktionary.js";
+import {
+    DEFAULT_BATCH_SIZE,
+    DEFAULT_CONCURRENCY,
+    DEFAULT_MAX_RETRIES,
+    DEFAULT_MODEL,
+    PROMPT_VERSION,
+    appendQualityJournal,
+    assessWords,
+    ensureQualityJournal,
+    loadQualityJournal,
+    qualityJournalPath,
+    resetQualityJournal,
+    selectQualityWords,
+    summarizeQuality,
+    type QualityStats,
+    type WordQuality,
+} from "./quality/assessor.js";
+import type { ReasoningMode } from "./quality/openrouter.js";
+import { loadEnv } from "./utils/env.js";
+
+// Muss vor dem Definieren der Befehle laufen, weil Options-Standardwerte
+// (z. B. --model) process.env bereits beim Laden des Moduls lesen.
+loadEnv();
 
 const CACHE_DIR = fileURLToPath(new URL("../cache/", import.meta.url));
 const CACHE_MAX_AGE_DAYS = 30;
@@ -441,6 +465,388 @@ program
         console.log("\n========================================\n");
     });
 
+// --- quality: Wortqualität mit einem LLM bewerten ---
+program
+    .command("quality")
+    .description(
+        "Wortqualität mit einem LLM über die OpenRouter-API bewerten.\n" +
+            "Bewertungen werden inkrementell in tools/cache/quality-<modell>.jsonl gespeichert.\n" +
+            "Mit --apply wird die gefilterte Liste als neue Wortliste exportiert.",
+    )
+    .option("--variant <name>", "Wortlisten-Variante", "original")
+    .option(
+        "--input <file>",
+        "Eigene Wortliste (eine Zeile pro Wort) statt einer Variante",
+    )
+    .option(
+        "--model <id>",
+        "OpenRouter-Modell",
+        process.env.OPENROUTER_MODEL ?? DEFAULT_MODEL,
+    )
+    .option(
+        "--batch-size <n>",
+        "Wörter pro Anfrage",
+        String(DEFAULT_BATCH_SIZE),
+    )
+    .option(
+        "--concurrency <n>",
+        "Parallele Anfragen, 1–100",
+        String(DEFAULT_CONCURRENCY),
+    )
+    .option(
+        "--max-retries <n>",
+        "Wiederholungen bei Netz-/HTTP-Fehlern (Standard: 3)",
+        String(DEFAULT_MAX_RETRIES),
+    )
+    .option(
+        "--max-tokens <n>",
+        "Maximale Ausgabe-Tokens pro Anfrage (Standard: automatisch geschätzt)",
+    )
+    .option(
+        "--compact",
+        "Kompaktes Antwortschema — ca. 80 % weniger Ausgabe-Tokens, erlaubt bis ca. 500 Wörter pro Anfrage",
+    )
+    .option(
+        "--reasoning <mode>",
+        "Reasoning-Modelle steuern: off, low, medium, high, auto (Standard: off)",
+        "off",
+    )
+    .option(
+        "--no-split",
+        "Abgeschnittene Antworten nicht automatisch aufteilen",
+    )
+    .option("--limit <n>", "Maximal so viele neue Wörter bewerten")
+    .option("--output <path>", "Vollständigen Bericht als JSON schreiben")
+    .option(
+        "--clean-output <path>",
+        "Liste der Wörter mit ausreichender Qualität schreiben",
+    )
+    .option("--min-score <n>", "Mindest-Score für --clean-output", "80")
+    .option(
+        "--exclude-proper-nouns",
+        "Eigennamen aus --clean-output entfernen",
+    )
+    .option(
+        "--exclude-abbreviations",
+        "Abkürzungen aus --clean-output entfernen",
+    )
+    .option(
+        "--apply",
+        "Bewertete Wörter als neue Wortliste exportieren (alle Varianten, ohne API-Aufrufe)",
+    )
+    .option(
+        "--force",
+        "Mit --apply auch exportieren, wenn Wörter noch unbewertet sind",
+    )
+    .option(
+        "--dry-run",
+        "Nichts schreiben und keine API-Aufrufe (Vorschau, auch für --apply)",
+    )
+    .option("--reset", "Vorhandene Bewertungen für dieses Modell verwerfen")
+    .action(async (options) => {
+        const model = String(options.model);
+        const batchSize = parseIntegerOption(
+            options.batchSize,
+            "--batch-size",
+            1,
+            1000,
+        );
+        const concurrency = parseIntegerOption(
+            options.concurrency,
+            "--concurrency",
+            1,
+            100,
+        );
+        const maxRetries = parseIntegerOption(
+            options.maxRetries,
+            "--max-retries",
+            1,
+            10,
+        );
+        const maxTokens =
+            options.maxTokens === undefined
+                ? undefined
+                : parseIntegerOption(
+                      options.maxTokens,
+                      "--max-tokens",
+                      256,
+                      200_000,
+                  );
+        const compact = !!options.compact;
+        const reasoning = parseReasoningOption(options.reasoning);
+        const minScore = parseIntegerOption(
+            options.minScore,
+            "--min-score",
+            0,
+            100,
+        );
+        const limit =
+            options.limit === undefined
+                ? undefined
+                : parseIntegerOption(
+                      options.limit,
+                      "--limit",
+                      1,
+                      Number.MAX_SAFE_INTEGER,
+                  );
+        const dryRun = !!options.dryRun;
+        const source = options.input ? String(options.input) : null;
+        const words = [
+            ...new Set(
+                source
+                    ? await loadWordsFile(source)
+                    : await loadVariantWords(String(options.variant)),
+            ),
+        ];
+
+        if (words.length === 0) {
+            console.log("\n  Keine Wörter gefunden.\n");
+            return;
+        }
+
+        const journalPath = qualityJournalPath(CACHE_DIR, model);
+        if (options.reset) {
+            await resetQualityJournal(journalPath);
+            console.log(`  [quality] Journal zurückgesetzt: ${journalPath}`);
+        }
+
+        const assessed = await loadQualityJournal(journalPath, model);
+        const pending = words.filter((word) => !assessed.has(word));
+        const todo =
+            limit === undefined ? pending : pending.slice(0, limit);
+        const batches = Math.ceil(todo.length / batchSize);
+
+        console.log("========================================");
+        console.log("  Wortschatz — Qualitätsprüfung");
+        console.log("========================================");
+        console.log(`  Modell:         ${model}`);
+        console.log(
+            `  Reasoning:      ${reasoning === "auto" ? "automatisch" : reasoning === "off" ? "aus" : reasoning}`,
+        );
+        console.log(
+            `  Quelle:         ${source ?? `wortliste/${String(options.variant)}/_alle.txt`}`,
+        );
+        console.log(`  Wörter:         ${formatNumber(words.length)}`);
+        console.log(
+            `  Bereits bewertet: ${formatNumber(words.length - pending.length)}`,
+        );
+        console.log(`  Offen:          ${formatNumber(pending.length)}`);
+        if (todo.length !== pending.length) {
+            console.log(
+                `  In diesem Lauf: ${formatNumber(todo.length)}`,
+            );
+        }
+        console.log(
+            `  Anfragen:       ${formatNumber(batches)} à ${batchSize} Wörter`,
+        );
+        console.log(
+            `  Ausgabe-Tokens: ${maxTokens === undefined ? "automatisch" : formatNumber(maxTokens)}${compact ? " (kompakt)" : ""}\n`,
+        );
+
+        if (batchSize > 100 && !compact) {
+            console.warn(
+                "  ⚠ Große Batches ohne --compact: die ausführliche Antwort braucht\n" +
+                    "    ca. 45 Tokens pro Wort, also rund " +
+                    `${formatNumber(batchSize * 45)} Tokens. Das überschreitet die\n` +
+                    "    Ausgabelimits der meisten Modelle. Empfehlung: --compact\n" +
+                    "    (ca. 22 Tokens pro Wort) oder ein kleineres --batch-size.\n",
+            );
+        }
+
+        if (options.apply) {
+            console.log(
+                "  ℹ --apply exportiert ausschließlich gespeicherte Bewertungen — keine API-Aufrufe.\n",
+            );
+        } else if (dryRun) {
+            console.log(
+                `[dry-run] ${formatNumber(batches)} API-Anfragen würden gesendet. Keine API-Aufrufe, keine Dateien geschrieben.\n`,
+            );
+        } else if (todo.length > 0) {
+            const apiKey = process.env.OPENROUTER_API_KEY;
+            if (!apiKey) {
+                throw new Error(
+                    "OPENROUTER_API_KEY ist nicht gesetzt. Lege den Schlüssel in tools/.env " +
+                        "(OPENROUTER_API_KEY=sk-or-...) oder in der Umgebung ab. " +
+                        "Beispiel: OPENROUTER_API_KEY=sk-or-... npm run quality -- --limit 100",
+                );
+            }
+
+            await ensureQualityJournal(journalPath, model);
+
+            let processed = 0;
+            let appendQueue: Promise<void> = Promise.resolve();
+            const startedAt = Date.now();
+
+            const summary = await assessWords({
+                words: todo,
+                apiKey,
+                model,
+                baseUrl: process.env.OPENROUTER_BASE_URL,
+                batchSize,
+                concurrency,
+                maxRetries,
+                maxTokens,
+                compact,
+                reasoning,
+                splitOnOverflow: options.split !== false,
+                onBatch: (batch) => {
+                    for (const quality of batch) {
+                        assessed.set(quality.word, quality);
+                    }
+                    processed += batch.length;
+                    console.log(
+                        `[quality] ${formatNumber(processed)}/${formatNumber(todo.length)} neue Wörter bewertet`,
+                    );
+
+                    appendQueue = appendQueue
+                        .then(() => appendQualityJournal(journalPath, batch))
+                        .catch((error: unknown) => {
+                            console.error(
+                                `[quality] Journal konnte nicht geschrieben werden: ${error instanceof Error ? error.message : String(error)}`,
+                            );
+                        });
+                },
+            });
+
+            await appendQueue;
+
+            console.log("");
+            console.log(
+                `  Bewertet in diesem Lauf: ${formatNumber(summary.results.length)} Wörter`,
+            );
+            if (summary.failedBatches > 0) {
+                console.log(
+                    `  Fehlgeschlagen:          ${formatNumber(summary.failedWords)} Wörter in ${summary.failedBatches} Batches`,
+                );
+                process.exitCode = 1;
+            }
+            console.log(
+                `  API-Anfragen:            ${formatNumber(summary.requests)}`,
+            );
+            console.log(
+                `  Tokens:                  ${formatNumber(summary.usage.totalTokens)}`,
+            );
+            console.log(
+                `  Dauer:                   ${formatDuration(Date.now() - startedAt)}`,
+            );
+        } else if (!options.apply) {
+            console.log("  ✓ Alle Wörter sind bereits bewertet.\n");
+        }
+
+        const results = words
+            .map((word) => assessed.get(word))
+            .filter((quality): quality is WordQuality => Boolean(quality));
+        const unassessed = words.filter((word) => !assessed.has(word));
+        const stats = summarizeQuality(results);
+        const cleanWords = selectQualityWords(results, {
+            minScore,
+            excludeProperNouns: !!options.excludeProperNouns,
+            excludeAbbreviations: !!options.excludeAbbreviations,
+        });
+
+        // Vorprüfungen, bevor irgendetwas geschrieben oder exportiert wird.
+        if (options.apply) {
+            if (source) {
+                throw new Error(
+                    "--apply ersetzt wortliste/ und funktioniert deshalb nur mit einer Variante, nicht mit --input.",
+                );
+            }
+            if (String(options.variant) !== "original") {
+                throw new Error(
+                    "--apply schreibt wortliste/original — bitte ohne --variant oder mit --variant original aufrufen.",
+                );
+            }
+            if (cleanWords.length === 0) {
+                throw new Error(
+                    "Keine Wörter haben die Kriterien erfüllt — die Wortliste wird nicht überschrieben.",
+                );
+            }
+            if (unassessed.length > 0 && !options.force) {
+                throw new Error(
+                    `${formatNumber(unassessed.length)} von ${formatNumber(words.length)} Wörtern sind noch unbewertet und würden beim Export entfallen. ` +
+                        "Erst vollständig bewerten oder mit --force bewusst übergehen.",
+                );
+            }
+        }
+
+        printQualityStats(stats, results);
+
+        if (unassessed.length > 0) {
+            console.log(
+                `  ⚠ ${formatNumber(unassessed.length)} Wörter sind noch unbewertet (z. B. nach API-Fehlern).`,
+            );
+        }
+
+        if (options.output) {
+            const outputPath = String(options.output);
+            if (dryRun) {
+                console.log(
+                    `[dry-run] Bericht würde geschrieben: ${outputPath}`,
+                );
+            } else {
+                await mkdir(dirname(outputPath), { recursive: true });
+                await writeFile(
+                    outputPath,
+                    `${JSON.stringify({
+                        model,
+                        promptVersion: PROMPT_VERSION,
+                        generatedAt: new Date().toISOString(),
+                        source:
+                            source ??
+                            `wortliste/${String(options.variant)}/_alle.txt`,
+                        summary: stats,
+                        words: results,
+                        unassessed,
+                    })}\n`,
+                    "utf-8",
+                );
+                console.log(`  Bericht geschrieben: ${outputPath}`);
+            }
+        }
+
+        if (options.cleanOutput) {
+            const cleanPath = String(options.cleanOutput);
+            if (dryRun) {
+                console.log(
+                    `[dry-run] Saubere Liste würde geschrieben: ${cleanPath} (${formatNumber(cleanWords.length)} von ${formatNumber(results.length)} Wörtern)`,
+                );
+            } else {
+                await mkdir(dirname(cleanPath), { recursive: true });
+                await writeFile(
+                    cleanPath,
+                    cleanWords.length > 0 ? `${cleanWords.join("\n")}\n` : "",
+                    "utf-8",
+                );
+                console.log(
+                    `  Saubere Liste: ${cleanPath} (${formatNumber(cleanWords.length)} von ${formatNumber(results.length)} Wörtern)\n`,
+                );
+            }
+        }
+
+        if (options.apply) {
+            const removed = words.length - cleanWords.length;
+
+            console.log("");
+            if (dryRun) {
+                console.log(
+                    `[dry-run] Wortliste würde ersetzt: ${formatNumber(cleanWords.length)} Wörter behalten, ${formatNumber(removed)} entfernt.`,
+                );
+            } else {
+                const allStats = await createVariantsAndExport(cleanWords);
+
+                console.log("\n========================================");
+                console.log("  Wortschatz — Wortliste aktualisiert");
+                console.log("========================================");
+                printExportStats(allStats);
+                console.log(
+                    `  Behalten: ${formatNumber(cleanWords.length)} Wörter`,
+                );
+                console.log(`  Entfernt: ${formatNumber(removed)} Wörter`);
+                console.log("========================================\n");
+            }
+        }
+    });
+
 // --- cache: Cache verwalten ---
 program
     .command("cache")
@@ -450,20 +856,22 @@ program
         if (action === "clean") {
             try {
                 const files = await readdir(CACHE_DIR);
-                const jsonFiles = files.filter((f) => f.endsWith(".json"));
+                const cacheFiles = files.filter(
+                    (f) => f.endsWith(".json") || f.endsWith(".jsonl"),
+                );
 
-                if (jsonFiles.length === 0) {
+                if (cacheFiles.length === 0) {
                     console.log("\n  Cache ist bereits leer.\n");
                     return;
                 }
 
-                for (const file of jsonFiles) {
+                for (const file of cacheFiles) {
                     await rm(join(CACHE_DIR, file));
                     console.log(`  Gelöscht: ${file}`);
                 }
 
                 console.log(
-                    `\n✓ ${jsonFiles.length} Cache-Dateien gelöscht.\n`,
+                    `\n✓ ${cacheFiles.length} Cache-Dateien gelöscht.\n`,
                 );
             } catch {
                 console.log("\n  Cache-Verzeichnis nicht vorhanden.\n");
@@ -601,6 +1009,110 @@ function printExportStats(allStats: ExportStats[]): void {
             `  ${label} ${stats.totalWords} Wörter in ${stats.files} Dateien`,
         );
     }
+}
+
+function printQualityStats(
+    stats: QualityStats,
+    results: WordQuality[],
+): void {
+    console.log("── Qualitätsverteilung ──\n");
+    console.log(`  Bewertete Wörter:   ${formatNumber(stats.total)}`);
+    console.log(`  Durchschnitt:       ${stats.averageScore.toFixed(1)} / 100`);
+    console.log(`  90–100 (gut):       ${formatNumber(stats.bands.excellent)}`);
+    console.log(`  70–89  (solide):    ${formatNumber(stats.bands.good)}`);
+    console.log(
+        `  50–69  (fraglich):  ${formatNumber(stats.bands.questionable)}`,
+    );
+    console.log(`  0–49   (Junk):      ${formatNumber(stats.bands.junk)}`);
+    console.log(`  Eigennamen:         ${formatNumber(stats.properNouns)}`);
+    console.log(`  Abkürzungen:        ${formatNumber(stats.abbreviations)}`);
+    console.log(
+        `  Unsichere Urteile:  ${formatNumber(stats.lowConfidence)}\n`,
+    );
+
+    const suspicious = [...results]
+        .filter((result) => result.score < 50 || result.junk)
+        .sort((a, b) => a.score - b.score)
+        .slice(0, 10);
+
+    if (suspicious.length > 0) {
+        console.log("── Auffälligste Wörter ──\n");
+        for (const result of suspicious) {
+            console.log(
+                `  ${result.word.padEnd(24)} ${String(result.score).padStart(3)}  ${result.reason}`,
+            );
+        }
+        console.log("");
+    }
+}
+
+async function loadVariantWords(variant: string): Promise<string[]> {
+    if (!(EXPORT_VARIANTS as readonly string[]).includes(variant)) {
+        throw new Error(
+            `Unbekannte Variante "${variant}". Verfügbar: ${EXPORT_VARIANTS.join(", ")}`,
+        );
+    }
+
+    return loadWordsFile(join(WORDLIST_DIR, variant, "_alle.txt"));
+}
+
+async function loadWordsFile(path: string): Promise<string[]> {
+    try {
+        const content = await readFile(path, "utf-8");
+        return content
+            .split("\n")
+            .map((line) => line.trim())
+            .filter((line) => line.length > 0);
+    } catch (error) {
+        if ((error as NodeJS.ErrnoException).code === "ENOENT") {
+            throw new Error(`Datei nicht gefunden: ${path}`);
+        }
+        throw error;
+    }
+}
+
+function parseReasoningOption(value: unknown): ReasoningMode {
+    const modes: readonly ReasoningMode[] = [
+        "off",
+        "low",
+        "medium",
+        "high",
+        "auto",
+    ];
+    const mode = String(value).toLowerCase();
+    if (!modes.includes(mode as ReasoningMode)) {
+        throw new Error(
+            `Ungültiger Wert für --reasoning: ${String(value)} (erwartet ${modes.join(", ")})`,
+        );
+    }
+    return mode as ReasoningMode;
+}
+
+function parseIntegerOption(
+    value: unknown,
+    name: string,
+    min: number,
+    max: number,
+): number {
+    const parsed = Number(value);
+    if (!Number.isInteger(parsed) || parsed < min || parsed > max) {
+        throw new Error(
+            `Ungültiger Wert für ${name}: ${String(value)} (erwartet ${min}–${max})`,
+        );
+    }
+    return parsed;
+}
+
+function formatNumber(value: number): string {
+    return value.toLocaleString("de-DE");
+}
+
+function formatDuration(milliseconds: number): string {
+    const seconds = Math.max(0, Math.round(milliseconds / 1000));
+    if (seconds < 60) return `${seconds}s`;
+
+    const minutes = Math.floor(seconds / 60);
+    return `${minutes}m ${seconds % 60}s`;
 }
 
 async function loadExistingWordlist(): Promise<string[]> {
